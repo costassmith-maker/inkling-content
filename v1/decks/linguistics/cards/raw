@@ -1,0 +1,4146 @@
+[
+  {
+    "id": "linguistics-001",
+    "deck": "linguistics",
+    "term": "Phoneme",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The smallest unit of sound that distinguishes one word from another in a language.",
+        "example": "/p/ and /b/ are phonemes: \"pat\" vs \"bat\" differ by one sound."
+      },
+      "ru": {
+        "definition": "Наименьшая звуковая единица, способная различать слова в языке.",
+        "example": "/п/ и /б/ — фонемы: «пыл» и «был» отличаются одним звуком.",
+        "term": "Фонема"
+      },
+      "ja": {
+        "definition": "ある言語において単語どうしを区別する、音声の最小単位。",
+        "example": "/p/と/b/は音素であり、「pat」と「bat」は一つの音だけ異なる。",
+        "term": "音素"
+      },
+      "ko": {
+        "definition": "단어를 서로 구별해 주는 언어의 가장 작은 소리 단위.",
+        "example": "/p/와 /b/는 음소다. \"pat\"과 \"bat\"은 한 소리만 다르다.",
+        "term": "음소"
+      },
+      "fr": {
+        "definition": "La plus petite unité sonore permettant de distinguer un mot d'un autre dans une langue.",
+        "example": "/p/ et /b/ sont des phonèmes : « pain » et « bain » ne diffèrent que par un son.",
+        "term": "Phonème"
+      },
+      "es": {
+        "definition": "La unidad mínima de sonido que distingue una palabra de otra en una lengua.",
+        "example": "/p/ y /b/ son fonemas: \"pat\" y \"bat\" se diferencian por un solo sonido.",
+        "term": "Fonema"
+      }
+    }
+  },
+  {
+    "id": "linguistics-002",
+    "deck": "linguistics",
+    "term": "Morpheme",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "morphology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The smallest meaningful unit in a language; cannot be divided without losing meaning.",
+        "example": "\"Cats\" has two morphemes: \"cat\" + plural \"-s\"."
+      },
+      "ru": {
+        "definition": "Наименьшая значимая единица языка; её нельзя разделить, не потеряв смысл.",
+        "example": "В слове «коты» две морфемы: «кот» + окончание мн. ч. «-ы».",
+        "term": "Морфема"
+      },
+      "ja": {
+        "definition": "言語における意味をもつ最小単位で、それ以上分けると意味を失う。",
+        "example": "「cats」は「cat」と複数を表す「-s」の二つの形態素から成る。",
+        "term": "形態素"
+      },
+      "ko": {
+        "definition": "의미를 지니는 가장 작은 언어 단위로, 더 나누면 의미를 잃는다.",
+        "example": "\"cats\"는 \"cat\" + 복수 \"-s\"의 두 형태소로 이루어진다.",
+        "term": "형태소"
+      },
+      "fr": {
+        "definition": "La plus petite unité porteuse de sens dans une langue ; on ne peut la diviser sans lui ôter sa signification.",
+        "example": "« Chats » comporte deux morphèmes : « chat » + le pluriel « -s ».",
+        "term": "Morphème"
+      },
+      "es": {
+        "definition": "La unidad mínima con significado de una lengua; no puede dividirse sin perder su sentido.",
+        "example": "\"Cats\" tiene dos morfemas: \"cat\" + el plural \"-s\".",
+        "term": "Morfema"
+      }
+    }
+  },
+  {
+    "id": "linguistics-003",
+    "deck": "linguistics",
+    "term": "Lemma",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "lexicology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The base or dictionary form of a word that represents all its inflected forms.",
+        "example": "\"Run\" is the lemma for runs, ran, and running."
+      },
+      "ru": {
+        "definition": "Исходная, словарная форма слова, представляющая все его словоформы.",
+        "example": "«Бежать» — лемма для форм бежит, бежал и бегущий.",
+        "term": "Лемма"
+      },
+      "ja": {
+        "definition": "あらゆる活用形を代表する、単語の基本形すなわち辞書見出し形。",
+        "example": "「run」はruns・ran・runningの見出し語(レンマ)である。",
+        "term": "見出し語"
+      },
+      "ko": {
+        "definition": "한 단어의 모든 굴절형을 대표하는 기본형, 즉 사전 표제형.",
+        "example": "\"run\"은 runs, ran, running의 표제어다.",
+        "term": "표제어"
+      },
+      "fr": {
+        "definition": "La forme de base ou forme de dictionnaire d'un mot, qui représente toutes ses formes fléchies.",
+        "example": "« Courir » est le lemme de cours, courut et courant.",
+        "term": "Lemme"
+      },
+      "es": {
+        "definition": "La forma base o de diccionario de una palabra que representa todas sus formas flexionadas.",
+        "example": "\"Run\" es el lema de runs, ran y running.",
+        "term": "Lema"
+      }
+    }
+  },
+  {
+    "id": "linguistics-004",
+    "deck": "linguistics",
+    "term": "Cognate",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "historical",
+      "etymology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word that shares a common ancestor with a word in another language.",
+        "example": "English \"night\" and German \"Nacht\" are cognates."
+      },
+      "ru": {
+        "definition": "Слово, имеющее общего предка со словом другого языка.",
+        "example": "Английское «night» и немецкое «Nacht» — когнаты.",
+        "term": "Когнат"
+      },
+      "ja": {
+        "definition": "他言語の単語と共通の祖先をもつ、同じ起源の語(同根語)。",
+        "example": "英語の「night」とドイツ語の「Nacht」は同根語である。",
+        "term": "同源語"
+      },
+      "ko": {
+        "definition": "다른 언어의 단어와 공통 조상에서 갈라져 나온 단어.",
+        "example": "영어 \"night\"와 독일어 \"Nacht\"는 동족어다.",
+        "term": "동족어"
+      },
+      "fr": {
+        "definition": "Un mot qui partage une origine commune avec un mot d'une autre langue.",
+        "example": "L'anglais « night » et l'allemand « Nacht » sont des cognats.",
+        "term": "Mot apparenté"
+      },
+      "es": {
+        "definition": "Una palabra que comparte un antepasado común con otra palabra de otra lengua.",
+        "example": "El inglés \"night\" y el alemán \"Nacht\" son cognados.",
+        "term": "Cognado"
+      }
+    }
+  },
+  {
+    "id": "linguistics-005",
+    "deck": "linguistics",
+    "term": "Diglossia",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "sociolinguistics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A situation where two varieties of a language are used for different social functions.",
+        "example": "Arabic speakers use formal Standard Arabic and a local dialect side by side."
+      },
+      "ru": {
+        "definition": "Ситуация, когда два варианта языка обслуживают разные социальные функции.",
+        "example": "Арабы используют литературный язык и местный диалект параллельно.",
+        "term": "Диглоссия"
+      },
+      "ja": {
+        "definition": "一つの言語の二つの変種が、異なる社会的機能のために使い分けられる状況(ダイグロシア)。",
+        "example": "アラビア語話者は正則アラビア語と地域方言を場面に応じて併用する。",
+        "term": "ダイグロシア"
+      },
+      "ko": {
+        "definition": "한 언어의 두 변종이 서로 다른 사회적 기능에 따라 함께 쓰이는 상황.",
+        "example": "아랍어 화자는 격식체 표준 아랍어와 지역 방언을 나란히 사용한다.",
+        "term": "양층언어"
+      },
+      "fr": {
+        "definition": "Une situation où deux variétés d'une même langue sont employées pour des fonctions sociales différentes.",
+        "example": "Les arabophones emploient côte à côte l'arabe standard et un dialecte local.",
+        "term": "Diglossie"
+      },
+      "es": {
+        "definition": "Situación en la que dos variedades de una lengua se usan para funciones sociales distintas.",
+        "example": "Los arabófonos usan el árabe estándar formal y un dialecto local en paralelo.",
+        "term": "Diglosia"
+      }
+    }
+  },
+  {
+    "id": "linguistics-006",
+    "deck": "linguistics",
+    "term": "Onomatopoeia",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "semantics",
+      "phonetics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word that imitates the natural sound of the thing it describes.",
+        "example": "\"Buzz,\" \"hiss,\" and \"clang\" all sound like their meaning."
+      },
+      "ru": {
+        "definition": "Слово, имитирующее природный звук того, что оно обозначает.",
+        "example": "«Жужжать», «шипеть», «бряцать» звучат как их значение.",
+        "term": "Ономатопея"
+      },
+      "ja": {
+        "definition": "対象が発する音をまねて作られた語(擬音語・擬声語)。",
+        "example": "「buzz」「hiss」「clang」はいずれもその意味を音で表している。",
+        "term": "オノマトペ"
+      },
+      "ko": {
+        "definition": "가리키는 대상의 자연스러운 소리를 흉내 낸 단어.",
+        "example": "\"buzz\", \"hiss\", \"clang\"은 모두 그 뜻처럼 들리는 의성어다.",
+        "term": "의성어"
+      },
+      "fr": {
+        "definition": "Un mot qui imite le bruit naturel de ce qu'il décrit.",
+        "example": "« Bzz », « chut » et « boum » évoquent tous leur sens par le son.",
+        "term": "Onomatopée"
+      },
+      "es": {
+        "definition": "Una palabra que imita el sonido natural de aquello que describe.",
+        "example": "\"Buzz\", \"hiss\" y \"clang\" suenan como su significado.",
+        "term": "Onomatopeya"
+      }
+    }
+  },
+  {
+    "id": "linguistics-007",
+    "deck": "linguistics",
+    "term": "Syntax",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "grammar"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The rules governing how words combine to form phrases and sentences.",
+        "example": "English syntax puts the subject before the verb: \"She sings.\""
+      },
+      "ru": {
+        "definition": "Правила, по которым слова соединяются во фразы и предложения.",
+        "example": "В русском синтаксисе подлежащее обычно стоит перед сказуемым: «Она поёт».",
+        "term": "Синтаксис"
+      },
+      "ja": {
+        "definition": "語が結合して句や文を作る仕方を定める規則、すなわち統語法。",
+        "example": "英語の統語法では主語が動詞の前に来る。例:「She sings.」",
+        "term": "統語論"
+      },
+      "ko": {
+        "definition": "단어가 결합하여 구와 문장을 이루는 방식을 지배하는 규칙.",
+        "example": "영어 통사 구조는 주어를 동사 앞에 둔다. \"She sings.\"",
+        "term": "통사론"
+      },
+      "fr": {
+        "definition": "L'ensemble des règles qui régissent la combinaison des mots en syntagmes et en phrases.",
+        "example": "La syntaxe française place généralement le sujet avant le verbe : « Elle chante. »",
+        "term": "Syntaxe"
+      },
+      "es": {
+        "definition": "Las reglas que rigen cómo se combinan las palabras para formar frases y oraciones.",
+        "example": "La sintaxis del inglés coloca el sujeto antes del verbo: \"She sings\".",
+        "term": "Sintaxis"
+      }
+    }
+  },
+  {
+    "id": "linguistics-008",
+    "deck": "linguistics",
+    "term": "Semantics",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "meaning"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study of meaning in language — of words, phrases, and sentences.",
+        "example": "Semantics explains why \"bachelor\" means an unmarried man."
+      },
+      "ru": {
+        "definition": "Раздел языкознания о значении слов, фраз и предложений.",
+        "example": "Семантика объясняет, почему «холостяк» означает неженатого мужчину.",
+        "term": "Семантика"
+      },
+      "ja": {
+        "definition": "語・句・文における言語の意味を研究する分野(意味論)。",
+        "example": "意味論は「bachelor」がなぜ未婚の男性を意味するのかを説明する。",
+        "term": "意味論"
+      },
+      "ko": {
+        "definition": "단어, 구, 문장의 언어적 의미를 연구하는 분야.",
+        "example": "의미론은 \"bachelor\"가 왜 미혼 남성을 뜻하는지 설명한다.",
+        "term": "의미론"
+      },
+      "fr": {
+        "definition": "L'étude du sens en langue, qu'il s'agisse des mots, des syntagmes ou des phrases.",
+        "example": "La sémantique explique pourquoi « célibataire » désigne une personne non mariée.",
+        "term": "Sémantique"
+      },
+      "es": {
+        "definition": "El estudio del significado en la lengua: de las palabras, las frases y las oraciones.",
+        "example": "La semántica explica por qué \"bachelor\" significa hombre soltero.",
+        "term": "Semántica"
+      }
+    }
+  },
+  {
+    "id": "linguistics-009",
+    "deck": "linguistics",
+    "term": "Pragmatics",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "meaning",
+      "context"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study of how context shapes the meaning of language in use.",
+        "example": "\"Can you pass the salt?\" is a request, not a question about ability."
+      },
+      "ru": {
+        "definition": "Раздел о том, как контекст формирует значение языка в употреблении.",
+        "example": "«Можешь передать соль?» — это просьба, а не вопрос о способности.",
+        "term": "Прагматика"
+      },
+      "ja": {
+        "definition": "文脈が、実際に用いられる言語の意味をどう形づくるかを研究する分野(語用論)。",
+        "example": "「Can you pass the salt?」は能力を問う質問ではなく依頼である。",
+        "term": "語用論"
+      },
+      "ko": {
+        "definition": "맥락이 실제 사용되는 언어의 의미를 어떻게 결정하는지 연구하는 분야.",
+        "example": "\"소금 좀 건네줄래요?\"는 능력을 묻는 질문이 아니라 요청이다.",
+        "term": "화용론"
+      },
+      "fr": {
+        "definition": "L'étude de la manière dont le contexte façonne le sens du langage en situation.",
+        "example": "« Peux-tu me passer le sel ? » est une requête, non une question sur la capacité.",
+        "term": "Pragmatique"
+      },
+      "es": {
+        "definition": "El estudio de cómo el contexto moldea el significado de la lengua en uso.",
+        "example": "\"¿Puedes pasarme la sal?\" es una petición, no una pregunta sobre la capacidad.",
+        "term": "Pragmática"
+      }
+    }
+  },
+  {
+    "id": "linguistics-010",
+    "deck": "linguistics",
+    "term": "Phonetics",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study of the physical sounds of human speech — how they're made and heard.",
+        "example": "Phonetics describes how the tongue moves to make a \"t\" sound."
+      },
+      "ru": {
+        "definition": "Наука о физических звуках речи — как они образуются и воспринимаются.",
+        "example": "Фонетика описывает движение языка при произнесении звука «т».",
+        "term": "Фонетика"
+      },
+      "ja": {
+        "definition": "人間の音声が物理的にどう作られ、どう聞かれるかを研究する分野(音声学)。",
+        "example": "音声学は「t」の音を出すときの舌の動きを記述する。",
+        "term": "音声学"
+      },
+      "ko": {
+        "definition": "인간 음성의 물리적 소리가 어떻게 만들어지고 들리는지 연구하는 분야.",
+        "example": "음성학은 \"t\" 소리를 낼 때 혀가 어떻게 움직이는지 기술한다.",
+        "term": "음성학"
+      },
+      "fr": {
+        "definition": "L'étude des sons physiques de la parole humaine : comment ils sont produits et perçus.",
+        "example": "La phonétique décrit comment la langue se place pour produire un « t ».",
+        "term": "Phonétique"
+      },
+      "es": {
+        "definition": "El estudio de los sonidos físicos del habla humana: cómo se producen y se perciben.",
+        "example": "La fonética describe cómo se mueve la lengua para producir el sonido \"t\".",
+        "term": "Fonética"
+      }
+    }
+  },
+  {
+    "id": "linguistics-011",
+    "deck": "linguistics",
+    "term": "Phonology",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study of how sounds function and pattern within a particular language.",
+        "example": "Phonology explains why English clusters \"str\" but not \"tsr\"."
+      },
+      "ru": {
+        "definition": "Наука о том, как звуки функционируют и сочетаются в конкретном языке.",
+        "example": "Фонология объясняет, почему в английском возможно «str», но не «tsr».",
+        "term": "Фонология"
+      },
+      "ja": {
+        "definition": "ある言語の中で音がどう機能し、どんな型をなすかを研究する分野(音韻論)。",
+        "example": "音韻論は英語が「str」を許し「tsr」を許さない理由を説明する。",
+        "term": "音韻論"
+      },
+      "ko": {
+        "definition": "특정 언어 안에서 소리가 어떻게 기능하고 패턴을 이루는지 연구하는 분야.",
+        "example": "음운론은 영어가 왜 \"str\"는 허용하고 \"tsr\"는 허용하지 않는지 설명한다.",
+        "term": "음운론"
+      },
+      "fr": {
+        "definition": "L'étude du fonctionnement et de l'organisation des sons au sein d'une langue donnée.",
+        "example": "La phonologie explique pourquoi le français admet « str » mais non « tsr ».",
+        "term": "Phonologie"
+      },
+      "es": {
+        "definition": "El estudio de cómo los sonidos funcionan y se organizan dentro de una lengua concreta.",
+        "example": "La fonología explica por qué el inglés admite el grupo \"str\" pero no \"tsr\".",
+        "term": "Fonología"
+      }
+    }
+  },
+  {
+    "id": "linguistics-012",
+    "deck": "linguistics",
+    "term": "Morphology",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "morphology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study of word structure and how words are built from morphemes.",
+        "example": "Morphology shows \"unhappiness\" = un- + happy + -ness."
+      },
+      "ru": {
+        "definition": "Раздел о структуре слова и о том, как слова строятся из морфем.",
+        "example": "Морфология показывает: «несчастье» = не- + счасть- + -е.",
+        "term": "Морфология"
+      },
+      "ja": {
+        "definition": "語の構造と、語が形態素からどう組み立てられるかを研究する分野(形態論)。",
+        "example": "形態論は「unhappiness」をun-+happy+-nessと分析する。",
+        "term": "形態論"
+      },
+      "ko": {
+        "definition": "단어 구조와 단어가 형태소로 어떻게 구성되는지 연구하는 분야.",
+        "example": "형태론은 \"unhappiness\"가 un- + happy + -ness임을 보여 준다.",
+        "term": "형태론"
+      },
+      "fr": {
+        "definition": "L'étude de la structure des mots et de la façon dont ils se construisent à partir de morphèmes.",
+        "example": "La morphologie montre que « malheureusement » = mal- + heureux + -ment.",
+        "term": "Morphologie"
+      },
+      "es": {
+        "definition": "El estudio de la estructura de las palabras y de cómo se construyen a partir de morfemas.",
+        "example": "La morfología muestra que \"unhappiness\" = un- + happy + -ness.",
+        "term": "Morfología"
+      }
+    }
+  },
+  {
+    "id": "linguistics-013",
+    "deck": "linguistics",
+    "term": "Etymology",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "historical"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study of the origin and historical development of words.",
+        "example": "The etymology of \"salary\" traces back to Latin \"sal,\" meaning salt."
+      },
+      "ru": {
+        "definition": "Наука о происхождении и историческом развитии слов.",
+        "example": "Этимология слова «зарплата» восходит к латинскому «sal» — соль.",
+        "term": "Этимология"
+      },
+      "ja": {
+        "definition": "語の起源と歴史的発展を研究する分野(語源学)。",
+        "example": "「salary」の語源は塩を意味するラテン語「sal」にさかのぼる。",
+        "term": "語源"
+      },
+      "ko": {
+        "definition": "단어의 기원과 역사적 발달 과정을 연구하는 분야.",
+        "example": "\"salary\"의 어원은 소금을 뜻하는 라틴어 \"sal\"로 거슬러 올라간다.",
+        "term": "어원"
+      },
+      "fr": {
+        "definition": "L'étude de l'origine et de l'évolution historique des mots.",
+        "example": "L'étymologie de « salaire » remonte au latin « sal », qui signifie sel.",
+        "term": "Étymologie"
+      },
+      "es": {
+        "definition": "El estudio del origen y el desarrollo histórico de las palabras.",
+        "example": "La etimología de \"salary\" se remonta al latín \"sal\", que significa sal.",
+        "term": "Etimología"
+      }
+    }
+  },
+  {
+    "id": "linguistics-014",
+    "deck": "linguistics",
+    "term": "Lexicon",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "lexicology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The complete vocabulary of a language, person, or field of knowledge.",
+        "example": "Legal terms like \"tort\" belong to the lexicon of law."
+      },
+      "ru": {
+        "definition": "Весь словарный состав языка, человека или области знания.",
+        "example": "Юридические термины вроде «деликт» входят в лексикон права.",
+        "term": "Лексикон"
+      },
+      "ja": {
+        "definition": "ある言語・人・分野が持つ語彙の総体(語彙目録)。",
+        "example": "「tort(不法行為)」のような法律用語は法の語彙に属する。",
+        "term": "語彙"
+      },
+      "ko": {
+        "definition": "한 언어, 사람, 또는 지식 분야의 전체 어휘.",
+        "example": "\"tort\" 같은 법률 용어는 법학의 어휘 목록에 속한다.",
+        "term": "어휘"
+      },
+      "fr": {
+        "definition": "L'ensemble du vocabulaire d'une langue, d'une personne ou d'un domaine de connaissance.",
+        "example": "Des termes juridiques comme « préjudice » appartiennent au lexique du droit.",
+        "term": "Lexique"
+      },
+      "es": {
+        "definition": "El vocabulario completo de una lengua, persona o campo del conocimiento.",
+        "example": "Términos jurídicos como \"tort\" pertenecen al léxico del derecho.",
+        "term": "Léxico"
+      }
+    }
+  },
+  {
+    "id": "linguistics-015",
+    "deck": "linguistics",
+    "term": "Idiolect",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "sociolinguistics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The unique language variety used by a single individual.",
+        "example": "Your favorite phrases and pronunciations form your idiolect."
+      },
+      "ru": {
+        "definition": "Уникальная разновидность языка, свойственная одному человеку.",
+        "example": "Ваши любимые выражения и произношение образуют ваш идиолект.",
+        "term": "Идиолект"
+      },
+      "ja": {
+        "definition": "一人の個人が用いる固有の言語変種(個人語)。",
+        "example": "あなた好みの言い回しや発音があなたの個人語を形づくる。",
+        "term": "個人方言"
+      },
+      "ko": {
+        "definition": "한 개인이 사용하는 고유한 언어 변종, 즉 개인 방언(idiolect).",
+        "example": "당신이 즐겨 쓰는 표현과 발음이 당신의 개인 방언을 이룬다.",
+        "term": "개인어"
+      },
+      "fr": {
+        "definition": "La variété de langue propre à un seul individu.",
+        "example": "Vos expressions et prononciations favorites forment votre idiolecte.",
+        "term": "Idiolecte"
+      },
+      "es": {
+        "definition": "La variedad lingüística única que emplea un solo individuo.",
+        "example": "Tus frases y pronunciaciones favoritas forman tu idiolecto.",
+        "term": "Idiolecto"
+      }
+    }
+  },
+  {
+    "id": "linguistics-016",
+    "deck": "linguistics",
+    "term": "Dialect",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "sociolinguistics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A regional or social variety of a language with distinct features.",
+        "example": "Scottish English is a dialect with its own words and accent."
+      },
+      "ru": {
+        "definition": "Региональная или социальная разновидность языка со своими чертами.",
+        "example": "Шотландский английский — диалект со своими словами и акцентом.",
+        "term": "Диалект"
+      },
+      "ja": {
+        "definition": "独自の特徴をもつ、言語の地域的または社会的変種(方言)。",
+        "example": "スコットランド英語は独自の語彙と訛りをもつ方言である。",
+        "term": "方言"
+      },
+      "ko": {
+        "definition": "고유한 특징을 지닌 한 언어의 지역적 또는 사회적 변종.",
+        "example": "스코틀랜드 영어는 고유의 어휘와 억양을 지닌 방언이다.",
+        "term": "방언"
+      },
+      "fr": {
+        "definition": "Une variété régionale ou sociale d'une langue, dotée de traits distinctifs.",
+        "example": "L'anglais d'Écosse est un dialecte avec ses propres mots et son accent.",
+        "term": "Dialecte"
+      },
+      "es": {
+        "definition": "Una variedad regional o social de una lengua con rasgos distintivos.",
+        "example": "El inglés escocés es un dialecto con sus propias palabras y acento.",
+        "term": "Dialecto"
+      }
+    }
+  },
+  {
+    "id": "linguistics-017",
+    "deck": "linguistics",
+    "term": "Register",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sociolinguistics",
+      "style"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A variety of language used for a particular setting or level of formality.",
+        "example": "\"Greetings\" is a formal register; \"hey\" is casual."
+      },
+      "ru": {
+        "definition": "Разновидность языка для определённой ситуации или уровня формальности.",
+        "example": "«Приветствую» — формальный регистр, «привет» — разговорный.",
+        "term": "Регистр"
+      },
+      "ja": {
+        "definition": "特定の場面や改まり度に応じて用いられる言語変種(言語使用域・レジスター)。",
+        "example": "「Greetings」は改まった使用域、「hey」はくだけた使用域である。",
+        "term": "言語使用域"
+      },
+      "ko": {
+        "definition": "특정 상황이나 격식 수준에 맞춰 사용되는 언어 변종.",
+        "example": "\"안녕하십니까\"는 격식체 사용역이고 \"안녕\"은 비격식체다.",
+        "term": "사용역"
+      },
+      "fr": {
+        "definition": "Une variété de langue employée selon une situation donnée ou un niveau de formalité.",
+        "example": "« Bonjour » relève d'un registre soutenu ; « salut » d'un registre familier.",
+        "term": "Registre"
+      },
+      "es": {
+        "definition": "Una variedad de la lengua usada para un contexto o nivel de formalidad concreto.",
+        "example": "\"Greetings\" pertenece a un registro formal; \"hey\" es informal.",
+        "term": "Registro"
+      }
+    }
+  },
+  {
+    "id": "linguistics-018",
+    "deck": "linguistics",
+    "term": "Loanword",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "borrowing",
+      "lexicology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word adopted from one language into another with little or no change.",
+        "example": "\"Sushi\" is a loanword English borrowed from Japanese."
+      },
+      "ru": {
+        "definition": "Слово, заимствованное из одного языка в другой почти без изменений.",
+        "example": "«Суши» — заимствование, пришедшее в русский из японского.",
+        "term": "Заимствование"
+      },
+      "ja": {
+        "definition": "ある言語から他言語へほぼ変化なく取り入れられた語(借用語)。",
+        "example": "「sushi」は英語が日本語から取り入れた借用語である。",
+        "term": "借用語"
+      },
+      "ko": {
+        "definition": "거의 또는 전혀 변형 없이 한 언어에서 다른 언어로 받아들여진 단어.",
+        "example": "\"sushi\"는 영어가 일본어에서 빌려 온 차용어다.",
+        "term": "차용어"
+      },
+      "fr": {
+        "definition": "Un mot emprunté à une langue par une autre, avec peu ou pas de modification.",
+        "example": "« Sushi » est un emprunt que le français a pris au japonais.",
+        "term": "Emprunt"
+      },
+      "es": {
+        "definition": "Una palabra tomada de una lengua e incorporada a otra con poco o ningún cambio.",
+        "example": "\"Sushi\" es un préstamo que el inglés tomó del japonés.",
+        "term": "Préstamo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-019",
+    "deck": "linguistics",
+    "term": "Calque",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "borrowing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A loan translation: a phrase borrowed by translating its parts literally.",
+        "example": "\"Skyscraper\" became French \"gratte-ciel\" (scrape-sky)."
+      },
+      "ru": {
+        "definition": "Калька: оборот, заимствованный путём буквального перевода его частей.",
+        "example": "Английское «skyscraper» дало французское «gratte-ciel» — «скребёт небо».",
+        "term": "Калька"
+      },
+      "ja": {
+        "definition": "構成要素を逐語訳して借用する翻訳借用(カルク)。",
+        "example": "「skyscraper」はフランス語で「gratte-ciel(空をこする)」となった。",
+        "term": "翻訳借用"
+      },
+      "ko": {
+        "definition": "각 구성 요소를 직역하여 빌려 온 표현, 즉 번역 차용.",
+        "example": "\"skyscraper\"는 프랑스어 \"gratte-ciel\"(하늘을 긁다)로 번역 차용되었다.",
+        "term": "번역 차용"
+      },
+      "fr": {
+        "definition": "Un emprunt par traduction : une expression empruntée en traduisant littéralement ses éléments.",
+        "example": "L'anglais « skyscraper » est devenu en français « gratte-ciel ».",
+        "term": "Calque"
+      },
+      "es": {
+        "definition": "Un calco: una expresión tomada prestada traduciendo literalmente sus partes.",
+        "example": "\"Skyscraper\" pasó al francés como \"gratte-ciel\" (rascacielos).",
+        "term": "Calco"
+      }
+    }
+  },
+  {
+    "id": "linguistics-020",
+    "deck": "linguistics",
+    "term": "Portmanteau",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "morphology",
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word made by blending the sounds and meanings of two others.",
+        "example": "\"Brunch\" blends \"breakfast\" and \"lunch.\""
+      },
+      "ru": {
+        "definition": "Слово-гибрид, образованное слиянием звуков и значений двух других.",
+        "example": "«Брунч» сочетает «breakfast» (завтрак) и «lunch» (обед).",
+        "term": "Слово-портмоне"
+      },
+      "ja": {
+        "definition": "二つの語の音と意味を混ぜ合わせて作る語(混成語・かばん語)。",
+        "example": "「brunch」は「breakfast」と「lunch」を混ぜ合わせた語である。",
+        "term": "かばん語"
+      },
+      "ko": {
+        "definition": "두 단어의 소리와 의미를 섞어 만든 단어.",
+        "example": "\"brunch\"는 \"breakfast\"와 \"lunch\"를 섞은 혼성어다.",
+        "term": "혼성어"
+      },
+      "fr": {
+        "definition": "Un mot formé en fusionnant les sons et les sens de deux autres mots.",
+        "example": "« Brunch » fusionne « breakfast » et « lunch ».",
+        "term": "Mot-valise"
+      },
+      "es": {
+        "definition": "Una palabra creada al fusionar los sonidos y significados de otras dos.",
+        "example": "\"Brunch\" combina \"breakfast\" y \"lunch\".",
+        "term": "Palabra maleta"
+      }
+    }
+  },
+  {
+    "id": "linguistics-021",
+    "deck": "linguistics",
+    "term": "Neologism",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "lexicology",
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A newly coined word or expression not yet fully established in a language.",
+        "example": "\"Selfie\" was a neologism before entering dictionaries."
+      },
+      "ru": {
+        "definition": "Новое слово или выражение, ещё не закрепившееся в языке.",
+        "example": "«Селфи» было неологизмом, пока не вошло в словари.",
+        "term": "Неологизм"
+      },
+      "ja": {
+        "definition": "まだ完全には定着していない、新しく作られた語や表現(新語)。",
+        "example": "「selfie」は辞書に載る前は新語であった。",
+        "term": "新語"
+      },
+      "ko": {
+        "definition": "아직 언어에 완전히 정착되지 않은, 새로 만들어진 단어나 표현.",
+        "example": "\"selfie\"는 사전에 등재되기 전에는 신조어였다.",
+        "term": "신조어"
+      },
+      "fr": {
+        "definition": "Un mot ou une expression nouvellement créé, pas encore pleinement installé dans la langue.",
+        "example": "« Selfie » était un néologisme avant d'entrer dans les dictionnaires.",
+        "term": "Néologisme"
+      },
+      "es": {
+        "definition": "Una palabra o expresión recién acuñada que aún no está plenamente establecida en una lengua.",
+        "example": "\"Selfie\" fue un neologismo antes de entrar en los diccionarios.",
+        "term": "Neologismo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-022",
+    "deck": "linguistics",
+    "term": "Palindrome",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "wordplay"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word or phrase that reads the same forwards and backwards.",
+        "example": "\"Racecar\" and \"level\" are palindromes."
+      },
+      "ru": {
+        "definition": "Слово или фраза, читающиеся одинаково в обе стороны.",
+        "example": "«Шалаш» и «казак» — палиндромы.",
+        "term": "Палиндром"
+      },
+      "ja": {
+        "definition": "前から読んでも後ろから読んでも同じになる語や句(回文)。",
+        "example": "「racecar」や「level」は回文である。",
+        "term": "回文"
+      },
+      "ko": {
+        "definition": "앞에서 읽으나 뒤에서 읽으나 똑같은 단어나 구.",
+        "example": "\"racecar\"와 \"level\"은 회문이다.",
+        "term": "회문"
+      },
+      "fr": {
+        "definition": "Un mot ou une expression qui se lit de la même façon dans les deux sens.",
+        "example": "« Ressasser » et « kayak » sont des palindromes.",
+        "term": "Palindrome"
+      },
+      "es": {
+        "definition": "Una palabra o frase que se lee igual de adelante hacia atrás que al revés.",
+        "example": "\"Racecar\" y \"level\" son palíndromos.",
+        "term": "Palíndromo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-023",
+    "deck": "linguistics",
+    "term": "Homophone",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "semantics",
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word that sounds like another but differs in meaning or spelling.",
+        "example": "\"Their,\" \"there,\" and \"they're\" are homophones."
+      },
+      "ru": {
+        "definition": "Слово, звучащее как другое, но отличающееся значением или написанием.",
+        "example": "«Луг» и «лук» — омофоны.",
+        "term": "Омофон"
+      },
+      "ja": {
+        "definition": "他の語と音は同じだが意味や綴りが異なる語(同音異義語)。",
+        "example": "「their」「there」「they're」は同音異義語である。",
+        "term": "同音異義語"
+      },
+      "ko": {
+        "definition": "다른 단어와 소리는 같지만 의미나 철자가 다른 단어.",
+        "example": "\"their\", \"there\", \"they're\"는 동음이의어다.",
+        "term": "동음이의어"
+      },
+      "fr": {
+        "definition": "Un mot qui se prononce comme un autre mais en diffère par le sens ou l'orthographe.",
+        "example": "« Vers », « ver », « verre » et « vert » sont des homophones.",
+        "term": "Homophone"
+      },
+      "es": {
+        "definition": "Una palabra que suena igual que otra pero difiere en significado o en grafía.",
+        "example": "\"Their\", \"there\" y \"they're\" son homófonos.",
+        "term": "Homófono"
+      }
+    }
+  },
+  {
+    "id": "linguistics-024",
+    "deck": "linguistics",
+    "term": "Homograph",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "semantics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word spelled the same as another but with a different meaning or sound.",
+        "example": "\"Lead\" (to guide) and \"lead\" (the metal) are homographs."
+      },
+      "ru": {
+        "definition": "Слово, пишущееся как другое, но с иным значением или произношением.",
+        "example": "«За́мок» (крепость) и «замо́к» (запор) — омографы.",
+        "term": "Омограф"
+      },
+      "ja": {
+        "definition": "他の語と綴りは同じだが意味や発音が異なる語(同綴異義語)。",
+        "example": "「lead(導く)」と「lead(金属の鉛)」は同綴異義語である。",
+        "term": "同形異音語"
+      },
+      "ko": {
+        "definition": "다른 단어와 철자는 같지만 의미나 소리가 다른 단어.",
+        "example": "\"lead\"(이끌다)와 \"lead\"(금속 납)는 동형이의어다.",
+        "term": "동형이음어"
+      },
+      "fr": {
+        "definition": "Un mot écrit comme un autre mais qui en diffère par le sens ou la prononciation.",
+        "example": "« Fils » (descendant) et « fils » (cordons) sont des homographes.",
+        "term": "Homographe"
+      },
+      "es": {
+        "definition": "Una palabra que se escribe igual que otra pero con distinto significado o pronunciación.",
+        "example": "\"Lead\" (guiar) y \"lead\" (el metal) son homógrafos.",
+        "term": "Homógrafo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-025",
+    "deck": "linguistics",
+    "term": "Synonym",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "semantics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word that means the same or nearly the same as another word.",
+        "example": "\"Big\" and \"large\" are synonyms."
+      },
+      "ru": {
+        "definition": "Слово с тем же или близким значением, что и другое слово.",
+        "example": "«Большой» и «крупный» — синонимы.",
+        "term": "Синоним"
+      },
+      "ja": {
+        "definition": "他の語と意味が同じか、ほぼ同じである語(類義語・同義語)。",
+        "example": "「big」と「large」は類義語である。",
+        "term": "同義語"
+      },
+      "ko": {
+        "definition": "다른 단어와 같거나 거의 같은 의미를 지닌 단어.",
+        "example": "\"big\"과 \"large\"는 동의어다.",
+        "term": "동의어"
+      },
+      "fr": {
+        "definition": "Un mot qui a le même sens, ou presque, qu'un autre mot.",
+        "example": "« Grand » et « vaste » sont des synonymes.",
+        "term": "Synonyme"
+      },
+      "es": {
+        "definition": "Una palabra que significa lo mismo, o casi lo mismo, que otra palabra.",
+        "example": "\"Big\" y \"large\" son sinónimos.",
+        "term": "Sinónimo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-026",
+    "deck": "linguistics",
+    "term": "Antonym",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "semantics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word with a meaning opposite to that of another word.",
+        "example": "\"Hot\" is the antonym of \"cold.\""
+      },
+      "ru": {
+        "definition": "Слово с противоположным значением по отношению к другому.",
+        "example": "«Горячий» — антоним к «холодный».",
+        "term": "Антоним"
+      },
+      "ja": {
+        "definition": "他の語と意味が反対である語(対義語・反意語)。",
+        "example": "「hot」は「cold」の対義語である。",
+        "term": "対義語"
+      },
+      "ko": {
+        "definition": "다른 단어와 반대되는 의미를 지닌 단어.",
+        "example": "\"hot\"은 \"cold\"의 반의어다.",
+        "term": "반의어"
+      },
+      "fr": {
+        "definition": "Un mot dont le sens est opposé à celui d'un autre mot.",
+        "example": "« Chaud » est l'antonyme de « froid ».",
+        "term": "Antonyme"
+      },
+      "es": {
+        "definition": "Una palabra cuyo significado es opuesto al de otra palabra.",
+        "example": "\"Hot\" es el antónimo de \"cold\".",
+        "term": "Antónimo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-027",
+    "deck": "linguistics",
+    "term": "Polysemy",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "semantics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The capacity of one word to carry multiple related meanings.",
+        "example": "\"Head\" can mean a body part, a leader, or the top of something."
+      },
+      "ru": {
+        "definition": "Способность одного слова иметь несколько связанных значений.",
+        "example": "«Голова» — часть тела, руководитель или верхняя часть чего-либо.",
+        "term": "Полисемия"
+      },
+      "ja": {
+        "definition": "一つの語が複数の関連した意味をもつ性質(多義性)。",
+        "example": "「head」は体の部位・指導者・物の上部などを意味しうる。",
+        "term": "多義性"
+      },
+      "ko": {
+        "definition": "한 단어가 서로 관련된 여러 의미를 지닐 수 있는 성질.",
+        "example": "\"head\"는 신체 부위, 우두머리, 또는 무언가의 꼭대기를 뜻할 수 있다.",
+        "term": "다의성"
+      },
+      "fr": {
+        "definition": "La capacité d'un même mot à porter plusieurs sens apparentés.",
+        "example": "« Tête » peut désigner une partie du corps, un dirigeant ou le sommet de quelque chose.",
+        "term": "Polysémie"
+      },
+      "es": {
+        "definition": "La capacidad de una palabra de tener varios significados relacionados.",
+        "example": "\"Head\" puede significar una parte del cuerpo, un líder o la parte superior de algo.",
+        "term": "Polisemia"
+      }
+    }
+  },
+  {
+    "id": "linguistics-028",
+    "deck": "linguistics",
+    "term": "Connotation",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "semantics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The emotional or cultural associations a word carries beyond its literal sense.",
+        "example": "\"Childish\" and \"childlike\" share meaning but differ in connotation."
+      },
+      "ru": {
+        "definition": "Эмоциональные или культурные ассоциации слова сверх его прямого смысла.",
+        "example": "«Дешёвый» и «недорогой» близки по смыслу, но разнятся коннотацией.",
+        "term": "Коннотация"
+      },
+      "ja": {
+        "definition": "語が字義的意味を超えて帯びる感情的・文化的な含み(含意・コノテーション)。",
+        "example": "「childish」と「childlike」は意味を共有するが含意が異なる。",
+        "term": "含意"
+      },
+      "ko": {
+        "definition": "단어가 문자적 의미를 넘어 지니는 정서적·문화적 연상.",
+        "example": "\"childish\"와 \"childlike\"는 의미는 비슷하지만 함축이 다르다.",
+        "term": "함축적 의미"
+      },
+      "fr": {
+        "definition": "Les associations affectives ou culturelles qu'un mot véhicule au-delà de son sens littéral.",
+        "example": "« Économe » et « avare » partagent un sens mais diffèrent par leur connotation.",
+        "term": "Connotation"
+      },
+      "es": {
+        "definition": "Las asociaciones emocionales o culturales que una palabra evoca más allá de su sentido literal.",
+        "example": "\"Childish\" y \"childlike\" comparten significado pero difieren en su connotación.",
+        "term": "Connotación"
+      }
+    }
+  },
+  {
+    "id": "linguistics-029",
+    "deck": "linguistics",
+    "term": "Denotation",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "semantics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The literal, dictionary meaning of a word, free of emotional coloring.",
+        "example": "The denotation of \"home\" is simply a place where one lives."
+      },
+      "ru": {
+        "definition": "Прямое, словарное значение слова без эмоциональной окраски.",
+        "example": "Денотация слова «дом» — просто место, где живут.",
+        "term": "Денотация"
+      },
+      "ja": {
+        "definition": "感情の色合いを伴わない、語の字義どおりの辞書的意味(明示的意味・デノテーション)。",
+        "example": "「home」の明示的意味は単に人が住む場所である。",
+        "term": "明示的意味"
+      },
+      "ko": {
+        "definition": "정서적 색채가 없는, 단어의 문자적이고 사전적인 의미.",
+        "example": "\"home\"의 외연적 의미는 단순히 사람이 사는 곳이다.",
+        "term": "외연적 의미"
+      },
+      "fr": {
+        "definition": "Le sens littéral, celui du dictionnaire, dépourvu de toute coloration affective.",
+        "example": "La dénotation de « maison » est simplement un lieu où l'on habite.",
+        "term": "Dénotation"
+      },
+      "es": {
+        "definition": "El significado literal y de diccionario de una palabra, libre de matices emocionales.",
+        "example": "La denotación de \"home\" es simplemente el lugar donde uno vive.",
+        "term": "Denotación"
+      }
+    }
+  },
+  {
+    "id": "linguistics-030",
+    "deck": "linguistics",
+    "term": "Allophone",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A variant pronunciation of a phoneme that doesn't change a word's meaning.",
+        "example": "The \"p\" in \"pin\" and \"spin\" are allophones of /p/."
+      },
+      "ru": {
+        "definition": "Вариант произношения фонемы, не меняющий значения слова.",
+        "example": "Звуки «п» в «пар» и «спор» — аллофоны фонемы /п/.",
+        "term": "Аллофон"
+      },
+      "ja": {
+        "definition": "語の意味を変えない、一つの音素の発音上の変種(異音)。",
+        "example": "「pin」と「spin」の「p」は/p/の異音である。",
+        "term": "異音"
+      },
+      "ko": {
+        "definition": "단어의 의미를 바꾸지 않는, 한 음소의 변이 발음.",
+        "example": "\"pin\"과 \"spin\"의 \"p\"는 /p/의 이음(변이음)이다.",
+        "term": "이음"
+      },
+      "fr": {
+        "definition": "Une variante de prononciation d'un phonème qui ne modifie pas le sens d'un mot.",
+        "example": "Le « p » de « pin » et celui de « spin » en anglais sont des allophones de /p/.",
+        "term": "Allophone"
+      },
+      "es": {
+        "definition": "Una variante de pronunciación de un fonema que no cambia el significado de la palabra.",
+        "example": "La \"p\" de \"pin\" y la de \"spin\" son alófonos de /p/.",
+        "term": "Alófono"
+      }
+    }
+  },
+  {
+    "id": "linguistics-031",
+    "deck": "linguistics",
+    "term": "Diphthong",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "phonetics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A single vowel sound that glides from one quality to another in one syllable.",
+        "example": "The vowel in \"coin\" is a diphthong, gliding from \"o\" to \"i.\""
+      },
+      "ru": {
+        "definition": "Единый гласный звук, скользящий от одного качества к другому в одном слоге.",
+        "example": "Гласный в английском «coin» — дифтонг, скользящий от «о» к «и».",
+        "term": "Дифтонг"
+      },
+      "ja": {
+        "definition": "一音節の中で一方の音質から他方へ滑る一つの母音(二重母音)。",
+        "example": "「coin」の母音は「o」から「i」へ滑る二重母音である。",
+        "term": "二重母音"
+      },
+      "ko": {
+        "definition": "한 음절 안에서 한 음질에서 다른 음질로 미끄러지는 단일 모음 소리.",
+        "example": "\"coin\"의 모음은 \"o\"에서 \"i\"로 미끄러지는 이중모음이다.",
+        "term": "이중모음"
+      },
+      "fr": {
+        "definition": "Un son vocalique unique qui glisse d'un timbre à un autre dans une même syllabe.",
+        "example": "La voyelle de l'anglais « coin » est une diphtongue, glissant de « o » à « i ».",
+        "term": "Diphtongue"
+      },
+      "es": {
+        "definition": "Un único sonido vocálico que se desliza de un timbre a otro dentro de una misma sílaba.",
+        "example": "La vocal de \"coin\" es un diptongo que se desliza de \"o\" a \"i\".",
+        "term": "Diptongo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-032",
+    "deck": "linguistics",
+    "term": "Grapheme",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "writing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The smallest unit of a writing system, such as a letter or character.",
+        "example": "The letters \"s\" and \"h\" together form the grapheme \"sh.\""
+      },
+      "ru": {
+        "definition": "Наименьшая единица системы письма — буква или знак.",
+        "example": "Буквы «с» и «h» вместе образуют графему «sh».",
+        "term": "Графема"
+      },
+      "ja": {
+        "definition": "文字や字のような、書記体系の最小単位(書記素)。",
+        "example": "文字「s」と「h」が合わさって書記素「sh」を作る。",
+        "term": "書記素"
+      },
+      "ko": {
+        "definition": "문자나 글자 같은, 문자 체계의 가장 작은 단위.",
+        "example": "글자 \"s\"와 \"h\"가 합쳐져 자소 \"sh\"를 이룬다.",
+        "term": "자소"
+      },
+      "fr": {
+        "definition": "La plus petite unité d'un système d'écriture, comme une lettre ou un caractère.",
+        "example": "Les lettres « c » et « h » forment ensemble le graphème « ch ».",
+        "term": "Graphème"
+      },
+      "es": {
+        "definition": "La unidad mínima de un sistema de escritura, como una letra o un carácter.",
+        "example": "Las letras \"s\" y \"h\" juntas forman el grafema \"sh\".",
+        "term": "Grafema"
+      }
+    }
+  },
+  {
+    "id": "linguistics-033",
+    "deck": "linguistics",
+    "term": "Inflection",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "morphology",
+      "grammar"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A change in a word's form to express tense, number, case, or gender.",
+        "example": "Adding \"-ed\" to \"walk\" is an inflection marking past tense."
+      },
+      "ru": {
+        "definition": "Изменение формы слова для выражения времени, числа, падежа или рода.",
+        "example": "Окончание «-л» в «ходил» — словоизменение, указывающее на прошедшее время.",
+        "term": "Словоизменение"
+      },
+      "ja": {
+        "definition": "時制・数・格・性を表すための、語形の変化(屈折)。",
+        "example": "「walk」に「-ed」を付けるのは過去時制を表す屈折である。",
+        "term": "屈折"
+      },
+      "ko": {
+        "definition": "시제, 수, 격, 성을 나타내기 위해 단어의 형태가 바뀌는 것.",
+        "example": "\"walk\"에 \"-ed\"를 붙이는 것은 과거 시제를 표시하는 굴절이다.",
+        "term": "굴절"
+      },
+      "fr": {
+        "definition": "Une modification de la forme d'un mot pour exprimer le temps, le nombre, le cas ou le genre.",
+        "example": "Ajouter « -ait » à « chant » est une flexion marquant l'imparfait.",
+        "term": "Flexion"
+      },
+      "es": {
+        "definition": "Un cambio en la forma de una palabra para expresar tiempo, número, caso o género.",
+        "example": "Añadir \"-ed\" a \"walk\" es una flexión que marca el pasado.",
+        "term": "Flexión"
+      }
+    }
+  },
+  {
+    "id": "linguistics-034",
+    "deck": "linguistics",
+    "term": "Conjugation",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "morphology",
+      "grammar"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The set of forms a verb takes to show tense, person, number, or mood.",
+        "example": "\"Am, is, are\" is the present conjugation of \"to be.\""
+      },
+      "ru": {
+        "definition": "Набор форм, которые принимает глагол по времени, лицу, числу и наклонению.",
+        "example": "«Иду, идёшь, идёт» — спряжение глагола «идти» в настоящем времени.",
+        "term": "Спряжение"
+      },
+      "ja": {
+        "definition": "時制・人称・数・法を示すために動詞がとる一連の形(活用)。",
+        "example": "「am, is, are」はbe動詞の現在形の活用である。",
+        "term": "活用"
+      },
+      "ko": {
+        "definition": "시제, 인칭, 수, 법을 나타내기 위해 동사가 취하는 형태들의 집합.",
+        "example": "\"am, is, are\"는 \"to be\"의 현재 활용이다.",
+        "term": "활용"
+      },
+      "fr": {
+        "definition": "L'ensemble des formes que prend un verbe pour marquer le temps, la personne, le nombre ou le mode.",
+        "example": "« Suis, es, est, sommes » relèvent de la conjugaison du verbe « être ».",
+        "term": "Conjugaison"
+      },
+      "es": {
+        "definition": "El conjunto de formas que adopta un verbo para indicar tiempo, persona, número o modo.",
+        "example": "\"Am, is, are\" es la conjugación en presente de \"to be\".",
+        "term": "Conjugación"
+      }
+    }
+  },
+  {
+    "id": "linguistics-035",
+    "deck": "linguistics",
+    "term": "Declension",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "morphology",
+      "grammar"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The inflection of nouns, pronouns, or adjectives for case, number, and gender.",
+        "example": "Latin \"rosa, rosae, rosam\" shows the declension of \"rose.\""
+      },
+      "ru": {
+        "definition": "Словоизменение существительных, местоимений и прилагательных по падежам, числам и роду.",
+        "example": "Латинское «rosa, rosae, rosam» показывает склонение слова «роза».",
+        "term": "Склонение"
+      },
+      "ja": {
+        "definition": "名詞・代名詞・形容詞が格・数・性に応じて行う屈折(曲用)。",
+        "example": "ラテン語の「rosa, rosae, rosam」は「バラ」の曲用を示す。",
+        "term": "格変化"
+      },
+      "ko": {
+        "definition": "명사, 대명사, 형용사가 격·수·성에 따라 굴절하는 것.",
+        "example": "라틴어 \"rosa, rosae, rosam\"은 \"장미\"의 곡용을 보여 준다.",
+        "term": "곡용"
+      },
+      "fr": {
+        "definition": "La flexion des noms, pronoms ou adjectifs selon le cas, le nombre et le genre.",
+        "example": "Le latin « rosa, rosae, rosam » illustre la déclinaison de « rose ».",
+        "term": "Déclinaison"
+      },
+      "es": {
+        "definition": "La flexión de sustantivos, pronombres o adjetivos según caso, número y género.",
+        "example": "El latín \"rosa, rosae, rosam\" muestra la declinación de \"rosa\".",
+        "term": "Declinación"
+      }
+    }
+  },
+  {
+    "id": "linguistics-036",
+    "deck": "linguistics",
+    "term": "Agglutination",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "morphology",
+      "typology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Building words by stringing together morphemes that each keep one clear meaning.",
+        "example": "Turkish \"evlerimizden\" = ev+ler+imiz+den, \"from our houses.\""
+      },
+      "ru": {
+        "definition": "Построение слов путём нанизывания морфем, каждая с одним чётким значением.",
+        "example": "Турецкое «evlerimizden» = ev+ler+imiz+den — «из наших домов».",
+        "term": "Агглютинация"
+      },
+      "ja": {
+        "definition": "それぞれ一つの明確な意味をもつ形態素を連ねて語を作ること(膠着)。",
+        "example": "トルコ語「evlerimizden」=ev+ler+imiz+den、「私たちの家から」。",
+        "term": "膠着"
+      },
+      "ko": {
+        "definition": "각각 하나의 분명한 의미를 유지하는 형태소들을 이어 붙여 단어를 만드는 것.",
+        "example": "터키어 \"evlerimizden\" = ev+ler+imiz+den, \"우리 집들로부터\".",
+        "term": "교착"
+      },
+      "fr": {
+        "definition": "La formation de mots par enchaînement de morphèmes qui gardent chacun un sens distinct.",
+        "example": "Le turc « evlerimizden » = ev+ler+imiz+den, « de nos maisons ».",
+        "term": "Agglutination"
+      },
+      "es": {
+        "definition": "Formar palabras encadenando morfemas que conservan cada uno un significado claro.",
+        "example": "El turco \"evlerimizden\" = ev+ler+imiz+den, \"de nuestras casas\".",
+        "term": "Aglutinación"
+      }
+    }
+  },
+  {
+    "id": "linguistics-037",
+    "deck": "linguistics",
+    "term": "Substrate",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "contact",
+      "historical"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A native language that influences a dominant incoming language after a shift.",
+        "example": "Celtic acted as a substrate beneath English in early Britain."
+      },
+      "ru": {
+        "definition": "Язык коренного населения, влияющий на пришедший доминирующий язык после сдвига.",
+        "example": "Кельтские языки стали субстратом для английского в ранней Британии.",
+        "term": "Субстрат"
+      },
+      "ja": {
+        "definition": "言語交替の後も、流入した支配言語に影響を与える在来の言語(基層言語)。",
+        "example": "初期のブリテン島では、ケルト語が英語の基層言語として働いた。",
+        "term": "基層言語"
+      },
+      "ko": {
+        "definition": "언어 교체가 일어난 뒤에도 우세한 유입 언어에 영향을 주는 토착 언어.",
+        "example": "켈트어는 초기 브리튼에서 영어 아래 깔린 기층 언어로 작용했다.",
+        "term": "기층언어"
+      },
+      "fr": {
+        "definition": "Une langue autochtone qui influence la langue dominante venue s'imposer après un changement.",
+        "example": "Le celtique a servi de substrat sous l'anglais dans la Bretagne ancienne.",
+        "term": "Substrat"
+      },
+      "es": {
+        "definition": "Una lengua nativa que influye en una lengua dominante entrante tras un cambio lingüístico.",
+        "example": "El celta actuó como sustrato bajo el inglés en la Britania temprana.",
+        "term": "Sustrato"
+      }
+    }
+  },
+  {
+    "id": "linguistics-038",
+    "deck": "linguistics",
+    "term": "Creole",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "contact",
+      "sociolinguistics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A stable, full language that develops from a pidgin and gains native speakers.",
+        "example": "Haitian Creole grew from French-based contact speech."
+      },
+      "ru": {
+        "definition": "Устойчивый полноценный язык, выросший из пиджина и обретший носителей.",
+        "example": "Гаитянский креольский вырос из контактной речи на основе французского.",
+        "term": "Креольский язык"
+      },
+      "ja": {
+        "definition": "ピジンから発達し、母語話者をもつに至った安定した完全な言語(クレオール)。",
+        "example": "ハイチ・クレオールはフランス語を基にした接触言語から発達した。",
+        "term": "クレオール語"
+      },
+      "ko": {
+        "definition": "피진에서 발달하여 모어 화자를 갖게 된 안정적이고 완전한 언어.",
+        "example": "아이티 크리올은 프랑스어 기반 접촉 언어에서 자라났다.",
+        "term": "크레올어"
+      },
+      "fr": {
+        "definition": "Une langue stable et complète, issue d'un pidgin, qui acquiert des locuteurs natifs.",
+        "example": "Le créole haïtien s'est développé à partir d'un parler de contact d'origine française.",
+        "term": "Créole"
+      },
+      "es": {
+        "definition": "Una lengua plena y estable que surge de un pidgin y adquiere hablantes nativos.",
+        "example": "El criollo haitiano surgió de un habla de contacto de base francesa.",
+        "term": "Criollo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-039",
+    "deck": "linguistics",
+    "term": "Pidgin",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "contact",
+      "sociolinguistics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A simplified contact language used between groups with no common tongue.",
+        "example": "Traders developed a pidgin to bargain across language barriers."
+      },
+      "ru": {
+        "definition": "Упрощённый контактный язык для общения групп без общего языка.",
+        "example": "Торговцы выработали пиджин для сделок через языковой барьер.",
+        "term": "Пиджин"
+      },
+      "ja": {
+        "definition": "共通言語をもたない集団どうしが用いる、簡略化された接触言語(ピジン)。",
+        "example": "商人たちは言語の壁を越えて交渉するためにピジンを発達させた。",
+        "term": "ピジン語"
+      },
+      "ko": {
+        "definition": "공통 언어가 없는 집단들 사이에서 쓰이는 단순화된 접촉 언어.",
+        "example": "상인들은 언어 장벽을 넘어 흥정하기 위해 피진을 발달시켰다.",
+        "term": "피진어"
+      },
+      "fr": {
+        "definition": "Une langue de contact simplifiée, utilisée entre des groupes sans langue commune.",
+        "example": "Les marchands ont développé un pidgin pour négocier malgré la barrière des langues.",
+        "term": "Pidgin"
+      },
+      "es": {
+        "definition": "Una lengua de contacto simplificada usada entre grupos sin lengua común.",
+        "example": "Los comerciantes desarrollaron un pidgin para negociar a través de las barreras lingüísticas.",
+        "term": "Pidgin"
+      }
+    }
+  },
+  {
+    "id": "linguistics-040",
+    "deck": "linguistics",
+    "term": "Lingua franca",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sociolinguistics",
+      "contact"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A common language used for communication between speakers of different tongues.",
+        "example": "English serves as a lingua franca in international science."
+      },
+      "ru": {
+        "definition": "Общий язык для общения носителей разных языков.",
+        "example": "Английский служит лингва франка в международной науке.",
+        "term": "Лингва франка"
+      },
+      "ja": {
+        "definition": "異なる言語の話者どうしの意思疎通に用いられる共通言語(共通語・リングア・フランカ)。",
+        "example": "英語は国際的な科学の場で共通語として機能している。",
+        "term": "リンガフランカ"
+      },
+      "ko": {
+        "definition": "서로 다른 언어를 쓰는 화자들 사이의 의사소통에 쓰이는 공통어.",
+        "example": "영어는 국제 과학계에서 링구아 프랑카 역할을 한다.",
+        "term": "링구아 프랑카"
+      },
+      "fr": {
+        "definition": "Une langue commune servant à communiquer entre locuteurs de langues différentes.",
+        "example": "L'anglais sert de lingua franca dans la science internationale.",
+        "term": "Lingua franca"
+      },
+      "es": {
+        "definition": "Una lengua común usada para la comunicación entre hablantes de lenguas distintas.",
+        "example": "El inglés funciona como lengua franca en la ciencia internacional.",
+        "term": "Lengua franca"
+      }
+    }
+  },
+  {
+    "id": "linguistics-041",
+    "deck": "linguistics",
+    "term": "Prescriptivism",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "sociolinguistics",
+      "theory"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The view that language should follow fixed rules of correct usage.",
+        "example": "Prescriptivism says never to split an infinitive."
+      },
+      "ru": {
+        "definition": "Взгляд, что язык должен следовать твёрдым нормам правильного употребления.",
+        "example": "Прескриптивизм требует не говорить «ихний» вместо «их».",
+        "term": "Прескриптивизм"
+      },
+      "ja": {
+        "definition": "言語は正しい用法の固定した規則に従うべきだとする立場(規範主義)。",
+        "example": "規範主義は分離不定詞を決して用いてはならないと説く。",
+        "term": "規範主義"
+      },
+      "ko": {
+        "definition": "언어가 올바른 용법의 고정된 규칙을 따라야 한다고 보는 관점.",
+        "example": "규범주의는 분리 부정사를 절대 쓰지 말라고 말한다.",
+        "term": "규범주의"
+      },
+      "fr": {
+        "definition": "La conception selon laquelle la langue doit obéir à des règles fixes du bon usage.",
+        "example": "Le prescriptivisme proscrit certaines tournures jugées fautives.",
+        "term": "Prescriptivisme"
+      },
+      "es": {
+        "definition": "La postura de que la lengua debe seguir reglas fijas de uso correcto.",
+        "example": "El prescriptivismo dicta que nunca se debe partir un infinitivo en inglés.",
+        "term": "Prescriptivismo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-042",
+    "deck": "linguistics",
+    "term": "Descriptivism",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "sociolinguistics",
+      "theory"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The approach of describing how language is actually used, not how it should be.",
+        "example": "Descriptivism records \"ain't\" as real usage without judging it."
+      },
+      "ru": {
+        "definition": "Подход, описывающий, как язык реально употребляется, а не как должно быть.",
+        "example": "Дескриптивизм фиксирует «ихний» как реальное употребление без осуждения.",
+        "term": "Дескриптивизм"
+      },
+      "ja": {
+        "definition": "言語があるべき姿ではなく、実際にどう使われているかを記述する立場(記述主義)。",
+        "example": "記述主義は「ain't」を判断を加えず実在の用法として記録する。",
+        "term": "記述主義"
+      },
+      "ko": {
+        "definition": "언어가 어떠해야 하는지가 아니라 실제로 어떻게 쓰이는지를 기술하는 입장.",
+        "example": "기술주의는 \"ain't\"를 판단하지 않고 실제 용법으로 기록한다.",
+        "term": "기술주의"
+      },
+      "fr": {
+        "definition": "L'approche qui décrit la langue telle qu'elle est réellement employée, et non telle qu'elle devrait l'être.",
+        "example": "Le descriptivisme consigne « ils croivent » comme usage réel sans le juger.",
+        "term": "Descriptivisme"
+      },
+      "es": {
+        "definition": "El enfoque que describe cómo se usa realmente la lengua, no cómo debería usarse.",
+        "example": "El descriptivismo registra \"ain't\" como uso real sin juzgarlo.",
+        "term": "Descriptivismo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-043",
+    "deck": "linguistics",
+    "term": "Code-switching",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sociolinguistics",
+      "contact"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Alternating between two or more languages or varieties within a conversation.",
+        "example": "A bilingual might say, \"Let's go, vámonos!\""
+      },
+      "ru": {
+        "definition": "Переключение между двумя и более языками или вариантами в одном разговоре.",
+        "example": "Билингв может сказать: «Ну ладно, let's go!»",
+        "term": "Переключение кодов"
+      },
+      "ja": {
+        "definition": "一つの会話の中で二つ以上の言語や変種を交互に使うこと(コードスイッチング)。",
+        "example": "バイリンガルは「Let's go, vámonos!」のように言うことがある。",
+        "term": "コードスイッチング"
+      },
+      "ko": {
+        "definition": "한 대화 안에서 둘 이상의 언어나 변종을 번갈아 사용하는 것.",
+        "example": "이중 언어 화자는 \"가자, vámonos!\"라고 말할 수 있다.",
+        "term": "코드 전환"
+      },
+      "fr": {
+        "definition": "Le passage d'une langue ou variété à une autre au sein d'une même conversation.",
+        "example": "Une personne bilingue pourrait dire : « On y va, vámonos ! »",
+        "term": "Alternance codique"
+      },
+      "es": {
+        "definition": "Alternar entre dos o más lenguas o variedades dentro de una misma conversación.",
+        "example": "Una persona bilingüe podría decir: \"Let's go, ¡vámonos!\"",
+        "term": "Cambio de código"
+      }
+    }
+  },
+  {
+    "id": "linguistics-044",
+    "deck": "linguistics",
+    "term": "False friend",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "lexicology",
+      "contact"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word that looks similar across languages but means something different.",
+        "example": "Spanish \"embarazada\" means \"pregnant,\" not \"embarrassed.\""
+      },
+      "ru": {
+        "definition": "Слово, похожее в разных языках, но означающее нечто иное.",
+        "example": "Английское «magazine» — это «журнал», а не «магазин».",
+        "term": "Ложный друг переводчика"
+      },
+      "ja": {
+        "definition": "言語間で形は似ているが意味が異なる語(空似言葉)。",
+        "example": "スペイン語「embarazada」は「恥ずかしい」ではなく「妊娠した」を意味する。",
+        "term": "偽りの友"
+      },
+      "ko": {
+        "definition": "언어 간에 비슷해 보이지만 다른 뜻을 지닌 단어.",
+        "example": "스페인어 \"embarazada\"는 \"당황한\"이 아니라 \"임신한\"을 뜻한다.",
+        "term": "거짓짝"
+      },
+      "fr": {
+        "definition": "Un mot qui se ressemble d'une langue à l'autre mais dont le sens diffère.",
+        "example": "L'espagnol « embarazada » signifie « enceinte », non « embarrassée ».",
+        "term": "Faux ami"
+      },
+      "es": {
+        "definition": "Una palabra que parece similar entre lenguas pero significa algo distinto.",
+        "example": "El español \"embarazada\" significa \"pregnant\", no \"embarrassed\".",
+        "term": "Falso amigo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-045",
+    "deck": "linguistics",
+    "term": "Anaphora",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "grammar",
+      "discourse"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Using a word to refer back to something mentioned earlier in a text.",
+        "example": "In \"Maria left because she was tired,\" \"she\" is anaphora for Maria."
+      },
+      "ru": {
+        "definition": "Употребление слова для отсылки к чему-то упомянутому ранее в тексте.",
+        "example": "В «Мария ушла, потому что она устала» «она» — анафора к Марии.",
+        "term": "Анафора"
+      },
+      "ja": {
+        "definition": "文中で先に述べられたものを指し戻すために語を用いること(前方照応)。",
+        "example": "「Maria left because she was tired」の「she」はMariaを指す前方照応である。",
+        "term": "前方照応"
+      },
+      "ko": {
+        "definition": "앞서 텍스트에서 언급된 대상을 다시 가리키기 위해 단어를 쓰는 것.",
+        "example": "\"Maria left because she was tired\"에서 \"she\"는 Maria를 가리키는 대용이다.",
+        "term": "전방조응"
+      },
+      "fr": {
+        "definition": "L'emploi d'un mot pour renvoyer à un élément mentionné plus tôt dans le texte.",
+        "example": "Dans « Maria est partie parce qu'elle était fatiguée », « elle » est une anaphore renvoyant à Maria.",
+        "term": "Anaphore"
+      },
+      "es": {
+        "definition": "El uso de una palabra para referirse a algo mencionado antes en un texto.",
+        "example": "En 'Vi a María y la saludé', 'la' es una anáfora que remite a María.",
+        "term": "Anáfora"
+      }
+    }
+  },
+  {
+    "id": "linguistics-046",
+    "deck": "linguistics",
+    "term": "Deixis",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "pragmatics",
+      "discourse"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Words whose meaning depends on the context of who, when, or where they're said.",
+        "example": "\"Here,\" \"now,\" and \"you\" rely on deixis to be understood."
+      },
+      "ru": {
+        "definition": "Слова, значение которых зависит от того, кто, когда и где их произносит.",
+        "example": "«Здесь», «сейчас» и «ты» опираются на дейксис для понимания.",
+        "term": "Дейксис"
+      },
+      "ja": {
+        "definition": "誰が・いつ・どこで言うかという文脈によって意味が決まる語(直示・ダイクシス)。",
+        "example": "「here」「now」「you」は直示に頼って初めて理解される。",
+        "term": "ダイクシス"
+      },
+      "ko": {
+        "definition": "누가, 언제, 어디서 말하느냐의 맥락에 따라 의미가 결정되는 단어.",
+        "example": "\"here\", \"now\", \"you\"는 직시에 의존해야 이해된다.",
+        "term": "직시"
+      },
+      "fr": {
+        "definition": "Des mots dont le sens dépend du contexte : qui parle, quand ou où.",
+        "example": "« Ici », « maintenant » et « tu » reposent sur la déixis pour être compris.",
+        "term": "Déixis"
+      },
+      "es": {
+        "definition": "Palabras cuyo significado depende del contexto de quién, cuándo o dónde se dicen.",
+        "example": "\"Aquí\", \"ahora\" y \"tú\" dependen de la deixis para entenderse.",
+        "term": "Deixis"
+      }
+    }
+  },
+  {
+    "id": "linguistics-047",
+    "deck": "linguistics",
+    "term": "Grammaticalization",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "historical",
+      "grammar"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The process by which content words evolve into grammatical markers.",
+        "example": "English \"going to\" became the future marker \"gonna.\""
+      },
+      "ru": {
+        "definition": "Процесс превращения знаменательных слов в грамматические показатели.",
+        "example": "Английское «going to» стало показателем будущего «gonna».",
+        "term": "Грамматикализация"
+      },
+      "ja": {
+        "definition": "内容語が文法標識へと変化していく過程(文法化)。",
+        "example": "英語の「going to」は未来標識「gonna」へと変化した。",
+        "term": "文法化"
+      },
+      "ko": {
+        "definition": "내용어가 문법 표지로 변해 가는 과정.",
+        "example": "영어 \"going to\"는 미래 표지 \"gonna\"가 되었다.",
+        "term": "문법화"
+      },
+      "fr": {
+        "definition": "Le processus par lequel des mots lexicaux évoluent en marqueurs grammaticaux.",
+        "example": "L'anglais « going to » est devenu le marqueur de futur « gonna ».",
+        "term": "Grammaticalisation"
+      },
+      "es": {
+        "definition": "El proceso por el cual palabras léxicas evolucionan hasta convertirse en marcas gramaticales.",
+        "example": "El inglés \"going to\" se convirtió en la marca de futuro \"gonna\".",
+        "term": "Gramaticalización"
+      }
+    }
+  },
+  {
+    "id": "linguistics-048",
+    "deck": "linguistics",
+    "term": "Suppletion",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "morphology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a word's inflected forms come from unrelated roots.",
+        "example": "\"Go\" and \"went\" show suppletion — different roots, same verb."
+      },
+      "ru": {
+        "definition": "Когда словоформы слова образуются от неродственных корней.",
+        "example": "«Человек» и «люди» — супплетивизм: разные корни, одно слово.",
+        "term": "Супплетивизм"
+      },
+      "ja": {
+        "definition": "語の活用形が互いに無関係な語根に由来する現象(補充法)。",
+        "example": "「go」と「went」は補充法を示し、語根は異なるが同じ動詞である。",
+        "term": "補充法"
+      },
+      "ko": {
+        "definition": "한 단어의 굴절형이 서로 무관한 어근에서 나오는 현상.",
+        "example": "\"go\"와 \"went\"는 보충법을 보여 준다. 어근은 다르나 같은 동사다.",
+        "term": "보충법"
+      },
+      "fr": {
+        "definition": "Lorsque les formes fléchies d'un mot proviennent de racines sans rapport entre elles.",
+        "example": "« Aller » et « j'irai » illustrent la supplétion : des racines différentes pour un même verbe.",
+        "term": "Supplétion"
+      },
+      "es": {
+        "definition": "Cuando las formas flexionadas de una palabra proceden de raíces no emparentadas.",
+        "example": "\"Go\" y \"went\" muestran supleción: raíces distintas para un mismo verbo.",
+        "term": "Supleción"
+      }
+    }
+  },
+  {
+    "id": "linguistics-049",
+    "deck": "linguistics",
+    "term": "Allomorph",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "morphology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A variant form of a morpheme that differs in sound but not in meaning.",
+        "example": "The plural \"-s\" sounds like /s/, /z/, or /əz/ — three allomorphs."
+      },
+      "ru": {
+        "definition": "Вариант морфемы, отличающийся звучанием, но не значением.",
+        "example": "Английское мн. ч. «-s» звучит как /s/, /z/ или /əz/ — три алломорфа.",
+        "term": "Алломорф"
+      },
+      "ja": {
+        "definition": "音は異なるが意味は変わらない、一つの形態素の変種(異形態)。",
+        "example": "複数の「-s」は/s/・/z/・/əz/と発音され、三つの異形態をなす。",
+        "term": "異形態"
+      },
+      "ko": {
+        "definition": "소리는 다르지만 의미는 같은, 한 형태소의 변이형.",
+        "example": "복수 \"-s\"는 /s/, /z/, /əz/로 소리 나며 이는 세 이형태다.",
+        "term": "이형태"
+      },
+      "fr": {
+        "definition": "Une variante d'un morphème qui diffère par le son mais non par le sens.",
+        "example": "Le pluriel anglais « -s » se prononce /s/, /z/ ou /əz/ : trois allomorphes.",
+        "term": "Allomorphe"
+      },
+      "es": {
+        "definition": "Una variante de un morfema que difiere en sonido pero no en significado.",
+        "example": "El plural \"-s\" suena como /s/, /z/ o /əz/: tres alomorfos.",
+        "term": "Alomorfo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-050",
+    "deck": "linguistics",
+    "term": "Phrase",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "syntax",
+      "grammar"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A group of words working together as a unit but lacking a subject-verb pair.",
+        "example": "\"The tall tree\" is a noun phrase."
+      },
+      "ru": {
+        "definition": "Группа слов, действующая как единое целое, но без пары подлежащее-сказуемое.",
+        "example": "«Высокое дерево» — именная группа.",
+        "term": "Фраза"
+      },
+      "ja": {
+        "definition": "主語と動詞の組をもたないが、ひとまとまりとして働く語の集まり(句)。",
+        "example": "「the tall tree」は名詞句である。",
+        "term": "句"
+      },
+      "ko": {
+        "definition": "한 단위로 함께 기능하지만 주어-동사 짝이 없는 단어들의 묶음.",
+        "example": "\"the tall tree\"는 명사구다.",
+        "term": "구"
+      },
+      "fr": {
+        "definition": "Un groupe de mots fonctionnant comme une unité mais dépourvu d'un couple sujet-verbe.",
+        "example": "« Le grand arbre » est un syntagme nominal.",
+        "term": "Syntagme"
+      },
+      "es": {
+        "definition": "Un grupo de palabras que funciona como una unidad pero carece de par sujeto-verbo.",
+        "example": "\"The tall tree\" es un sintagma nominal.",
+        "term": "Sintagma"
+      }
+    }
+  },
+  {
+    "id": "linguistics-051",
+    "deck": "linguistics",
+    "term": "Clause",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "syntax",
+      "grammar"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A group of words containing a subject and a verb.",
+        "example": "\"Because it rained\" is a dependent clause."
+      },
+      "ru": {
+        "definition": "Группа слов, содержащая подлежащее и сказуемое.",
+        "example": "«Потому что шёл дождь» — придаточное предложение.",
+        "term": "Клауза"
+      },
+      "ja": {
+        "definition": "主語と動詞を含む語の集まり(節)。",
+        "example": "「Because it rained」は従属節である。",
+        "term": "節"
+      },
+      "ko": {
+        "definition": "주어와 동사를 포함하는 단어들의 묶음.",
+        "example": "\"Because it rained\"는 종속절이다.",
+        "term": "절"
+      },
+      "fr": {
+        "definition": "Un groupe de mots comportant un sujet et un verbe.",
+        "example": "« Parce qu'il a plu » est une proposition subordonnée.",
+        "term": "Proposition"
+      },
+      "es": {
+        "definition": "Un grupo de palabras que contiene un sujeto y un verbo.",
+        "example": "\"Because it rained\" es una oración subordinada.",
+        "term": "Cláusula"
+      }
+    }
+  },
+  {
+    "id": "linguistics-052",
+    "deck": "linguistics",
+    "term": "Morphosyntax",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "grammar"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The interaction between word structure and sentence structure.",
+        "example": "Subject-verb agreement is a morphosyntactic rule."
+      },
+      "ru": {
+        "definition": "Взаимодействие структуры слова и структуры предложения.",
+        "example": "Согласование подлежащего и сказуемого — морфосинтаксическое правило.",
+        "term": "Морфосинтаксис"
+      },
+      "ja": {
+        "definition": "語の構造と文の構造との相互作用(形態統語論)。",
+        "example": "主語と動詞の一致は形態統語論的な規則である。",
+        "term": "形態統語論"
+      },
+      "ko": {
+        "definition": "단어 구조와 문장 구조 사이의 상호작용.",
+        "example": "주어-동사 일치는 형태통사론적 규칙이다.",
+        "term": "형태통사론"
+      },
+      "fr": {
+        "definition": "L'interaction entre la structure des mots et la structure de la phrase.",
+        "example": "L'accord du sujet et du verbe relève d'une règle morphosyntaxique.",
+        "term": "Morphosyntaxe"
+      },
+      "es": {
+        "definition": "La interacción entre la estructura de la palabra y la estructura de la oración.",
+        "example": "La concordancia entre sujeto y verbo es una regla morfosintáctica.",
+        "term": "Morfosintaxis"
+      }
+    }
+  },
+  {
+    "id": "linguistics-053",
+    "deck": "linguistics",
+    "term": "Sociolinguistics",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sociolinguistics",
+      "field"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study of how language varies and changes with social factors.",
+        "example": "Sociolinguistics studies why teens adopt new slang faster."
+      },
+      "ru": {
+        "definition": "Наука о том, как язык варьируется и меняется под влиянием социальных факторов.",
+        "example": "Социолингвистика изучает, почему подростки быстрее усваивают новый сленг.",
+        "term": "Социолингвистика"
+      },
+      "ja": {
+        "definition": "言語が社会的要因に応じてどう変異し変化するかを研究する分野(社会言語学)。",
+        "example": "社会言語学は十代の若者がなぜ新しい俗語を速く取り入れるかを研究する。",
+        "term": "社会言語学"
+      },
+      "ko": {
+        "definition": "언어가 사회적 요인에 따라 어떻게 변이하고 변화하는지 연구하는 분야.",
+        "example": "사회언어학은 왜 청소년이 새 속어를 더 빨리 받아들이는지 연구한다.",
+        "term": "사회언어학"
+      },
+      "fr": {
+        "definition": "L'étude de la façon dont la langue varie et change selon les facteurs sociaux.",
+        "example": "La sociolinguistique étudie pourquoi les adolescents adoptent l'argot plus vite.",
+        "term": "Sociolinguistique"
+      },
+      "es": {
+        "definition": "El estudio de cómo la lengua varía y cambia según factores sociales.",
+        "example": "La sociolingüística estudia por qué los adolescentes adoptan la jerga nueva más rápido.",
+        "term": "Sociolingüística"
+      }
+    }
+  },
+  {
+    "id": "linguistics-054",
+    "deck": "linguistics",
+    "term": "Psycholinguistics",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "field",
+      "cognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study of how the mind produces, understands, and acquires language.",
+        "example": "Psycholinguistics asks how children learn grammar so quickly."
+      },
+      "ru": {
+        "definition": "Наука о том, как мозг порождает, понимает и усваивает язык.",
+        "example": "Психолингвистика спрашивает, как дети так быстро осваивают грамматику.",
+        "term": "Психолингвистика"
+      },
+      "ja": {
+        "definition": "心がどのように言語を産出・理解・習得するかを研究する分野(心理言語学)。",
+        "example": "心理言語学は子供がなぜそれほど速く文法を習得するのかを問う。",
+        "term": "心理言語学"
+      },
+      "ko": {
+        "definition": "마음이 언어를 어떻게 산출하고 이해하며 습득하는지 연구하는 분야.",
+        "example": "심리언어학은 아이들이 어떻게 문법을 그토록 빨리 배우는지 묻는다.",
+        "term": "심리언어학"
+      },
+      "fr": {
+        "definition": "L'étude de la façon dont l'esprit produit, comprend et acquiert le langage.",
+        "example": "La psycholinguistique se demande comment les enfants apprennent la grammaire si vite.",
+        "term": "Psycholinguistique"
+      },
+      "es": {
+        "definition": "El estudio de cómo la mente produce, comprende y adquiere el lenguaje.",
+        "example": "La psicolingüística se pregunta cómo los niños aprenden la gramática tan rápido.",
+        "term": "Psicolingüística"
+      }
+    }
+  },
+  {
+    "id": "linguistics-055",
+    "deck": "linguistics",
+    "term": "Orthography",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "writing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The conventional spelling system and rules of a written language.",
+        "example": "English orthography is famously irregular: \"though\" vs \"through.\""
+      },
+      "ru": {
+        "definition": "Принятая система правописания и правил письменного языка.",
+        "example": "Английская орфография славится нерегулярностью: «though» и «through».",
+        "term": "Орфография"
+      },
+      "ja": {
+        "definition": "書記言語の慣習的な綴り方とその規則(正書法)。",
+        "example": "英語の正書法は「though」と「through」のように不規則なことで知られる。",
+        "term": "正書法"
+      },
+      "ko": {
+        "definition": "문자 언어의 관습적 철자 체계와 규칙.",
+        "example": "영어 정서법은 \"though\"와 \"through\"처럼 불규칙하기로 유명하다.",
+        "term": "정서법"
+      },
+      "fr": {
+        "definition": "Le système d'orthographe conventionnel et les règles d'une langue écrite.",
+        "example": "L'orthographe française est réputée irrégulière : « eaux » se prononce « o ».",
+        "term": "Orthographe"
+      },
+      "es": {
+        "definition": "El sistema convencional de ortografía y las reglas de una lengua escrita.",
+        "example": "La ortografía del inglés es famosamente irregular: \"though\" frente a \"through\".",
+        "term": "Ortografía"
+      }
+    }
+  },
+  {
+    "id": "linguistics-056",
+    "deck": "linguistics",
+    "term": "Phoneme inventory",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The complete set of distinctive sounds used in a particular language.",
+        "example": "Hawaiian has a small phoneme inventory of about 13 sounds."
+      },
+      "ru": {
+        "definition": "Полный набор различительных звуков конкретного языка.",
+        "example": "В гавайском малый набор фонем — около 13 звуков.",
+        "term": "Инвентарь фонем"
+      },
+      "ja": {
+        "definition": "ある言語が用いる弁別的な音の総体(音素目録)。",
+        "example": "ハワイ語は約13音という小さな音素目録をもつ。",
+        "term": "音素目録"
+      },
+      "ko": {
+        "definition": "특정 언어에서 쓰이는 변별적 소리들의 전체 집합.",
+        "example": "하와이어는 약 13개 소리로 이루어진 작은 음소 목록을 지닌다.",
+        "term": "음소 목록"
+      },
+      "fr": {
+        "definition": "L'ensemble complet des sons distinctifs employés dans une langue donnée.",
+        "example": "L'hawaïen possède un petit inventaire phonémique d'environ 13 sons.",
+        "term": "Inventaire phonémique"
+      },
+      "es": {
+        "definition": "El conjunto completo de sonidos distintivos que usa una lengua concreta.",
+        "example": "El hawaiano tiene un inventario fonémico reducido de unos 13 sonidos.",
+        "term": "Inventario fonémico"
+      }
+    }
+  },
+  {
+    "id": "linguistics-057",
+    "deck": "linguistics",
+    "term": "Affix",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "morphology",
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A morpheme attached to a word to change its meaning or function.",
+        "example": "\"Re-\" in \"rewrite\" and \"-ly\" in \"quickly\" are affixes."
+      },
+      "ru": {
+        "definition": "Морфема, присоединяемая к слову для изменения его значения или функции.",
+        "example": "«Пере-» в «переписать» и «-ость» в «смелость» — аффиксы.",
+        "term": "Аффикс"
+      },
+      "ja": {
+        "definition": "語の意味や働きを変えるために付加される形態素(接辞)。",
+        "example": "「rewrite」の「re-」や「quickly」の「-ly」は接辞である。",
+        "term": "接辞"
+      },
+      "ko": {
+        "definition": "단어에 붙어 그 의미나 기능을 바꾸는 형태소.",
+        "example": "\"rewrite\"의 \"re-\"와 \"quickly\"의 \"-ly\"는 접사다.",
+        "term": "접사"
+      },
+      "fr": {
+        "definition": "Un morphème ajouté à un mot pour en modifier le sens ou la fonction.",
+        "example": "« Re- » dans « réécrire » et « -ment » dans « rapidement » sont des affixes.",
+        "term": "Affixe"
+      },
+      "es": {
+        "definition": "Un morfema que se añade a una palabra para cambiar su significado o su función.",
+        "example": "\"Re-\" en \"rewrite\" y \"-ly\" en \"quickly\" son afijos.",
+        "term": "Afijo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-058",
+    "deck": "linguistics",
+    "term": "Prefix",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "morphology",
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An affix added to the beginning of a word to alter its meaning.",
+        "example": "\"Un-\" in \"unhappy\" is a prefix."
+      },
+      "ru": {
+        "definition": "Аффикс в начале слова, меняющий его значение.",
+        "example": "«Не-» в «несчастный» — приставка.",
+        "term": "Префикс"
+      },
+      "ja": {
+        "definition": "意味を変えるために語頭に付け加えられる接辞(接頭辞)。",
+        "example": "「unhappy」の「un-」は接頭辞である。",
+        "term": "接頭辞"
+      },
+      "ko": {
+        "definition": "의미를 바꾸기 위해 단어의 앞에 붙이는 접사.",
+        "example": "\"unhappy\"의 \"un-\"은 접두사다.",
+        "term": "접두사"
+      },
+      "fr": {
+        "definition": "Un affixe ajouté au début d'un mot pour en modifier le sens.",
+        "example": "« Mal- » dans « malheureux » est un préfixe.",
+        "term": "Préfixe"
+      },
+      "es": {
+        "definition": "Un afijo que se añade al comienzo de una palabra para alterar su significado.",
+        "example": "\"Un-\" en \"unhappy\" es un prefijo.",
+        "term": "Prefijo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-059",
+    "deck": "linguistics",
+    "term": "Suffix",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "morphology",
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An affix added to the end of a word to alter its meaning or class.",
+        "example": "\"-ness\" in \"kindness\" is a suffix."
+      },
+      "ru": {
+        "definition": "Аффикс в конце слова, меняющий его значение или часть речи.",
+        "example": "«-ость» в «доброта» — суффикс.",
+        "term": "Суффикс"
+      },
+      "ja": {
+        "definition": "意味や品詞を変えるために語末に付け加えられる接辞(接尾辞)。",
+        "example": "「kindness」の「-ness」は接尾辞である。",
+        "term": "接尾辞"
+      },
+      "ko": {
+        "definition": "의미나 품사를 바꾸기 위해 단어의 끝에 붙이는 접사.",
+        "example": "\"kindness\"의 \"-ness\"는 접미사다.",
+        "term": "접미사"
+      },
+      "fr": {
+        "definition": "Un affixe ajouté à la fin d'un mot pour en modifier le sens ou la classe.",
+        "example": "« -esse » dans « gentillesse » est un suffixe.",
+        "term": "Suffixe"
+      },
+      "es": {
+        "definition": "Un afijo que se añade al final de una palabra para alterar su significado o su clase.",
+        "example": "\"-ness\" en \"kindness\" es un sufijo.",
+        "term": "Sufijo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-060",
+    "deck": "linguistics",
+    "term": "Infix",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "morphology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An affix inserted inside a word rather than at its edges.",
+        "example": "Tagalog inserts \"-um-\" into \"sulat\" to make \"sumulat.\""
+      },
+      "ru": {
+        "definition": "Аффикс, вставляемый внутрь слова, а не на его края.",
+        "example": "В тагальском «-um-» вставляется в «sulat», образуя «sumulat».",
+        "term": "Инфикс"
+      },
+      "ja": {
+        "definition": "語の端ではなく内部に挿入される接辞(接中辞)。",
+        "example": "タガログ語は「sulat」に「-um-」を挿入して「sumulat」を作る。",
+        "term": "接中辞"
+      },
+      "ko": {
+        "definition": "단어의 가장자리가 아니라 안쪽에 끼워 넣는 접사.",
+        "example": "타갈로그어는 \"sulat\"에 \"-um-\"을 끼워 \"sumulat\"를 만든다.",
+        "term": "접요사"
+      },
+      "fr": {
+        "definition": "Un affixe inséré à l'intérieur d'un mot plutôt qu'à ses extrémités.",
+        "example": "Le tagalog insère « -um- » dans « sulat » pour former « sumulat ».",
+        "term": "Infixe"
+      },
+      "es": {
+        "definition": "Un afijo que se inserta dentro de una palabra en lugar de en sus extremos.",
+        "example": "El tagalo inserta \"-um-\" en \"sulat\" para formar \"sumulat\".",
+        "term": "Infijo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-061",
+    "deck": "linguistics",
+    "term": "Root",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "morphology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The core part of a word that carries its main meaning.",
+        "example": "\"Struct\" is the root of \"structure\" and \"construct.\""
+      },
+      "ru": {
+        "definition": "Главная часть слова, несущая его основное значение.",
+        "example": "«-да-» — корень в словах «дать» и «передача».",
+        "term": "Корень"
+      },
+      "ja": {
+        "definition": "主たる意味を担う、語の中心部分(語根)。",
+        "example": "「struct」は「structure」や「construct」の語根である。",
+        "term": "語根"
+      },
+      "ko": {
+        "definition": "단어의 주된 의미를 담고 있는 핵심 부분.",
+        "example": "\"struct\"는 \"structure\"와 \"construct\"의 어근이다.",
+        "term": "어근"
+      },
+      "fr": {
+        "definition": "La partie centrale d'un mot, qui en porte le sens principal.",
+        "example": "« Struct » est la racine de « structure » et de « construire ».",
+        "term": "Racine"
+      },
+      "es": {
+        "definition": "La parte central de una palabra que lleva su significado principal.",
+        "example": "\"Struct\" es la raíz de \"structure\" y \"construct\".",
+        "term": "Raíz"
+      }
+    }
+  },
+  {
+    "id": "linguistics-062",
+    "deck": "linguistics",
+    "term": "Stem",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "morphology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The part of a word to which inflectional endings are added.",
+        "example": "In \"running,\" \"run\" is the stem."
+      },
+      "ru": {
+        "definition": "Часть слова, к которой присоединяются словоизменительные окончания.",
+        "example": "В слове «бегущий» основа — «бег-».",
+        "term": "Основа"
+      },
+      "ja": {
+        "definition": "屈折語尾が付け加えられる、語の部分(語幹)。",
+        "example": "「running」では「run」が語幹である。",
+        "term": "語幹"
+      },
+      "ko": {
+        "definition": "굴절 어미가 붙는 단어의 부분.",
+        "example": "\"running\"에서 \"run\"이 어간이다.",
+        "term": "어간"
+      },
+      "fr": {
+        "definition": "La partie d'un mot à laquelle s'ajoutent les désinences flexionnelles.",
+        "example": "Dans « courant », « cour- » est le radical.",
+        "term": "Radical"
+      },
+      "es": {
+        "definition": "La parte de una palabra a la que se añaden las terminaciones flexivas.",
+        "example": "En \"running\", \"run\" es el tema.",
+        "term": "Tema"
+      }
+    }
+  },
+  {
+    "id": "linguistics-063",
+    "deck": "linguistics",
+    "term": "Assimilation",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sound change where one sound becomes more like a neighboring sound.",
+        "example": "\"Input\" is often said \"imput\" by assimilation."
+      },
+      "ru": {
+        "definition": "Звуковое изменение, при котором звук уподобляется соседнему.",
+        "example": "«Сделать» часто произносят как «зделать» — это ассимиляция.",
+        "term": "Ассимиляция"
+      },
+      "ja": {
+        "definition": "ある音が隣接する音に近づくように変化する音変化(同化)。",
+        "example": "「input」はしばしば同化により「imput」と発音される。",
+        "term": "同化"
+      },
+      "ko": {
+        "definition": "한 소리가 이웃 소리를 더 닮아 가는 소리 변화.",
+        "example": "\"input\"은 동화에 의해 흔히 \"imput\"으로 발음된다.",
+        "term": "동화"
+      },
+      "fr": {
+        "definition": "Un changement phonétique par lequel un son devient plus semblable à un son voisin.",
+        "example": "« Médecin » se prononce souvent « métsin » par assimilation.",
+        "term": "Assimilation"
+      },
+      "es": {
+        "definition": "Un cambio de sonido en el que un sonido se vuelve más parecido a uno vecino.",
+        "example": "\"Input\" se pronuncia a menudo \"imput\" por asimilación.",
+        "term": "Asimilación"
+      }
+    }
+  },
+  {
+    "id": "linguistics-064",
+    "deck": "linguistics",
+    "term": "Elision",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The omission of a sound or syllable in speech.",
+        "example": "\"Camera\" said as \"cam-ra\" shows elision."
+      },
+      "ru": {
+        "definition": "Выпадение звука или слога в речи.",
+        "example": "«Здравствуйте», звучащее как «здрасьте», — пример элизии.",
+        "term": "Элизия"
+      },
+      "ja": {
+        "definition": "発話の中で音や音節が脱落すること(脱落・省音)。",
+        "example": "「camera」を「cam-ra」と言うのは脱落の例である。",
+        "term": "音消失"
+      },
+      "ko": {
+        "definition": "말할 때 소리나 음절이 생략되는 것.",
+        "example": "\"camera\"를 \"cam-ra\"로 말하는 것은 탈락을 보여 준다.",
+        "term": "탈락"
+      },
+      "fr": {
+        "definition": "L'omission d'un son ou d'une syllabe dans la parole.",
+        "example": "« Caméra » prononcé « cam'ra » illustre l'élision.",
+        "term": "Élision"
+      },
+      "es": {
+        "definition": "La omisión de un sonido o una sílaba en el habla.",
+        "example": "\"Camera\" pronunciado \"cam-ra\" muestra elisión.",
+        "term": "Elisión"
+      }
+    }
+  },
+  {
+    "id": "linguistics-065",
+    "deck": "linguistics",
+    "term": "Phonotactics",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The rules governing permissible sound combinations in a language.",
+        "example": "English phonotactics forbids a word starting with \"ng.\""
+      },
+      "ru": {
+        "definition": "Правила допустимых сочетаний звуков в языке.",
+        "example": "Фонотактика английского запрещает слово, начинающееся на «ng».",
+        "term": "Фонотактика"
+      },
+      "ja": {
+        "definition": "ある言語で許される音の組み合わせを定める規則(音素配列論)。",
+        "example": "英語の音素配列論は語頭の「ng」を許さない。",
+        "term": "音素配列論"
+      },
+      "ko": {
+        "definition": "한 언어에서 허용되는 소리 조합을 지배하는 규칙.",
+        "example": "영어 음소배열론은 \"ng\"로 시작하는 단어를 금지한다.",
+        "term": "음소배열론"
+      },
+      "fr": {
+        "definition": "Les règles qui régissent les combinaisons de sons permises dans une langue.",
+        "example": "La phonotactique de l'anglais interdit qu'un mot commence par « ng ».",
+        "term": "Phonotactique"
+      },
+      "es": {
+        "definition": "Las reglas que rigen las combinaciones de sonidos permitidas en una lengua.",
+        "example": "La fonotáctica del inglés prohíbe que una palabra empiece por \"ng\".",
+        "term": "Fonotáctica"
+      }
+    }
+  },
+  {
+    "id": "linguistics-066",
+    "deck": "linguistics",
+    "term": "Syllable",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A unit of speech built around a vowel, with optional consonants.",
+        "example": "\"Water\" has two syllables: wa-ter."
+      },
+      "ru": {
+        "definition": "Единица речи вокруг гласного с возможными согласными.",
+        "example": "В слове «вода» два слога: во-да.",
+        "term": "Слог"
+      },
+      "ja": {
+        "definition": "母音を核とし、任意で子音を伴う発話の単位(音節)。",
+        "example": "「water」はwa-terの二音節から成る。",
+        "term": "音節"
+      },
+      "ko": {
+        "definition": "모음을 중심으로 이루어지며 자음이 선택적으로 붙는 발화 단위.",
+        "example": "\"water\"는 wa-ter의 두 음절로 이루어진다.",
+        "term": "음절"
+      },
+      "fr": {
+        "definition": "Une unité de parole construite autour d'une voyelle, avec d'éventuelles consonnes.",
+        "example": "« Maison » compte deux syllabes : mai-son.",
+        "term": "Syllabe"
+      },
+      "es": {
+        "definition": "Una unidad del habla construida en torno a una vocal, con consonantes opcionales.",
+        "example": "\"Water\" tiene dos sílabas: wa-ter.",
+        "term": "Sílaba"
+      }
+    }
+  },
+  {
+    "id": "linguistics-067",
+    "deck": "linguistics",
+    "term": "Stress",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "phonology",
+      "prosody"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The relative emphasis given to a syllable in a word or phrase.",
+        "example": "\"REcord\" (noun) and \"reCORD\" (verb) differ by stress."
+      },
+      "ru": {
+        "definition": "Относительное выделение слога в слове или фразе.",
+        "example": "«За́мок» и «замо́к» различаются ударением.",
+        "term": "Ударение"
+      },
+      "ja": {
+        "definition": "語や句の中で音節に与えられる相対的な強さ(強勢・アクセント)。",
+        "example": "「REcord(名詞)」と「reCORD(動詞)」は強勢で区別される。",
+        "term": "強勢"
+      },
+      "ko": {
+        "definition": "단어나 구 안에서 한 음절에 주어지는 상대적 강세.",
+        "example": "\"REcord\"(명사)와 \"reCORD\"(동사)는 강세로 구별된다.",
+        "term": "강세"
+      },
+      "fr": {
+        "definition": "La mise en relief relative donnée à une syllabe dans un mot ou un syntagme.",
+        "example": "En anglais, « REcord » (nom) et « reCORD » (verbe) diffèrent par l'accent tonique.",
+        "term": "Accent"
+      },
+      "es": {
+        "definition": "El énfasis relativo que recibe una sílaba dentro de una palabra o frase.",
+        "example": "\"REcord\" (sustantivo) y \"reCORD\" (verbo) se diferencian por el acento.",
+        "term": "Acento"
+      }
+    }
+  },
+  {
+    "id": "linguistics-068",
+    "deck": "linguistics",
+    "term": "Intonation",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "phonology",
+      "prosody"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The rise and fall of pitch across an utterance.",
+        "example": "Rising intonation can turn a statement into a question."
+      },
+      "ru": {
+        "definition": "Повышение и понижение тона на протяжении высказывания.",
+        "example": "Восходящая интонация может превратить утверждение в вопрос.",
+        "term": "Интонация"
+      },
+      "ja": {
+        "definition": "発話全体にわたる音の高さの上がり下がり(抑揚・イントネーション)。",
+        "example": "上昇調の抑揚は平叙文を疑問文に変えることができる。",
+        "term": "イントネーション"
+      },
+      "ko": {
+        "definition": "발화 전체에 걸친 음높이의 오르내림.",
+        "example": "올라가는 억양은 평서문을 의문문으로 바꿀 수 있다.",
+        "term": "억양"
+      },
+      "fr": {
+        "definition": "La montée et la descente de la hauteur de la voix au fil d'un énoncé.",
+        "example": "Une intonation montante peut transformer une affirmation en question.",
+        "term": "Intonation"
+      },
+      "es": {
+        "definition": "El ascenso y descenso del tono a lo largo de un enunciado.",
+        "example": "Una entonación ascendente puede convertir una afirmación en pregunta.",
+        "term": "Entonación"
+      }
+    }
+  },
+  {
+    "id": "linguistics-069",
+    "deck": "linguistics",
+    "term": "Tone",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The use of pitch to distinguish word meanings in tonal languages.",
+        "example": "In Mandarin, \"ma\" can mean mother or horse depending on tone."
+      },
+      "ru": {
+        "definition": "Использование высоты тона для различения значений слов в тоновых языках.",
+        "example": "В китайском «ma» означает «мать» или «лошадь» в зависимости от тона.",
+        "term": "Тон"
+      },
+      "ja": {
+        "definition": "声調言語において語の意味を区別するための音の高さの用法(声調)。",
+        "example": "中国語では「ma」は声調によって母や馬を意味しうる。",
+        "term": "声調"
+      },
+      "ko": {
+        "definition": "성조 언어에서 단어 의미를 구별하기 위해 음높이를 쓰는 것.",
+        "example": "중국어에서 \"ma\"는 성조에 따라 어머니 또는 말을 뜻한다.",
+        "term": "성조"
+      },
+      "fr": {
+        "definition": "L'emploi de la hauteur de la voix pour distinguer le sens des mots dans les langues à tons.",
+        "example": "En mandarin, « ma » peut signifier mère ou cheval selon le ton.",
+        "term": "Ton"
+      },
+      "es": {
+        "definition": "El uso del tono para distinguir significados de palabras en las lenguas tonales.",
+        "example": "En mandarín, \"ma\" puede significar madre o caballo según el tono.",
+        "term": "Tono"
+      }
+    }
+  },
+  {
+    "id": "linguistics-070",
+    "deck": "linguistics",
+    "term": "Lexeme",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "lexicology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An abstract unit of vocabulary covering all forms of a single word.",
+        "example": "The lexeme RUN includes run, runs, ran, and running."
+      },
+      "ru": {
+        "definition": "Абстрактная единица словаря, охватывающая все формы одного слова.",
+        "example": "Лексема БЕЖАТЬ включает бежит, бежал и бегущий.",
+        "term": "Лексема"
+      },
+      "ja": {
+        "definition": "一つの語のあらゆる形を包括する、抽象的な語彙単位(語彙素)。",
+        "example": "語彙素RUNはrun・runs・ran・runningを含む。",
+        "term": "語彙素"
+      },
+      "ko": {
+        "definition": "한 단어의 모든 형태를 아우르는 추상적 어휘 단위.",
+        "example": "어휘소 RUN은 run, runs, ran, running을 포함한다.",
+        "term": "어휘소"
+      },
+      "fr": {
+        "definition": "Une unité abstraite de vocabulaire regroupant toutes les formes d'un même mot.",
+        "example": "Le lexème COURIR englobe cours, courons, courut et courant.",
+        "term": "Lexème"
+      },
+      "es": {
+        "definition": "Una unidad abstracta del vocabulario que abarca todas las formas de una misma palabra.",
+        "example": "El lexema RUN incluye run, runs, ran y running.",
+        "term": "Lexema"
+      }
+    }
+  },
+  {
+    "id": "linguistics-071",
+    "deck": "linguistics",
+    "term": "Collocation",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "semantics",
+      "usage"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Words that habitually occur together more often than by chance.",
+        "example": "We say \"strong tea,\" not \"powerful tea\" — a collocation."
+      },
+      "ru": {
+        "definition": "Слова, регулярно встречающиеся вместе чаще, чем случайно.",
+        "example": "Говорят «крепкий чай», а не «сильный чай» — это коллокация.",
+        "term": "Коллокация"
+      },
+      "ja": {
+        "definition": "偶然以上に習慣的に共起する語の結びつき(連語・コロケーション)。",
+        "example": "我々は「powerful tea」ではなく「strong tea」と言う。これが連語である。",
+        "term": "連語"
+      },
+      "ko": {
+        "definition": "우연 이상으로 습관적으로 함께 나타나는 단어들.",
+        "example": "우리는 \"powerful tea\"가 아니라 \"strong tea\"라고 말하는데, 이것이 연어다.",
+        "term": "연어"
+      },
+      "fr": {
+        "definition": "Des mots qui apparaissent habituellement ensemble plus souvent que par hasard.",
+        "example": "On dit « pluie battante », et non « pluie puissante » : c'est une collocation.",
+        "term": "Collocation"
+      },
+      "es": {
+        "definition": "Palabras que aparecen juntas habitualmente con más frecuencia de la esperable por azar.",
+        "example": "Decimos \"strong tea\", no \"powerful tea\": es una colocación.",
+        "term": "Colocación"
+      }
+    }
+  },
+  {
+    "id": "linguistics-072",
+    "deck": "linguistics",
+    "term": "Hyponym",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "semantics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word whose meaning is included within that of a broader term.",
+        "example": "\"Rose\" is a hyponym of \"flower.\""
+      },
+      "ru": {
+        "definition": "Слово, значение которого входит в объём более широкого термина.",
+        "example": "«Роза» — гипоним к слову «цветок».",
+        "term": "Гипоним"
+      },
+      "ja": {
+        "definition": "より広い語の意味に含まれる、下位の語(下位語)。",
+        "example": "「rose」は「flower」の下位語である。",
+        "term": "下位語"
+      },
+      "ko": {
+        "definition": "더 넓은 상위어의 의미에 포함되는 단어.",
+        "example": "\"rose\"는 \"flower\"의 하의어다.",
+        "term": "하위어"
+      },
+      "fr": {
+        "definition": "Un mot dont le sens est inclus dans celui d'un terme plus général.",
+        "example": "« Rose » est un hyponyme de « fleur ».",
+        "term": "Hyponyme"
+      },
+      "es": {
+        "definition": "Una palabra cuyo significado está incluido dentro del de un término más amplio.",
+        "example": "\"Rose\" es un hipónimo de \"flower\".",
+        "term": "Hipónimo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-073",
+    "deck": "linguistics",
+    "term": "Hypernym",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "semantics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A broad word whose meaning includes that of more specific terms.",
+        "example": "\"Animal\" is a hypernym of \"dog\" and \"cat.\""
+      },
+      "ru": {
+        "definition": "Широкое слово, значение которого включает более частные термины.",
+        "example": "«Животное» — гипероним к «собака» и «кошка».",
+        "term": "Гипероним"
+      },
+      "ja": {
+        "definition": "より具体的な語の意味を含む、広い語(上位語)。",
+        "example": "「animal」は「dog」や「cat」の上位語である。",
+        "term": "上位語"
+      },
+      "ko": {
+        "definition": "더 구체적인 단어들의 의미를 포함하는 넓은 의미의 단어.",
+        "example": "\"animal\"은 \"dog\"와 \"cat\"의 상의어다.",
+        "term": "상위어"
+      },
+      "fr": {
+        "definition": "Un mot général dont le sens englobe celui de termes plus spécifiques.",
+        "example": "« Animal » est un hyperonyme de « chien » et de « chat ».",
+        "term": "Hyperonyme"
+      },
+      "es": {
+        "definition": "Una palabra amplia cuyo significado incluye el de términos más específicos.",
+        "example": "\"Animal\" es un hiperónimo de \"dog\" y \"cat\".",
+        "term": "Hiperónimo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-074",
+    "deck": "linguistics",
+    "term": "Metaphor",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "semantics",
+      "figurative"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Describing one thing as another to suggest a likeness between them.",
+        "example": "\"Time is money\" is a metaphor."
+      },
+      "ru": {
+        "definition": "Описание одного через другое для указания на их сходство.",
+        "example": "«Время — деньги» — это метафора.",
+        "term": "Метафора"
+      },
+      "ja": {
+        "definition": "二つの物の類似を示すために一方を他方として描くこと(隠喩・メタファー)。",
+        "example": "「Time is money(時は金なり)」は隠喩である。",
+        "term": "隠喩"
+      },
+      "ko": {
+        "definition": "두 대상 사이의 유사성을 암시하기 위해 하나를 다른 것으로 묘사하는 것.",
+        "example": "\"시간은 돈이다\"는 은유다.",
+        "term": "은유"
+      },
+      "fr": {
+        "definition": "Décrire une chose comme une autre afin de suggérer une ressemblance entre elles.",
+        "example": "« Le temps, c'est de l'argent » est une métaphore.",
+        "term": "Métaphore"
+      },
+      "es": {
+        "definition": "Describir una cosa como otra para sugerir una semejanza entre ambas.",
+        "example": "\"Time is money\" es una metáfora.",
+        "term": "Metáfora"
+      }
+    }
+  },
+  {
+    "id": "linguistics-075",
+    "deck": "linguistics",
+    "term": "Metonymy",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "semantics",
+      "figurative"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Referring to something by the name of a thing closely associated with it.",
+        "example": "\"The White House said\" uses metonymy for the administration."
+      },
+      "ru": {
+        "definition": "Называние чего-либо по имени тесно связанного с ним предмета.",
+        "example": "«Кремль заявил» использует метонимию вместо «администрация».",
+        "term": "Метонимия"
+      },
+      "ja": {
+        "definition": "密接に関連する物の名で対象を指すこと(換喩・メトニミー)。",
+        "example": "「The White House said」は政権を指す換喩である。",
+        "term": "換喩"
+      },
+      "ko": {
+        "definition": "어떤 것을 그와 밀접히 연관된 사물의 이름으로 가리키는 것.",
+        "example": "\"백악관이 말했다\"는 행정부를 가리키는 환유를 쓴 것이다.",
+        "term": "환유"
+      },
+      "fr": {
+        "definition": "Désigner une chose par le nom d'une autre qui lui est étroitement associée.",
+        "example": "« L'Élysée a déclaré » emploie la métonymie pour la présidence.",
+        "term": "Métonymie"
+      },
+      "es": {
+        "definition": "Referirse a algo mediante el nombre de una cosa estrechamente asociada a ello.",
+        "example": "\"The White House said\" usa la metonimia para referirse al gobierno.",
+        "term": "Metonimia"
+      }
+    }
+  },
+  {
+    "id": "linguistics-076",
+    "deck": "linguistics",
+    "term": "Semantic shift",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "historical",
+      "semantics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A change in a word's meaning over the course of time.",
+        "example": "\"Nice\" once meant \"foolish\" before semantic shift."
+      },
+      "ru": {
+        "definition": "Изменение значения слова с течением времени.",
+        "example": "«Прелесть» когда-то означала «соблазн» до семантического сдвига.",
+        "term": "Семантический сдвиг"
+      },
+      "ja": {
+        "definition": "時を経て語の意味が変化すること(意味変化)。",
+        "example": "「nice」は意味変化を経る前は「愚かな」を意味していた。",
+        "term": "意味変化"
+      },
+      "ko": {
+        "definition": "시간이 흐르면서 단어의 의미가 변하는 것.",
+        "example": "\"nice\"는 의미 변화 이전에는 \"어리석은\"을 뜻했다.",
+        "term": "의미 변화"
+      },
+      "fr": {
+        "definition": "Un changement de sens d'un mot au fil du temps.",
+        "example": "« Sympathique » a connu un glissement sémantique au cours de son histoire.",
+        "term": "Changement sémantique"
+      },
+      "es": {
+        "definition": "Un cambio en el significado de una palabra a lo largo del tiempo.",
+        "example": "\"Nice\" significó antes \"tonto\" antes de un cambio semántico.",
+        "term": "Cambio semántico"
+      }
+    }
+  },
+  {
+    "id": "linguistics-077",
+    "deck": "linguistics",
+    "term": "Eponym",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "etymology",
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word derived from the name of a person or place.",
+        "example": "\"Sandwich\" is an eponym from the Earl of Sandwich."
+      },
+      "ru": {
+        "definition": "Слово, образованное от имени человека или названия места.",
+        "example": "«Сэндвич» — эпоним от имени графа Сэндвича.",
+        "term": "Эпоним"
+      },
+      "ja": {
+        "definition": "人名や地名に由来する語(名祖語・エポニム)。",
+        "example": "「sandwich」はサンドイッチ伯爵に由来する名祖語である。",
+        "term": "名祖"
+      },
+      "ko": {
+        "definition": "사람이나 장소의 이름에서 유래한 단어.",
+        "example": "\"sandwich\"는 샌드위치 백작에서 온 인명 유래어다.",
+        "term": "명조어"
+      },
+      "fr": {
+        "definition": "Un mot dérivé du nom d'une personne ou d'un lieu.",
+        "example": "« Poubelle » est un éponyme tiré du nom du préfet Poubelle.",
+        "term": "Éponyme"
+      },
+      "es": {
+        "definition": "Una palabra derivada del nombre de una persona o un lugar.",
+        "example": "\"Sandwich\" es un epónimo que proviene del conde de Sandwich.",
+        "term": "Epónimo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-078",
+    "deck": "linguistics",
+    "term": "Acronym",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word formed from the initial letters of a phrase, read as a word.",
+        "example": "\"NASA\" is an acronym pronounced as one word."
+      },
+      "ru": {
+        "definition": "Слово из начальных букв фразы, читаемое как одно слово.",
+        "example": "«НАСА» — акроним, произносимый как одно слово.",
+        "term": "Акроним"
+      },
+      "ja": {
+        "definition": "語句の頭文字から作られ、一語として読まれる語(頭字語)。",
+        "example": "「NASA」は一語として発音される頭字語である。",
+        "term": "頭字語"
+      },
+      "ko": {
+        "definition": "구의 첫 글자들로 만들어져 하나의 단어처럼 읽는 단어.",
+        "example": "\"NASA\"는 한 단어로 발음하는 두문자어다.",
+        "term": "두문자어"
+      },
+      "fr": {
+        "definition": "Un mot formé à partir des lettres initiales d'une expression et lu comme un mot.",
+        "example": "« OVNI » est un acronyme prononcé comme un seul mot.",
+        "term": "Acronyme"
+      },
+      "es": {
+        "definition": "Una palabra formada con las iniciales de una expresión y leída como una palabra.",
+        "example": "\"NASA\" es un acrónimo que se pronuncia como una sola palabra.",
+        "term": "Acrónimo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-079",
+    "deck": "linguistics",
+    "term": "Initialism",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An abbreviation pronounced as separate letters, not as a word.",
+        "example": "\"FBI\" is an initialism, said letter by letter."
+      },
+      "ru": {
+        "definition": "Аббревиатура, читаемая по отдельным буквам, а не как слово.",
+        "example": "«ФБР» — инициальная аббревиатура, читаемая по буквам.",
+        "term": "Инициальная аббревиатура"
+      },
+      "ja": {
+        "definition": "一語としてではなく、文字ごとに読まれる略語(頭文字語)。",
+        "example": "「FBI」は一文字ずつ読む頭文字語である。",
+        "term": "頭文字語"
+      },
+      "ko": {
+        "definition": "하나의 단어가 아니라 낱글자로 따로 발음하는 약어.",
+        "example": "\"FBI\"는 글자 하나씩 읽는 알파벳 약어다.",
+        "term": "이니셜리즘"
+      },
+      "fr": {
+        "definition": "Une abréviation prononcée lettre par lettre, et non comme un mot.",
+        "example": "« SNCF » est un sigle, épelé lettre par lettre.",
+        "term": "Sigle"
+      },
+      "es": {
+        "definition": "Una sigla que se pronuncia letra por letra, no como una palabra.",
+        "example": "\"FBI\" es una sigla que se lee deletreando cada letra.",
+        "term": "Sigla"
+      }
+    }
+  },
+  {
+    "id": "linguistics-080",
+    "deck": "linguistics",
+    "term": "Reduplication",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "morphology",
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Forming words by repeating all or part of a base.",
+        "example": "\"Bye-bye\" and Indonesian \"buku-buku\" (books) use reduplication."
+      },
+      "ru": {
+        "definition": "Образование слов повтором всей основы или её части.",
+        "example": "«Чуть-чуть» и индонезийское «buku-buku» (книги) — редупликация.",
+        "term": "Редупликация"
+      },
+      "ja": {
+        "definition": "基となる語の全部または一部を繰り返して語を作ること(重複・畳語)。",
+        "example": "「bye-bye」やインドネシア語「buku-buku(本)」は重複を用いる。",
+        "term": "重複"
+      },
+      "ko": {
+        "definition": "어기의 전체나 일부를 반복하여 단어를 만드는 것.",
+        "example": "\"bye-bye\"와 인도네시아어 \"buku-buku\"(책들)는 중첩을 쓴다.",
+        "term": "중첩"
+      },
+      "fr": {
+        "definition": "La formation de mots par répétition de tout ou partie d'une base.",
+        "example": "« Joujou » et l'indonésien « buku-buku » (livres) recourent à la réduplication.",
+        "term": "Réduplication"
+      },
+      "es": {
+        "definition": "Formar palabras repitiendo total o parcialmente una base.",
+        "example": "\"Bye-bye\" y el indonesio \"buku-buku\" (libros) usan la reduplicación.",
+        "term": "Reduplicación"
+      }
+    }
+  },
+  {
+    "id": "linguistics-081",
+    "deck": "linguistics",
+    "term": "Clipping",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Shortening a word by dropping syllables while keeping its meaning.",
+        "example": "\"Phone\" is a clipping of \"telephone.\""
+      },
+      "ru": {
+        "definition": "Сокращение слова отбрасыванием слогов с сохранением значения.",
+        "example": "«Метро» — усечение от «метрополитен».",
+        "term": "Усечение"
+      },
+      "ja": {
+        "definition": "意味を保ったまま音節を省いて語を短縮すること(短縮)。",
+        "example": "「phone」は「telephone」の短縮形である。",
+        "term": "切り取り"
+      },
+      "ko": {
+        "definition": "의미는 유지한 채 음절을 떨어뜨려 단어를 줄이는 것.",
+        "example": "\"phone\"은 \"telephone\"의 절단형이다.",
+        "term": "절단"
+      },
+      "fr": {
+        "definition": "L'abrègement d'un mot par suppression de syllabes tout en gardant son sens.",
+        "example": "« Télé » est une troncation de « télévision ».",
+        "term": "Troncation"
+      },
+      "es": {
+        "definition": "Acortar una palabra eliminando sílabas pero conservando su significado.",
+        "example": "\"Phone\" es un acortamiento de \"telephone\".",
+        "term": "Acortamiento"
+      }
+    }
+  },
+  {
+    "id": "linguistics-082",
+    "deck": "linguistics",
+    "term": "Backformation",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "word-formation",
+      "historical"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Creating a new word by removing what looks like an affix from an existing one.",
+        "example": "\"Edit\" was backformed from \"editor.\""
+      },
+      "ru": {
+        "definition": "Создание нового слова удалением мнимого аффикса из существующего.",
+        "example": "Английское «edit» образовано обратной деривацией от «editor».",
+        "term": "Обратное словообразование"
+      },
+      "ja": {
+        "definition": "既存の語から接辞のように見える部分を取り去って新語を作ること(逆成)。",
+        "example": "「edit」は「editor」から逆成された語である。",
+        "term": "逆成"
+      },
+      "ko": {
+        "definition": "기존 단어에서 접사처럼 보이는 부분을 떼어 내 새 단어를 만드는 것.",
+        "example": "\"edit\"은 \"editor\"에서 역형성된 단어다.",
+        "term": "역성"
+      },
+      "fr": {
+        "definition": "La création d'un nouveau mot en retirant ce qui ressemble à un affixe dans un mot existant.",
+        "example": "« Éditer » a été formé par dérivation régressive à partir de « éditeur ».",
+        "term": "Dérivation régressive"
+      },
+      "es": {
+        "definition": "Crear una palabra nueva eliminando de otra lo que parece un afijo.",
+        "example": "\"Edit\" se formó por derivación regresiva a partir de \"editor\".",
+        "term": "Retroformación"
+      }
+    }
+  },
+  {
+    "id": "linguistics-083",
+    "deck": "linguistics",
+    "term": "Compounding",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "word-formation",
+      "morphology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Forming a new word by joining two or more existing words.",
+        "example": "\"Toothbrush\" combines \"tooth\" and \"brush.\""
+      },
+      "ru": {
+        "definition": "Образование нового слова соединением двух или более слов.",
+        "example": "«Пароход» соединяет «пар» и «ход».",
+        "term": "Словосложение"
+      },
+      "ja": {
+        "definition": "二つ以上の既存の語を結合して新語を作ること(複合)。",
+        "example": "「toothbrush」は「tooth」と「brush」を結合したものである。",
+        "term": "複合"
+      },
+      "ko": {
+        "definition": "기존 단어 둘 이상을 합쳐 새 단어를 만드는 것.",
+        "example": "\"toothbrush\"는 \"tooth\"와 \"brush\"를 합친다.",
+        "term": "합성"
+      },
+      "fr": {
+        "definition": "La formation d'un nouveau mot par l'assemblage de deux mots existants ou davantage.",
+        "example": "« Portemanteau » combine « porter » et « manteau ».",
+        "term": "Composition"
+      },
+      "es": {
+        "definition": "Formar una palabra nueva uniendo dos o más palabras existentes.",
+        "example": "\"Toothbrush\" combina \"tooth\" y \"brush\".",
+        "term": "Composición"
+      }
+    }
+  },
+  {
+    "id": "linguistics-084",
+    "deck": "linguistics",
+    "term": "Phoneme contrast",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sound difference that distinguishes meaning, shown by a minimal pair.",
+        "example": "\"Bit\" vs \"bet\" reveals a phoneme contrast between the vowels."
+      },
+      "ru": {
+        "definition": "Звуковое различие, разграничивающее значения, выявляемое минимальной парой.",
+        "example": "«Бит» и «бык» выявляют фонемный контраст между гласными.",
+        "term": "Фонемный контраст"
+      },
+      "ja": {
+        "definition": "意味を区別する音の違いで、ミニマルペアによって示される(音素対立)。",
+        "example": "「bit」と「bet」は母音における音素対立を明らかにする。",
+        "term": "音素対立"
+      },
+      "ko": {
+        "definition": "최소대립쌍으로 드러나는, 의미를 구별하는 소리 차이.",
+        "example": "\"bit\"과 \"bet\"은 모음 사이의 음소 대립을 드러낸다.",
+        "term": "음소 대립"
+      },
+      "fr": {
+        "definition": "Une différence sonore qui distingue le sens, mise en évidence par une paire minimale.",
+        "example": "L'anglais « bit » et « bet » révèle un contraste phonémique entre les voyelles.",
+        "term": "Contraste phonémique"
+      },
+      "es": {
+        "definition": "Una diferencia de sonido que distingue significados, evidenciada por un par mínimo.",
+        "example": "\"Bit\" frente a \"bet\" revela un contraste fonémico entre las vocales.",
+        "term": "Contraste fonémico"
+      }
+    }
+  },
+  {
+    "id": "linguistics-085",
+    "deck": "linguistics",
+    "term": "Minimal pair",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Two words differing by only one sound, proving that sound is a phoneme.",
+        "example": "\"Cat\" and \"bat\" form a minimal pair."
+      },
+      "ru": {
+        "definition": "Два слова, различающиеся лишь одним звуком и доказывающие, что он — фонема.",
+        "example": "«Дом» и «том» образуют минимальную пару.",
+        "term": "Минимальная пара"
+      },
+      "ja": {
+        "definition": "一つの音だけ異なり、その音が音素であることを証明する二語(ミニマルペア)。",
+        "example": "「cat」と「bat」はミニマルペアをなす。",
+        "term": "最小対"
+      },
+      "ko": {
+        "definition": "한 소리만 다른 두 단어로, 그 소리가 음소임을 증명한다.",
+        "example": "\"cat\"과 \"bat\"은 최소대립쌍을 이룬다.",
+        "term": "최소대립쌍"
+      },
+      "fr": {
+        "definition": "Deux mots ne différant que par un seul son, ce qui prouve que ce son est un phonème.",
+        "example": "« Pain » et « bain » forment une paire minimale.",
+        "term": "Paire minimale"
+      },
+      "es": {
+        "definition": "Dos palabras que difieren en un solo sonido, lo que prueba que ese sonido es un fonema.",
+        "example": "\"Cat\" y \"bat\" forman un par mínimo.",
+        "term": "Par mínimo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-086",
+    "deck": "linguistics",
+    "term": "Glottal stop",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "phonetics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A speech sound made by briefly closing the vocal cords.",
+        "example": "Many speakers use a glottal stop in \"uh-oh.\""
+      },
+      "ru": {
+        "definition": "Звук речи, образуемый кратким смыканием голосовых связок.",
+        "example": "Многие произносят гортанную смычку в возгласе «не-а».",
+        "term": "Гортанная смычка"
+      },
+      "ja": {
+        "definition": "声帯を一瞬閉じることで作られる音(声門閉鎖音)。",
+        "example": "多くの話者は「uh-oh」で声門閉鎖音を用いる。",
+        "term": "声門閉鎖音"
+      },
+      "ko": {
+        "definition": "성대를 잠깐 닫았다 여는 것으로 내는 말소리.",
+        "example": "많은 화자가 \"uh-oh\"에서 성문 폐쇄음을 쓴다.",
+        "term": "성문 파열음"
+      },
+      "fr": {
+        "definition": "Un son de parole produit par une brève fermeture des cordes vocales.",
+        "example": "De nombreux locuteurs emploient un coup de glotte dans « oh-oh ».",
+        "term": "Coup de glotte"
+      },
+      "es": {
+        "definition": "Un sonido del habla producido al cerrar brevemente las cuerdas vocales.",
+        "example": "Muchos hablantes usan una oclusiva glotal en \"uh-oh\".",
+        "term": "Oclusiva glotal"
+      }
+    }
+  },
+  {
+    "id": "linguistics-087",
+    "deck": "linguistics",
+    "term": "Schwa",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "phonetics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The neutral, unstressed vowel sound common in English, written /ə/.",
+        "example": "The \"a\" in \"about\" is a schwa."
+      },
+      "ru": {
+        "definition": "Нейтральный безударный гласный, обозначаемый знаком /ə/.",
+        "example": "Первый гласный в английском «about» — шва.",
+        "term": "Шва"
+      },
+      "ja": {
+        "definition": "英語によく現れる中立で無強勢の母音で、/ə/と書かれる(シュワー・曖昧母音)。",
+        "example": "「about」の「a」はシュワーである。",
+        "term": "シュワー"
+      },
+      "ko": {
+        "definition": "영어에 흔한 중립적이고 강세 없는 모음 소리로, /ə/로 표기한다.",
+        "example": "\"about\"의 \"a\"는 슈와다.",
+        "term": "슈와"
+      },
+      "fr": {
+        "definition": "La voyelle neutre et inaccentuée, notée /ə/.",
+        "example": "Le « e » de « petit » est un schwa.",
+        "term": "Schwa"
+      },
+      "es": {
+        "definition": "La vocal neutra y átona, frecuente en inglés, que se transcribe /ə/.",
+        "example": "La \"a\" de \"about\" es una schwa.",
+        "term": "Schwa"
+      }
+    }
+  },
+  {
+    "id": "linguistics-088",
+    "deck": "linguistics",
+    "term": "Consonant cluster",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A group of consonants pronounced together without a vowel between them.",
+        "example": "\"Strength\" begins with the cluster \"str.\""
+      },
+      "ru": {
+        "definition": "Группа согласных, произносимых вместе без гласного между ними.",
+        "example": "Слово «взгляд» начинается с кластера «взгл».",
+        "term": "Стечение согласных"
+      },
+      "ja": {
+        "definition": "間に母音を挟まずにまとめて発音される子音の連なり(子音連結)。",
+        "example": "「strength」は子音連結「str」で始まる。",
+        "term": "子音連結"
+      },
+      "ko": {
+        "definition": "사이에 모음 없이 함께 발음되는 자음들의 묶음.",
+        "example": "\"strength\"는 자음군 \"str\"로 시작한다.",
+        "term": "자음군"
+      },
+      "fr": {
+        "definition": "Un groupe de consonnes prononcées ensemble sans voyelle entre elles.",
+        "example": "« Stress » commence par le groupe consonantique « str ».",
+        "term": "Groupe consonantique"
+      },
+      "es": {
+        "definition": "Un grupo de consonantes pronunciadas juntas sin una vocal entre ellas.",
+        "example": "\"Strength\" empieza con el grupo \"str\".",
+        "term": "Grupo consonántico"
+      }
+    }
+  },
+  {
+    "id": "linguistics-089",
+    "deck": "linguistics",
+    "term": "Diacritic",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "writing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A mark added to a letter to change its sound or meaning.",
+        "example": "The accent in \"café\" is a diacritic."
+      },
+      "ru": {
+        "definition": "Знак при букве, меняющий её звучание или значение.",
+        "example": "Две точки в букве «ё» — диакритический знак.",
+        "term": "Диакритический знак"
+      },
+      "ja": {
+        "definition": "音や意味を変えるために文字に付け加えられる記号(発音区別符号・ダイアクリティカルマーク)。",
+        "example": "「café」のアクセント記号は発音区別符号である。",
+        "term": "発音区別符号"
+      },
+      "ko": {
+        "definition": "소리나 의미를 바꾸기 위해 글자에 덧붙이는 부호.",
+        "example": "\"café\"의 강세 부호는 분음 부호다.",
+        "term": "발음 구별 기호"
+      },
+      "fr": {
+        "definition": "Un signe ajouté à une lettre pour en modifier le son ou le sens.",
+        "example": "L'accent de « café » est un signe diacritique.",
+        "term": "Diacritique"
+      },
+      "es": {
+        "definition": "Una marca añadida a una letra para cambiar su sonido o su significado.",
+        "example": "El acento de \"café\" es un signo diacrítico.",
+        "term": "Diacrítico"
+      }
+    }
+  },
+  {
+    "id": "linguistics-090",
+    "deck": "linguistics",
+    "term": "Logogram",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "writing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A written character that represents a whole word or morpheme.",
+        "example": "Chinese characters and \"&\" are logograms."
+      },
+      "ru": {
+        "definition": "Письменный знак, обозначающий целое слово или морфему.",
+        "example": "Китайские иероглифы и знак «&» — логограммы.",
+        "term": "Логограмма"
+      },
+      "ja": {
+        "definition": "一つの語または形態素全体を表す書記文字(表語文字)。",
+        "example": "漢字や「&」は表語文字である。",
+        "term": "表語文字"
+      },
+      "ko": {
+        "definition": "하나의 단어나 형태소 전체를 나타내는 문자.",
+        "example": "한자와 \"&\"는 표어 문자다.",
+        "term": "표어문자"
+      },
+      "fr": {
+        "definition": "Un caractère écrit qui représente un mot entier ou un morphème.",
+        "example": "Les caractères chinois et le signe « & » sont des logogrammes.",
+        "term": "Logogramme"
+      },
+      "es": {
+        "definition": "Un carácter escrito que representa una palabra o un morfema completo.",
+        "example": "Los caracteres chinos y el signo \"&\" son logogramas.",
+        "term": "Logograma"
+      }
+    }
+  },
+  {
+    "id": "linguistics-091",
+    "deck": "linguistics",
+    "term": "Syllabary",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "writing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A writing system whose symbols each represent a syllable.",
+        "example": "Japanese hiragana is a syllabary."
+      },
+      "ru": {
+        "definition": "Система письма, где каждый знак обозначает слог.",
+        "example": "Японская хирагана — это слоговое письмо.",
+        "term": "Силлабарий"
+      },
+      "ja": {
+        "definition": "各記号がそれぞれ一つの音節を表す書記体系(音節文字)。",
+        "example": "日本語のひらがなは音節文字である。",
+        "term": "音節文字"
+      },
+      "ko": {
+        "definition": "각 기호가 하나의 음절을 나타내는 문자 체계.",
+        "example": "일본어 히라가나는 음절 문자다.",
+        "term": "음절문자"
+      },
+      "fr": {
+        "definition": "Un système d'écriture dont chaque symbole représente une syllabe.",
+        "example": "Le hiragana japonais est un syllabaire.",
+        "term": "Syllabaire"
+      },
+      "es": {
+        "definition": "Un sistema de escritura cuyos símbolos representan cada uno una sílaba.",
+        "example": "El hiragana japonés es un silabario.",
+        "term": "Silabario"
+      }
+    }
+  },
+  {
+    "id": "linguistics-092",
+    "deck": "linguistics",
+    "term": "Phrasal verb",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "grammar",
+      "usage"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A verb combined with a particle, giving a meaning beyond the parts.",
+        "example": "\"Give up\" means quit, not literally giving anything."
+      },
+      "ru": {
+        "definition": "Глагол с частицей, дающий значение сверх суммы частей.",
+        "example": "Английское «give up» означает «сдаться», а не буквально «дать».",
+        "term": "Фразовый глагол"
+      },
+      "ja": {
+        "definition": "動詞と不変化詞が結びつき、各部分を超えた意味をもつもの(句動詞)。",
+        "example": "「give up」は何かを文字どおり与えるのではなく、やめることを意味する。",
+        "term": "句動詞"
+      },
+      "ko": {
+        "definition": "동사가 불변화사와 결합하여 부분의 합을 넘어서는 의미를 갖는 것.",
+        "example": "\"give up\"은 무언가를 준다는 뜻이 아니라 그만둔다는 뜻이다.",
+        "term": "구동사"
+      },
+      "fr": {
+        "definition": "Un verbe associé à une particule, dont le sens dépasse celui de ses éléments.",
+        "example": "L'anglais « give up » signifie abandonner, et non donner quoi que ce soit.",
+        "term": "Verbe à particule"
+      },
+      "es": {
+        "definition": "Un verbo combinado con una partícula que da un significado más allá de sus partes.",
+        "example": "\"Give up\" significa rendirse, no entregar algo literalmente.",
+        "term": "Verbo con partícula"
+      }
+    }
+  },
+  {
+    "id": "linguistics-093",
+    "deck": "linguistics",
+    "term": "Morpheme boundary",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "morphology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The point where one morpheme ends and another begins within a word.",
+        "example": "In \"unkind-ness,\" the boundary sits before \"-ness.\""
+      },
+      "ru": {
+        "definition": "Точка внутри слова, где одна морфема кончается, а другая начинается.",
+        "example": "В слове «не-добр-ый» границы проходят перед «добр» и перед «-ый».",
+        "term": "Граница морфем"
+      },
+      "ja": {
+        "definition": "語の中で一つの形態素が終わり次が始まる点(形態素境界)。",
+        "example": "「unkind-ness」では境界は「-ness」の前にある。",
+        "term": "形態素境界"
+      },
+      "ko": {
+        "definition": "단어 안에서 한 형태소가 끝나고 다른 형태소가 시작되는 지점.",
+        "example": "\"unkind-ness\"에서 경계는 \"-ness\" 앞에 놓인다.",
+        "term": "형태소 경계"
+      },
+      "fr": {
+        "definition": "Le point où un morphème se termine et où un autre commence à l'intérieur d'un mot.",
+        "example": "Dans « gentil-lesse », la frontière se situe avant « -lesse ».",
+        "term": "Frontière de morphème"
+      },
+      "es": {
+        "definition": "El punto en el que un morfema termina y otro empieza dentro de una palabra.",
+        "example": "En \"unkind-ness\", la frontera está antes de \"-ness\".",
+        "term": "Frontera de morfema"
+      }
+    }
+  },
+  {
+    "id": "linguistics-094",
+    "deck": "linguistics",
+    "term": "Isogloss",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "dialectology",
+      "sociolinguistics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A boundary line on a map marking where a language feature changes.",
+        "example": "An isogloss separates \"soda\" regions from \"pop\" regions."
+      },
+      "ru": {
+        "definition": "Линия на карте, отмечающая, где меняется языковая черта.",
+        "example": "Изоглосса разделяет области с «бордюр» и «поребрик».",
+        "term": "Изоглосса"
+      },
+      "ja": {
+        "definition": "言語的特徴が変わる地点を地図上に記す境界線(等語線・イソグロス)。",
+        "example": "等語線は「soda」を使う地域と「pop」を使う地域を分ける。",
+        "term": "等語線"
+      },
+      "ko": {
+        "definition": "언어 특징이 바뀌는 지점을 지도 위에 표시한 경계선.",
+        "example": "등어선은 \"soda\" 지역과 \"pop\" 지역을 가른다.",
+        "term": "등어선"
+      },
+      "fr": {
+        "definition": "Une ligne tracée sur une carte qui marque où un trait linguistique change.",
+        "example": "Un isoglosse sépare les régions disant « pain au chocolat » de celles disant « chocolatine ».",
+        "term": "Isoglosse"
+      },
+      "es": {
+        "definition": "Una línea trazada en un mapa que marca dónde cambia un rasgo lingüístico.",
+        "example": "Una isoglosa separa las regiones de \"soda\" de las de \"pop\".",
+        "term": "Isoglosa"
+      }
+    }
+  },
+  {
+    "id": "linguistics-095",
+    "deck": "linguistics",
+    "term": "Phoneme deletion",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Dropping a sound from a word, often in casual or rapid speech.",
+        "example": "\"Friendship\" losing its \"d\" shows phoneme deletion."
+      },
+      "ru": {
+        "definition": "Выпадение звука из слова, часто в беглой или разговорной речи.",
+        "example": "Слово «солнце» без звука «л» показывает выпадение фонемы.",
+        "term": "Удаление фонемы"
+      },
+      "ja": {
+        "definition": "くだけた話し方や速い発話でしばしば見られる、語からの音の脱落(音素脱落)。",
+        "example": "「friendship」が「d」を失うのは音素脱落の例である。",
+        "term": "音素脱落"
+      },
+      "ko": {
+        "definition": "흔히 편하거나 빠른 말에서 단어의 한 소리를 떨어뜨리는 것.",
+        "example": "\"friendship\"이 \"d\"를 잃는 것은 음소 탈락을 보여 준다.",
+        "term": "음소 탈락"
+      },
+      "fr": {
+        "definition": "La suppression d'un son dans un mot, souvent en parole familière ou rapide.",
+        "example": "« Quatre » prononcé « quat' » illustre la chute d'un phonème.",
+        "term": "Suppression de phonème"
+      },
+      "es": {
+        "definition": "La eliminación de un sonido de una palabra, a menudo en el habla informal o rápida.",
+        "example": "\"Friendship\" al perder su \"d\" muestra la eliminación de un sonido.",
+        "term": "Elisión de fonema"
+      }
+    }
+  },
+  {
+    "id": "linguistics-096",
+    "deck": "linguistics",
+    "term": "Aspect",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "grammar"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A grammatical category showing how an action unfolds over time.",
+        "example": "\"I was eating\" marks ongoing aspect."
+      },
+      "ru": {
+        "definition": "Грамматическая категория, показывающая, как действие протекает во времени.",
+        "example": "«Я читал» передаёт несовершенный вид — длящееся действие.",
+        "term": "Аспект"
+      },
+      "ja": {
+        "definition": "動作が時間の中でどう展開するかを示す文法範疇(相・アスペクト)。",
+        "example": "「I was eating」は進行中であることを示す相を表す。",
+        "term": "相"
+      },
+      "ko": {
+        "definition": "행위가 시간에 걸쳐 어떻게 전개되는지를 나타내는 문법 범주.",
+        "example": "\"I was eating\"은 진행상을 표시한다.",
+        "term": "상"
+      },
+      "fr": {
+        "definition": "Une catégorie grammaticale indiquant comment une action se déroule dans le temps.",
+        "example": "« Je mangeais » marque un aspect inaccompli.",
+        "term": "Aspect"
+      },
+      "es": {
+        "definition": "Una categoría gramatical que indica cómo se desarrolla una acción en el tiempo.",
+        "example": "\"I was eating\" marca un aspecto en curso.",
+        "term": "Aspecto"
+      }
+    }
+  },
+  {
+    "id": "linguistics-097",
+    "deck": "linguistics",
+    "term": "Tense",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "grammar"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A grammatical marking that locates an event in time.",
+        "example": "\"Walked\" is past tense; \"walks\" is present."
+      },
+      "ru": {
+        "definition": "Грамматический показатель, помещающий событие во времени.",
+        "example": "«Шёл» — прошедшее время, «идёт» — настоящее.",
+        "term": "Время"
+      },
+      "ja": {
+        "definition": "出来事を時間の中に位置づける文法的標示(時制)。",
+        "example": "「walked」は過去時制、「walks」は現在時制である。",
+        "term": "時制"
+      },
+      "ko": {
+        "definition": "사건을 시간상에 위치시키는 문법 표지.",
+        "example": "\"walked\"는 과거 시제, \"walks\"는 현재 시제다.",
+        "term": "시제"
+      },
+      "fr": {
+        "definition": "Un marquage grammatical qui situe un événement dans le temps.",
+        "example": "« Marcha » est au passé ; « marche » est au présent.",
+        "term": "Temps"
+      },
+      "es": {
+        "definition": "Una marca gramatical que sitúa un evento en el tiempo.",
+        "example": "\"Walked\" está en pasado; \"walks\" está en presente.",
+        "term": "Tiempo"
+      }
+    }
+  },
+  {
+    "id": "linguistics-098",
+    "deck": "linguistics",
+    "term": "Voicing",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "phonetics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Whether the vocal cords vibrate when a sound is produced.",
+        "example": "/z/ is voiced; /s/ is voiceless."
+      },
+      "ru": {
+        "definition": "Признак того, вибрируют ли голосовые связки при произнесении звука.",
+        "example": "/з/ — звонкий, /с/ — глухой.",
+        "term": "Озвончение"
+      },
+      "ja": {
+        "definition": "音が作られるときに声帯が振動するか否か(有声性)。",
+        "example": "/z/は有声音、/s/は無声音である。",
+        "term": "有声化"
+      },
+      "ko": {
+        "definition": "소리를 낼 때 성대가 진동하는지 여부.",
+        "example": "/z/는 유성음이고 /s/는 무성음이다.",
+        "term": "유성음화"
+      },
+      "fr": {
+        "definition": "Le fait que les cordes vocales vibrent ou non lors de la production d'un son.",
+        "example": "/z/ est voisé ; /s/ est non voisé.",
+        "term": "Voisement"
+      },
+      "es": {
+        "definition": "Si las cuerdas vocales vibran o no al producir un sonido.",
+        "example": "/z/ es sonoro; /s/ es sordo.",
+        "term": "Sonorización"
+      }
+    }
+  },
+  {
+    "id": "linguistics-099",
+    "deck": "linguistics",
+    "term": "Phoneme merger",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "historical",
+      "phonology"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sound change where two distinct phonemes collapse into one.",
+        "example": "The cot-caught merger makes those vowels identical for many speakers."
+      },
+      "ru": {
+        "definition": "Звуковое изменение, при котором две разные фонемы сливаются в одну.",
+        "example": "Слияние гласных делает их одинаковыми для многих носителей.",
+        "term": "Слияние фонем"
+      },
+      "ja": {
+        "definition": "二つの異なる音素が一つに統合される音変化(音素統合・合流)。",
+        "example": "cot-caughtの合流は、多くの話者でこれらの母音を同一にする。",
+        "term": "音素合流"
+      },
+      "ko": {
+        "definition": "두 개의 구별되던 음소가 하나로 합쳐지는 소리 변화.",
+        "example": "cot-caught 합류는 많은 화자에게 그 모음들을 똑같게 만든다.",
+        "term": "음소 합류"
+      },
+      "fr": {
+        "definition": "Un changement phonétique par lequel deux phonèmes distincts se confondent en un seul.",
+        "example": "Pour de nombreux locuteurs, la fusion de « brin » et « brun » rend ces voyelles identiques.",
+        "term": "Fusion de phonèmes"
+      },
+      "es": {
+        "definition": "Un cambio de sonido en el que dos fonemas distintos se fusionan en uno.",
+        "example": "La fusión cot-caught hace que esas vocales sean idénticas para muchos hablantes.",
+        "term": "Fusión de fonemas"
+      }
+    }
+  },
+  {
+    "id": "linguistics-100",
+    "deck": "linguistics",
+    "term": "Lexicalization",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "lexicology",
+      "word-formation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The process by which an expression becomes a fixed word in the lexicon.",
+        "example": "\"Mouse\" for a computer device shows lexicalization."
+      },
+      "ru": {
+        "definition": "Процесс, при котором выражение становится устойчивым словом лексикона.",
+        "example": "«Мышь» как название устройства показывает лексикализацию.",
+        "term": "Лексикализация"
+      },
+      "ja": {
+        "definition": "ある表現が語彙の中で固定した一語になる過程(語彙化)。",
+        "example": "コンピューター機器を指す「mouse」は語彙化を示す。",
+        "term": "語彙化"
+      },
+      "ko": {
+        "definition": "하나의 표현이 어휘부의 고정된 단어로 자리 잡는 과정.",
+        "example": "컴퓨터 장치를 뜻하는 \"mouse\"는 어휘화를 보여 준다.",
+        "term": "어휘화"
+      },
+      "fr": {
+        "definition": "Le processus par lequel une expression devient un mot fixe du lexique.",
+        "example": "« Souris » pour désigner un dispositif informatique illustre la lexicalisation.",
+        "term": "Lexicalisation"
+      },
+      "es": {
+        "definition": "El proceso por el cual una expresión se convierte en una palabra fija del léxico.",
+        "example": "\"Mouse\" para referirse a un dispositivo informático muestra la lexicalización.",
+        "term": "Lexicalización"
+      }
+    }
+  }
+]

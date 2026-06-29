@@ -1,0 +1,4200 @@
+[
+  {
+    "id": "ai-ml-001",
+    "deck": "ai-ml",
+    "term": "Token",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "nlp",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The smallest unit of text a model processes, often a word piece rather than a full word.",
+        "example": "\"Tokenization\" may split into \"token\" + \"ization\" — two tokens."
+      },
+      "ru": {
+        "definition": "Наименьшая единица текста, которую обрабатывает модель, — чаще часть слова, а не слово целиком.",
+        "example": "«Tokenization» может разбиться на «token» + «ization» — два токена.",
+        "term": "Токен"
+      },
+      "ja": {
+        "definition": "モデルが処理するテキストの最小単位で、しばしば単語そのものではなく単語の断片を指す。",
+        "example": "「Tokenization」は「token」+「ization」の2トークンに分割されることがある。",
+        "term": "トークン"
+      },
+      "ko": {
+        "definition": "모델이 처리하는 텍스트의 최소 단위로, 흔히 완전한 단어가 아니라 단어 조각이다.",
+        "example": "\"Tokenization\"은 \"token\" + \"ization\" 두 개의 토큰으로 나뉠 수 있다.",
+        "term": "토큰"
+      },
+      "fr": {
+        "definition": "La plus petite unité de texte qu'un modèle traite, souvent un fragment de mot plutôt qu'un mot entier.",
+        "example": "« Tokenization » peut se découper en « token » + « ization », soit deux tokens.",
+        "term": "Token"
+      },
+      "es": {
+        "definition": "La unidad más pequeña de texto que procesa un modelo, a menudo un fragmento de palabra en lugar de una palabra completa.",
+        "example": "«Tokenización» puede dividirse en «token» + «ización»: dos tokens.",
+        "term": "Token"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-002",
+    "deck": "ai-ml",
+    "term": "Model",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A mathematical function with learned parameters that maps inputs to predictions.",
+        "example": "We trained a model to classify emails as spam or not spam."
+      },
+      "ru": {
+        "definition": "Математическая функция с обученными параметрами, которая преобразует входные данные в предсказания.",
+        "example": "Мы обучили модель определять, является ли письмо спамом.",
+        "term": "Модель"
+      },
+      "ja": {
+        "definition": "入力を予測に変換する、学習済みパラメータを持つ数学的な関数。",
+        "example": "メールをスパムかどうかに分類するモデルを学習させた。",
+        "term": "モデル"
+      },
+      "ko": {
+        "definition": "학습된 파라미터를 통해 입력을 예측값으로 변환하는 수학적 함수다.",
+        "example": "우리는 이메일을 스팸인지 아닌지 분류하도록 모델을 학습시켰다.",
+        "term": "모델"
+      },
+      "fr": {
+        "definition": "Une fonction mathématique aux paramètres appris qui associe des entrées à des prédictions.",
+        "example": "Nous avons entraîné un modèle à classer les courriels comme spam ou non.",
+        "term": "Modèle"
+      },
+      "es": {
+        "definition": "Una función matemática con parámetros aprendidos que asigna entradas a predicciones.",
+        "example": "Entrenamos un modelo para clasificar los correos como spam o no spam.",
+        "term": "Modelo"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-003",
+    "deck": "ai-ml",
+    "term": "Dataset",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "data",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A collection of examples used to train, validate, or test a model.",
+        "example": "The dataset had 50,000 labeled images of cats and dogs."
+      },
+      "ru": {
+        "definition": "Набор примеров, на которых модель обучают, проверяют или тестируют.",
+        "example": "В датасете было 50 000 размеченных изображений кошек и собак.",
+        "term": "Датасет"
+      },
+      "ja": {
+        "definition": "モデルの学習・検証・テストに使う例の集まり。",
+        "example": "そのデータセットには猫と犬のラベル付き画像が5万枚あった。",
+        "term": "データセット"
+      },
+      "ko": {
+        "definition": "모델을 학습, 검증, 테스트하는 데 사용하는 예시들의 모음이다.",
+        "example": "그 데이터셋에는 라벨이 달린 고양이와 개 이미지가 5만 장 있었다.",
+        "term": "데이터셋"
+      },
+      "fr": {
+        "definition": "Un ensemble d'exemples servant à entraîner, valider ou tester un modèle.",
+        "example": "Le jeu de données comptait 50 000 images étiquetées de chats et de chiens.",
+        "term": "Jeu de données"
+      },
+      "es": {
+        "definition": "Un conjunto de ejemplos usado para entrenar, validar o probar un modelo.",
+        "example": "El conjunto de datos tenía 50.000 imágenes etiquetadas de gatos y perros.",
+        "term": "Conjunto de datos"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-004",
+    "deck": "ai-ml",
+    "term": "Label",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "data",
+      "supervised"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The correct answer attached to a training example that the model learns to predict.",
+        "example": "Each photo's label said either \"cat\" or \"dog\"."
+      },
+      "ru": {
+        "definition": "Правильный ответ, привязанный к обучающему примеру, который модель учится предсказывать.",
+        "example": "К каждой фотографии прилагалась метка «кошка» или «собака».",
+        "term": "Метка"
+      },
+      "ja": {
+        "definition": "学習例に付けられた正解で、モデルが予測できるよう学習する対象。",
+        "example": "各写真のラベルは「猫」または「犬」のいずれかだった。",
+        "term": "ラベル"
+      },
+      "ko": {
+        "definition": "모델이 예측하도록 학습하는, 학습 예시에 붙은 정답이다.",
+        "example": "각 사진의 라벨에는 \"고양이\" 또는 \"개\"라고 적혀 있었다.",
+        "term": "레이블"
+      },
+      "fr": {
+        "definition": "La bonne réponse attachée à un exemple d'entraînement, que le modèle apprend à prédire.",
+        "example": "L'étiquette de chaque photo indiquait soit « chat », soit « chien ».",
+        "term": "Étiquette"
+      },
+      "es": {
+        "definition": "La respuesta correcta asociada a un ejemplo de entrenamiento que el modelo aprende a predecir.",
+        "example": "La etiqueta de cada foto indicaba «gato» o «perro».",
+        "term": "Etiqueta"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-005",
+    "deck": "ai-ml",
+    "term": "Feature",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "data",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An individual measurable input variable the model uses to make predictions.",
+        "example": "Square footage and location were the key features for predicting price."
+      },
+      "ru": {
+        "definition": "Отдельная измеримая входная переменная, которую модель использует для предсказаний.",
+        "example": "Площадь и расположение были ключевыми признаками при оценке цены.",
+        "term": "Признак"
+      },
+      "ja": {
+        "definition": "モデルが予測に用いる、測定可能な個々の入力変数。",
+        "example": "価格予測では、面積と立地が主要な特徴量だった。",
+        "term": "特徴量"
+      },
+      "ko": {
+        "definition": "모델이 예측에 사용하는 개별적이고 측정 가능한 입력 변수다.",
+        "example": "면적과 위치가 가격 예측의 핵심 특성이었다.",
+        "term": "특성"
+      },
+      "fr": {
+        "definition": "Une variable d'entrée mesurable que le modèle utilise pour faire ses prédictions.",
+        "example": "La surface et l'emplacement étaient les variables clés pour prédire le prix.",
+        "term": "Caractéristique"
+      },
+      "es": {
+        "definition": "Una variable de entrada medible e individual que el modelo usa para hacer predicciones.",
+        "example": "La superficie y la ubicación fueron las características clave para predecir el precio.",
+        "term": "Característica"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-006",
+    "deck": "ai-ml",
+    "term": "Neuron",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A basic unit in a neural network that weights inputs, sums them, and applies an activation.",
+        "example": "Each neuron passes its output to the neurons in the next layer."
+      },
+      "ru": {
+        "definition": "Базовый элемент нейросети, который взвешивает входы, складывает их и применяет активацию.",
+        "example": "Каждый нейрон передаёт свой выход нейронам следующего слоя.",
+        "term": "Нейрон"
+      },
+      "ja": {
+        "definition": "入力に重みを付けて合計し、活性化を適用するニューラルネットワークの基本単位。",
+        "example": "各ニューロンは出力を次の層のニューロンへ渡す。",
+        "term": "ニューロン"
+      },
+      "ko": {
+        "definition": "입력에 가중치를 곱해 합산한 뒤 활성화 함수를 적용하는 신경망의 기본 단위다.",
+        "example": "각 뉴런은 자신의 출력을 다음 층의 뉴런들에게 전달한다.",
+        "term": "뉴런"
+      },
+      "fr": {
+        "definition": "L'unité de base d'un réseau de neurones qui pondère ses entrées, les additionne et applique une activation.",
+        "example": "Chaque neurone transmet sa sortie aux neurones de la couche suivante.",
+        "term": "Neurone"
+      },
+      "es": {
+        "definition": "La unidad básica de una red neuronal que pondera las entradas, las suma y aplica una activación.",
+        "example": "Cada neurona pasa su salida a las neuronas de la capa siguiente.",
+        "term": "Neurona"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-007",
+    "deck": "ai-ml",
+    "term": "Neural network",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A model of connected layers of neurons that learns patterns from data.",
+        "example": "A deep neural network has many hidden layers between input and output."
+      },
+      "ru": {
+        "definition": "Модель из связанных слоёв нейронов, которая выучивает закономерности в данных.",
+        "example": "У глубокой нейросети много скрытых слоёв между входом и выходом.",
+        "term": "Нейронная сеть"
+      },
+      "ja": {
+        "definition": "ニューロンの層が結合し、データからパターンを学習するモデル。",
+        "example": "ディープニューラルネットワークは入力と出力の間に多数の隠れ層を持つ。",
+        "term": "ニューラルネットワーク"
+      },
+      "ko": {
+        "definition": "연결된 뉴런 층들로 이루어져 데이터에서 패턴을 학습하는 모델이다.",
+        "example": "심층 신경망에는 입력과 출력 사이에 많은 은닉층이 있다.",
+        "term": "신경망"
+      },
+      "fr": {
+        "definition": "Un modèle composé de couches de neurones connectés qui apprend des motifs à partir des données.",
+        "example": "Un réseau de neurones profond comporte de nombreuses couches cachées entre l'entrée et la sortie.",
+        "term": "Réseau de neurones"
+      },
+      "es": {
+        "definition": "Un modelo de capas conectadas de neuronas que aprende patrones a partir de los datos.",
+        "example": "Una red neuronal profunda tiene muchas capas ocultas entre la entrada y la salida.",
+        "term": "Red neuronal"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-008",
+    "deck": "ai-ml",
+    "term": "Weight",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "neural-networks",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A learned parameter that scales an input's influence on a neuron's output.",
+        "example": "Training adjusts millions of weights to reduce the error."
+      },
+      "ru": {
+        "definition": "Обучаемый параметр, который масштабирует влияние входа на выход нейрона.",
+        "example": "Обучение подстраивает миллионы весов, чтобы уменьшить ошибку.",
+        "term": "Вес"
+      },
+      "ja": {
+        "definition": "ニューロンの出力に対する入力の影響度を調整する、学習されるパラメータ。",
+        "example": "学習では誤差を減らすために何百万もの重みが調整される。",
+        "term": "重み"
+      },
+      "ko": {
+        "definition": "입력이 뉴런 출력에 미치는 영향의 크기를 조절하는, 학습으로 얻어지는 파라미터다.",
+        "example": "학습은 오차를 줄이기 위해 수백만 개의 가중치를 조정한다.",
+        "term": "가중치"
+      },
+      "fr": {
+        "definition": "Un paramètre appris qui module l'influence d'une entrée sur la sortie d'un neurone.",
+        "example": "L'entraînement ajuste des millions de poids pour réduire l'erreur.",
+        "term": "Poids"
+      },
+      "es": {
+        "definition": "Un parámetro aprendido que escala la influencia de una entrada sobre la salida de una neurona.",
+        "example": "El entrenamiento ajusta millones de pesos para reducir el error.",
+        "term": "Peso"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-009",
+    "deck": "ai-ml",
+    "term": "Bias",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A learned constant added to a neuron's weighted sum to shift its output.",
+        "example": "The bias term lets a neuron activate even when all inputs are zero."
+      },
+      "ru": {
+        "definition": "Обучаемая константа, добавляемая к взвешенной сумме нейрона для сдвига его выхода.",
+        "example": "Член смещения позволяет нейрону активироваться даже при нулевых входах.",
+        "term": "Смещение"
+      },
+      "ja": {
+        "definition": "ニューロンの重み付き和に加えられ、出力をずらす学習される定数。",
+        "example": "バイアス項のおかげで、すべての入力がゼロでもニューロンは活性化できる。",
+        "term": "バイアス"
+      },
+      "ko": {
+        "definition": "뉴런의 가중합에 더해 출력을 이동시키는, 학습으로 얻어지는 상수다.",
+        "example": "편향 항 덕분에 뉴런은 모든 입력이 0이어도 활성화될 수 있다.",
+        "term": "편향"
+      },
+      "fr": {
+        "definition": "Une constante apprise ajoutée à la somme pondérée d'un neurone pour décaler sa sortie.",
+        "example": "Le terme de biais permet à un neurone de s'activer même lorsque toutes les entrées sont nulles.",
+        "term": "Biais"
+      },
+      "es": {
+        "definition": "Una constante aprendida que se suma a la suma ponderada de una neurona para desplazar su salida.",
+        "example": "El término de sesgo permite que una neurona se active aunque todas las entradas sean cero.",
+        "term": "Sesgo"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-010",
+    "deck": "ai-ml",
+    "term": "Activation function",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A nonlinear function applied to a neuron's output, letting networks learn complex patterns.",
+        "example": "ReLU is a popular activation function that zeroes out negative values."
+      },
+      "ru": {
+        "definition": "Нелинейная функция, применяемая к выходу нейрона, чтобы сеть могла выучивать сложные закономерности.",
+        "example": "ReLU — популярная функция активации, обнуляющая отрицательные значения.",
+        "term": "Функция активации"
+      },
+      "ja": {
+        "definition": "ニューロンの出力に適用される非線形関数で、ネットワークが複雑なパターンを学習できるようにする。",
+        "example": "ReLUは負の値をゼロにする、よく使われる活性化関数だ。",
+        "term": "活性化関数"
+      },
+      "ko": {
+        "definition": "뉴런의 출력에 적용되어 신경망이 복잡한 패턴을 학습하게 해주는 비선형 함수다.",
+        "example": "ReLU는 음수 값을 0으로 만드는 널리 쓰이는 활성화 함수다.",
+        "term": "활성화 함수"
+      },
+      "fr": {
+        "definition": "Une fonction non linéaire appliquée à la sortie d'un neurone, qui permet aux réseaux d'apprendre des motifs complexes.",
+        "example": "ReLU est une fonction d'activation populaire qui annule les valeurs négatives.",
+        "term": "Fonction d'activation"
+      },
+      "es": {
+        "definition": "Una función no lineal aplicada a la salida de una neurona que permite a las redes aprender patrones complejos.",
+        "example": "ReLU es una función de activación popular que anula los valores negativos.",
+        "term": "Función de activación"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-011",
+    "deck": "ai-ml",
+    "term": "ReLU",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An activation that outputs the input if positive and zero otherwise.",
+        "example": "ReLU trains faster than sigmoid in deep networks."
+      },
+      "ru": {
+        "definition": "Активация, возвращающая вход, если он положителен, и ноль в остальных случаях.",
+        "example": "В глубоких сетях ReLU обучается быстрее сигмоиды.",
+        "term": "ReLU"
+      },
+      "ja": {
+        "definition": "入力が正ならそのまま出力し、それ以外はゼロを出力する活性化関数。",
+        "example": "ReLUはディープネットワークでシグモイドより速く学習する。",
+        "term": "ReLU"
+      },
+      "ko": {
+        "definition": "입력이 양수이면 그대로 출력하고 그렇지 않으면 0을 출력하는 활성화 함수다.",
+        "example": "ReLU는 심층 신경망에서 시그모이드보다 학습이 빠르다.",
+        "term": "ReLU"
+      },
+      "fr": {
+        "definition": "Une activation qui renvoie l'entrée si elle est positive et zéro sinon.",
+        "example": "ReLU s'entraîne plus vite que la sigmoïde dans les réseaux profonds.",
+        "term": "ReLU"
+      },
+      "es": {
+        "definition": "Una activación que devuelve la entrada si es positiva y cero en caso contrario.",
+        "example": "ReLU entrena más rápido que la sigmoide en redes profundas.",
+        "term": "ReLU"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-012",
+    "deck": "ai-ml",
+    "term": "Backpropagation",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The algorithm that computes gradients of the loss back through a network to update weights.",
+        "example": "Backpropagation sends the error signal from the output layer to the input."
+      },
+      "ru": {
+        "definition": "Алгоритм, вычисляющий градиенты функции потерь по сети для обновления весов.",
+        "example": "Backpropagation передаёт сигнал ошибки от выходного слоя ко входу.",
+        "term": "Обратное распространение"
+      },
+      "ja": {
+        "definition": "損失の勾配をネットワークを逆方向にたどって計算し、重みを更新するアルゴリズム。",
+        "example": "バックプロパゲーションは誤差信号を出力層から入力層へ伝える。",
+        "term": "誤差逆伝播法"
+      },
+      "ko": {
+        "definition": "손실의 그래디언트를 신경망을 거꾸로 거슬러 계산해 가중치를 갱신하는 알고리즘이다.",
+        "example": "역전파는 출력층에서 입력층으로 오차 신호를 전달한다.",
+        "term": "역전파"
+      },
+      "fr": {
+        "definition": "L'algorithme qui calcule les gradients de la perte en remontant le réseau afin de mettre à jour les poids.",
+        "example": "La rétropropagation transmet le signal d'erreur de la couche de sortie vers l'entrée.",
+        "term": "Rétropropagation"
+      },
+      "es": {
+        "definition": "El algoritmo que calcula los gradientes de la pérdida hacia atrás a través de una red para actualizar los pesos.",
+        "example": "La retropropagación envía la señal de error desde la capa de salida hasta la de entrada.",
+        "term": "Retropropagación"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-013",
+    "deck": "ai-ml",
+    "term": "Gradient descent",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training",
+      "optimization"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An optimization method that nudges parameters in the direction that lowers the loss.",
+        "example": "Gradient descent walks downhill on the loss surface step by step."
+      },
+      "ru": {
+        "definition": "Метод оптимизации, сдвигающий параметры в сторону уменьшения функции потерь.",
+        "example": "Градиентный спуск шаг за шагом спускается по поверхности потерь.",
+        "term": "Градиентный спуск"
+      },
+      "ja": {
+        "definition": "損失を下げる方向へパラメータを少しずつ動かす最適化手法。",
+        "example": "勾配降下法は損失曲面を一歩ずつ下りていく。",
+        "term": "勾配降下法"
+      },
+      "ko": {
+        "definition": "손실을 낮추는 방향으로 파라미터를 조금씩 이동시키는 최적화 방법이다.",
+        "example": "경사 하강법은 손실 표면을 한 걸음씩 내려간다.",
+        "term": "경사 하강법"
+      },
+      "fr": {
+        "definition": "Une méthode d'optimisation qui ajuste les paramètres dans la direction qui diminue la perte.",
+        "example": "La descente de gradient descend la surface de perte pas à pas.",
+        "term": "Descente de gradient"
+      },
+      "es": {
+        "definition": "Un método de optimización que empuja los parámetros en la dirección que reduce la pérdida.",
+        "example": "El descenso de gradiente baja por la superficie de pérdida paso a paso.",
+        "term": "Descenso de gradiente"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-014",
+    "deck": "ai-ml",
+    "term": "Learning rate",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training",
+      "optimization"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hyperparameter setting the step size for each weight update during training.",
+        "example": "A learning rate too high made the loss bounce around and diverge."
+      },
+      "ru": {
+        "definition": "Гиперпараметр, задающий размер шага при каждом обновлении весов во время обучения.",
+        "example": "Слишком высокий learning rate заставил потери скакать и расходиться.",
+        "term": "Скорость обучения"
+      },
+      "ja": {
+        "definition": "学習中の各重み更新のステップ幅を決めるハイパーパラメータ。",
+        "example": "学習率が高すぎて、損失が振動して発散した。",
+        "term": "学習率"
+      },
+      "ko": {
+        "definition": "학습 중 각 가중치 갱신의 보폭을 정하는 하이퍼파라미터다.",
+        "example": "학습률이 너무 높아 손실이 요동치며 발산했다.",
+        "term": "학습률"
+      },
+      "fr": {
+        "definition": "Un hyperparamètre qui fixe la taille du pas à chaque mise à jour des poids pendant l'entraînement.",
+        "example": "Un taux d'apprentissage trop élevé a fait osciller la perte jusqu'à diverger.",
+        "term": "Taux d'apprentissage"
+      },
+      "es": {
+        "definition": "Un hiperparámetro que fija el tamaño del paso en cada actualización de pesos durante el entrenamiento.",
+        "example": "Una tasa de aprendizaje demasiado alta hizo que la pérdida oscilara y divergiera.",
+        "term": "Tasa de aprendizaje"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-015",
+    "deck": "ai-ml",
+    "term": "Loss function",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A function measuring how far predictions are from the true values, minimized during training.",
+        "example": "Cross-entropy is a common loss function for classification."
+      },
+      "ru": {
+        "definition": "Функция, измеряющая, насколько предсказания далеки от истинных значений; её минимизируют при обучении.",
+        "example": "Кросс-энтропия — частая функция потерь для классификации.",
+        "term": "Функция потерь"
+      },
+      "ja": {
+        "definition": "予測が真の値からどれだけ離れているかを測り、学習中に最小化する関数。",
+        "example": "交差エントロピーは分類でよく使われる損失関数だ。",
+        "term": "損失関数"
+      },
+      "ko": {
+        "definition": "예측이 실제 값과 얼마나 차이 나는지 측정하는 함수로, 학습 중에 최소화된다.",
+        "example": "교차 엔트로피는 분류에서 흔히 쓰이는 손실 함수다.",
+        "term": "손실 함수"
+      },
+      "fr": {
+        "definition": "Une fonction qui mesure l'écart entre les prédictions et les vraies valeurs, minimisée pendant l'entraînement.",
+        "example": "L'entropie croisée est une fonction de perte courante pour la classification.",
+        "term": "Fonction de perte"
+      },
+      "es": {
+        "definition": "Una función que mide cuánto se alejan las predicciones de los valores reales, y que se minimiza durante el entrenamiento.",
+        "example": "La entropía cruzada es una función de pérdida habitual en clasificación.",
+        "term": "Función de pérdida"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-016",
+    "deck": "ai-ml",
+    "term": "Epoch",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "One full pass of the training algorithm over the entire dataset.",
+        "example": "We trained for 30 epochs before the accuracy plateaued."
+      },
+      "ru": {
+        "definition": "Один полный проход алгоритма обучения по всему датасету.",
+        "example": "Мы обучали 30 эпох, пока точность не вышла на плато.",
+        "term": "Эпоха"
+      },
+      "ja": {
+        "definition": "学習アルゴリズムがデータセット全体を1回通しで処理すること。",
+        "example": "精度が頭打ちになるまで30エポック学習させた。",
+        "term": "エポック"
+      },
+      "ko": {
+        "definition": "학습 알고리즘이 전체 데이터셋을 한 번 완전히 통과하는 것이다.",
+        "example": "정확도가 정체될 때까지 30 에폭 동안 학습했다.",
+        "term": "에폭"
+      },
+      "fr": {
+        "definition": "Un passage complet de l'algorithme d'entraînement sur l'ensemble du jeu de données.",
+        "example": "Nous avons entraîné pendant 30 époques avant que la précision ne plafonne.",
+        "term": "Époque"
+      },
+      "es": {
+        "definition": "Una pasada completa del algoritmo de entrenamiento sobre todo el conjunto de datos.",
+        "example": "Entrenamos durante 30 épocas hasta que la precisión se estabilizó.",
+        "term": "Época"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-017",
+    "deck": "ai-ml",
+    "term": "Batch",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A subset of training examples processed together before one weight update.",
+        "example": "A batch size of 64 balanced speed and memory use."
+      },
+      "ru": {
+        "definition": "Подмножество обучающих примеров, обрабатываемых вместе перед одним обновлением весов.",
+        "example": "Размер батча 64 уравновесил скорость и расход памяти.",
+        "term": "Батч"
+      },
+      "ja": {
+        "definition": "1回の重み更新の前にまとめて処理される学習例の一部分。",
+        "example": "バッチサイズ64は速度とメモリ使用量のバランスが良かった。",
+        "term": "バッチ"
+      },
+      "ko": {
+        "definition": "한 번의 가중치 갱신 전에 함께 처리하는 학습 예시의 부분집합이다.",
+        "example": "배치 크기 64는 속도와 메모리 사용의 균형을 맞췄다.",
+        "term": "배치"
+      },
+      "fr": {
+        "definition": "Un sous-ensemble d'exemples d'entraînement traités ensemble avant une mise à jour des poids.",
+        "example": "Une taille de lot de 64 équilibrait la vitesse et l'usage de la mémoire.",
+        "term": "Lot"
+      },
+      "es": {
+        "definition": "Un subconjunto de ejemplos de entrenamiento procesados juntos antes de una actualización de pesos.",
+        "example": "Un tamaño de lote de 64 equilibró la velocidad y el uso de memoria.",
+        "term": "Lote"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-018",
+    "deck": "ai-ml",
+    "term": "Overfitting",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training",
+      "evaluation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a model memorizes training data and fails to generalize to new examples.",
+        "example": "Near-perfect train accuracy but poor test scores signals overfitting."
+      },
+      "ru": {
+        "definition": "Когда модель запоминает обучающие данные и плохо обобщает на новые примеры.",
+        "example": "Почти идеальная точность на обучении и слабая на тесте — признак переобучения.",
+        "term": "Переобучение"
+      },
+      "ja": {
+        "definition": "モデルが学習データを丸暗記し、新しい例にうまく汎化できなくなること(過学習)。",
+        "example": "訓練精度はほぼ完璧なのにテストの成績が悪いのは過学習の兆候だ。",
+        "term": "過学習"
+      },
+      "ko": {
+        "definition": "모델이 학습 데이터를 외워버려 새로운 예시에 일반화하지 못하는 현상이다.",
+        "example": "학습 정확도는 거의 완벽한데 테스트 점수가 낮다면 과적합 신호다.",
+        "term": "과적합"
+      },
+      "fr": {
+        "definition": "Lorsqu'un modèle mémorise les données d'entraînement et ne parvient pas à généraliser à de nouveaux exemples.",
+        "example": "Une précision quasi parfaite à l'entraînement mais de faibles scores de test signale du surapprentissage.",
+        "term": "Surapprentissage"
+      },
+      "es": {
+        "definition": "Cuando un modelo memoriza los datos de entrenamiento y no logra generalizar a ejemplos nuevos.",
+        "example": "Una precisión casi perfecta en entrenamiento pero baja en prueba indica sobreajuste.",
+        "term": "Sobreajuste"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-019",
+    "deck": "ai-ml",
+    "term": "Underfitting",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training",
+      "evaluation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a model is too simple to capture the patterns in the data.",
+        "example": "The straight line underfit the clearly curved data."
+      },
+      "ru": {
+        "definition": "Когда модель слишком проста, чтобы уловить закономерности в данных.",
+        "example": "Прямая линия плохо описала явно изогнутые данные.",
+        "term": "Недообучение"
+      },
+      "ja": {
+        "definition": "モデルが単純すぎて、データのパターンを捉えきれないこと(学習不足)。",
+        "example": "明らかに曲線的なデータに対し、直線では当てはまりが不十分だった。",
+        "term": "未学習"
+      },
+      "ko": {
+        "definition": "모델이 너무 단순해서 데이터의 패턴을 포착하지 못하는 현상이다.",
+        "example": "직선은 명백히 곡선인 데이터에 과소적합했다.",
+        "term": "과소적합"
+      },
+      "fr": {
+        "definition": "Lorsqu'un modèle est trop simple pour capturer les motifs présents dans les données.",
+        "example": "La droite n'épousait pas les données pourtant nettement courbes : c'était du sous-apprentissage.",
+        "term": "Sous-apprentissage"
+      },
+      "es": {
+        "definition": "Cuando un modelo es demasiado simple para captar los patrones de los datos.",
+        "example": "La línea recta no se ajustaba a los datos, que eran claramente curvos.",
+        "term": "Subajuste"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-020",
+    "deck": "ai-ml",
+    "term": "Regularization",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Techniques that penalize complexity to reduce overfitting and improve generalization.",
+        "example": "L2 regularization shrinks large weights toward zero."
+      },
+      "ru": {
+        "definition": "Приёмы, штрафующие сложность модели, чтобы снизить переобучение и улучшить обобщение.",
+        "example": "L2-регуляризация прижимает большие веса к нулю.",
+        "term": "Регуляризация"
+      },
+      "ja": {
+        "definition": "複雑さに罰則を与えて過学習を抑え、汎化性能を高める手法。",
+        "example": "L2正則化は大きな重みをゼロへ縮小する。",
+        "term": "正則化"
+      },
+      "ko": {
+        "definition": "복잡도에 페널티를 부여해 과적합을 줄이고 일반화를 높이는 기법들이다.",
+        "example": "L2 정규화는 큰 가중치를 0 쪽으로 줄인다.",
+        "term": "정규화"
+      },
+      "fr": {
+        "definition": "Des techniques qui pénalisent la complexité afin de réduire le surapprentissage et d'améliorer la généralisation.",
+        "example": "La régularisation L2 réduit les poids importants vers zéro.",
+        "term": "Régularisation"
+      },
+      "es": {
+        "definition": "Técnicas que penalizan la complejidad para reducir el sobreajuste y mejorar la generalización.",
+        "example": "La regularización L2 reduce los pesos grandes hacia cero.",
+        "term": "Regularización"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-021",
+    "deck": "ai-ml",
+    "term": "Dropout",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A regularizer that randomly disables neurons during training to prevent co-adaptation.",
+        "example": "Adding 0.5 dropout cut the overfitting noticeably."
+      },
+      "ru": {
+        "definition": "Регуляризатор, случайно отключающий нейроны при обучении, чтобы избежать их соадаптации.",
+        "example": "Добавление dropout 0.5 заметно снизило переобучение.",
+        "term": "Дропаут"
+      },
+      "ja": {
+        "definition": "学習中にニューロンをランダムに無効化し、共適応を防ぐ正則化手法。",
+        "example": "0.5のドロップアウトを加えると過学習が目に見えて減った。",
+        "term": "ドロップアウト"
+      },
+      "ko": {
+        "definition": "학습 중 뉴런을 무작위로 비활성화해 뉴런 간 공적응을 막는 정규화 기법이다.",
+        "example": "드롭아웃을 0.5로 추가하자 과적합이 눈에 띄게 줄었다.",
+        "term": "드롭아웃"
+      },
+      "fr": {
+        "definition": "Un régularisateur qui désactive aléatoirement des neurones pendant l'entraînement pour éviter leur co-adaptation.",
+        "example": "Ajouter un dropout de 0,5 a nettement réduit le surapprentissage.",
+        "term": "Dropout"
+      },
+      "es": {
+        "definition": "Un regularizador que desactiva neuronas al azar durante el entrenamiento para evitar la coadaptación.",
+        "example": "Añadir un dropout de 0,5 redujo el sobreajuste de forma notable.",
+        "term": "Dropout"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-022",
+    "deck": "ai-ml",
+    "term": "Hyperparameter",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A setting chosen before training that is not learned from data, like learning rate.",
+        "example": "We ran a grid search to tune the hyperparameters."
+      },
+      "ru": {
+        "definition": "Настройка, выбираемая до обучения и не выучиваемая из данных, например learning rate.",
+        "example": "Мы перебрали сетку значений, чтобы подобрать гиперпараметры.",
+        "term": "Гиперпараметр"
+      },
+      "ja": {
+        "definition": "学習率のように、学習前に決めデータからは学習されない設定値。",
+        "example": "ハイパーパラメータを調整するためにグリッドサーチを実行した。",
+        "term": "ハイパーパラメータ"
+      },
+      "ko": {
+        "definition": "학습률처럼 데이터로부터 학습되지 않고 학습 전에 정하는 설정값이다.",
+        "example": "우리는 하이퍼파라미터를 조정하기 위해 그리드 서치를 수행했다.",
+        "term": "하이퍼파라미터"
+      },
+      "fr": {
+        "definition": "Un réglage choisi avant l'entraînement et non appris à partir des données, comme le taux d'apprentissage.",
+        "example": "Nous avons fait une recherche par grille pour régler les hyperparamètres.",
+        "term": "Hyperparamètre"
+      },
+      "es": {
+        "definition": "Un ajuste elegido antes del entrenamiento que no se aprende de los datos, como la tasa de aprendizaje.",
+        "example": "Hicimos una búsqueda en malla para ajustar los hiperparámetros.",
+        "term": "Hiperparámetro"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-023",
+    "deck": "ai-ml",
+    "term": "Parameter",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fundamentals",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A value learned during training, such as a weight or bias.",
+        "example": "The model has 7 billion parameters."
+      },
+      "ru": {
+        "definition": "Значение, выучиваемое при обучении, например вес или смещение.",
+        "example": "У модели 7 миллиардов параметров.",
+        "term": "Параметр"
+      },
+      "ja": {
+        "definition": "重みやバイアスなど、学習中に習得される値。",
+        "example": "このモデルは70億個のパラメータを持つ。",
+        "term": "パラメータ"
+      },
+      "ko": {
+        "definition": "가중치나 편향처럼 학습 중에 얻어지는 값이다.",
+        "example": "이 모델은 70억 개의 파라미터를 가지고 있다.",
+        "term": "파라미터"
+      },
+      "fr": {
+        "definition": "Une valeur apprise pendant l'entraînement, comme un poids ou un biais.",
+        "example": "Le modèle compte 7 milliards de paramètres.",
+        "term": "Paramètre"
+      },
+      "es": {
+        "definition": "Un valor aprendido durante el entrenamiento, como un peso o un sesgo.",
+        "example": "El modelo tiene 7.000 millones de parámetros.",
+        "term": "Parámetro"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-024",
+    "deck": "ai-ml",
+    "term": "Inference",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "deployment"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Using a trained model to make predictions on new inputs.",
+        "example": "Inference latency must stay under 100 ms for the chat app."
+      },
+      "ru": {
+        "definition": "Использование обученной модели для предсказаний на новых входных данных.",
+        "example": "Задержка инференса должна оставаться ниже 100 мс для чат-приложения.",
+        "term": "Инференс"
+      },
+      "ja": {
+        "definition": "学習済みモデルを使って新しい入力に対する予測を行うこと。",
+        "example": "チャットアプリでは推論のレイテンシを100ミリ秒未満に保つ必要がある。",
+        "term": "推論"
+      },
+      "ko": {
+        "definition": "학습된 모델을 사용해 새로운 입력에 대해 예측하는 것이다.",
+        "example": "채팅 앱의 추론 지연 시간은 100ms 이하로 유지되어야 한다.",
+        "term": "추론"
+      },
+      "fr": {
+        "definition": "L'utilisation d'un modèle entraîné pour faire des prédictions sur de nouvelles entrées.",
+        "example": "La latence d'inférence doit rester sous 100 ms pour l'application de messagerie.",
+        "term": "Inférence"
+      },
+      "es": {
+        "definition": "El uso de un modelo entrenado para hacer predicciones sobre entradas nuevas.",
+        "example": "La latencia de inferencia debe mantenerse por debajo de 100 ms en la app de chat.",
+        "term": "Inferencia"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-025",
+    "deck": "ai-ml",
+    "term": "Supervised learning",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "training",
+      "paradigms"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Training a model on labeled examples to map inputs to known outputs.",
+        "example": "Spam detection is supervised learning over labeled emails."
+      },
+      "ru": {
+        "definition": "Обучение модели на размеченных примерах для сопоставления входов известным выходам.",
+        "example": "Детекция спама — это обучение с учителем на размеченных письмах.",
+        "term": "Обучение с учителем"
+      },
+      "ja": {
+        "definition": "ラベル付きの例でモデルを学習させ、入力を既知の出力に対応づけること。",
+        "example": "スパム検出はラベル付きメールに対する教師あり学習だ。",
+        "term": "教師あり学習"
+      },
+      "ko": {
+        "definition": "입력을 알려진 출력에 대응시키도록 라벨이 달린 예시로 모델을 학습하는 것이다.",
+        "example": "스팸 탐지는 라벨이 달린 이메일에 대한 지도 학습이다.",
+        "term": "지도 학습"
+      },
+      "fr": {
+        "definition": "L'entraînement d'un modèle sur des exemples étiquetés afin d'associer des entrées à des sorties connues.",
+        "example": "La détection de spam est de l'apprentissage supervisé sur des courriels étiquetés.",
+        "term": "Apprentissage supervisé"
+      },
+      "es": {
+        "definition": "Entrenar un modelo con ejemplos etiquetados para asignar entradas a salidas conocidas.",
+        "example": "La detección de spam es aprendizaje supervisado sobre correos etiquetados.",
+        "term": "Aprendizaje supervisado"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-026",
+    "deck": "ai-ml",
+    "term": "Unsupervised learning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training",
+      "paradigms"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Finding structure in unlabeled data without predefined target outputs.",
+        "example": "Clustering customers by behavior is unsupervised learning."
+      },
+      "ru": {
+        "definition": "Поиск структуры в неразмеченных данных без заранее заданных целевых ответов.",
+        "example": "Кластеризация клиентов по поведению — это обучение без учителя.",
+        "term": "Обучение без учителя"
+      },
+      "ja": {
+        "definition": "あらかじめ決められた目標出力なしに、ラベルのないデータから構造を見つけること。",
+        "example": "行動によって顧客をクラスタリングするのは教師なし学習だ。",
+        "term": "教師なし学習"
+      },
+      "ko": {
+        "definition": "미리 정해진 목표 출력 없이 라벨 없는 데이터에서 구조를 찾아내는 것이다.",
+        "example": "행동에 따라 고객을 군집화하는 것은 비지도 학습이다.",
+        "term": "비지도 학습"
+      },
+      "fr": {
+        "definition": "La recherche de structure dans des données non étiquetées, sans sorties cibles prédéfinies.",
+        "example": "Regrouper les clients selon leur comportement relève de l'apprentissage non supervisé.",
+        "term": "Apprentissage non supervisé"
+      },
+      "es": {
+        "definition": "Encontrar estructura en datos sin etiquetar, sin salidas objetivo predefinidas.",
+        "example": "Agrupar a los clientes por comportamiento es aprendizaje no supervisado.",
+        "term": "Aprendizaje no supervisado"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-027",
+    "deck": "ai-ml",
+    "term": "Reinforcement learning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training",
+      "paradigms"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Learning to act by trial and error, guided by rewards and penalties.",
+        "example": "The agent used reinforcement learning to master the game."
+      },
+      "ru": {
+        "definition": "Обучение действиям методом проб и ошибок под управлением наград и штрафов.",
+        "example": "Агент освоил игру с помощью обучения с подкреплением.",
+        "term": "Обучение с подкреплением"
+      },
+      "ja": {
+        "definition": "報酬と罰則に導かれ、試行錯誤を通じて行動を学習すること。",
+        "example": "そのエージェントは強化学習でゲームを習得した。",
+        "term": "強化学習"
+      },
+      "ko": {
+        "definition": "보상과 벌점을 길잡이로 삼아 시행착오를 통해 행동을 학습하는 방식이다.",
+        "example": "그 에이전트는 강화 학습을 통해 게임을 정복했다.",
+        "term": "강화 학습"
+      },
+      "fr": {
+        "definition": "Apprendre à agir par essais et erreurs, guidé par des récompenses et des pénalités.",
+        "example": "L'agent a utilisé l'apprentissage par renforcement pour maîtriser le jeu.",
+        "term": "Apprentissage par renforcement"
+      },
+      "es": {
+        "definition": "Aprender a actuar por ensayo y error, guiado por recompensas y penalizaciones.",
+        "example": "El agente usó aprendizaje por refuerzo para dominar el juego.",
+        "term": "Aprendizaje por refuerzo"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-028",
+    "deck": "ai-ml",
+    "term": "Semi-supervised learning",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "paradigms"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Training that combines a small labeled set with a large unlabeled one.",
+        "example": "Semi-supervised learning helped when labels were expensive to obtain."
+      },
+      "ru": {
+        "definition": "Обучение, сочетающее небольшой размеченный набор с большим неразмеченным.",
+        "example": "Полу-обучение с учителем выручило, когда метки было дорого получать.",
+        "term": "Частичное обучение с учителем"
+      },
+      "ja": {
+        "definition": "少量のラベル付きデータと大量のラベルなしデータを組み合わせる学習。",
+        "example": "ラベル取得が高コストなとき、半教師あり学習が役立った。",
+        "term": "半教師あり学習"
+      },
+      "ko": {
+        "definition": "소량의 라벨 데이터와 대량의 라벨 없는 데이터를 결합해 학습하는 방식이다.",
+        "example": "준지도 학습은 라벨을 얻기 비쌀 때 도움이 되었다.",
+        "term": "준지도 학습"
+      },
+      "fr": {
+        "definition": "Un entraînement qui combine un petit ensemble étiqueté avec un grand ensemble non étiqueté.",
+        "example": "L'apprentissage semi-supervisé a aidé lorsque les étiquettes étaient coûteuses à obtenir.",
+        "term": "Apprentissage semi-supervisé"
+      },
+      "es": {
+        "definition": "Entrenamiento que combina un pequeño conjunto etiquetado con uno grande sin etiquetar.",
+        "example": "El aprendizaje semisupervisado ayudó cuando las etiquetas eran caras de obtener.",
+        "term": "Aprendizaje semisupervisado"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-029",
+    "deck": "ai-ml",
+    "term": "Self-supervised learning",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "paradigms"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Learning from raw data by creating labels from the data itself, like predicting masked words.",
+        "example": "LLMs are pretrained with self-supervised next-token prediction."
+      },
+      "ru": {
+        "definition": "Обучение на сырых данных, где метки создаются из самих данных, например предсказание скрытых слов.",
+        "example": "LLM предобучают самообучением — предсказанием следующего токена.",
+        "term": "Самообучение (self-supervised)"
+      },
+      "ja": {
+        "definition": "マスクした単語の予測など、データ自体からラベルを作り出して学習すること。",
+        "example": "LLMは自己教師ありの次トークン予測で事前学習される。",
+        "term": "自己教師あり学習"
+      },
+      "ko": {
+        "definition": "가려진 단어 예측처럼 데이터 자체에서 라벨을 만들어 원시 데이터로부터 학습하는 방식이다.",
+        "example": "LLM은 자기지도 방식의 다음 토큰 예측으로 사전학습된다.",
+        "term": "자기지도 학습"
+      },
+      "fr": {
+        "definition": "Apprendre à partir de données brutes en créant des étiquettes issues des données elles-mêmes, comme prédire des mots masqués.",
+        "example": "Les grands modèles de langage sont pré-entraînés par prédiction auto-supervisée du token suivant.",
+        "term": "Apprentissage auto-supervisé"
+      },
+      "es": {
+        "definition": "Aprender de datos en bruto creando etiquetas a partir de los propios datos, como predecir palabras ocultas.",
+        "example": "Los LLM se preentrenan con predicción autosupervisada del siguiente token.",
+        "term": "Aprendizaje autosupervisado"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-030",
+    "deck": "ai-ml",
+    "term": "Transfer learning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Reusing a model trained on one task as a starting point for a related task.",
+        "example": "Transfer learning let us fine-tune an image model with few examples."
+      },
+      "ru": {
+        "definition": "Повторное использование модели, обученной на одной задаче, как старта для родственной задачи.",
+        "example": "Transfer learning позволил дообучить модель изображений на нескольких примерах.",
+        "term": "Перенос обучения"
+      },
+      "ja": {
+        "definition": "あるタスクで学習したモデルを、関連する別のタスクの出発点として再利用すること。",
+        "example": "転移学習により、わずかな例で画像モデルをファインチューニングできた。",
+        "term": "転移学習"
+      },
+      "ko": {
+        "definition": "한 작업에서 학습한 모델을 관련 작업의 출발점으로 재사용하는 것이다.",
+        "example": "전이 학습 덕분에 적은 예시로 이미지 모델을 파인튜닝할 수 있었다.",
+        "term": "전이 학습"
+      },
+      "fr": {
+        "definition": "Réutiliser un modèle entraîné sur une tâche comme point de départ pour une tâche apparentée.",
+        "example": "L'apprentissage par transfert nous a permis d'affiner un modèle d'images avec peu d'exemples.",
+        "term": "Apprentissage par transfert"
+      },
+      "es": {
+        "definition": "Reutilizar un modelo entrenado en una tarea como punto de partida para una tarea relacionada.",
+        "example": "El aprendizaje por transferencia nos permitió ajustar un modelo de imágenes con pocos ejemplos.",
+        "term": "Aprendizaje por transferencia"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-031",
+    "deck": "ai-ml",
+    "term": "Classification",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tasks",
+      "supervised"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Predicting a discrete category label for an input.",
+        "example": "The classifier sorts reviews into positive or negative."
+      },
+      "ru": {
+        "definition": "Предсказание дискретной категории для входных данных.",
+        "example": "Классификатор сортирует отзывы на положительные и отрицательные.",
+        "term": "Классификация"
+      },
+      "ja": {
+        "definition": "入力に対して離散的なカテゴリのラベルを予測すること。",
+        "example": "その分類器はレビューを肯定か否定かに振り分ける。",
+        "term": "分類"
+      },
+      "ko": {
+        "definition": "입력에 대해 이산적인 범주 라벨을 예측하는 것이다.",
+        "example": "이 분류기는 리뷰를 긍정 또는 부정으로 분류한다.",
+        "term": "분류"
+      },
+      "fr": {
+        "definition": "Prédire une catégorie discrète pour une entrée.",
+        "example": "Le classifieur trie les avis en positifs ou négatifs.",
+        "term": "Classification"
+      },
+      "es": {
+        "definition": "Predecir una categoría discreta para una entrada.",
+        "example": "El clasificador ordena las reseñas en positivas o negativas.",
+        "term": "Clasificación"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-032",
+    "deck": "ai-ml",
+    "term": "Regression",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tasks",
+      "supervised"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Predicting a continuous numeric value from inputs.",
+        "example": "Regression estimated the house price in dollars."
+      },
+      "ru": {
+        "definition": "Предсказание непрерывного числового значения по входным данным.",
+        "example": "Регрессия оценила цену дома в долларах.",
+        "term": "Регрессия"
+      },
+      "ja": {
+        "definition": "入力から連続的な数値を予測すること。",
+        "example": "回帰は住宅価格をドル単位で推定した。",
+        "term": "回帰"
+      },
+      "ko": {
+        "definition": "입력으로부터 연속적인 수치 값을 예측하는 것이다.",
+        "example": "회귀로 주택 가격을 달러 단위로 추정했다.",
+        "term": "회귀"
+      },
+      "fr": {
+        "definition": "Prédire une valeur numérique continue à partir des entrées.",
+        "example": "La régression a estimé le prix de la maison en dollars.",
+        "term": "Régression"
+      },
+      "es": {
+        "definition": "Predecir un valor numérico continuo a partir de las entradas.",
+        "example": "La regresión estimó el precio de la vivienda en dólares.",
+        "term": "Regresión"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-033",
+    "deck": "ai-ml",
+    "term": "Clustering",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "tasks",
+      "unsupervised"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Grouping similar examples together without using labels.",
+        "example": "K-means clustering split the points into three groups."
+      },
+      "ru": {
+        "definition": "Группировка похожих примеров без использования меток.",
+        "example": "Кластеризация методом k-средних разбила точки на три группы.",
+        "term": "Кластеризация"
+      },
+      "ja": {
+        "definition": "ラベルを使わずに、似た例どうしをまとめること。",
+        "example": "k平均法によるクラスタリングで点群を3つのグループに分けた。",
+        "term": "クラスタリング"
+      },
+      "ko": {
+        "definition": "라벨을 사용하지 않고 비슷한 예시들을 묶는 것이다.",
+        "example": "K-평균 군집화는 점들을 세 그룹으로 나눴다.",
+        "term": "군집화"
+      },
+      "fr": {
+        "definition": "Regrouper des exemples similaires sans recourir à des étiquettes.",
+        "example": "Le partitionnement en k-moyennes a réparti les points en trois groupes.",
+        "term": "Partitionnement"
+      },
+      "es": {
+        "definition": "Agrupar ejemplos similares sin usar etiquetas.",
+        "example": "El agrupamiento por k-medias dividió los puntos en tres grupos.",
+        "term": "Agrupamiento"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-034",
+    "deck": "ai-ml",
+    "term": "Embedding",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "nlp",
+      "representation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A dense vector that represents the meaning of text, images, or other data.",
+        "example": "Similar sentences have embeddings that sit close together."
+      },
+      "ru": {
+        "definition": "Плотный вектор, представляющий смысл текста, изображений или других данных.",
+        "example": "У похожих предложений эмбеддинги расположены близко друг к другу.",
+        "term": "Эмбеддинг"
+      },
+      "ja": {
+        "definition": "テキストや画像などの意味を表す密なベクトル(埋め込み)。",
+        "example": "意味の近い文どうしは、埋め込みも互いに近い位置にある。",
+        "term": "埋め込み"
+      },
+      "ko": {
+        "definition": "텍스트, 이미지 등의 의미를 표현하는 조밀한 벡터다.",
+        "example": "비슷한 문장들은 서로 가까이 위치하는 임베딩을 갖는다.",
+        "term": "임베딩"
+      },
+      "fr": {
+        "definition": "Un vecteur dense qui représente le sens d'un texte, d'une image ou d'autres données.",
+        "example": "Des phrases similaires ont des plongements (embeddings) proches les uns des autres.",
+        "term": "Plongement"
+      },
+      "es": {
+        "definition": "Un vector denso que representa el significado de texto, imágenes u otros datos.",
+        "example": "Las frases similares tienen incrustaciones (embeddings) que quedan cerca entre sí.",
+        "term": "Incrustación"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-035",
+    "deck": "ai-ml",
+    "term": "Vector",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fundamentals",
+      "representation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An ordered list of numbers representing a point or quantity in many dimensions.",
+        "example": "The word was encoded as a 768-dimensional vector."
+      },
+      "ru": {
+        "definition": "Упорядоченный список чисел, задающий точку или величину в многомерном пространстве.",
+        "example": "Слово было закодировано 768-мерным вектором.",
+        "term": "Вектор"
+      },
+      "ja": {
+        "definition": "多次元空間における点や量を表す、順序付けられた数値の並び。",
+        "example": "その単語は768次元のベクトルとして符号化された。",
+        "term": "ベクトル"
+      },
+      "ko": {
+        "definition": "여러 차원에서의 점이나 양을 나타내는 순서 있는 숫자 목록이다.",
+        "example": "그 단어는 768차원 벡터로 인코딩되었다.",
+        "term": "벡터"
+      },
+      "fr": {
+        "definition": "Une liste ordonnée de nombres représentant un point ou une quantité dans de nombreuses dimensions.",
+        "example": "Le mot a été encodé sous forme de vecteur à 768 dimensions.",
+        "term": "Vecteur"
+      },
+      "es": {
+        "definition": "Una lista ordenada de números que representa un punto o una cantidad en muchas dimensiones.",
+        "example": "La palabra se codificó como un vector de 768 dimensiones.",
+        "term": "Vector"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-036",
+    "deck": "ai-ml",
+    "term": "Vector database",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "retrieval",
+      "infrastructure"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A store optimized for finding the nearest vectors to a query embedding.",
+        "example": "RAG systems query a vector database to fetch relevant chunks."
+      },
+      "ru": {
+        "definition": "Хранилище, оптимизированное для поиска ближайших к запросу векторов-эмбеддингов.",
+        "example": "RAG-системы обращаются к векторной БД, чтобы достать релевантные фрагменты.",
+        "term": "Векторная база данных"
+      },
+      "ja": {
+        "definition": "クエリの埋め込みに最も近いベクトルを高速に探すために最適化されたストア。",
+        "example": "RAGシステムは関連するチャンクを取り出すためにベクトルデータベースを検索する。",
+        "term": "ベクトルデータベース"
+      },
+      "ko": {
+        "definition": "쿼리 임베딩과 가장 가까운 벡터를 찾는 데 최적화된 저장소다.",
+        "example": "RAG 시스템은 관련 청크를 가져오기 위해 벡터 데이터베이스에 질의한다.",
+        "term": "벡터 데이터베이스"
+      },
+      "fr": {
+        "definition": "Un magasin optimisé pour trouver les vecteurs les plus proches du plongement d'une requête.",
+        "example": "Les systèmes RAG interrogent une base de données vectorielle pour récupérer les passages pertinents.",
+        "term": "Base de données vectorielle"
+      },
+      "es": {
+        "definition": "Un almacén optimizado para encontrar los vectores más cercanos a la incrustación de una consulta.",
+        "example": "Los sistemas RAG consultan una base de datos vectorial para recuperar los fragmentos relevantes.",
+        "term": "Base de datos vectorial"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-037",
+    "deck": "ai-ml",
+    "term": "Cosine similarity",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "retrieval",
+      "math"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A measure of similarity based on the angle between two vectors, ignoring magnitude.",
+        "example": "We ranked documents by cosine similarity to the query."
+      },
+      "ru": {
+        "definition": "Мера сходства по углу между двумя векторами, не учитывающая их длину.",
+        "example": "Мы ранжировали документы по косинусному сходству с запросом.",
+        "term": "Косинусная близость"
+      },
+      "ja": {
+        "definition": "大きさを無視し、2つのベクトルのなす角度に基づいて類似度を測る指標。",
+        "example": "クエリとのコサイン類似度で文書を順位付けした。",
+        "term": "コサイン類似度"
+      },
+      "ko": {
+        "definition": "크기를 무시하고 두 벡터 사이의 각도를 기반으로 유사도를 재는 척도다.",
+        "example": "우리는 쿼리와의 코사인 유사도로 문서 순위를 매겼다.",
+        "term": "코사인 유사도"
+      },
+      "fr": {
+        "definition": "Une mesure de similarité fondée sur l'angle entre deux vecteurs, indépendante de leur norme.",
+        "example": "Nous avons classé les documents selon leur similarité cosinus avec la requête.",
+        "term": "Similarité cosinus"
+      },
+      "es": {
+        "definition": "Una medida de similitud basada en el ángulo entre dos vectores, que ignora la magnitud.",
+        "example": "Clasificamos los documentos por su similitud coseno con la consulta.",
+        "term": "Similitud del coseno"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-038",
+    "deck": "ai-ml",
+    "term": "Transformer",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "nlp",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A neural network architecture built on attention that powers most modern LLMs.",
+        "example": "The Transformer replaced recurrence with self-attention."
+      },
+      "ru": {
+        "definition": "Архитектура нейросети на основе механизма внимания, лежащая в основе большинства современных LLM.",
+        "example": "Transformer заменил рекуррентность на self-attention.",
+        "term": "Трансформер"
+      },
+      "ja": {
+        "definition": "アテンションを基盤とし、現代の多くのLLMを支えるニューラルネットワークの構造。",
+        "example": "トランスフォーマーは再帰の代わりに自己アテンションを採用した。",
+        "term": "トランスフォーマー"
+      },
+      "ko": {
+        "definition": "어텐션을 기반으로 하며 대부분의 현대 LLM을 구동하는 신경망 아키텍처다.",
+        "example": "트랜스포머는 순환 구조를 셀프 어텐션으로 대체했다.",
+        "term": "트랜스포머"
+      },
+      "fr": {
+        "definition": "Une architecture de réseau de neurones reposant sur l'attention, au cœur de la plupart des grands modèles de langage modernes.",
+        "example": "Le Transformer a remplacé la récurrence par l'auto-attention.",
+        "term": "Transformeur"
+      },
+      "es": {
+        "definition": "Una arquitectura de red neuronal basada en la atención que impulsa a la mayoría de los LLM modernos.",
+        "example": "El Transformer sustituyó la recurrencia por la autoatención.",
+        "term": "Transformador"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-039",
+    "deck": "ai-ml",
+    "term": "Attention",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "nlp",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A mechanism that lets a model weigh which input tokens matter most for each output.",
+        "example": "Attention lets the model link \"it\" back to the right noun."
+      },
+      "ru": {
+        "definition": "Механизм, позволяющий модели оценивать, какие входные токены важнее для каждого выхода.",
+        "example": "Внимание помогает модели связать «оно» с нужным существительным.",
+        "term": "Внимание"
+      },
+      "ja": {
+        "definition": "各出力にとってどの入力トークンが重要かをモデルが重み付けする仕組み。",
+        "example": "アテンションのおかげで、モデルは「それ」を正しい名詞に結びつけられる。",
+        "term": "アテンション"
+      },
+      "ko": {
+        "definition": "각 출력에 대해 어떤 입력 토큰이 가장 중요한지 가중치를 매기게 해주는 메커니즘이다.",
+        "example": "어텐션 덕분에 모델은 \"그것\"을 알맞은 명사와 연결한다.",
+        "term": "어텐션"
+      },
+      "fr": {
+        "definition": "Un mécanisme qui permet au modèle de pondérer les tokens d'entrée les plus importants pour chaque sortie.",
+        "example": "L'attention permet au modèle de relier « il » au bon nom.",
+        "term": "Attention"
+      },
+      "es": {
+        "definition": "Un mecanismo que permite a un modelo ponderar qué tokens de entrada importan más para cada salida.",
+        "example": "La atención permite al modelo enlazar «eso» con el sustantivo correcto.",
+        "term": "Atención"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-040",
+    "deck": "ai-ml",
+    "term": "Self-attention",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "nlp",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Attention where each token attends to other tokens in the same sequence.",
+        "example": "Self-attention captures long-range dependencies in a sentence."
+      },
+      "ru": {
+        "definition": "Внимание, при котором каждый токен обращается к другим токенам той же последовательности.",
+        "example": "Self-attention улавливает дальние зависимости в предложении.",
+        "term": "Само-внимание"
+      },
+      "ja": {
+        "definition": "各トークンが同じ系列内の他のトークンに注意を向けるアテンション。",
+        "example": "自己アテンションは文中の長距離の依存関係を捉える。",
+        "term": "自己注意機構"
+      },
+      "ko": {
+        "definition": "각 토큰이 같은 시퀀스 안의 다른 토큰들에 주의를 기울이는 어텐션이다.",
+        "example": "셀프 어텐션은 문장 내의 장거리 의존성을 포착한다.",
+        "term": "셀프 어텐션"
+      },
+      "fr": {
+        "definition": "Une attention où chaque token se rapporte aux autres tokens de la même séquence.",
+        "example": "L'auto-attention capture les dépendances à longue distance dans une phrase.",
+        "term": "Auto-attention"
+      },
+      "es": {
+        "definition": "Atención en la que cada token atiende a otros tokens de la misma secuencia.",
+        "example": "La autoatención capta dependencias de largo alcance en una frase.",
+        "term": "Autoatención"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-041",
+    "deck": "ai-ml",
+    "term": "Large language model",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "llm",
+      "nlp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A model trained on vast text that predicts and generates language.",
+        "example": "A large language model can draft an email from a one-line prompt."
+      },
+      "ru": {
+        "definition": "Модель, обученная на огромных объёмах текста, которая предсказывает и порождает язык.",
+        "example": "Большая языковая модель набросает письмо по однострочному запросу.",
+        "term": "Большая языковая модель"
+      },
+      "ja": {
+        "definition": "膨大なテキストで学習し、言語を予測・生成するモデル(大規模言語モデル)。",
+        "example": "大規模言語モデルは一行のプロンプトからメールの下書きを作れる。",
+        "term": "大規模言語モデル"
+      },
+      "ko": {
+        "definition": "방대한 텍스트로 학습해 언어를 예측하고 생성하는 모델이다.",
+        "example": "대규모 언어 모델은 한 줄짜리 프롬프트로 이메일 초안을 작성할 수 있다.",
+        "term": "대규모 언어 모델"
+      },
+      "fr": {
+        "definition": "Un modèle entraîné sur d'immenses corpus de texte qui prédit et génère du langage.",
+        "example": "Un grand modèle de langage peut rédiger un courriel à partir d'une consigne d'une ligne.",
+        "term": "Grand modèle de langage"
+      },
+      "es": {
+        "definition": "Un modelo entrenado con enormes cantidades de texto que predice y genera lenguaje.",
+        "example": "Un gran modelo de lenguaje puede redactar un correo a partir de una instrucción de una línea.",
+        "term": "Gran modelo de lenguaje"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-042",
+    "deck": "ai-ml",
+    "term": "Prompt",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "llm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The input text or instruction given to a language model to elicit a response.",
+        "example": "A clear prompt produced a much better summary."
+      },
+      "ru": {
+        "definition": "Входной текст или инструкция, передаваемые языковой модели, чтобы получить ответ.",
+        "example": "Чёткий промпт дал гораздо более качественное резюме.",
+        "term": "Промпт"
+      },
+      "ja": {
+        "definition": "応答を引き出すために言語モデルへ与える入力テキストや指示。",
+        "example": "明確なプロンプトにより、はるかに良い要約が得られた。",
+        "term": "プロンプト"
+      },
+      "ko": {
+        "definition": "응답을 끌어내기 위해 언어 모델에 주는 입력 텍스트나 지시다.",
+        "example": "명확한 프롬프트가 훨씬 더 나은 요약을 만들어냈다.",
+        "term": "프롬프트"
+      },
+      "fr": {
+        "definition": "Le texte d'entrée ou l'instruction fournie à un modèle de langage pour obtenir une réponse.",
+        "example": "Une consigne claire a produit un bien meilleur résumé.",
+        "term": "Prompt"
+      },
+      "es": {
+        "definition": "El texto o la instrucción de entrada que se da a un modelo de lenguaje para provocar una respuesta.",
+        "example": "Un prompt claro produjo un resumen mucho mejor.",
+        "term": "Prompt"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-043",
+    "deck": "ai-ml",
+    "term": "Prompt engineering",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Crafting and refining prompts to get more useful outputs from a model.",
+        "example": "Prompt engineering turned vague replies into structured JSON."
+      },
+      "ru": {
+        "definition": "Составление и доработка промптов ради более полезных ответов модели.",
+        "example": "Промпт-инжиниринг превратил расплывчатые ответы в структурированный JSON.",
+        "term": "Промпт-инжиниринг"
+      },
+      "ja": {
+        "definition": "より有用な出力を得るために、プロンプトを設計し改良すること。",
+        "example": "プロンプトエンジニアリングによって、曖昧な返答が構造化されたJSONに変わった。",
+        "term": "プロンプトエンジニアリング"
+      },
+      "ko": {
+        "definition": "모델에서 더 유용한 출력을 얻기 위해 프롬프트를 설계하고 다듬는 일이다.",
+        "example": "프롬프트 엔지니어링은 모호한 답변을 구조화된 JSON으로 바꿔놓았다.",
+        "term": "프롬프트 엔지니어링"
+      },
+      "fr": {
+        "definition": "L'art de concevoir et d'affiner les consignes pour obtenir des sorties plus utiles d'un modèle.",
+        "example": "L'ingénierie des consignes a transformé des réponses vagues en JSON structuré.",
+        "term": "Ingénierie de prompt"
+      },
+      "es": {
+        "definition": "Diseñar y refinar prompts para obtener salidas más útiles de un modelo.",
+        "example": "La ingeniería de prompts convirtió respuestas vagas en JSON estructurado.",
+        "term": "Ingeniería de prompts"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-044",
+    "deck": "ai-ml",
+    "term": "System prompt",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hidden instruction that sets a model's role, rules, and tone for a conversation.",
+        "example": "The system prompt told the assistant to answer only in French."
+      },
+      "ru": {
+        "definition": "Скрытая инструкция, задающая роль, правила и тон модели на весь диалог.",
+        "example": "Системный промпт велел ассистенту отвечать только по-французски.",
+        "term": "Системный промпт"
+      },
+      "ja": {
+        "definition": "会話におけるモデルの役割・規則・口調を設定する、隠れた指示文。",
+        "example": "システムプロンプトは、アシスタントにフランス語のみで答えるよう指示した。",
+        "term": "システムプロンプト"
+      },
+      "ko": {
+        "definition": "대화 동안 모델의 역할, 규칙, 어조를 설정하는 숨겨진 지시다.",
+        "example": "시스템 프롬프트는 어시스턴트에게 프랑스어로만 답하라고 지시했다.",
+        "term": "시스템 프롬프트"
+      },
+      "fr": {
+        "definition": "Une instruction cachée qui fixe le rôle, les règles et le ton d'un modèle pour une conversation.",
+        "example": "La consigne système indiquait à l'assistant de ne répondre qu'en français.",
+        "term": "Prompt système"
+      },
+      "es": {
+        "definition": "Una instrucción oculta que fija el rol, las reglas y el tono de un modelo en una conversación.",
+        "example": "El prompt de sistema indicó al asistente que respondiera solo en francés.",
+        "term": "Prompt del sistema"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-045",
+    "deck": "ai-ml",
+    "term": "Context window",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The maximum amount of text, in tokens, a model can consider at once.",
+        "example": "A 200K context window fits an entire book in one prompt."
+      },
+      "ru": {
+        "definition": "Максимальный объём текста в токенах, который модель может учитывать одновременно.",
+        "example": "Контекстное окно в 200K вмещает целую книгу в один промпт.",
+        "term": "Контекстное окно"
+      },
+      "ja": {
+        "definition": "モデルが一度に考慮できるテキスト量の上限で、トークン数で表される(コンテキストウィンドウ)。",
+        "example": "20万トークンのコンテキストウィンドウなら、本一冊をひとつのプロンプトに収められる。",
+        "term": "コンテキストウィンドウ"
+      },
+      "ko": {
+        "definition": "모델이 한 번에 고려할 수 있는 최대 텍스트 양으로, 토큰 단위로 나타낸다.",
+        "example": "20만 토큰의 컨텍스트 윈도우는 책 한 권 전체를 하나의 프롬프트에 담는다.",
+        "term": "컨텍스트 윈도우"
+      },
+      "fr": {
+        "definition": "La quantité maximale de texte, en tokens, qu'un modèle peut prendre en compte à la fois.",
+        "example": "Une fenêtre de contexte de 200 K contient un livre entier dans une seule consigne.",
+        "term": "Fenêtre de contexte"
+      },
+      "es": {
+        "definition": "La cantidad máxima de texto, en tokens, que un modelo puede tener en cuenta a la vez.",
+        "example": "En una ventana de contexto de 200K cabe un libro entero en un solo prompt.",
+        "term": "Ventana de contexto"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-046",
+    "deck": "ai-ml",
+    "term": "Temperature",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "sampling"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A setting that controls randomness in generation; higher means more varied output.",
+        "example": "We lowered temperature to 0.2 for consistent answers."
+      },
+      "ru": {
+        "definition": "Настройка, управляющая случайностью генерации: чем выше, тем разнообразнее вывод.",
+        "example": "Мы снизили температуру до 0.2 ради стабильных ответов.",
+        "term": "Температура"
+      },
+      "ja": {
+        "definition": "生成のランダムさを制御する設定で、高いほど出力が多様になる(温度)。",
+        "example": "一貫した回答を得るため、温度を0.2に下げた。",
+        "term": "温度"
+      },
+      "ko": {
+        "definition": "생성의 무작위성을 조절하는 설정으로, 값이 높을수록 출력이 더 다양해진다.",
+        "example": "우리는 일관된 답변을 위해 온도를 0.2로 낮췄다.",
+        "term": "온도"
+      },
+      "fr": {
+        "definition": "Un réglage qui contrôle le hasard de la génération : plus elle est élevée, plus la sortie est variée.",
+        "example": "Nous avons abaissé la température à 0,2 pour des réponses cohérentes.",
+        "term": "Température"
+      },
+      "es": {
+        "definition": "Un ajuste que controla la aleatoriedad en la generación; cuanto más alto, más variada es la salida.",
+        "example": "Bajamos la temperatura a 0,2 para obtener respuestas consistentes.",
+        "term": "Temperatura"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-047",
+    "deck": "ai-ml",
+    "term": "Top-p sampling",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "llm",
+      "sampling"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Sampling from the smallest set of tokens whose probabilities sum to p.",
+        "example": "Top-p of 0.9 trims the unlikely tokens while keeping variety."
+      },
+      "ru": {
+        "definition": "Сэмплирование из наименьшего набора токенов, чьи вероятности в сумме дают p.",
+        "example": "Top-p 0.9 отсекает маловероятные токены, сохраняя разнообразие.",
+        "term": "Top-p сэмплирование"
+      },
+      "ja": {
+        "definition": "確率の合計がpになる最小のトークン集合からサンプリングする手法。",
+        "example": "Top-pを0.9にすると、多様性を保ちつつ可能性の低いトークンを除外できる。",
+        "term": "Top-pサンプリング"
+      },
+      "ko": {
+        "definition": "확률 합이 p가 되는 가장 작은 토큰 집합에서 샘플링하는 방식이다.",
+        "example": "top-p 0.9는 다양성을 유지하면서 가능성 낮은 토큰을 잘라낸다.",
+        "term": "Top-p 샘플링"
+      },
+      "fr": {
+        "definition": "Un échantillonnage sur le plus petit ensemble de tokens dont les probabilités totalisent p.",
+        "example": "Un top-p de 0,9 élimine les tokens improbables tout en conservant de la variété.",
+        "term": "Échantillonnage top-p"
+      },
+      "es": {
+        "definition": "Muestreo del conjunto más pequeño de tokens cuyas probabilidades suman p.",
+        "example": "Un top-p de 0,9 descarta los tokens improbables sin perder variedad.",
+        "term": "Muestreo top-p"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-048",
+    "deck": "ai-ml",
+    "term": "Hallucination",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a model generates confident text that is false or unsupported.",
+        "example": "The model hallucinated a citation that does not exist."
+      },
+      "ru": {
+        "definition": "Когда модель уверенно выдаёт текст, который ложен или ничем не подтверждён.",
+        "example": "Модель выдумала несуществующую ссылку на источник.",
+        "term": "Галлюцинация"
+      },
+      "ja": {
+        "definition": "モデルが自信ありげに、誤っているか根拠のないテキストを生成すること(ハルシネーション)。",
+        "example": "モデルは存在しない引用文献をハルシネーションで作り出した。",
+        "term": "ハルシネーション"
+      },
+      "ko": {
+        "definition": "모델이 거짓이거나 근거 없는 내용을 자신 있게 생성하는 현상이다.",
+        "example": "그 모델은 존재하지 않는 인용 출처를 환각으로 만들어냈다.",
+        "term": "환각"
+      },
+      "fr": {
+        "definition": "Lorsqu'un modèle génère avec assurance un texte faux ou non étayé.",
+        "example": "Le modèle a inventé une référence qui n'existe pas.",
+        "term": "Hallucination"
+      },
+      "es": {
+        "definition": "Cuando un modelo genera con seguridad un texto falso o sin respaldo.",
+        "example": "El modelo alucinó una cita que no existe.",
+        "term": "Alucinación"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-049",
+    "deck": "ai-ml",
+    "term": "Fine-tuning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Further training a pretrained model on a smaller task-specific dataset.",
+        "example": "Fine-tuning on support tickets made the bot more on-brand."
+      },
+      "ru": {
+        "definition": "Дополнительное обучение предобученной модели на меньшем наборе данных под конкретную задачу.",
+        "example": "Дообучение на тикетах поддержки сделало бота более узнаваемым по стилю.",
+        "term": "Дообучение"
+      },
+      "ja": {
+        "definition": "事前学習済みモデルを、より小さなタスク特化のデータセットでさらに学習させること(ファインチューニング)。",
+        "example": "サポートチケットでファインチューニングすると、ボットがよりブランドらしくなった。",
+        "term": "ファインチューニング"
+      },
+      "ko": {
+        "definition": "사전학습된 모델을 더 작은 작업 특화 데이터셋으로 추가 학습하는 것이다.",
+        "example": "고객 문의 티켓으로 파인튜닝하자 봇이 더 브랜드에 맞아졌다.",
+        "term": "미세 조정"
+      },
+      "fr": {
+        "definition": "Poursuivre l'entraînement d'un modèle pré-entraîné sur un jeu de données plus restreint et propre à une tâche.",
+        "example": "L'affinage sur des tickets d'assistance a rendu le robot plus fidèle à la marque.",
+        "term": "Réglage fin"
+      },
+      "es": {
+        "definition": "Seguir entrenando un modelo preentrenado con un conjunto de datos más pequeño y específico de una tarea.",
+        "example": "El ajuste fino con tickets de soporte hizo que el bot encajara más con la marca.",
+        "term": "Ajuste fino"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-050",
+    "deck": "ai-ml",
+    "term": "Pretraining",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The initial large-scale training of a model on broad data before specialization.",
+        "example": "Pretraining gives the model general language knowledge."
+      },
+      "ru": {
+        "definition": "Начальное крупномасштабное обучение модели на широких данных до специализации.",
+        "example": "Предобучение даёт модели общее знание языка.",
+        "term": "Предобучение"
+      },
+      "ja": {
+        "definition": "特化の前に、幅広いデータでモデルを最初に大規模学習させること(事前学習)。",
+        "example": "事前学習はモデルに一般的な言語知識を与える。",
+        "term": "事前学習"
+      },
+      "ko": {
+        "definition": "특화 학습 이전에 광범위한 데이터로 모델을 대규모로 처음 학습하는 단계다.",
+        "example": "사전학습은 모델에게 일반적인 언어 지식을 부여한다.",
+        "term": "사전 학습"
+      },
+      "fr": {
+        "definition": "L'entraînement initial à grande échelle d'un modèle sur des données larges, avant toute spécialisation.",
+        "example": "Le pré-entraînement donne au modèle une connaissance générale de la langue.",
+        "term": "Pré-entraînement"
+      },
+      "es": {
+        "definition": "El entrenamiento inicial a gran escala de un modelo con datos amplios antes de especializarlo.",
+        "example": "El preentrenamiento da al modelo un conocimiento general del lenguaje.",
+        "term": "Preentrenamiento"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-051",
+    "deck": "ai-ml",
+    "term": "RAG",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "retrieval"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Retrieval-augmented generation: fetching relevant documents to ground a model's answer.",
+        "example": "RAG let the chatbot cite the company's own docs."
+      },
+      "ru": {
+        "definition": "Генерация с опорой на поиск: подтягивание релевантных документов, чтобы обосновать ответ модели.",
+        "example": "RAG позволил чат-боту ссылаться на собственные документы компании.",
+        "term": "RAG (генерация с поиском)"
+      },
+      "ja": {
+        "definition": "検索拡張生成。関連文書を取得してモデルの回答の根拠とする手法。",
+        "example": "RAGにより、チャットボットは自社ドキュメントを引用できるようになった。",
+        "term": "RAG"
+      },
+      "ko": {
+        "definition": "검색 증강 생성: 관련 문서를 가져와 모델의 답변에 근거를 제공하는 방식이다.",
+        "example": "RAG 덕분에 챗봇은 회사 자체 문서를 인용할 수 있었다.",
+        "term": "RAG"
+      },
+      "fr": {
+        "definition": "Génération augmentée par récupération : on récupère des documents pertinents pour ancrer la réponse d'un modèle.",
+        "example": "Le RAG a permis au robot conversationnel de citer la documentation interne de l'entreprise.",
+        "term": "RAG"
+      },
+      "es": {
+        "definition": "Generación aumentada por recuperación: recuperar documentos relevantes para fundamentar la respuesta de un modelo.",
+        "example": "RAG permitió que el chatbot citara la propia documentación de la empresa.",
+        "term": "RAG"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-052",
+    "deck": "ai-ml",
+    "term": "Zero-shot learning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "prompting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Asking a model to do a task with no examples, relying on its general knowledge.",
+        "example": "Zero-shot, it classified the sentiment without any samples."
+      },
+      "ru": {
+        "definition": "Просьба к модели выполнить задачу без примеров, опираясь на её общие знания.",
+        "example": "Без единого примера она определила тональность с нуля.",
+        "term": "Обучение без примеров"
+      },
+      "ja": {
+        "definition": "例を一切与えず、モデルの一般知識に頼ってタスクを解かせること(ゼロショット)。",
+        "example": "ゼロショットで、サンプルなしに感情を分類した。",
+        "term": "ゼロショット学習"
+      },
+      "ko": {
+        "definition": "예시 없이 모델의 일반 지식에 의존해 작업을 수행하게 하는 것이다.",
+        "example": "제로샷으로 모델은 어떤 샘플도 없이 감성을 분류했다.",
+        "term": "제로샷 학습"
+      },
+      "fr": {
+        "definition": "Demander à un modèle d'accomplir une tâche sans aucun exemple, en s'appuyant sur ses connaissances générales.",
+        "example": "Sans aucun exemple, il a classé le sentiment dès le premier essai.",
+        "term": "Apprentissage zéro-shot"
+      },
+      "es": {
+        "definition": "Pedir a un modelo que realice una tarea sin ejemplos, apoyándose en su conocimiento general.",
+        "example": "Sin ejemplos previos, clasificó el sentimiento sin ninguna muestra.",
+        "term": "Aprendizaje zero-shot"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-053",
+    "deck": "ai-ml",
+    "term": "Few-shot learning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "prompting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Giving a model a few examples in the prompt to guide the task.",
+        "example": "Three few-shot examples fixed the output format."
+      },
+      "ru": {
+        "definition": "Подача модели нескольких примеров в промпте, чтобы направить выполнение задачи.",
+        "example": "Три примера в промпте поправили формат вывода.",
+        "term": "Обучение по нескольким примерам"
+      },
+      "ja": {
+        "definition": "プロンプト内にいくつかの例を与えてタスクを誘導すること(フューショット)。",
+        "example": "3つのフューショット例で出力形式が修正された。",
+        "term": "フューショット学習"
+      },
+      "ko": {
+        "definition": "작업을 안내하기 위해 프롬프트에 몇 개의 예시를 제공하는 것이다.",
+        "example": "세 개의 퓨샷 예시가 출력 형식을 바로잡았다.",
+        "term": "퓨샷 학습"
+      },
+      "fr": {
+        "definition": "Donner à un modèle quelques exemples dans la consigne pour guider la tâche.",
+        "example": "Trois exemples ont suffi à corriger le format de sortie.",
+        "term": "Apprentissage few-shot"
+      },
+      "es": {
+        "definition": "Dar a un modelo unos pocos ejemplos en el prompt para guiar la tarea.",
+        "example": "Tres ejemplos corrigieron el formato de salida.",
+        "term": "Aprendizaje few-shot"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-054",
+    "deck": "ai-ml",
+    "term": "Chain-of-thought",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "llm",
+      "prompting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Prompting a model to reason step by step before giving a final answer.",
+        "example": "Chain-of-thought improved its math accuracy."
+      },
+      "ru": {
+        "definition": "Побуждение модели рассуждать пошагово перед выдачей итогового ответа.",
+        "example": "Рассуждение по шагам повысило её точность в математике.",
+        "term": "Цепочка рассуждений"
+      },
+      "ja": {
+        "definition": "最終的な答えを出す前に、段階的に推論させるようモデルを促すこと(思考の連鎖)。",
+        "example": "思考の連鎖により、数学の正答率が向上した。",
+        "term": "思考の連鎖"
+      },
+      "ko": {
+        "definition": "최종 답을 내기 전에 단계별로 추론하도록 모델에 지시하는 것이다.",
+        "example": "생각의 사슬은 모델의 수학 정확도를 높였다.",
+        "term": "생각의 사슬"
+      },
+      "fr": {
+        "definition": "Inciter un modèle à raisonner étape par étape avant de fournir sa réponse finale.",
+        "example": "Le raisonnement étape par étape a amélioré sa précision en calcul.",
+        "term": "Chaîne de pensée"
+      },
+      "es": {
+        "definition": "Pedir a un modelo que razone paso a paso antes de dar una respuesta final.",
+        "example": "El razonamiento paso a paso (chain-of-thought) mejoró su precisión en matemáticas.",
+        "term": "Cadena de pensamiento"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-055",
+    "deck": "ai-ml",
+    "term": "Quantization",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "llm",
+      "efficiency"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Reducing the numeric precision of weights to shrink a model and speed inference.",
+        "example": "4-bit quantization let the model run on a laptop."
+      },
+      "ru": {
+        "definition": "Снижение числовой точности весов, чтобы уменьшить модель и ускорить инференс.",
+        "example": "4-битное квантование позволило запустить модель на ноутбуке.",
+        "term": "Квантизация"
+      },
+      "ja": {
+        "definition": "重みの数値精度を下げ、モデルを小型化して推論を高速化すること(量子化)。",
+        "example": "4ビット量子化により、モデルがノートパソコンで動くようになった。",
+        "term": "量子化"
+      },
+      "ko": {
+        "definition": "모델을 줄이고 추론 속도를 높이기 위해 가중치의 수치 정밀도를 낮추는 것이다.",
+        "example": "4비트 양자화 덕분에 모델이 노트북에서 실행되었다.",
+        "term": "양자화"
+      },
+      "fr": {
+        "definition": "Réduire la précision numérique des poids pour alléger un modèle et accélérer l'inférence.",
+        "example": "La quantification en 4 bits a permis au modèle de tourner sur un ordinateur portable.",
+        "term": "Quantification"
+      },
+      "es": {
+        "definition": "Reducir la precisión numérica de los pesos para reducir el tamaño de un modelo y acelerar la inferencia.",
+        "example": "La cuantización a 4 bits permitió ejecutar el modelo en un portátil.",
+        "term": "Cuantización"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-056",
+    "deck": "ai-ml",
+    "term": "Distillation",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "llm",
+      "efficiency"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Training a smaller model to mimic a larger one's outputs.",
+        "example": "Distillation produced a fast student model from the big teacher."
+      },
+      "ru": {
+        "definition": "Обучение меньшей модели воспроизводить выходы большей.",
+        "example": "Дистилляция дала быструю модель-ученика из крупной модели-учителя.",
+        "term": "Дистилляция"
+      },
+      "ja": {
+        "definition": "大きなモデルの出力を真似るように、小さなモデルを学習させること(蒸留)。",
+        "example": "蒸留によって、大きな教師モデルから高速な生徒モデルが作られた。",
+        "term": "蒸留"
+      },
+      "ko": {
+        "definition": "더 큰 모델의 출력을 모방하도록 더 작은 모델을 학습하는 것이다.",
+        "example": "증류를 통해 큰 교사 모델로부터 빠른 학생 모델을 만들어냈다.",
+        "term": "증류"
+      },
+      "fr": {
+        "definition": "Entraîner un modèle plus petit à imiter les sorties d'un modèle plus grand.",
+        "example": "La distillation a produit un modèle élève rapide à partir du grand modèle enseignant.",
+        "term": "Distillation"
+      },
+      "es": {
+        "definition": "Entrenar un modelo más pequeño para que imite las salidas de uno más grande.",
+        "example": "La destilación produjo un modelo alumno rápido a partir del gran modelo maestro.",
+        "term": "Destilación"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-057",
+    "deck": "ai-ml",
+    "term": "Mixture of experts",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "llm",
+      "architecture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An architecture that routes each input to a few specialized sub-networks called experts.",
+        "example": "MoE models activate only a fraction of parameters per token."
+      },
+      "ru": {
+        "definition": "Архитектура, направляющая каждый вход к нескольким специализированным подсетям — экспертам.",
+        "example": "Модели MoE задействуют лишь часть параметров на токен.",
+        "term": "Смесь экспертов"
+      },
+      "ja": {
+        "definition": "各入力をエキスパートと呼ばれる少数の専門サブネットワークへ振り分ける構造。",
+        "example": "MoEモデルはトークンごとに一部のパラメータしか活性化しない。",
+        "term": "エキスパート混合"
+      },
+      "ko": {
+        "definition": "각 입력을 전문가라 불리는 몇 개의 특화된 하위 신경망으로 라우팅하는 아키텍처다.",
+        "example": "MoE 모델은 토큰마다 파라미터의 일부만 활성화한다.",
+        "term": "전문가 혼합"
+      },
+      "fr": {
+        "definition": "Une architecture qui dirige chaque entrée vers quelques sous-réseaux spécialisés appelés experts.",
+        "example": "Les modèles à mélange d'experts n'activent qu'une fraction des paramètres par token.",
+        "term": "Mélange d'experts"
+      },
+      "es": {
+        "definition": "Una arquitectura que dirige cada entrada a unas pocas subredes especializadas llamadas expertos.",
+        "example": "Los modelos de mezcla de expertos activan solo una fracción de los parámetros por token.",
+        "term": "Mezcla de expertos"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-058",
+    "deck": "ai-ml",
+    "term": "RLHF",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "llm",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Reinforcement learning from human feedback used to align model behavior with preferences.",
+        "example": "RLHF made the assistant more helpful and less toxic."
+      },
+      "ru": {
+        "definition": "Обучение с подкреплением на основе обратной связи людей для согласования поведения модели с предпочтениями.",
+        "example": "RLHF сделал ассистента полезнее и менее токсичным.",
+        "term": "RLHF (обучение с обратной связью от человека)"
+      },
+      "ja": {
+        "definition": "人間のフィードバックによる強化学習で、モデルの振る舞いを好みに合わせること(RLHF)。",
+        "example": "RLHFにより、アシスタントはより親切で有害性の少ないものになった。",
+        "term": "RLHF"
+      },
+      "ko": {
+        "definition": "모델 행동을 사람의 선호에 맞추는 데 사용하는, 인간 피드백 기반 강화 학습이다.",
+        "example": "RLHF는 어시스턴트를 더 유용하고 덜 유해하게 만들었다.",
+        "term": "RLHF"
+      },
+      "fr": {
+        "definition": "Apprentissage par renforcement à partir de retours humains, utilisé pour aligner le comportement du modèle sur les préférences.",
+        "example": "Le RLHF a rendu l'assistant plus utile et moins toxique.",
+        "term": "RLHF"
+      },
+      "es": {
+        "definition": "Aprendizaje por refuerzo a partir de retroalimentación humana, usado para alinear el comportamiento del modelo con las preferencias.",
+        "example": "El RLHF hizo al asistente más útil y menos tóxico.",
+        "term": "RLHF"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-059",
+    "deck": "ai-ml",
+    "term": "Alignment",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "llm",
+      "safety"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Making a model's goals and outputs match human intentions and values.",
+        "example": "Alignment research aims to keep powerful models safe."
+      },
+      "ru": {
+        "definition": "Приведение целей и выходов модели в соответствие с намерениями и ценностями людей.",
+        "example": "Исследования по элайнменту нацелены на безопасность мощных моделей.",
+        "term": "Выравнивание"
+      },
+      "ja": {
+        "definition": "モデルの目標と出力を、人間の意図や価値観に一致させること(アラインメント)。",
+        "example": "アラインメント研究は強力なモデルを安全に保つことを目指す。",
+        "term": "アライメント"
+      },
+      "ko": {
+        "definition": "모델의 목표와 출력을 인간의 의도와 가치에 맞추는 일이다.",
+        "example": "정렬 연구는 강력한 모델을 안전하게 유지하는 것을 목표로 한다.",
+        "term": "정렬"
+      },
+      "fr": {
+        "definition": "Faire en sorte que les objectifs et les sorties d'un modèle correspondent aux intentions et valeurs humaines.",
+        "example": "La recherche sur l'alignement vise à garder sûrs les modèles puissants.",
+        "term": "Alignement"
+      },
+      "es": {
+        "definition": "Hacer que los objetivos y las salidas de un modelo coincidan con las intenciones y los valores humanos.",
+        "example": "La investigación en alineamiento busca mantener seguros los modelos potentes.",
+        "term": "Alineación"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-060",
+    "deck": "ai-ml",
+    "term": "Agent",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "agents"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A system that uses a model to plan and take actions, often calling tools, toward a goal.",
+        "example": "The agent booked the flight by calling several APIs."
+      },
+      "ru": {
+        "definition": "Система, которая на базе модели планирует и совершает действия, нередко вызывая инструменты ради цели.",
+        "example": "Агент забронировал авиабилет, обратившись к нескольким API.",
+        "term": "Агент"
+      },
+      "ja": {
+        "definition": "モデルを使って計画を立て、しばしばツールを呼び出しながら目標に向けて行動するシステム。",
+        "example": "そのエージェントは複数のAPIを呼び出して航空券を予約した。",
+        "term": "エージェント"
+      },
+      "ko": {
+        "definition": "목표를 향해 모델을 활용해 계획하고, 흔히 도구를 호출하며 행동하는 시스템이다.",
+        "example": "그 에이전트는 여러 API를 호출해 항공편을 예약했다.",
+        "term": "에이전트"
+      },
+      "fr": {
+        "definition": "Un système qui s'appuie sur un modèle pour planifier et agir vers un but, souvent en appelant des outils.",
+        "example": "L'agent a réservé le vol en appelant plusieurs API.",
+        "term": "Agent"
+      },
+      "es": {
+        "definition": "Un sistema que usa un modelo para planificar y ejecutar acciones, a menudo llamando a herramientas, hacia un objetivo.",
+        "example": "El agente reservó el vuelo llamando a varias API.",
+        "term": "Agente"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-061",
+    "deck": "ai-ml",
+    "term": "Tool use",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "agents"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A model invoking external functions or APIs to extend its abilities.",
+        "example": "With tool use, the model ran a calculator for exact math."
+      },
+      "ru": {
+        "definition": "Вызов моделью внешних функций или API для расширения своих возможностей.",
+        "example": "С помощью инструментов модель запустила калькулятор для точных вычислений.",
+        "term": "Использование инструментов"
+      },
+      "ja": {
+        "definition": "モデルが外部の関数やAPIを呼び出して能力を拡張すること(ツール利用)。",
+        "example": "ツール利用により、モデルは正確な計算のために電卓を実行した。",
+        "term": "ツール使用"
+      },
+      "ko": {
+        "definition": "모델이 외부 함수나 API를 호출해 자신의 능력을 확장하는 것이다.",
+        "example": "도구 사용을 통해 모델은 정확한 계산을 위해 계산기를 실행했다.",
+        "term": "도구 사용"
+      },
+      "fr": {
+        "definition": "Le fait pour un modèle d'invoquer des fonctions ou des API externes afin d'étendre ses capacités.",
+        "example": "Grâce à l'usage d'outils, le modèle a lancé une calculatrice pour un calcul exact.",
+        "term": "Utilisation d'outils"
+      },
+      "es": {
+        "definition": "Un modelo que invoca funciones o API externas para ampliar sus capacidades.",
+        "example": "Con el uso de herramientas, el modelo ejecutó una calculadora para hacer cálculos exactos.",
+        "term": "Uso de herramientas"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-062",
+    "deck": "ai-ml",
+    "term": "MCP",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "llm",
+      "agents"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Model Context Protocol: an open standard for connecting models to tools and data sources.",
+        "example": "An MCP server exposed the file system to the assistant."
+      },
+      "ru": {
+        "definition": "Model Context Protocol — открытый стандарт для подключения моделей к инструментам и источникам данных.",
+        "example": "MCP-сервер открыл ассистенту доступ к файловой системе.",
+        "term": "MCP"
+      },
+      "ja": {
+        "definition": "Model Context Protocol。モデルをツールやデータソースに接続するためのオープン標準。",
+        "example": "MCPサーバーがファイルシステムをアシスタントに公開した。",
+        "term": "MCP"
+      },
+      "ko": {
+        "definition": "Model Context Protocol: 모델을 도구 및 데이터 소스에 연결하기 위한 개방형 표준이다.",
+        "example": "한 MCP 서버가 어시스턴트에게 파일 시스템을 노출했다.",
+        "term": "MCP"
+      },
+      "fr": {
+        "definition": "Model Context Protocol : un standard ouvert pour relier les modèles à des outils et des sources de données.",
+        "example": "Un serveur MCP a exposé le système de fichiers à l'assistant.",
+        "term": "MCP"
+      },
+      "es": {
+        "definition": "Protocolo de Contexto de Modelo: un estándar abierto para conectar modelos con herramientas y fuentes de datos.",
+        "example": "Un servidor MCP expuso el sistema de archivos al asistente.",
+        "term": "MCP"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-063",
+    "deck": "ai-ml",
+    "term": "Multimodal",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "modeling"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Handling more than one data type, such as text, images, and audio together.",
+        "example": "A multimodal model can describe what is in a photo."
+      },
+      "ru": {
+        "definition": "Работа с несколькими типами данных одновременно — текстом, изображениями, аудио.",
+        "example": "Мультимодальная модель умеет описать, что изображено на фото.",
+        "term": "Мультимодальность"
+      },
+      "ja": {
+        "definition": "テキスト・画像・音声など、複数の種類のデータをまとめて扱うこと(マルチモーダル)。",
+        "example": "マルチモーダルモデルは写真に写っているものを説明できる。",
+        "term": "マルチモーダル"
+      },
+      "ko": {
+        "definition": "텍스트, 이미지, 오디오처럼 둘 이상의 데이터 유형을 함께 다루는 것이다.",
+        "example": "멀티모달 모델은 사진에 무엇이 있는지 설명할 수 있다.",
+        "term": "멀티모달"
+      },
+      "fr": {
+        "definition": "Le fait de traiter plusieurs types de données à la fois, comme le texte, les images et l'audio.",
+        "example": "Un modèle multimodal peut décrire ce que contient une photo.",
+        "term": "Multimodal"
+      },
+      "es": {
+        "definition": "Manejar más de un tipo de dato, como texto, imágenes y audio a la vez.",
+        "example": "Un modelo multimodal puede describir lo que hay en una foto.",
+        "term": "Multimodal"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-064",
+    "deck": "ai-ml",
+    "term": "Diffusion model",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "generative",
+      "vision"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A generative model that creates data by gradually denoising random noise.",
+        "example": "Diffusion models generate images from text prompts."
+      },
+      "ru": {
+        "definition": "Генеративная модель, создающая данные путём постепенного устранения случайного шума.",
+        "example": "Диффузионные модели порождают изображения по текстовым запросам.",
+        "term": "Диффузионная модель"
+      },
+      "ja": {
+        "definition": "ランダムなノイズを徐々に除去することでデータを生成するモデル(拡散モデル)。",
+        "example": "拡散モデルはテキストプロンプトから画像を生成する。",
+        "term": "拡散モデル"
+      },
+      "ko": {
+        "definition": "무작위 노이즈를 점진적으로 제거하며 데이터를 만들어내는 생성 모델이다.",
+        "example": "디퓨전 모델은 텍스트 프롬프트로부터 이미지를 생성한다.",
+        "term": "확산 모델"
+      },
+      "fr": {
+        "definition": "Un modèle génératif qui crée des données en débruitant progressivement du bruit aléatoire.",
+        "example": "Les modèles de diffusion génèrent des images à partir de consignes textuelles.",
+        "term": "Modèle de diffusion"
+      },
+      "es": {
+        "definition": "Un modelo generativo que crea datos eliminando ruido aleatorio de forma gradual.",
+        "example": "Los modelos de difusión generan imágenes a partir de instrucciones de texto.",
+        "term": "Modelo de difusión"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-065",
+    "deck": "ai-ml",
+    "term": "GAN",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "generative",
+      "vision"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A generative adversarial network pairs a generator and a discriminator that compete.",
+        "example": "GANs produced realistic faces of people who never existed."
+      },
+      "ru": {
+        "definition": "Генеративно-состязательная сеть, где генератор и дискриминатор соревнуются друг с другом.",
+        "example": "GAN создавали реалистичные лица никогда не существовавших людей.",
+        "term": "GAN (генеративно-состязательная сеть)"
+      },
+      "ja": {
+        "definition": "生成器と識別器を競わせる敵対的生成ネットワーク。",
+        "example": "GANは実在しない人物のリアルな顔を生成した。",
+        "term": "GAN"
+      },
+      "ko": {
+        "definition": "생성적 적대 신경망은 서로 경쟁하는 생성자와 판별자를 짝지운다.",
+        "example": "GAN은 존재한 적 없는 사람들의 사실적인 얼굴을 만들어냈다.",
+        "term": "GAN"
+      },
+      "fr": {
+        "definition": "Un réseau antagoniste génératif associe un générateur et un discriminateur qui s'affrontent.",
+        "example": "Les GAN ont produit des visages réalistes de personnes n'ayant jamais existé.",
+        "term": "GAN"
+      },
+      "es": {
+        "definition": "Una red generativa antagónica combina un generador y un discriminador que compiten entre sí.",
+        "example": "Las GAN produjeron rostros realistas de personas que nunca existieron.",
+        "term": "GAN"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-066",
+    "deck": "ai-ml",
+    "term": "Generative AI",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "generative"
+    ],
+    "locales": {
+      "en": {
+        "definition": "AI that creates new content such as text, images, audio, or code.",
+        "example": "Generative AI wrote a poem in the style of Frost."
+      },
+      "ru": {
+        "definition": "ИИ, который создаёт новый контент: текст, изображения, аудио или код.",
+        "example": "Генеративный ИИ написал стихотворение в стиле Фроста.",
+        "term": "Генеративный ИИ"
+      },
+      "ja": {
+        "definition": "テキスト・画像・音声・コードなど、新しいコンテンツを作り出すAI(生成AI)。",
+        "example": "生成AIはフロスト風の詩を書いた。",
+        "term": "生成AI"
+      },
+      "ko": {
+        "definition": "텍스트, 이미지, 오디오, 코드 같은 새로운 콘텐츠를 만들어내는 AI다.",
+        "example": "생성형 AI는 프로스트 풍의 시를 써냈다.",
+        "term": "생성형 AI"
+      },
+      "fr": {
+        "definition": "Une IA qui crée de nouveaux contenus comme du texte, des images, de l'audio ou du code.",
+        "example": "L'IA générative a écrit un poème dans le style de Frost.",
+        "term": "IA générative"
+      },
+      "es": {
+        "definition": "IA que crea contenido nuevo, como texto, imágenes, audio o código.",
+        "example": "La IA generativa escribió un poema al estilo de Frost.",
+        "term": "IA generativa"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-067",
+    "deck": "ai-ml",
+    "term": "Convolutional neural network",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "vision",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A network using convolution filters to detect spatial patterns, common in image tasks.",
+        "example": "A CNN learned edges and shapes to recognize objects."
+      },
+      "ru": {
+        "definition": "Сеть, использующая свёрточные фильтры для выявления пространственных закономерностей; типична для задач с изображениями.",
+        "example": "CNN выучила края и формы, чтобы распознавать объекты.",
+        "term": "Свёрточная нейронная сеть"
+      },
+      "ja": {
+        "definition": "畳み込みフィルタで空間的なパターンを検出するネットワークで、画像タスクでよく使われる(CNN)。",
+        "example": "CNNはエッジや形状を学習して物体を認識した。",
+        "term": "畳み込みニューラルネットワーク"
+      },
+      "ko": {
+        "definition": "합성곱 필터로 공간적 패턴을 탐지하는 신경망으로, 이미지 작업에서 흔히 쓰인다.",
+        "example": "CNN은 물체를 인식하기 위해 가장자리와 형태를 학습했다.",
+        "term": "합성곱 신경망"
+      },
+      "fr": {
+        "definition": "Un réseau qui utilise des filtres de convolution pour détecter des motifs spatiaux, courant dans les tâches d'images.",
+        "example": "Un réseau de neurones convolutif a appris contours et formes pour reconnaître des objets.",
+        "term": "Réseau de neurones convolutif"
+      },
+      "es": {
+        "definition": "Una red que usa filtros de convolución para detectar patrones espaciales, habitual en tareas de imagen.",
+        "example": "Una CNN aprendió bordes y formas para reconocer objetos.",
+        "term": "Red neuronal convolucional"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-068",
+    "deck": "ai-ml",
+    "term": "Recurrent neural network",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "sequence",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A network that processes sequences by feeding its previous state back as input.",
+        "example": "RNNs handled text before Transformers took over."
+      },
+      "ru": {
+        "definition": "Сеть, обрабатывающая последовательности, подавая своё прежнее состояние обратно на вход.",
+        "example": "RNN работали с текстом до того, как их вытеснили трансформеры.",
+        "term": "Рекуррентная нейронная сеть"
+      },
+      "ja": {
+        "definition": "直前の状態を入力に戻しながら系列を処理するネットワーク(RNN)。",
+        "example": "トランスフォーマーが主流になる前、RNNがテキストを扱っていた。",
+        "term": "再帰型ニューラルネットワーク"
+      },
+      "ko": {
+        "definition": "이전 상태를 다시 입력으로 넣어 시퀀스를 처리하는 신경망이다.",
+        "example": "RNN은 트랜스포머가 등장하기 전까지 텍스트를 처리했다.",
+        "term": "순환 신경망"
+      },
+      "fr": {
+        "definition": "Un réseau qui traite des séquences en réinjectant son état précédent en entrée.",
+        "example": "Les réseaux récurrents traitaient le texte avant que les Transformers ne prennent le dessus.",
+        "term": "Réseau de neurones récurrent"
+      },
+      "es": {
+        "definition": "Una red que procesa secuencias realimentando su estado anterior como entrada.",
+        "example": "Las RNN manejaban el texto antes de que se impusieran los Transformers.",
+        "term": "Red neuronal recurrente"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-069",
+    "deck": "ai-ml",
+    "term": "LSTM",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "sequence",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A recurrent unit with gates that helps capture long-range dependencies in sequences.",
+        "example": "LSTMs reduced the vanishing-gradient problem in RNNs."
+      },
+      "ru": {
+        "definition": "Рекуррентный блок с вентилями, помогающий улавливать дальние зависимости в последовательностях.",
+        "example": "LSTM ослабили проблему затухающего градиента в RNN.",
+        "term": "LSTM"
+      },
+      "ja": {
+        "definition": "ゲートを備えた再帰ユニットで、系列の長距離の依存関係を捉えるのに役立つ(LSTM)。",
+        "example": "LSTMはRNNの勾配消失問題を軽減した。",
+        "term": "LSTM"
+      },
+      "ko": {
+        "definition": "게이트를 갖춰 시퀀스의 장거리 의존성을 포착하도록 돕는 순환 유닛이다.",
+        "example": "LSTM은 RNN의 기울기 소실 문제를 줄였다.",
+        "term": "LSTM"
+      },
+      "fr": {
+        "definition": "Une unité récurrente dotée de portes qui aide à capturer les dépendances à longue distance dans les séquences.",
+        "example": "Les LSTM ont atténué le problème de disparition du gradient dans les réseaux récurrents.",
+        "term": "LSTM"
+      },
+      "es": {
+        "definition": "Una unidad recurrente con compuertas que ayuda a captar dependencias de largo alcance en las secuencias.",
+        "example": "Las LSTM redujeron el problema del gradiente evanescente en las RNN.",
+        "term": "LSTM"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-070",
+    "deck": "ai-ml",
+    "term": "Precision",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "evaluation",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Of the items predicted positive, the fraction that are actually positive.",
+        "example": "High precision means few false alarms."
+      },
+      "ru": {
+        "definition": "Из всех объектов, помеченных как положительные, доля действительно положительных.",
+        "example": "Высокая точность означает мало ложных срабатываний.",
+        "term": "Точность (precision)"
+      },
+      "ja": {
+        "definition": "陽性と予測したもののうち、実際に陽性だった割合(適合率)。",
+        "example": "適合率が高いと誤検知が少ない。",
+        "term": "適合率"
+      },
+      "ko": {
+        "definition": "양성으로 예측한 항목 중 실제로 양성인 항목의 비율이다.",
+        "example": "정밀도가 높다는 것은 거짓 경보가 적다는 뜻이다.",
+        "term": "정밀도"
+      },
+      "fr": {
+        "definition": "Parmi les éléments prédits comme positifs, la proportion qui le sont réellement.",
+        "example": "Une précision élevée signifie peu de fausses alertes.",
+        "term": "Précision"
+      },
+      "es": {
+        "definition": "De los elementos predichos como positivos, la fracción que realmente lo es.",
+        "example": "Una precisión alta significa pocas falsas alarmas.",
+        "term": "Precisión"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-071",
+    "deck": "ai-ml",
+    "term": "Recall",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "evaluation",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Of the actual positives, the fraction the model correctly identified.",
+        "example": "High recall means few missed cases."
+      },
+      "ru": {
+        "definition": "Из всех настоящих положительных объектов доля, которую модель верно нашла.",
+        "example": "Высокая полнота означает мало пропущенных случаев.",
+        "term": "Полнота"
+      },
+      "ja": {
+        "definition": "実際の陽性のうち、モデルが正しく検出できた割合(再現率)。",
+        "example": "再現率が高いと見逃しが少ない。",
+        "term": "再現率"
+      },
+      "ko": {
+        "definition": "실제 양성 중 모델이 올바르게 식별한 비율이다.",
+        "example": "재현율이 높다는 것은 놓친 사례가 적다는 뜻이다.",
+        "term": "재현율"
+      },
+      "fr": {
+        "definition": "Parmi les positifs réels, la proportion que le modèle a correctement identifiés.",
+        "example": "Un rappel élevé signifie peu de cas manqués.",
+        "term": "Rappel"
+      },
+      "es": {
+        "definition": "De los positivos reales, la fracción que el modelo identificó correctamente.",
+        "example": "Una exhaustividad alta significa pocos casos no detectados.",
+        "term": "Exhaustividad"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-072",
+    "deck": "ai-ml",
+    "term": "F1 score",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "evaluation",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The harmonic mean of precision and recall, balancing the two in one number.",
+        "example": "We compared models by F1 score on the test set."
+      },
+      "ru": {
+        "definition": "Гармоническое среднее точности и полноты, уравновешивающее их в одном числе.",
+        "example": "Мы сравнивали модели по F1-мере на тестовом наборе.",
+        "term": "F1-мера"
+      },
+      "ja": {
+        "definition": "適合率と再現率の調和平均で、両者を一つの数値でバランスさせる指標(F1スコア)。",
+        "example": "テストセット上のF1スコアでモデルを比較した。",
+        "term": "F1スコア"
+      },
+      "ko": {
+        "definition": "정밀도와 재현율의 조화 평균으로, 둘을 하나의 수치로 균형 있게 나타낸다.",
+        "example": "우리는 테스트 세트의 F1 점수로 모델들을 비교했다.",
+        "term": "F1 점수"
+      },
+      "fr": {
+        "definition": "La moyenne harmonique de la précision et du rappel, qui les équilibre en un seul nombre.",
+        "example": "Nous avons comparé les modèles par score F1 sur le jeu de test.",
+        "term": "Score F1"
+      },
+      "es": {
+        "definition": "La media armónica de la precisión y la exhaustividad, que equilibra ambas en un solo número.",
+        "example": "Comparamos los modelos por su puntuación F1 en el conjunto de prueba.",
+        "term": "Puntuación F1"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-073",
+    "deck": "ai-ml",
+    "term": "Accuracy",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "evaluation",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The fraction of predictions that are correct.",
+        "example": "The classifier reached 92% accuracy."
+      },
+      "ru": {
+        "definition": "Доля верных предсказаний.",
+        "example": "Классификатор достиг точности 92%.",
+        "term": "Доля верных ответов"
+      },
+      "ja": {
+        "definition": "予測のうち正解だった割合(正解率)。",
+        "example": "その分類器は92%の正解率に達した。",
+        "term": "正解率"
+      },
+      "ko": {
+        "definition": "전체 예측 중 정답인 예측의 비율이다.",
+        "example": "그 분류기는 92%의 정확도에 도달했다.",
+        "term": "정확도"
+      },
+      "fr": {
+        "definition": "La proportion de prédictions correctes.",
+        "example": "Le classifieur a atteint 92 % d'exactitude.",
+        "term": "Exactitude"
+      },
+      "es": {
+        "definition": "La fracción de predicciones que son correctas.",
+        "example": "El clasificador alcanzó una exactitud del 92 %.",
+        "term": "Exactitud"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-074",
+    "deck": "ai-ml",
+    "term": "Confusion matrix",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "evaluation",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A table showing counts of true and false positives and negatives per class.",
+        "example": "The confusion matrix revealed the model mixed up two digits."
+      },
+      "ru": {
+        "definition": "Таблица с числом истинных и ложных срабатываний и пропусков по каждому классу.",
+        "example": "Матрица ошибок показала, что модель путала две цифры.",
+        "term": "Матрица ошибок"
+      },
+      "ja": {
+        "definition": "クラスごとの真陽性・偽陽性・真陰性・偽陰性の件数を示す表(混同行列)。",
+        "example": "混同行列から、モデルが2つの数字を取り違えていることが分かった。",
+        "term": "混同行列"
+      },
+      "ko": {
+        "definition": "클래스별 참/거짓 양성과 음성의 개수를 보여주는 표다.",
+        "example": "혼동 행렬은 모델이 두 숫자를 혼동했음을 드러냈다.",
+        "term": "혼동 행렬"
+      },
+      "fr": {
+        "definition": "Un tableau indiquant le nombre de vrais et faux positifs et négatifs par classe.",
+        "example": "La matrice de confusion a révélé que le modèle confondait deux chiffres.",
+        "term": "Matrice de confusion"
+      },
+      "es": {
+        "definition": "Una tabla que muestra los recuentos de verdaderos y falsos positivos y negativos por clase.",
+        "example": "La matriz de confusión reveló que el modelo confundía dos dígitos.",
+        "term": "Matriz de confusión"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-075",
+    "deck": "ai-ml",
+    "term": "Benchmark",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "evaluation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A standard dataset or task used to compare model performance.",
+        "example": "The new model topped the reasoning benchmark."
+      },
+      "ru": {
+        "definition": "Стандартный набор данных или задача для сравнения качества моделей.",
+        "example": "Новая модель возглавила бенчмарк на рассуждения.",
+        "term": "Бенчмарк"
+      },
+      "ja": {
+        "definition": "モデルの性能を比較するために使う標準的なデータセットやタスク(ベンチマーク)。",
+        "example": "新しいモデルが推論ベンチマークで首位になった。",
+        "term": "ベンチマーク"
+      },
+      "ko": {
+        "definition": "모델 성능을 비교하는 데 쓰이는 표준 데이터셋이나 작업이다.",
+        "example": "그 새 모델은 추론 벤치마크에서 1위를 차지했다.",
+        "term": "벤치마크"
+      },
+      "fr": {
+        "definition": "Un jeu de données ou une tâche de référence servant à comparer les performances des modèles.",
+        "example": "Le nouveau modèle s'est classé en tête du benchmark de raisonnement.",
+        "term": "Banc d'essai"
+      },
+      "es": {
+        "definition": "Un conjunto de datos o tarea estándar que se usa para comparar el rendimiento de los modelos.",
+        "example": "El nuevo modelo encabezó el benchmark de razonamiento.",
+        "term": "Banco de pruebas"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-076",
+    "deck": "ai-ml",
+    "term": "Cross-validation",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "evaluation",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Evaluating a model by rotating which data folds are used for training and testing.",
+        "example": "5-fold cross-validation gave a stable accuracy estimate."
+      },
+      "ru": {
+        "definition": "Оценка модели путём поочерёдной смены фолдов данных, используемых для обучения и теста.",
+        "example": "5-кратная кросс-валидация дала устойчивую оценку точности.",
+        "term": "Кросс-валидация"
+      },
+      "ja": {
+        "definition": "学習とテストに使うデータの分割を入れ替えながらモデルを評価する手法(交差検証)。",
+        "example": "5分割交差検証により、安定した精度推定が得られた。",
+        "term": "交差検証"
+      },
+      "ko": {
+        "definition": "학습과 테스트에 사용하는 데이터 폴드를 번갈아 가며 모델을 평가하는 방법이다.",
+        "example": "5겹 교차 검증은 안정적인 정확도 추정값을 주었다.",
+        "term": "교차 검증"
+      },
+      "fr": {
+        "definition": "Évaluer un modèle en faisant tourner les sous-ensembles de données utilisés pour l'entraînement et le test.",
+        "example": "Une validation croisée à 5 plis a donné une estimation stable de l'exactitude.",
+        "term": "Validation croisée"
+      },
+      "es": {
+        "definition": "Evaluar un modelo rotando qué particiones de datos se usan para entrenar y probar.",
+        "example": "La validación cruzada de 5 particiones dio una estimación estable de la exactitud.",
+        "term": "Validación cruzada"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-077",
+    "deck": "ai-ml",
+    "term": "Training set",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "data",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The portion of data the model learns its parameters from.",
+        "example": "We held out 20% of data and trained on the rest."
+      },
+      "ru": {
+        "definition": "Часть данных, на которой модель выучивает свои параметры.",
+        "example": "Мы отложили 20% данных и обучались на остальных.",
+        "term": "Обучающая выборка"
+      },
+      "ja": {
+        "definition": "モデルがパラメータを学習するために使うデータの部分(訓練セット)。",
+        "example": "データの20%を取り分け、残りで学習した。",
+        "term": "訓練データ"
+      },
+      "ko": {
+        "definition": "모델이 파라미터를 학습하는 데 사용하는 데이터의 일부다.",
+        "example": "우리는 데이터의 20%를 떼어두고 나머지로 학습했다.",
+        "term": "훈련 세트"
+      },
+      "fr": {
+        "definition": "La partie des données à partir de laquelle le modèle apprend ses paramètres.",
+        "example": "Nous avons mis de côté 20 % des données et entraîné sur le reste.",
+        "term": "Ensemble d'entraînement"
+      },
+      "es": {
+        "definition": "La parte de los datos de la que el modelo aprende sus parámetros.",
+        "example": "Reservamos el 20 % de los datos y entrenamos con el resto.",
+        "term": "Conjunto de entrenamiento"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-078",
+    "deck": "ai-ml",
+    "term": "Test set",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "data",
+      "evaluation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Held-out data used only to measure final performance.",
+        "example": "The model never sees the test set during training."
+      },
+      "ru": {
+        "definition": "Отложенные данные, используемые только для измерения итогового качества.",
+        "example": "Модель никогда не видит тестовый набор во время обучения.",
+        "term": "Тестовая выборка"
+      },
+      "ja": {
+        "definition": "最終的な性能を測定するためだけに使う、取り分けておいたデータ(テストセット)。",
+        "example": "モデルは学習中にテストセットを一切見ない。",
+        "term": "テストデータ"
+      },
+      "ko": {
+        "definition": "최종 성능을 측정하는 데만 사용하는, 따로 떼어둔 데이터다.",
+        "example": "모델은 학습 중에 테스트 세트를 결코 보지 않는다.",
+        "term": "테스트 세트"
+      },
+      "fr": {
+        "definition": "Des données réservées, utilisées uniquement pour mesurer la performance finale.",
+        "example": "Le modèle ne voit jamais le jeu de test pendant l'entraînement.",
+        "term": "Ensemble de test"
+      },
+      "es": {
+        "definition": "Datos reservados que se usan solo para medir el rendimiento final.",
+        "example": "El modelo nunca ve el conjunto de prueba durante el entrenamiento.",
+        "term": "Conjunto de prueba"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-079",
+    "deck": "ai-ml",
+    "term": "Validation set",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "data",
+      "evaluation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Data used during development to tune choices without touching the test set.",
+        "example": "We picked the learning rate using the validation set."
+      },
+      "ru": {
+        "definition": "Данные для подбора решений в ходе разработки, не затрагивающие тестовый набор.",
+        "example": "Мы выбрали learning rate по валидационному набору.",
+        "term": "Валидационная выборка"
+      },
+      "ja": {
+        "definition": "テストセットに触れずに開発中の選択を調整するために使うデータ(検証セット)。",
+        "example": "検証セットを使って学習率を選んだ。",
+        "term": "検証データ"
+      },
+      "ko": {
+        "definition": "테스트 세트를 건드리지 않고 개발 중 선택을 조정하는 데 쓰이는 데이터다.",
+        "example": "우리는 검증 세트를 사용해 학습률을 골랐다.",
+        "term": "검증 세트"
+      },
+      "fr": {
+        "definition": "Des données utilisées en cours de développement pour régler les choix sans toucher au jeu de test.",
+        "example": "Nous avons choisi le taux d'apprentissage à l'aide du jeu de validation.",
+        "term": "Ensemble de validation"
+      },
+      "es": {
+        "definition": "Datos usados durante el desarrollo para ajustar decisiones sin tocar el conjunto de prueba.",
+        "example": "Elegimos la tasa de aprendizaje usando el conjunto de validación.",
+        "term": "Conjunto de validación"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-080",
+    "deck": "ai-ml",
+    "term": "Generalization",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "evaluation",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A model's ability to perform well on data it has not seen before.",
+        "example": "Good generalization means strong results beyond the training data."
+      },
+      "ru": {
+        "definition": "Способность модели хорошо работать на данных, которых она прежде не видела.",
+        "example": "Хорошее обобщение означает сильные результаты за пределами обучающих данных.",
+        "term": "Обобщающая способность"
+      },
+      "ja": {
+        "definition": "見たことのないデータでもうまく性能を発揮するモデルの能力(汎化)。",
+        "example": "良い汎化とは、学習データの外でも高い成績を出すことだ。",
+        "term": "汎化"
+      },
+      "ko": {
+        "definition": "모델이 이전에 본 적 없는 데이터에서도 잘 수행하는 능력이다.",
+        "example": "좋은 일반화란 학습 데이터를 넘어서도 강력한 성과를 낸다는 뜻이다.",
+        "term": "일반화"
+      },
+      "fr": {
+        "definition": "La capacité d'un modèle à bien fonctionner sur des données qu'il n'a jamais vues.",
+        "example": "Une bonne généralisation se traduit par de solides résultats au-delà des données d'entraînement.",
+        "term": "Généralisation"
+      },
+      "es": {
+        "definition": "La capacidad de un modelo para rendir bien con datos que no ha visto antes.",
+        "example": "Una buena generalización implica resultados sólidos más allá de los datos de entrenamiento.",
+        "term": "Generalización"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-081",
+    "deck": "ai-ml",
+    "term": "Gradient",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "math",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The vector of partial derivatives showing how the loss changes with each parameter.",
+        "example": "The optimizer follows the negative gradient to reduce loss."
+      },
+      "ru": {
+        "definition": "Вектор частных производных, показывающий, как меняется функция потерь по каждому параметру.",
+        "example": "Оптимизатор движется против градиента, чтобы снизить потери.",
+        "term": "Градиент"
+      },
+      "ja": {
+        "definition": "各パラメータに対して損失がどう変化するかを示す偏微分のベクトル(勾配)。",
+        "example": "オプティマイザは損失を減らすために負の勾配の方向へ進む。",
+        "term": "勾配"
+      },
+      "ko": {
+        "definition": "손실이 각 파라미터에 따라 어떻게 변하는지 보여주는 편미분들의 벡터다.",
+        "example": "옵티마이저는 손실을 줄이기 위해 음의 그래디언트를 따라간다.",
+        "term": "기울기"
+      },
+      "fr": {
+        "definition": "Le vecteur des dérivées partielles indiquant comment la perte varie avec chaque paramètre.",
+        "example": "L'optimiseur suit le gradient négatif pour réduire la perte.",
+        "term": "Gradient"
+      },
+      "es": {
+        "definition": "El vector de derivadas parciales que muestra cómo cambia la pérdida con cada parámetro.",
+        "example": "El optimizador sigue el gradiente negativo para reducir la pérdida.",
+        "term": "Gradiente"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-082",
+    "deck": "ai-ml",
+    "term": "Vanishing gradient",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When gradients shrink toward zero in deep networks, stalling learning in early layers.",
+        "example": "Vanishing gradients made very deep RNNs hard to train."
+      },
+      "ru": {
+        "definition": "Когда в глубоких сетях градиенты стремятся к нулю, тормозя обучение в ранних слоях.",
+        "example": "Из-за затухающих градиентов очень глубокие RNN было трудно обучать.",
+        "term": "Затухающий градиент"
+      },
+      "ja": {
+        "definition": "ディープネットワークで勾配がゼロに近づき、初期層の学習が停滞すること(勾配消失)。",
+        "example": "勾配消失のせいで、非常に深いRNNは学習が難しかった。",
+        "term": "勾配消失"
+      },
+      "ko": {
+        "definition": "심층 신경망에서 그래디언트가 0에 가깝게 줄어들어 앞쪽 층의 학습이 멈추는 현상이다.",
+        "example": "기울기 소실은 아주 깊은 RNN을 학습하기 어렵게 만들었다.",
+        "term": "기울기 소실"
+      },
+      "fr": {
+        "definition": "Lorsque les gradients tendent vers zéro dans les réseaux profonds, bloquant l'apprentissage des premières couches.",
+        "example": "La disparition du gradient rendait très difficile l'entraînement des réseaux récurrents profonds.",
+        "term": "Disparition du gradient"
+      },
+      "es": {
+        "definition": "Cuando los gradientes se reducen hacia cero en redes profundas, estancando el aprendizaje en las primeras capas.",
+        "example": "Los gradientes evanescentes dificultaban el entrenamiento de RNN muy profundas.",
+        "term": "Desvanecimiento del gradiente"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-083",
+    "deck": "ai-ml",
+    "term": "Optimizer",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training",
+      "optimization"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The algorithm that updates model parameters to minimize the loss.",
+        "example": "Adam is a widely used optimizer in deep learning."
+      },
+      "ru": {
+        "definition": "Алгоритм, обновляющий параметры модели для минимизации функции потерь.",
+        "example": "Adam — широко используемый оптимизатор в глубоком обучении.",
+        "term": "Оптимизатор"
+      },
+      "ja": {
+        "definition": "損失を最小化するためにモデルのパラメータを更新するアルゴリズム(オプティマイザ)。",
+        "example": "Adamはディープラーニングで広く使われるオプティマイザだ。",
+        "term": "オプティマイザ"
+      },
+      "ko": {
+        "definition": "손실을 최소화하기 위해 모델 파라미터를 갱신하는 알고리즘이다.",
+        "example": "Adam은 딥러닝에서 널리 쓰이는 옵티마이저다.",
+        "term": "옵티마이저"
+      },
+      "fr": {
+        "definition": "L'algorithme qui met à jour les paramètres du modèle pour minimiser la perte.",
+        "example": "Adam est un optimiseur très répandu en apprentissage profond.",
+        "term": "Optimiseur"
+      },
+      "es": {
+        "definition": "El algoritmo que actualiza los parámetros del modelo para minimizar la pérdida.",
+        "example": "Adam es un optimizador muy usado en aprendizaje profundo.",
+        "term": "Optimizador"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-084",
+    "deck": "ai-ml",
+    "term": "Adam",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "optimization"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An optimizer that adapts each parameter's learning rate using gradient moment estimates.",
+        "example": "Adam often converges faster than plain gradient descent."
+      },
+      "ru": {
+        "definition": "Оптимизатор, подстраивающий learning rate каждого параметра по оценкам моментов градиента.",
+        "example": "Adam часто сходится быстрее обычного градиентного спуска.",
+        "term": "Adam"
+      },
+      "ja": {
+        "definition": "勾配のモーメント推定を使って各パラメータの学習率を適応させるオプティマイザ(Adam)。",
+        "example": "Adamは素朴な勾配降下法より速く収束することが多い。",
+        "term": "Adam"
+      },
+      "ko": {
+        "definition": "그래디언트의 모멘트 추정값을 이용해 각 파라미터의 학습률을 조정하는 옵티마이저다.",
+        "example": "Adam은 흔히 단순한 경사 하강법보다 빠르게 수렴한다.",
+        "term": "Adam"
+      },
+      "fr": {
+        "definition": "Un optimiseur qui adapte le taux d'apprentissage de chaque paramètre à l'aide d'estimations des moments du gradient.",
+        "example": "Adam converge souvent plus vite que la descente de gradient simple.",
+        "term": "Adam"
+      },
+      "es": {
+        "definition": "Un optimizador que adapta la tasa de aprendizaje de cada parámetro usando estimaciones de los momentos del gradiente.",
+        "example": "Adam suele converger más rápido que el descenso de gradiente simple.",
+        "term": "Adam"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-085",
+    "deck": "ai-ml",
+    "term": "Softmax",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "math",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A function turning a vector of scores into probabilities that sum to one.",
+        "example": "Softmax gives the per-class probabilities at the output layer."
+      },
+      "ru": {
+        "definition": "Функция, превращающая вектор оценок в вероятности, дающие в сумме единицу.",
+        "example": "Softmax выдаёт вероятности по классам на выходном слое.",
+        "term": "Softmax"
+      },
+      "ja": {
+        "definition": "スコアのベクトルを、合計が1になる確率に変換する関数(ソフトマックス)。",
+        "example": "ソフトマックスは出力層でクラスごとの確率を与える。",
+        "term": "ソフトマックス"
+      },
+      "ko": {
+        "definition": "점수 벡터를 합이 1이 되는 확률들로 변환하는 함수다.",
+        "example": "소프트맥스는 출력층에서 클래스별 확률을 제공한다.",
+        "term": "소프트맥스"
+      },
+      "fr": {
+        "definition": "Une fonction qui transforme un vecteur de scores en probabilités dont la somme vaut un.",
+        "example": "La fonction softmax donne les probabilités par classe à la couche de sortie.",
+        "term": "Softmax"
+      },
+      "es": {
+        "definition": "Una función que convierte un vector de puntuaciones en probabilidades que suman uno.",
+        "example": "Softmax da las probabilidades por clase en la capa de salida.",
+        "term": "Softmax"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-086",
+    "deck": "ai-ml",
+    "term": "Logits",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "math",
+      "neural-networks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The raw, unnormalized scores a model outputs before softmax.",
+        "example": "We inspected the logits to see the model's confidence."
+      },
+      "ru": {
+        "definition": "Сырые, ненормированные оценки, которые модель выдаёт до применения softmax.",
+        "example": "Мы посмотрели на логиты, чтобы оценить уверенность модели.",
+        "term": "Логиты"
+      },
+      "ja": {
+        "definition": "ソフトマックスを通す前にモデルが出力する、正規化されていない生のスコア(ロジット)。",
+        "example": "モデルの確信度を見るためにロジットを調べた。",
+        "term": "ロジット"
+      },
+      "ko": {
+        "definition": "소프트맥스 이전에 모델이 출력하는 정규화되지 않은 원시 점수다.",
+        "example": "우리는 모델의 확신도를 보려고 로짓을 살펴보았다.",
+        "term": "로짓"
+      },
+      "fr": {
+        "definition": "Les scores bruts et non normalisés produits par un modèle avant la softmax.",
+        "example": "Nous avons inspecté les logits pour évaluer la confiance du modèle.",
+        "term": "Logits"
+      },
+      "es": {
+        "definition": "Las puntuaciones en bruto y sin normalizar que produce un modelo antes de la softmax.",
+        "example": "Inspeccionamos los logits para ver la confianza del modelo.",
+        "term": "Logits"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-087",
+    "deck": "ai-ml",
+    "term": "Tokenization",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "nlp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The process of splitting text into tokens a model can read.",
+        "example": "Tokenization breaks the sentence into subword pieces."
+      },
+      "ru": {
+        "definition": "Процесс разбиения текста на токены, которые модель способна прочитать.",
+        "example": "Токенизация дробит предложение на подсловные части.",
+        "term": "Токенизация"
+      },
+      "ja": {
+        "definition": "モデルが読み取れるよう、テキストをトークンに分割する処理(トークン化)。",
+        "example": "トークン化は文をサブワードの断片に分解する。",
+        "term": "トークン化"
+      },
+      "ko": {
+        "definition": "모델이 읽을 수 있는 토큰으로 텍스트를 나누는 과정이다.",
+        "example": "토큰화는 문장을 하위 단어 조각들로 쪼갠다.",
+        "term": "토큰화"
+      },
+      "fr": {
+        "definition": "Le processus consistant à découper un texte en tokens qu'un modèle peut lire.",
+        "example": "La tokenisation décompose la phrase en fragments de sous-mots.",
+        "term": "Tokenisation"
+      },
+      "es": {
+        "definition": "El proceso de dividir el texto en tokens que un modelo puede leer.",
+        "example": "La tokenización descompone la frase en fragmentos de subpalabras.",
+        "term": "Tokenización"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-088",
+    "deck": "ai-ml",
+    "term": "Corpus",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "nlp",
+      "data"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A large structured collection of text used for training or analysis.",
+        "example": "The model was trained on a corpus of web pages and books."
+      },
+      "ru": {
+        "definition": "Большое структурированное собрание текстов для обучения или анализа.",
+        "example": "Модель обучали на корпусе из веб-страниц и книг.",
+        "term": "Корпус"
+      },
+      "ja": {
+        "definition": "学習や分析に使う、構造化された大規模なテキストの集まり(コーパス)。",
+        "example": "そのモデルはウェブページや書籍のコーパスで学習された。",
+        "term": "コーパス"
+      },
+      "ko": {
+        "definition": "학습이나 분석에 쓰이는 대규모의 구조화된 텍스트 모음이다.",
+        "example": "그 모델은 웹페이지와 책으로 이루어진 코퍼스로 학습되었다.",
+        "term": "코퍼스"
+      },
+      "fr": {
+        "definition": "Une vaste collection structurée de textes servant à l'entraînement ou à l'analyse.",
+        "example": "Le modèle a été entraîné sur un corpus de pages web et de livres.",
+        "term": "Corpus"
+      },
+      "es": {
+        "definition": "Una colección amplia y estructurada de texto usada para entrenar o analizar.",
+        "example": "El modelo se entrenó con un corpus de páginas web y libros.",
+        "term": "Corpus"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-089",
+    "deck": "ai-ml",
+    "term": "Named entity recognition",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "nlp",
+      "tasks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Identifying and classifying names of people, places, and organizations in text.",
+        "example": "NER tagged \"Paris\" as a location in the article."
+      },
+      "ru": {
+        "definition": "Поиск и классификация имён людей, мест и организаций в тексте.",
+        "example": "NER пометил «Париж» в статье как местоположение.",
+        "term": "Распознавание именованных сущностей"
+      },
+      "ja": {
+        "definition": "テキスト中の人名・地名・組織名を識別して分類すること(固有表現抽出)。",
+        "example": "NERは記事中の「パリ」を地名としてタグ付けした。",
+        "term": "固有表現抽出"
+      },
+      "ko": {
+        "definition": "텍스트에서 사람, 장소, 조직의 이름을 식별하고 분류하는 작업이다.",
+        "example": "NER은 기사에서 \"파리\"를 장소로 태깅했다.",
+        "term": "개체명 인식"
+      },
+      "fr": {
+        "definition": "Identifier et classer dans un texte les noms de personnes, de lieux et d'organisations.",
+        "example": "La reconnaissance d'entités nommées a étiqueté « Paris » comme un lieu dans l'article.",
+        "term": "Reconnaissance d'entités nommées"
+      },
+      "es": {
+        "definition": "Identificar y clasificar nombres de personas, lugares y organizaciones en un texto.",
+        "example": "El NER etiquetó «París» como un lugar en el artículo.",
+        "term": "Reconocimiento de entidades nombradas"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-090",
+    "deck": "ai-ml",
+    "term": "Sentiment analysis",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "nlp",
+      "tasks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Detecting the emotional tone or opinion expressed in text.",
+        "example": "Sentiment analysis flagged the review as negative."
+      },
+      "ru": {
+        "definition": "Определение эмоциональной окраски или мнения, выраженного в тексте.",
+        "example": "Анализ тональности отметил отзыв как негативный.",
+        "term": "Анализ тональности"
+      },
+      "ja": {
+        "definition": "テキストに表れた感情のトーンや意見を検出すること(感情分析)。",
+        "example": "感情分析は、そのレビューを否定的と判定した。",
+        "term": "感情分析"
+      },
+      "ko": {
+        "definition": "텍스트에 담긴 감정적 어조나 의견을 탐지하는 것이다.",
+        "example": "감성 분석은 그 리뷰를 부정으로 표시했다.",
+        "term": "감성 분석"
+      },
+      "fr": {
+        "definition": "Détecter la tonalité émotionnelle ou l'opinion exprimée dans un texte.",
+        "example": "L'analyse de sentiment a signalé l'avis comme négatif.",
+        "term": "Analyse de sentiment"
+      },
+      "es": {
+        "definition": "Detectar el tono emocional o la opinión expresada en un texto.",
+        "example": "El análisis de sentimiento marcó la reseña como negativa.",
+        "term": "Análisis de sentimiento"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-091",
+    "deck": "ai-ml",
+    "term": "Data augmentation",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "data",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Expanding training data by creating modified copies of existing examples.",
+        "example": "Flipping and cropping images is common data augmentation."
+      },
+      "ru": {
+        "definition": "Расширение обучающих данных за счёт создания изменённых копий существующих примеров.",
+        "example": "Отражение и обрезка изображений — частая аугментация данных.",
+        "term": "Аугментация данных"
+      },
+      "ja": {
+        "definition": "既存の例を加工した複製を作って学習データを増やすこと(データ拡張)。",
+        "example": "画像の反転や切り抜きはよく使われるデータ拡張だ。",
+        "term": "データ拡張"
+      },
+      "ko": {
+        "definition": "기존 예시의 변형 복사본을 만들어 학습 데이터를 늘리는 것이다.",
+        "example": "이미지를 뒤집고 잘라내는 것은 흔한 데이터 증강 기법이다.",
+        "term": "데이터 증강"
+      },
+      "fr": {
+        "definition": "Élargir les données d'entraînement en créant des copies modifiées des exemples existants.",
+        "example": "Retourner et recadrer les images est une technique courante d'augmentation de données.",
+        "term": "Augmentation de données"
+      },
+      "es": {
+        "definition": "Ampliar los datos de entrenamiento creando copias modificadas de los ejemplos existentes.",
+        "example": "Voltear y recortar imágenes es un aumento de datos habitual.",
+        "term": "Aumento de datos"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-092",
+    "deck": "ai-ml",
+    "term": "Feature engineering",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "data"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Manually creating or transforming input variables to improve a model.",
+        "example": "Feature engineering added a \"day of week\" column."
+      },
+      "ru": {
+        "definition": "Ручное создание или преобразование входных переменных ради улучшения модели.",
+        "example": "Инженерия признаков добавила столбец «день недели».",
+        "term": "Конструирование признаков"
+      },
+      "ja": {
+        "definition": "モデルを改善するために入力変数を手作業で作成・変換すること(特徴量エンジニアリング)。",
+        "example": "特徴量エンジニアリングで「曜日」の列を追加した。",
+        "term": "特徴量エンジニアリング"
+      },
+      "ko": {
+        "definition": "모델을 개선하기 위해 입력 변수를 수동으로 만들거나 변환하는 것이다.",
+        "example": "특성 공학으로 \"요일\" 열을 추가했다.",
+        "term": "특성 공학"
+      },
+      "fr": {
+        "definition": "Créer ou transformer manuellement des variables d'entrée pour améliorer un modèle.",
+        "example": "L'ingénierie des variables a ajouté une colonne « jour de la semaine ».",
+        "term": "Ingénierie des caractéristiques"
+      },
+      "es": {
+        "definition": "Crear o transformar manualmente variables de entrada para mejorar un modelo.",
+        "example": "La ingeniería de características añadió una columna de «día de la semana».",
+        "term": "Ingeniería de características"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-093",
+    "deck": "ai-ml",
+    "term": "Normalization",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "data",
+      "preprocessing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Scaling features to a common range so no single one dominates.",
+        "example": "Normalization put all inputs roughly between 0 and 1."
+      },
+      "ru": {
+        "definition": "Масштабирование признаков к общему диапазону, чтобы ни один не доминировал.",
+        "example": "Нормализация привела все входы примерно к диапазону от 0 до 1.",
+        "term": "Нормализация"
+      },
+      "ja": {
+        "definition": "特定の特徴量が支配的にならないよう、共通の範囲にスケーリングすること(正規化)。",
+        "example": "正規化によって、すべての入力がおおよそ0から1の間に収まった。",
+        "term": "正規化"
+      },
+      "ko": {
+        "definition": "어느 한 특성도 지배하지 않도록 특성들을 공통 범위로 스케일링하는 것이다.",
+        "example": "정규화는 모든 입력을 대략 0과 1 사이로 맞췄다.",
+        "term": "정규화"
+      },
+      "fr": {
+        "definition": "Mettre les variables à une échelle commune afin qu'aucune ne domine les autres.",
+        "example": "La normalisation a ramené toutes les entrées à peu près entre 0 et 1.",
+        "term": "Normalisation"
+      },
+      "es": {
+        "definition": "Escalar las características a un rango común para que ninguna domine sobre las demás.",
+        "example": "La normalización dejó todas las entradas aproximadamente entre 0 y 1.",
+        "term": "Normalización"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-094",
+    "deck": "ai-ml",
+    "term": "Latent space",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "representation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A compressed internal space where a model represents the essence of data.",
+        "example": "Walking through latent space morphs one face into another."
+      },
+      "ru": {
+        "definition": "Сжатое внутреннее пространство, где модель представляет суть данных.",
+        "example": "Движение по латентному пространству плавно превращает одно лицо в другое.",
+        "term": "Латентное пространство"
+      },
+      "ja": {
+        "definition": "モデルがデータの本質を表現する、圧縮された内部空間(潜在空間)。",
+        "example": "潜在空間を移動すると、ある顔が別の顔へと変形していく。",
+        "term": "潜在空間"
+      },
+      "ko": {
+        "definition": "모델이 데이터의 본질을 표현하는 압축된 내부 공간이다.",
+        "example": "잠재 공간을 따라 이동하면 한 얼굴이 다른 얼굴로 서서히 변한다.",
+        "term": "잠재 공간"
+      },
+      "fr": {
+        "definition": "Un espace interne compressé où un modèle représente l'essence des données.",
+        "example": "Parcourir l'espace latent transforme progressivement un visage en un autre.",
+        "term": "Espace latent"
+      },
+      "es": {
+        "definition": "Un espacio interno comprimido en el que un modelo representa la esencia de los datos.",
+        "example": "Recorrer el espacio latente transforma un rostro en otro.",
+        "term": "Espacio latente"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-095",
+    "deck": "ai-ml",
+    "term": "Bias (fairness)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ethics",
+      "fairness"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Systematic unfairness in model outputs, often reflecting skewed training data.",
+        "example": "Auditing revealed bias against certain applicant groups."
+      },
+      "ru": {
+        "definition": "Систематическая несправедливость в выводах модели, часто отражающая перекосы обучающих данных.",
+        "example": "Аудит выявил предвзятость против отдельных групп заявителей.",
+        "term": "Смещение (предвзятость)"
+      },
+      "ja": {
+        "definition": "偏った学習データを反映しがちな、モデル出力における体系的な不公平さ(バイアス)。",
+        "example": "監査により、特定の応募者グループに対するバイアスが明らかになった。",
+        "term": "バイアス（公平性）"
+      },
+      "ko": {
+        "definition": "흔히 편향된 학습 데이터를 반영하는, 모델 출력의 체계적 불공정이다.",
+        "example": "감사 결과 특정 지원자 집단에 대한 편향이 드러났다.",
+        "term": "편향(공정성)"
+      },
+      "fr": {
+        "definition": "Une iniquité systématique dans les sorties d'un modèle, reflétant souvent des données d'entraînement déséquilibrées.",
+        "example": "L'audit a révélé un biais à l'encontre de certains groupes de candidats.",
+        "term": "Biais (équité)"
+      },
+      "es": {
+        "definition": "Injusticia sistemática en las salidas de un modelo, que suele reflejar datos de entrenamiento sesgados.",
+        "example": "La auditoría reveló un sesgo contra ciertos grupos de solicitantes.",
+        "term": "Sesgo (equidad)"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-096",
+    "deck": "ai-ml",
+    "term": "Explainability",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ethics",
+      "interpretability"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How well a model's decisions can be understood and justified by humans.",
+        "example": "Explainability tools highlighted which words drove the prediction."
+      },
+      "ru": {
+        "definition": "Насколько хорошо решения модели могут быть поняты и обоснованы человеком.",
+        "example": "Инструменты интерпретируемости подсветили, какие слова определили предсказание.",
+        "term": "Объяснимость"
+      },
+      "ja": {
+        "definition": "モデルの判断を人間がどれだけ理解し正当化できるか(説明可能性)。",
+        "example": "説明可能性のツールが、予測を左右した単語を強調表示した。",
+        "term": "説明可能性"
+      },
+      "ko": {
+        "definition": "모델의 결정이 사람에게 얼마나 잘 이해되고 정당화될 수 있는지를 뜻한다.",
+        "example": "설명 가능성 도구는 어떤 단어가 예측을 이끌었는지 강조해 보여주었다.",
+        "term": "설명 가능성"
+      },
+      "fr": {
+        "definition": "La mesure dans laquelle les décisions d'un modèle peuvent être comprises et justifiées par des humains.",
+        "example": "Les outils d'explicabilité ont mis en évidence les mots ayant déterminé la prédiction.",
+        "term": "Explicabilité"
+      },
+      "es": {
+        "definition": "En qué medida los humanos pueden entender y justificar las decisiones de un modelo.",
+        "example": "Las herramientas de explicabilidad resaltaron qué palabras impulsaron la predicción.",
+        "term": "Explicabilidad"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-097",
+    "deck": "ai-ml",
+    "term": "Edge AI",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "deployment",
+      "infrastructure"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Running models locally on devices instead of in the cloud.",
+        "example": "Edge AI let the camera detect faces without internet."
+      },
+      "ru": {
+        "definition": "Запуск моделей локально на устройствах вместо облака.",
+        "example": "Edge AI позволил камере распознавать лица без интернета.",
+        "term": "ИИ на периферийных устройствах"
+      },
+      "ja": {
+        "definition": "クラウドではなく端末側でモデルをローカルに実行すること(エッジAI)。",
+        "example": "エッジAIにより、カメラはインターネットなしで顔を検出できた。",
+        "term": "エッジAI"
+      },
+      "ko": {
+        "definition": "클라우드가 아니라 기기에서 모델을 로컬로 실행하는 것이다.",
+        "example": "엣지 AI 덕분에 카메라가 인터넷 없이 얼굴을 탐지할 수 있었다.",
+        "term": "엣지 AI"
+      },
+      "fr": {
+        "definition": "Faire tourner des modèles localement sur les appareils plutôt que dans le cloud.",
+        "example": "L'IA embarquée a permis à la caméra de détecter des visages sans connexion internet.",
+        "term": "IA embarquée"
+      },
+      "es": {
+        "definition": "Ejecutar modelos localmente en los dispositivos en lugar de en la nube.",
+        "example": "La IA en el borde permitió que la cámara detectara rostros sin internet.",
+        "term": "IA en el borde"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-098",
+    "deck": "ai-ml",
+    "term": "GPU",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "infrastructure",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A processor with many parallel cores well suited to training neural networks.",
+        "example": "Training the model took days even on multiple GPUs."
+      },
+      "ru": {
+        "definition": "Процессор с множеством параллельных ядер, хорошо подходящий для обучения нейросетей.",
+        "example": "Обучение модели заняло дни даже на нескольких GPU.",
+        "term": "GPU"
+      },
+      "ja": {
+        "definition": "並列コアを多数備え、ニューラルネットワークの学習に適したプロセッサ(GPU)。",
+        "example": "複数のGPUを使っても、モデルの学習に何日もかかった。",
+        "term": "GPU"
+      },
+      "ko": {
+        "definition": "신경망 학습에 적합한 다수의 병렬 코어를 갖춘 프로세서다.",
+        "example": "여러 개의 GPU를 쓰고도 모델 학습에 며칠이 걸렸다.",
+        "term": "GPU"
+      },
+      "fr": {
+        "definition": "Un processeur doté de nombreux cœurs parallèles, bien adapté à l'entraînement des réseaux de neurones.",
+        "example": "L'entraînement du modèle a pris des jours, même sur plusieurs GPU.",
+        "term": "GPU"
+      },
+      "es": {
+        "definition": "Un procesador con muchos núcleos paralelos, muy adecuado para entrenar redes neuronales.",
+        "example": "Entrenar el modelo llevó días incluso con varias GPU.",
+        "term": "GPU"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-099",
+    "deck": "ai-ml",
+    "term": "Catastrophic forgetting",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a model learning a new task abruptly loses skill at an old one.",
+        "example": "Fine-tuning caused catastrophic forgetting of earlier knowledge."
+      },
+      "ru": {
+        "definition": "Когда модель, осваивая новую задачу, резко теряет навык в прежней.",
+        "example": "Дообучение вызвало катастрофическое забывание ранее усвоенного.",
+        "term": "Катастрофическое забывание"
+      },
+      "ja": {
+        "definition": "新しいタスクを学習したモデルが、古いタスクの能力を急に失うこと(破滅的忘却)。",
+        "example": "ファインチューニングによって、以前の知識が破滅的に忘却された。",
+        "term": "破滅的忘却"
+      },
+      "ko": {
+        "definition": "새 작업을 학습하던 모델이 이전 작업의 능력을 갑자기 잃어버리는 현상이다.",
+        "example": "파인튜닝이 이전 지식의 파국적 망각을 일으켰다.",
+        "term": "파국적 망각"
+      },
+      "fr": {
+        "definition": "Lorsqu'un modèle apprenant une nouvelle tâche perd brutalement sa compétence sur une ancienne.",
+        "example": "L'affinage a provoqué un oubli catastrophique des connaissances antérieures.",
+        "term": "Oubli catastrophique"
+      },
+      "es": {
+        "definition": "Cuando un modelo que aprende una tarea nueva pierde de golpe la destreza en una antigua.",
+        "example": "El ajuste fino provocó un olvido catastrófico del conocimiento anterior.",
+        "term": "Olvido catastrófico"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-100",
+    "deck": "ai-ml",
+    "term": "Foundation model",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "modeling"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A large model pretrained on broad data that can be adapted to many downstream tasks.",
+        "example": "Many products are built on top of a single foundation model."
+      },
+      "ru": {
+        "definition": "Крупная модель, предобученная на широких данных и адаптируемая под множество прикладных задач.",
+        "example": "Многие продукты строятся поверх одной базовой модели.",
+        "term": "Фундаментальная модель"
+      },
+      "ja": {
+        "definition": "幅広いデータで事前学習され、多くの下流タスクに適応できる大規模モデル(基盤モデル)。",
+        "example": "多くの製品が単一の基盤モデルの上に構築されている。",
+        "term": "基盤モデル"
+      },
+      "ko": {
+        "definition": "광범위한 데이터로 사전학습되어 다양한 후속 작업에 적응시킬 수 있는 대형 모델이다.",
+        "example": "많은 제품이 단일 파운데이션 모델 위에 구축된다.",
+        "term": "파운데이션 모델"
+      },
+      "fr": {
+        "definition": "Un grand modèle pré-entraîné sur des données larges, adaptable à de nombreuses tâches en aval.",
+        "example": "De nombreux produits sont bâtis sur un même modèle de fondation.",
+        "term": "Modèle de fondation"
+      },
+      "es": {
+        "definition": "Un modelo grande preentrenado con datos amplios que puede adaptarse a muchas tareas posteriores.",
+        "example": "Muchos productos se construyen sobre un único modelo fundacional.",
+        "term": "Modelo fundacional"
+      }
+    }
+  },
+  {
+    "id": "ai-ml-101",
+    "deck": "ai-ml",
+    "term": "Extremely Long Multi-Word Term For Layout And Dynamic Type Overflow Stress Testing",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "qa",
+      "overflow",
+      "dynamic-type"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A deliberately verbose stress-test definition used to verify text wrapping, vertical overflow, scrolling, and Dynamic Type behavior on flashcards: when a single card carries an unusually long heading together with several sentences of body copy, the layout must wrap gracefully, never clip the term, keep the definition fully readable, and remain legible at the largest accessibility font sizes without truncation.",
+        "example": "Example: even at the largest Dynamic Type setting, this multi-line example sentence should remain fully visible, wrapping across several lines inside the card without overlapping the term, the definition, or the surrounding controls, and without forcing horizontal scrolling."
+      },
+      "ru": {
+        "definition": "Намеренно многословное определение для стресс-теста: проверяет перенос текста, вертикальное переполнение, прокрутку и поведение Dynamic Type на карточках. Когда на одной карточке очень длинный заголовок и несколько предложений текста, вёрстка должна аккуратно переноситься, не обрезать термин, сохранять определение полностью читаемым и оставаться разборчивой при самых крупных размерах шрифта доступности без усечения.",
+        "example": "Пример: даже при максимальном размере Dynamic Type этот многострочный пример должен оставаться полностью видимым, переноситься на несколько строк внутри карточки, не перекрывая термин, определение и соседние элементы управления, и без горизонтальной прокрутки.",
+        "term": "Очень длинный многословный термин для стресс-теста переноса и переполнения Dynamic Type"
+      }
+    }
+  }
+]

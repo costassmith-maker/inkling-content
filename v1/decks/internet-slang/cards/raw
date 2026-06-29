@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "internet-slang-001",
+    "deck": "internet-slang",
+    "term": "Rizz",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "dating"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Charm or skill in attracting a romantic partner; short for charisma.",
+        "example": "He's got serious rizz — got her number in five minutes."
+      },
+      "ru": {
+        "definition": "Обаяние и умение клеить, охмурять; от charisma. Аналог — «подкаты», «скилл в съёме».",
+        "example": "У него прям ризз: за пять минут номер взял.",
+        "term": "Ризз"
+      },
+      "ja": {
+        "definition": "異性を惹きつける魅力やナンパの上手さを指すカジュアルな若者言葉。charisma(カリスマ)の略で、「モテ力」に近い。",
+        "example": "あいつマジでrizzがすごくて、5分で連絡先ゲットしてたよ。",
+        "term": "リズ"
+      },
+      "ko": {
+        "definition": "이성을 매료시키는 매력이나 작업 능력을 뜻하는 캐주얼한 신조어로, charisma의 줄임말이며 우리말의 '작업 능력'이나 '매력'에 가깝다.",
+        "example": "걔는 rizz가 장난 아니야. 5분 만에 번호 따냈잖아.",
+        "term": "리즈"
+      },
+      "fr": {
+        "definition": "Charme et aisance pour séduire ; abréviation de l'anglais « charisma ». En français on dirait familièrement « avoir du game » ou « savoir y faire ».",
+        "example": "Il a un de ces rizz : il a eu son numéro en cinq minutes.",
+        "term": "Rizz"
+      },
+      "es": {
+        "definition": "Encanto o habilidad para atraer a alguien románticamente; abreviatura de 'charisma'. Equivale a tener labia o don de gentes.",
+        "example": "Tiene un rizz brutal: consiguió su número en cinco minutos.",
+        "term": "Rizz"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-002",
+    "deck": "internet-slang",
+    "term": "Cap",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "truth"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A lie or exaggeration; 'capping' means lying.",
+        "example": "You ran a marathon yesterday? That's cap."
+      },
+      "ru": {
+        "definition": "Враньё или преувеличение; «to cap» — гнать, заливать. Наше — «гонишь», «втираешь».",
+        "example": "Ты вчера марафон пробежал? Ну это кап.",
+        "term": "Cap"
+      },
+      "ja": {
+        "definition": "嘘や大げさな話を指すスラング。動詞capで「嘘をつく」の意味になる。",
+        "example": "昨日マラソン走った?それcapでしょ。",
+        "term": "Cap"
+      },
+      "ko": {
+        "definition": "거짓말이나 과장을 뜻하는 비격식 표현으로, 우리말 '구라'나 '뻥'에 해당한다.",
+        "example": "어제 마라톤을 뛰었다고? 완전 cap이네.",
+        "term": "Cap"
+      },
+      "fr": {
+        "definition": "Un mensonge ou une exagération ; « capper » signifie mentir. Équivaut à « du flan » ou « des salades ».",
+        "example": "Tu as couru un marathon hier ? C'est du cap, ça.",
+        "term": "Cap"
+      },
+      "es": {
+        "definition": "Una mentira o exageración; 'capping' es mentir. Registro juvenil informal.",
+        "example": "¿Que corriste un maratón ayer? Eso es cap.",
+        "term": "Cap"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-003",
+    "deck": "internet-slang",
+    "term": "No cap",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "truth"
+    ],
+    "locales": {
+      "en": {
+        "definition": "For real; no lie; used to stress sincerity.",
+        "example": "This is the best pizza in town, no cap."
+      },
+      "ru": {
+        "definition": "«Зуб даю», «без балды» — подчёркивает искренность. Противоположность cap.",
+        "example": "Лучшая пицца в городе, no cap.",
+        "term": "No cap"
+      },
+      "ja": {
+        "definition": "「マジで」「嘘じゃない」と本気度を強調する言い回し。日本語の「ガチで」に近い。",
+        "example": "この店のピザ、町で一番うまい、no cap。",
+        "term": "No cap"
+      },
+      "ko": {
+        "definition": "진심임을 강조할 때 쓰는 표현으로, '진짜로', '구라 안 치고'라는 뜻이다.",
+        "example": "여기가 이 동네 최고 피자 맞아, no cap.",
+        "term": "No cap"
+      },
+      "fr": {
+        "definition": "Pour de vrai, sans mentir ; sert à insister sur sa sincérité, comme « sans déconner » ou « juré ».",
+        "example": "C'est la meilleure pizza de la ville, no cap.",
+        "term": "No cap"
+      },
+      "es": {
+        "definition": "De verdad, sin mentir; se usa para recalcar que algo es sincero. Equivale a 'te lo juro' o 'en serio'.",
+        "example": "Esta es la mejor pizza de la ciudad, no cap.",
+        "term": "No cap"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-004",
+    "deck": "internet-slang",
+    "term": "Mid",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "opinion"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Mediocre or overrated; below expectations.",
+        "example": "The sequel was honestly pretty mid."
+      },
+      "ru": {
+        "definition": "Серединка на половинку, переоценённое, ниже ожиданий. Наше — «такое себе», «ну средне».",
+        "example": "Сиквел вышел реально mid.",
+        "term": "Mid"
+      },
+      "ja": {
+        "definition": "平凡で期待外れ、過大評価という意味のくだけた評価。日本語の「微妙」に近い。",
+        "example": "続編は正直けっこうmid(微妙)だったわ。",
+        "term": "Mid"
+      },
+      "ko": {
+        "definition": "평범하거나 기대 이하라는 뜻의 비격식 표현으로, 우리말 '그냥 그래', '별로'에 가깝다.",
+        "example": "속편은 솔직히 좀 mid였어.",
+        "term": "Mid"
+      },
+      "fr": {
+        "definition": "Médiocre ou surestimé, en dessous des attentes ; proche de « moyen » ou « bof ».",
+        "example": "La suite était franchement assez mid.",
+        "term": "Mid"
+      },
+      "es": {
+        "definition": "Mediocre o sobrevalorado; por debajo de lo esperado. Equivale a 'del montón' o 'regulero'.",
+        "example": "La secuela fue bastante mid, la verdad.",
+        "term": "Mid"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-005",
+    "deck": "internet-slang",
+    "term": "Ratio",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "twitter",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a reply gets more likes than the original post, signaling disapproval.",
+        "example": "His hot take got ratioed into oblivion."
+      },
+      "ru": {
+        "definition": "Когда у ответа лайков больше, чем у самого поста — знак, что автора засмеяли/осудили.",
+        "example": "Его горячий тейк заратиоили в ноль.",
+        "term": "Ратио"
+      },
+      "ja": {
+        "definition": "返信が元の投稿より「いいね」を多く集め、世間が元投稿に否定的だと示す現象を指すSNS用語。",
+        "example": "あいつの暴論、見事にratioされて埋もれてたな。",
+        "term": "Ratio"
+      },
+      "ko": {
+        "definition": "답글이 원글보다 좋아요를 더 많이 받아 사람들이 원글에 동의하지 않음을 보여주는 상황을 뜻하는 SNS 용어다.",
+        "example": "걔의 어이없는 주장은 답글한테 밀려서(좋아요 폭탄 맞고) 묻혀버렸어.",
+        "term": "Ratio"
+      },
+      "fr": {
+        "definition": "Quand une réponse récolte plus de likes que le message d'origine, marquant la désapprobation du public.",
+        "example": "Son avis à chaud s'est fait ratio jusqu'à l'oubli.",
+        "term": "Ratio"
+      },
+      "es": {
+        "definition": "Cuando una respuesta recibe más 'me gusta' que la publicación original, señalando rechazo o desaprobación.",
+        "example": "Su comentario polémico se llevó un ratio descomunal.",
+        "term": "Ratio"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-006",
+    "deck": "internet-slang",
+    "term": "Touch grass",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "insult"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Telling someone to log off and reconnect with real life.",
+        "example": "You've been arguing online all day — go touch grass."
+      },
+      "ru": {
+        "definition": "«Выйди на улицу, потрогай траву» — призыв слезть с сети и вернуться в реальную жизнь.",
+        "example": "Ты весь день в сети споришь — иди touch grass.",
+        "term": "Touch grass"
+      },
+      "ja": {
+        "definition": "ネットばかりせず現実の生活に戻れ、と相手をたしなめるスラング。直訳は「芝生に触れろ」。",
+        "example": "一日中ネットで言い争ってないで、touch grass(外に出て頭冷やせ)。",
+        "term": "Touch grass"
+      },
+      "ko": {
+        "definition": "인터넷에 너무 빠진 사람에게 '그만 좀 하고 현실로 돌아오라'고 핀잔 주는 비꼬는 표현이다.",
+        "example": "하루 종일 온라인에서 싸우기만 하네. 나가서 touch grass 좀 해.",
+        "term": "Touch grass"
+      },
+      "fr": {
+        "definition": "Dire à quelqu'un de se déconnecter et de renouer avec la vraie vie ; littéralement « va toucher l'herbe ».",
+        "example": "Tu te disputes en ligne depuis ce matin, va toucher l'herbe.",
+        "term": "Touch grass"
+      },
+      "es": {
+        "definition": "Decirle a alguien que se desconecte y vuelva a la vida real; literalmente 'toca el césped'. Tono de burla.",
+        "example": "Llevas todo el día discutiendo en internet: anda, touch grass.",
+        "term": "Touch grass"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-007",
+    "deck": "internet-slang",
+    "term": "NPC",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "gaming",
+      "insult"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Someone seen as acting on autopilot, with no independent thought; from 'non-player character'.",
+        "example": "He just repeats whatever he hears — total NPC behavior."
+      },
+      "ru": {
+        "definition": "Человек на автопилоте, без своих мыслей; от «непись» в играх. Наше — «массовка», «биоробот».",
+        "example": "Повторяет всё за другими — чистый NPC.",
+        "term": "NPC"
+      },
+      "ja": {
+        "definition": "自分の頭で考えず、言われるまま機械的に行動する人を見下す言い方。ゲームの「モブキャラ(non-player character)」が由来。",
+        "example": "あいつ聞いた話をそのまま繰り返すだけ、完全にNPCだわ。",
+        "term": "NPC"
+      },
+      "ko": {
+        "definition": "자기 생각 없이 기계적으로 행동하는 사람을 비하하는 게임 용어로, '논플레이어 캐릭터'에서 왔다.",
+        "example": "걔는 들은 말 그대로 따라 하기만 해. 완전 NPC야.",
+        "term": "NPC"
+      },
+      "fr": {
+        "definition": "Quelqu'un perçu comme agissant en pilote automatique, sans pensée propre ; tiré du « personnage non-joueur » des jeux vidéo.",
+        "example": "Il répète tout ce qu'il entend, comportement de NPC total.",
+        "term": "NPC"
+      },
+      "es": {
+        "definition": "Alguien que parece actuar en piloto automático, sin pensamiento propio; viene de 'non-player character' de los videojuegos.",
+        "example": "Solo repite lo que oye: un comportamiento de NPC total.",
+        "term": "NPC"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-008",
+    "deck": "internet-slang",
+    "term": "Sus",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "gaming",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Suspicious or shady; popularized by the game Among Us.",
+        "example": "He's been acting kinda sus all day."
+      },
+      "ru": {
+        "definition": "Подозрительный, мутный; разлетелось из игры Among Us. Наше — «шарящий мутки», «подозрительный».",
+        "example": "Он весь день какой-то sus.",
+        "term": "Sus"
+      },
+      "ja": {
+        "definition": "怪しい、胡散臭いという意味のくだけた言葉。ゲーム『Among Us』で広まった。日本語の「あやしい」に近い。",
+        "example": "あいつ今日一日なんかsus(あやしい)んだよな。",
+        "term": "Sus"
+      },
+      "ko": {
+        "definition": "수상하거나 의심스럽다는 뜻의 비격식 표현으로, 게임 어몽어스에서 유행했다.",
+        "example": "걔 오늘 하루 종일 좀 sus하게 행동하더라.",
+        "term": "Sus"
+      },
+      "fr": {
+        "definition": "Suspect ou louche ; popularisé par le jeu Among Us. Équivaut à « chelou ».",
+        "example": "Il agit un peu sus depuis ce matin.",
+        "term": "Sus"
+      },
+      "es": {
+        "definition": "Sospechoso o turbio; se popularizó con el juego Among Us. Equivale a 'sospechoso' en tono coloquial.",
+        "example": "Lleva todo el día actuando un poco sus.",
+        "term": "Sus"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-009",
+    "deck": "internet-slang",
+    "term": "Bet",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "agreement"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Okay, sure, or 'it's a deal'; an expression of agreement.",
+        "example": "Meet at 8? Bet."
+      },
+      "ru": {
+        "definition": "«Ок», «договорились», «по рукам» — выражение согласия. Наше — «заметано», «лады».",
+        "example": "Встречаемся в восемь? Bet.",
+        "term": "Bet"
+      },
+      "ja": {
+        "definition": "「了解」「いいよ」「決まり」という同意を表すカジュアルな返事。",
+        "example": "8時に集合?Bet(オッケー)。",
+        "term": "Bet"
+      },
+      "ko": {
+        "definition": "'좋아', '콜', '그러자'처럼 동의를 나타내는 캐주얼한 표현이다.",
+        "example": "8시에 만날까? Bet.",
+        "term": "Bet"
+      },
+      "fr": {
+        "definition": "D'accord, ça marche, marché conclu ; une marque d'assentiment décontractée, comme « ça roule ».",
+        "example": "On se voit à 20 h ? Bet.",
+        "term": "Bet"
+      },
+      "es": {
+        "definition": "Vale, claro o 'trato hecho'; expresión de acuerdo. Equivale a 'hecho' o 'va'.",
+        "example": "¿Quedamos a las 8? Bet.",
+        "term": "Bet"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-010",
+    "deck": "internet-slang",
+    "term": "Slaps",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "music",
+      "praise"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Is excellent, especially of music; really good.",
+        "example": "This new track absolutely slaps."
+      },
+      "ru": {
+        "definition": "Очень круто, особенно про музыку — «заходит», «качает», «огонь».",
+        "example": "Новый трек просто slaps.",
+        "term": "Slaps"
+      },
+      "ja": {
+        "definition": "特に音楽について「最高にいい」と褒めるスラング。日本語の「神曲」のノリに近い。",
+        "example": "この新曲、マジでslaps(ヤバいくらい良い)。",
+        "term": "Slaps"
+      },
+      "ko": {
+        "definition": "특히 음악이 아주 훌륭하다는 뜻의 비격식 칭찬 표현이다.",
+        "example": "이 신곡 진짜 미쳤다 / 완전 띵곡이다.",
+        "term": "Slaps"
+      },
+      "fr": {
+        "definition": "Être excellent, surtout en parlant de musique ; vraiment bon, ça « déchire ».",
+        "example": "Ce nouveau morceau, ça slaps grave.",
+        "term": "Slaps"
+      },
+      "es": {
+        "definition": "Es excelente, sobre todo hablando de música; muy bueno. Equivale a 'lo peta' o 'está buenísima'.",
+        "example": "Esta canción nueva slaps total.",
+        "term": "Slaps"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-011",
+    "deck": "internet-slang",
+    "term": "Bussin",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "food",
+      "praise"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Really good, especially food; delicious.",
+        "example": "Grandma's mac and cheese is bussin."
+      },
+      "ru": {
+        "definition": "Очень вкусно, особенно про еду — «объедение», «вкуснотища».",
+        "example": "Бабушкина запеканка — это bussin.",
+        "term": "Bussin"
+      },
+      "ja": {
+        "definition": "特に食べ物が「めちゃくちゃうまい」と褒めるスラング。",
+        "example": "おばあちゃんのマカロニチーズ、bussin(激ウマ)だよ。",
+        "term": "Bussin"
+      },
+      "ko": {
+        "definition": "특히 음식이 정말 맛있다는 뜻의 비격식 표현으로, 우리말 '존맛'에 가깝다.",
+        "example": "할머니가 해주신 맥앤치즈 진짜 bussin이야.",
+        "term": "Bussin"
+      },
+      "fr": {
+        "definition": "Vraiment bon, surtout pour la nourriture ; délicieux, « trop bon ».",
+        "example": "Le gratin de mamie, c'est bussin.",
+        "term": "Bussin"
+      },
+      "es": {
+        "definition": "Muy bueno, sobre todo la comida; delicioso. Equivale a 'está de muerte'.",
+        "example": "El macarrón con queso de la abuela está bussin.",
+        "term": "Bussin"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-012",
+    "deck": "internet-slang",
+    "term": "Cringe",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "reaction"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Embarrassing or awkward enough to make you wince.",
+        "example": "That whole speech was so cringe."
+      },
+      "ru": {
+        "definition": "Так неловко и стыдно, что аж передёргивает. Наше — «кринж», «испанский стыд».",
+        "example": "Вся эта речь была такой cringe.",
+        "term": "Кринж"
+      },
+      "ja": {
+        "definition": "見ているこちらが恥ずかしくなるほど痛い・気まずい様子。日本語でもそのまま「クリンジ」と言うことがある。",
+        "example": "あのスピーチ、全部めっちゃcringe(寒い)だった。",
+        "term": "クリンジ"
+      },
+      "ko": {
+        "definition": "보는 사람이 움찔할 만큼 민망하거나 어색하다는 뜻으로, 우리말 '오글거린다'에 가깝다.",
+        "example": "그 연설 전체가 너무 cringe였어.",
+        "term": "크린지"
+      },
+      "fr": {
+        "definition": "Gênant ou embarrassant au point de faire grimacer ; on dit aussi « la honte » ou « le malaise ».",
+        "example": "Tout ce discours était tellement cringe.",
+        "term": "Cringe"
+      },
+      "es": {
+        "definition": "Tan vergonzoso o incómodo que te hace estremecerte. Equivale a 'vergüenza ajena' o 'qué cringe'.",
+        "example": "Todo ese discurso fue muy cringe.",
+        "term": "Cringe"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-013",
+    "deck": "internet-slang",
+    "term": "Based",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "opinion"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Admirably true to oneself, unbothered by others' opinions.",
+        "example": "He said what everyone was thinking — based."
+      },
+      "ru": {
+        "definition": "Похвально верен себе, кладёт болт на чужое мнение. Наше — «уважаю», «красава, режет правду».",
+        "example": "Сказал то, о чём все молчали — based.",
+        "term": "Бейсд"
+      },
+      "ja": {
+        "definition": "他人の目を気にせず自分の信念を貫く姿勢への賛辞。「それな、よく言った」というニュアンス。",
+        "example": "みんなが思ってたことをズバッと言った、based(よく言った)。",
+        "term": "Based"
+      },
+      "ko": {
+        "definition": "남의 시선에 흔들리지 않고 자기 소신을 당당히 지키는 모습을 멋지다고 인정하는 표현이다.",
+        "example": "걔가 다들 속으로 생각하던 말을 했어. 완전 based다.",
+        "term": "Based"
+      },
+      "fr": {
+        "definition": "Admirablement fidèle à soi-même, indifférent au regard des autres ; un compliment d'approbation.",
+        "example": "Il a dit tout haut ce que tout le monde pensait : based.",
+        "term": "Based"
+      },
+      "es": {
+        "definition": "Admirablemente fiel a uno mismo, sin que le importe la opinión ajena. Es un elogio.",
+        "example": "Dijo lo que todos pensaban: based.",
+        "term": "Based"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-014",
+    "deck": "internet-slang",
+    "term": "Cope",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "argument"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Coping with an unwelcome truth, often via denial; thrown as a jab.",
+        "example": "Keep telling yourself that — cope."
+      },
+      "ru": {
+        "definition": "«Смирись» — подкол в адрес того, кто отрицает неприятную правду. Наше — «копиум», «утешайся дальше».",
+        "example": "Ну-ну, продолжай в это верить — cope.",
+        "term": "Coping/Копиум"
+      },
+      "ja": {
+        "definition": "都合の悪い真実を否認して必死に受け止めようとする様子を、相手を煽る形で投げつける言葉。",
+        "example": "せいぜいそう思い込んどけよ、cope(無理して受け入れてるだけ)。",
+        "term": "Cope"
+      },
+      "ko": {
+        "definition": "불편한 진실을 부정하며 정신승리한다고 비꼬는 표현으로, 상대를 깎아내릴 때 던지는 말이다.",
+        "example": "계속 그렇게 믿어라. Cope나 해.",
+        "term": "Cope"
+      },
+      "fr": {
+        "definition": "Le fait d'encaisser une vérité désagréable, souvent par le déni ; lancé comme une pique pour dire « assume ».",
+        "example": "Continue à te raconter ça : cope.",
+        "term": "Cope"
+      },
+      "es": {
+        "definition": "Lidiar con una verdad incómoda, a menudo negándola; se lanza como pulla. Equivale a 'aguántate'.",
+        "example": "Sigue creyéndotelo: cope.",
+        "term": "Cope"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-015",
+    "deck": "internet-slang",
+    "term": "Salty",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "emotion",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Bitter, irritated, or resentful about something.",
+        "example": "He's still salty about losing the bet."
+      },
+      "ru": {
+        "definition": "Обиженный, задетый, кисляк из-за чего-то. Наше — «бомбит», «соли насыпали».",
+        "example": "Он до сих пор salty из-за проигранного спора.",
+        "term": "Бомбит"
+      },
+      "ja": {
+        "definition": "何かに不満で機嫌が悪い、根に持っている様子。日本語の「イライラしてる」「拗ねてる」に近い。",
+        "example": "あいつまだ賭けに負けたことでsalty(不機嫌)なんだよ。",
+        "term": "Salty"
+      },
+      "ko": {
+        "definition": "무언가에 삐치거나 분해서 기분 나빠하는 상태를 뜻하는 비격식 표현이다.",
+        "example": "걔 아직도 내기 진 거 때문에 salty해.",
+        "term": "Salty"
+      },
+      "fr": {
+        "definition": "Aigri, vexé ou rancunier à propos de quelque chose ; proche de « avoir le seum ».",
+        "example": "Il est encore salty d'avoir perdu le pari.",
+        "term": "Salty"
+      },
+      "es": {
+        "definition": "Amargado, molesto o resentido por algo. Equivale a 'picado' o 'resentido'.",
+        "example": "Sigue salty por haber perdido la apuesta.",
+        "term": "Salty"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-016",
+    "deck": "internet-slang",
+    "term": "Ghosting",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "dating",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Cutting off all contact suddenly and without explanation.",
+        "example": "We had three great dates, then she started ghosting me."
+      },
+      "ru": {
+        "definition": "Резко пропасть, оборвать всякий контакт без объяснений. Наше — «слиться», «уйти в игнор».",
+        "example": "Три классных свидания, а потом она начала меня ghosting.",
+        "term": "Гостинг"
+      },
+      "ja": {
+        "definition": "連絡を一切絶って、説明もなく突然音信不通になること。日本語でも「音信不通にする」「飛ぶ」と言う。",
+        "example": "3回もいいデートしたのに、彼女ghosting(突然音信不通)してきた。",
+        "term": "ゴースティング"
+      },
+      "ko": {
+        "definition": "아무 설명 없이 갑자기 연락을 완전히 끊어버리는 행동으로, 우리말 '잠수'에 해당한다.",
+        "example": "세 번이나 좋은 데이트를 했는데 걔가 갑자기 ghosting하기 시작했어.",
+        "term": "고스팅"
+      },
+      "fr": {
+        "definition": "Couper tout contact d'un coup et sans explication ; en français on dit « ghoster ».",
+        "example": "On a eu trois super rendez-vous, puis elle s'est mise à me ghoster.",
+        "term": "Ghosting"
+      },
+      "es": {
+        "definition": "Cortar todo contacto de repente y sin explicación, sobre todo en una relación. Equivale a 'desaparecer sin dar señales'.",
+        "example": "Tuvimos tres citas geniales y luego empezó a hacerme ghosting.",
+        "term": "Ghosting"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-017",
+    "deck": "internet-slang",
+    "term": "Flex",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To show off; a boastful display of wealth, skill, or status.",
+        "example": "Posting his new watch was a flex."
+      },
+      "ru": {
+        "definition": "Понтоваться, хвастаться деньгами, скиллом, статусом. Наше — «флексить», «понтоваться».",
+        "example": "Выложил новые часы — чистый flex.",
+        "term": "Флекс"
+      },
+      "ja": {
+        "definition": "富や能力、地位をこれ見よがしに自慢すること。日本語の「マウント」「見せびらかし」に近い。",
+        "example": "新しい時計を投稿するなんて、ただのflex(自慢)だよ。",
+        "term": "Flex"
+      },
+      "ko": {
+        "definition": "부, 능력, 지위 등을 과시하는 것을 뜻하며, 우리말 '플렉스'로 이미 자리 잡은 표현이다.",
+        "example": "새 시계를 올린 건 일종의 flex였어.",
+        "term": "Flex"
+      },
+      "fr": {
+        "definition": "Frimer ; un étalage ostentatoire de richesse, de talent ou de statut. Équivaut à « frimer » ou « la ramener ».",
+        "example": "Poster sa nouvelle montre, c'était du flex.",
+        "term": "Flex"
+      },
+      "es": {
+        "definition": "Presumir; una exhibición ostentosa de riqueza, talento o estatus. Equivale a 'fardar' o 'chulear'.",
+        "example": "Publicar su reloj nuevo fue un flex.",
+        "term": "Flexear"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-018",
+    "deck": "internet-slang",
+    "term": "Lowkey",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "modifier"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Somewhat, quietly, or secretly; a softening modifier.",
+        "example": "I'm lowkey nervous about the interview."
+      },
+      "ru": {
+        "definition": "Слегка, втихаря, неявно — смягчающее «вроде как», «по-тихому».",
+        "example": "Я lowkey волнуюсь перед собесом.",
+        "term": "Lowkey"
+      },
+      "ja": {
+        "definition": "「ちょっと」「ひそかに」と程度をやわらげる修飾語。日本語の「密かに」「地味に」に近い。",
+        "example": "面接、lowkey(地味に)緊張してるんだよね。",
+        "term": "Lowkey"
+      },
+      "ko": {
+        "definition": "'약간', '은근히', '몰래'라는 뜻으로 말의 강도를 누그러뜨리는 수식어다.",
+        "example": "나 면접 때문에 lowkey 긴장돼.",
+        "term": "Lowkey"
+      },
+      "fr": {
+        "definition": "Un peu, discrètement ou en secret ; un modificateur qui atténue, comme « un peu » ou « en mode discret ».",
+        "example": "Je suis lowkey stressé pour l'entretien.",
+        "term": "Lowkey"
+      },
+      "es": {
+        "definition": "Un poco, en secreto o discretamente; modificador que suaviza lo que dices. Equivale a 'en plan disimulado'.",
+        "example": "Estoy lowkey nervioso por la entrevista.",
+        "term": "Lowkey"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-019",
+    "deck": "internet-slang",
+    "term": "Highkey",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "modifier"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Openly and intensely; the opposite of lowkey.",
+        "example": "I'm highkey obsessed with this song."
+      },
+      "ru": {
+        "definition": "В открытую и сильно; противоположность lowkey. Наше — «капитально», «прям конкретно».",
+        "example": "Я highkey подсел на эту песню.",
+        "term": "Highkey"
+      },
+      "ja": {
+        "definition": "「あからさまに」「めっちゃ」と強調する修飾語。lowkeyの反対。",
+        "example": "この曲にhighkey(マジで)ハマってる。",
+        "term": "Highkey"
+      },
+      "ko": {
+        "definition": "'대놓고', '아주 강하게'라는 뜻으로 lowkey의 반대 표현이다.",
+        "example": "나 이 노래에 highkey 푹 빠졌어.",
+        "term": "Highkey"
+      },
+      "fr": {
+        "definition": "Ouvertement et à fond ; l'inverse de lowkey, comme « clairement » ou « à fond ».",
+        "example": "Je suis highkey obsédée par cette chanson.",
+        "term": "Highkey"
+      },
+      "es": {
+        "definition": "Abierta e intensamente; lo contrario de lowkey. Equivale a 'descaradamente' o 'a tope'.",
+        "example": "Estoy highkey obsesionado con esta canción.",
+        "term": "Highkey"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-020",
+    "deck": "internet-slang",
+    "term": "Glow up",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "beauty",
+      "transformation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A dramatic improvement in appearance, style, or confidence.",
+        "example": "She had a serious glow up over the summer."
+      },
+      "ru": {
+        "definition": "Резкое преображение — внешность, стиль, уверенность пошли в гору. Наше — «расцвела», «преобразилась».",
+        "example": "За лето у неё реальный glow up.",
+        "term": "Glow up"
+      },
+      "ja": {
+        "definition": "見た目やスタイル、自信が劇的に良くなること。日本語の「垢抜け」に近い。",
+        "example": "彼女、夏の間にすごくglow up(垢抜け)したね。",
+        "term": "Glow up"
+      },
+      "ko": {
+        "definition": "외모, 스타일, 자신감이 극적으로 좋아진 변화를 뜻하며, 우리말 '환골탈태'에 가깝다.",
+        "example": "걔 여름 동안 제대로 glow up했더라.",
+        "term": "Glow up"
+      },
+      "fr": {
+        "definition": "Une transformation spectaculaire de l'apparence, du style ou de la confiance en soi ; une « métamorphose ».",
+        "example": "Elle a fait un sacré glow up pendant l'été.",
+        "term": "Glow up"
+      },
+      "es": {
+        "definition": "Una mejora espectacular en el aspecto, el estilo o la confianza. Equivale a 'transformación' o 'cambiazo'.",
+        "example": "Pegó un glow up brutal durante el verano.",
+        "term": "Glow up"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-021",
+    "deck": "internet-slang",
+    "term": "Main character",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "tiktok",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Acting as the protagonist of your own life, often self-romanticizing.",
+        "example": "Walking through the city in the rain, full main character energy."
+      },
+      "ru": {
+        "definition": "Вести себя как главный герой своей жизни, романтизировать каждый момент.",
+        "example": "Иду по городу под дождём — полная main character energy.",
+        "term": "Main character"
+      },
+      "ja": {
+        "definition": "自分を物語の主人公のように演出し、人生をドラマチックに捉える態度。",
+        "example": "雨の街を歩いてると、完全にmain character(主人公)気分だね。",
+        "term": "Main character"
+      },
+      "ko": {
+        "definition": "자기 인생의 주인공처럼 행동하며 스스로를 낭만적으로 연출하는 태도를 뜻한다.",
+        "example": "비 오는 날 도시를 걷는 게 완전 main character 감성이었어.",
+        "term": "Main character"
+      },
+      "fr": {
+        "definition": "Se comporter comme le héros de sa propre vie, souvent en se romançant ; l'énergie de « personnage principal ».",
+        "example": "Marcher dans la ville sous la pluie, pure énergie main character.",
+        "term": "Main character"
+      },
+      "es": {
+        "definition": "Actuar como el protagonista de tu propia vida, a menudo idealizándote a ti mismo.",
+        "example": "Caminando por la ciudad bajo la lluvia, puro rollo de main character.",
+        "term": "Main character"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-022",
+    "deck": "internet-slang",
+    "term": "Rent free",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "obsession"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Something you can't stop thinking about; it 'lives rent free' in your head.",
+        "example": "That meme has been living rent free in my mind all week."
+      },
+      "ru": {
+        "definition": "То, о чём не можешь перестать думать — «живёт у тебя в голове бесплатно». Наше — «засело в голове».",
+        "example": "Этот мем всю неделю живёт у меня в голове rent free.",
+        "term": "Rent free"
+      },
+      "ja": {
+        "definition": "頭から離れず、ずっと考えてしまう物事を指す表現。「頭の中に家賃も払わず住み着いている」が直訳。",
+        "example": "あのミーム、一週間ずっと頭にrent free(住み着いて離れない)だよ。",
+        "term": "Rent free"
+      },
+      "ko": {
+        "definition": "머릿속에서 떠나지 않고 계속 생각나는 것을 뜻하는 비유적 표현이다.",
+        "example": "그 밈이 일주일 내내 머릿속을 떠나질 않아.",
+        "term": "Rent free"
+      },
+      "fr": {
+        "definition": "Quelque chose dont on n'arrive pas à se défaire ; ça « occupe l'esprit gratuitement », sans payer de loyer.",
+        "example": "Ce mème me trotte dans la tête rent free depuis une semaine.",
+        "term": "Rent free"
+      },
+      "es": {
+        "definition": "Algo en lo que no puedes dejar de pensar; 'vive rent free' (gratis) en tu cabeza. Equivale a 'no me lo quito de la cabeza'.",
+        "example": "Ese meme lleva viviendo rent free en mi cabeza toda la semana.",
+        "term": "Rent free"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-023",
+    "deck": "internet-slang",
+    "term": "Stan",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fandom",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An obsessive fan; to stan is to support intensely. From the Eminem song.",
+        "example": "I stan that band — seen them six times."
+      },
+      "ru": {
+        "definition": "Фанатеть, топить за кого-то по-серьёзному; от песни Эминема. Наше — «фанатею», «топлю за».",
+        "example": "Я stan эту группу — был на шести концертах.",
+        "term": "Стэнить"
+      },
+      "ja": {
+        "definition": "熱狂的なファン、または熱烈に応援すること。エミネムの曲が由来。日本語の「ガチ推し」に近い。",
+        "example": "あのバンドをstan(ガチ推し)してて、もう6回ライブ行ったよ。",
+        "term": "推し（Stan）"
+      },
+      "ko": {
+        "definition": "열성적인 팬, 또는 누군가를 열렬히 응원한다는 뜻으로, 우리말 '덕질하다'에 가깝다. 에미넴 노래에서 유래했다.",
+        "example": "난 그 밴드를 stan해. 공연을 여섯 번이나 봤어.",
+        "term": "스탠"
+      },
+      "fr": {
+        "definition": "Un fan obsessionnel ; « stanner » c'est soutenir avec ferveur. Vient de la chanson d'Eminem.",
+        "example": "Je stanne ce groupe, je les ai vus six fois.",
+        "term": "Stan"
+      },
+      "es": {
+        "definition": "Un fan obsesivo; 'stanear' es apoyar con devoción. Viene de la canción de Eminem.",
+        "example": "Soy stan de ese grupo: los he visto seis veces.",
+        "term": "Stan"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-024",
+    "deck": "internet-slang",
+    "term": "Simp",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "dating",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Someone who does too much to win someone's affection; often mocking.",
+        "example": "He bought her concert tickets after one chat — total simp."
+      },
+      "ru": {
+        "definition": "Тот, кто слишком унижается ради чужого внимания; часто с насмешкой. Наше — «подкаблучник», «бегает как собачка».",
+        "example": "Купил ей билеты после одной переписки — типичный simp.",
+        "term": "Симп"
+      },
+      "ja": {
+        "definition": "気を引きたい相手に過剰に尽くす人をからかう言葉。日本語の「貢いでる」「都合のいい人」に近い。",
+        "example": "一回話しただけでライブのチケット買ってあげたって、完全にsimp(貢ぎ野郎)だな。",
+        "term": "Simp"
+      },
+      "ko": {
+        "definition": "호감을 사려고 지나치게 잘해주는 사람을 가리키며, 흔히 놀리는 뉘앙스로 쓴다.",
+        "example": "한 번 대화하고 콘서트 티켓을 사줬다고? 완전 simp이네.",
+        "term": "Simp"
+      },
+      "fr": {
+        "definition": "Quelqu'un qui en fait trop pour gagner l'affection d'une personne ; souvent moqueur, proche de « pigeon » ou « bouffon ».",
+        "example": "Il lui a payé des places de concert après une seule conversation, vrai simp.",
+        "term": "Simp"
+      },
+      "es": {
+        "definition": "Alguien que hace demasiado por ganarse el cariño de otra persona; suele usarse con burla. Equivale a 'baboso' o 'pagafantas'.",
+        "example": "Le compró entradas al concierto tras una sola charla: menudo simp.",
+        "term": "Simp"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-025",
+    "deck": "internet-slang",
+    "term": "Yeet",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "action"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To throw something forcefully; also a general exclamation of excitement.",
+        "example": "He just yeeted the ball across the field."
+      },
+      "ru": {
+        "definition": "Швырнуть со всей дури; ещё и просто возглас восторга. Наше — «зашвырнуть».",
+        "example": "Он yeeted мяч через всё поле.",
+        "term": "Yeet"
+      },
+      "ja": {
+        "definition": "何かを勢いよく投げること。また興奮を表す掛け声としても使う。",
+        "example": "あいつグラウンドの向こうまでボールをyeet(ぶん投げ)したよ。",
+        "term": "Yeet"
+      },
+      "ko": {
+        "definition": "무언가를 힘껏 던진다는 뜻이자, 신날 때 내지르는 감탄사로도 쓰인다.",
+        "example": "걔가 공을 운동장 저편으로 yeet해버렸어.",
+        "term": "Yeet"
+      },
+      "fr": {
+        "definition": "Lancer quelque chose avec force ; aussi une exclamation d'excitation. Proche de « balancer ».",
+        "example": "Il a yeeté le ballon à l'autre bout du terrain.",
+        "term": "Yeet"
+      },
+      "es": {
+        "definition": "Lanzar algo con fuerza; también una exclamación de emoción. Equivale a 'lanzar de un saque'.",
+        "example": "Lanzó la pelota al otro lado del campo de un yeet.",
+        "term": "Yeet"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-026",
+    "deck": "internet-slang",
+    "term": "Drip",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fashion",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Stylish, fashionable clothing or accessories.",
+        "example": "Those new sneakers are pure drip."
+      },
+      "ru": {
+        "definition": "Стильные шмотки, прикид с лоском. Наше — «прикид», «лук на максималках».",
+        "example": "Эти новые кроссы — чистый drip.",
+        "term": "Дрип"
+      },
+      "ja": {
+        "definition": "おしゃれでイケてる服やアクセサリーを指すスラング。日本語の「着こなしがヤバい」に近い。",
+        "example": "あの新しいスニーカー、まさにdrip(イケてる)だね。",
+        "term": "Drip"
+      },
+      "ko": {
+        "definition": "세련되고 멋진 옷차림이나 패션을 뜻하는 비격식 표현으로, 우리말 '간지'에 가깝다.",
+        "example": "저 새 운동화 완전 drip이다.",
+        "term": "Drip"
+      },
+      "fr": {
+        "definition": "Des vêtements ou accessoires stylés et à la mode ; le « style » ou le « swag ».",
+        "example": "Ces nouvelles baskets, c'est du pur drip.",
+        "term": "Drip"
+      },
+      "es": {
+        "definition": "Ropa o accesorios con mucho estilo y a la moda. Equivale a 'tener estilazo' o 'ir de drip'.",
+        "example": "Esas zapatillas nuevas son puro drip.",
+        "term": "Drip"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-027",
+    "deck": "internet-slang",
+    "term": "GOAT",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "sports",
+      "praise"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Greatest Of All Time; the best ever in some field.",
+        "example": "Argue all you want, he's the GOAT."
+      },
+      "ru": {
+        "definition": "Greatest Of All Time — лучший за всю историю в чём-либо. Наше — «лучший всех времён».",
+        "example": "Спорь сколько хочешь, он GOAT.",
+        "term": "GOAT"
+      },
+      "ja": {
+        "definition": "Greatest Of All Timeの略で、史上最高の存在を指す。日本語の「史上最強」に近い。",
+        "example": "なんと言おうと、彼はGOAT(史上最高)だよ。",
+        "term": "GOAT"
+      },
+      "ko": {
+        "definition": "어떤 분야에서 역대 최고를 뜻하는 약자로, 'Greatest Of All Time'에서 왔다.",
+        "example": "뭐라고 해도 걔가 GOAT야.",
+        "term": "GOAT"
+      },
+      "fr": {
+        "definition": "« Greatest Of All Time », le meilleur de tous les temps dans un domaine.",
+        "example": "Tu peux dire ce que tu veux, c'est le GOAT.",
+        "term": "GOAT"
+      },
+      "es": {
+        "definition": "Siglas de 'Greatest Of All Time'; el mejor de la historia en algo. Equivale a 'el mejor de todos los tiempos'.",
+        "example": "Discútelo todo lo que quieras, es el GOAT.",
+        "term": "GOAT"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-028",
+    "deck": "internet-slang",
+    "term": "Sending me",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "humor",
+      "reaction"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Making you laugh uncontrollably; 'I'm sending'.",
+        "example": "That caption is sending me, I can't breathe."
+      },
+      "ru": {
+        "definition": "«Я умираю», ржу до слёз, не могу. Наше — «я рыдаю», «валяюсь».",
+        "example": "Эта подпись sending me, дышать не могу.",
+        "term": "Sending me"
+      },
+      "ja": {
+        "definition": "あまりに面白くて笑い転げてしまう、という意味。「I'm sending」とも言う。",
+        "example": "あのキャプション、sending me(ツボすぎて)笑いが止まらない。",
+        "term": "Sending me"
+      },
+      "ko": {
+        "definition": "너무 웃겨서 참을 수 없게 만든다는 뜻으로, 우리말 '빵 터진다'에 가깝다.",
+        "example": "저 캡션 진짜 sending me야, 숨도 못 쉬겠어.",
+        "term": "Sending me"
+      },
+      "fr": {
+        "definition": "Quelque chose qui fait rire aux éclats, à en perdre haleine ; « ça me tue » ou « je suis mort ».",
+        "example": "Cette légende me sending, je n'arrive plus à respirer.",
+        "term": "Sending me"
+      },
+      "es": {
+        "definition": "Hacer que te rías sin control; 'I'm sending'. Equivale a 'me parto' o 'me muero de risa'.",
+        "example": "Ese pie de foto me tiene sending, no puedo respirar.",
+        "term": "Sending me"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-029",
+    "deck": "internet-slang",
+    "term": "Ate",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "praise",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Performed exceptionally well; nailed it. Often 'ate and left no crumbs'.",
+        "example": "She ate that performance — flawless."
+      },
+      "ru": {
+        "definition": "Выступил блестяще, разнёс; часто «ate and left no crumbs». Наше — «разнесла», «отжёг».",
+        "example": "Она ate это выступление — без единого огреха.",
+        "term": "Ate"
+      },
+      "ja": {
+        "definition": "完璧にやり遂げた、見事に決めたという賛辞。「ate and left no crumbs(完璧すぎて欠点なし)」とも。",
+        "example": "彼女、あのパフォーマンスをate(完璧に決めた)、非の打ち所なし。",
+        "term": "Ate"
+      },
+      "ko": {
+        "definition": "엄청나게 잘해냈다, 완벽하게 소화했다는 뜻의 칭찬 표현이다. 흔히 'ate and left no crumbs'로 쓴다.",
+        "example": "걔 그 무대 완전 씹어먹었어.",
+        "term": "Ate"
+      },
+      "fr": {
+        "definition": "Avoir assuré de façon exceptionnelle, « tout déchiré ». Souvent suivi de « and left no crumbs ».",
+        "example": "Elle a tout déchiré sur scène : elle a ate.",
+        "term": "Ate"
+      },
+      "es": {
+        "definition": "Hacer algo de forma sobresaliente; bordarlo. A menudo 'ate and left no crumbs' (lo bordó sin dejar rastro).",
+        "example": "Se comió esa actuación: impecable.",
+        "term": "Ate"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-030",
+    "deck": "internet-slang",
+    "term": "Slay",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "praise",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To do something impressively well or look amazing.",
+        "example": "You slayed that presentation."
+      },
+      "ru": {
+        "definition": "Сделать что-то блестяще или выглядеть сногсшибательно. Наше — «зажгла», «разнесла».",
+        "example": "Ты slayed эту презентацию.",
+        "term": "Slay"
+      },
+      "ja": {
+        "definition": "見事にやってのける、または最高に決まっている様子。日本語の「最高」「キマってる」に近い。",
+        "example": "あのプレゼン、slay(見事)だったよ。",
+        "term": "Slay"
+      },
+      "ko": {
+        "definition": "무언가를 멋지게 해내거나 외모가 끝내준다는 뜻의 칭찬 표현이다.",
+        "example": "너 그 발표 완전 slay했어.",
+        "term": "Slay"
+      },
+      "fr": {
+        "definition": "Faire quelque chose de façon impressionnante ou être superbe ; « tout déchirer » ou « assurer ».",
+        "example": "Tu as slay ta présentation.",
+        "term": "Slay"
+      },
+      "es": {
+        "definition": "Hacer algo de forma impresionante o lucir espectacular. Equivale a 'arrasar' o 'partirla'.",
+        "example": "Te saliste con esa presentación, la bordaste.",
+        "term": "Slay"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-031",
+    "deck": "internet-slang",
+    "term": "Delulu",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "humor"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Playfully delusional; holding unrealistic hopes or beliefs.",
+        "example": "Thinking he'll text back? You're being delulu."
+      },
+      "ru": {
+        "definition": "Шутливо «бредишь», тешишь себя нереальными надеждами. Наше — «в иллюзиях», «мечтай-мечтай».",
+        "example": "Ждёшь, что он напишет? Ты delulu.",
+        "term": "Delulu"
+      },
+      "ja": {
+        "definition": "非現実的な期待を抱く「おめでたい妄想」を、ふざけて言う言葉。delusionalの崩し。",
+        "example": "彼から返信来ると思ってるの?delulu(妄想)すぎでしょ。",
+        "term": "Delulu"
+      },
+      "ko": {
+        "definition": "비현실적인 희망이나 망상에 빠진 상태를 장난스럽게 이르는 말로, delusional을 귀엽게 변형한 것이다.",
+        "example": "걔가 답장할 거라고? 너 지금 delulu야.",
+        "term": "Delulu"
+      },
+      "fr": {
+        "definition": "Délirant de façon assumée et amusante ; nourrir des espoirs irréalistes. Proche de « à fond dans son délire ».",
+        "example": "Tu crois qu'il va répondre ? Tu es en mode delulu.",
+        "term": "Delulu"
+      },
+      "es": {
+        "definition": "Delirante en plan gracioso; tener esperanzas o creencias poco realistas. Equivale a 'estar en las nubes' o 'iluso'.",
+        "example": "¿Crees que te va a contestar? Estás delulu.",
+        "term": "Delulu"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-032",
+    "deck": "internet-slang",
+    "term": "Gyat",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "genz",
+      "slang"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An exclamation of surprise, often at someone's curvy figure; from 'goddamn'.",
+        "example": "He saw the photo and just went 'gyat'."
+      },
+      "ru": {
+        "definition": "Возглас удивления, часто при виде пышных форм; от «goddamn». Грубовато.",
+        "example": "Увидел фото и выдал «gyat».",
+        "term": "Gyat"
+      },
+      "ja": {
+        "definition": "驚きを表す感嘆詞で、特に色っぽい体型に対して使う。「goddamn」が崩れた形。",
+        "example": "あいつ写真見て思わず「gyat」って叫んでた。",
+        "term": "Gyat"
+      },
+      "ko": {
+        "definition": "주로 매력적인 몸매를 보고 놀랐을 때 내지르는 감탄사로, 'goddamn'에서 왔다.",
+        "example": "걔가 사진 보더니 그냥 'gyat' 하더라.",
+        "term": "Gyat"
+      },
+      "fr": {
+        "definition": "Une exclamation de surprise, souvent devant une silhouette pulpeuse ; déformation de « goddamn ».",
+        "example": "Il a vu la photo et a juste lâché un « gyat ».",
+        "term": "Gyat"
+      },
+      "es": {
+        "definition": "Exclamación de sorpresa, a menudo ante un cuerpo con curvas; viene de 'goddamn'. Registro muy informal.",
+        "example": "Vio la foto y soltó un 'gyat'.",
+        "term": "Gyat"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-033",
+    "deck": "internet-slang",
+    "term": "Sigma",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A self-reliant lone-wolf male archetype; often used ironically.",
+        "example": "Eating lunch alone again — true sigma move."
+      },
+      "ru": {
+        "definition": "Архетип самодостаточного волка-одиночки; часто иронично. Наше — «волк-одиночка».",
+        "example": "Опять обедает один — настоящий sigma move.",
+        "term": "Сигма"
+      },
+      "ja": {
+        "definition": "群れない一匹狼タイプの男性像を指す。多くは皮肉やネタとして使われる。",
+        "example": "また一人で昼飯か、まさにsigma(一匹狼)だな。",
+        "term": "シグマ"
+      },
+      "ko": {
+        "definition": "무리에 의존하지 않는 독립적인 외톨이 남성상을 뜻하며, 주로 비꼬듯 쓴다.",
+        "example": "또 혼자 점심 먹네. 완전 sigma 무브야.",
+        "term": "시그마"
+      },
+      "fr": {
+        "definition": "L'archétype du mâle solitaire et autonome, « loup solitaire » ; souvent employé avec ironie.",
+        "example": "Encore en train de déjeuner seul, vrai move de sigma.",
+        "term": "Sigma"
+      },
+      "es": {
+        "definition": "Un arquetipo de hombre autosuficiente y lobo solitario; suele usarse con ironía.",
+        "example": "Comiendo solo otra vez: una jugada sigma de manual.",
+        "term": "Sigma"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-034",
+    "deck": "internet-slang",
+    "term": "Doomscrolling",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "behavior"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Compulsively scrolling through bad or distressing news online.",
+        "example": "I was doomscrolling until 2am and felt awful."
+      },
+      "ru": {
+        "definition": "Залипать в ленте на плохих и тревожных новостях. Наше — «листать всякую жесть».",
+        "example": "Доскроллил до двух ночи и чувствовал себя паршиво.",
+        "term": "Думскроллинг"
+      },
+      "ja": {
+        "definition": "暗いニュースや嫌な情報をやめられずダラダラ見続けてしまうこと。",
+        "example": "夜中の2時までdoomscrolling(暗いニュースを見続けて)して気分最悪だった。",
+        "term": "ドゥームスクロール"
+      },
+      "ko": {
+        "definition": "우울하고 부정적인 뉴스를 강박적으로 계속 스크롤하며 보는 행동을 뜻한다.",
+        "example": "새벽 2시까지 doomscrolling하다가 기분만 더 나빠졌어.",
+        "term": "둠스크롤링"
+      },
+      "fr": {
+        "definition": "Faire défiler compulsivement de mauvaises nouvelles ou du contenu anxiogène en ligne.",
+        "example": "J'ai fait du doomscrolling jusqu'à 2 h et je me sentais horriblement mal.",
+        "term": "Doomscrolling"
+      },
+      "es": {
+        "definition": "Desplazarse compulsivamente por noticias malas o angustiantes en internet. Equivale a 'tragarse malas noticias sin parar'.",
+        "example": "Estuve doomscrolling hasta las 2 de la madrugada y me sentí fatal.",
+        "term": "Doomscrolling"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-035",
+    "deck": "internet-slang",
+    "term": "FOMO",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "emotion"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Fear Of Missing Out — anxiety that others are having fun without you.",
+        "example": "Seeing the party photos gave me serious FOMO."
+      },
+      "ru": {
+        "definition": "Fear Of Missing Out — тревога, что все веселятся без тебя. Прижилось и в рус.: «фомо».",
+        "example": "Увидел фотки с вечеринки — словил знатный FOMO.",
+        "term": "ФОМО"
+      },
+      "ja": {
+        "definition": "Fear Of Missing Outの略で、自分だけ楽しい場に取り残される不安を指す。「取り残され不安」に近い。",
+        "example": "パーティーの写真見たら、すごいFOMO(取り残された感)に襲われた。",
+        "term": "FOMO"
+      },
+      "ko": {
+        "definition": "나만 빼고 다들 재밌게 지내는 것 같아 느끼는 불안을 뜻하는 약자로, 'Fear Of Missing Out'에서 왔다.",
+        "example": "파티 사진들을 보니까 심한 FOMO가 왔어.",
+        "term": "FOMO"
+      },
+      "fr": {
+        "definition": "« Fear Of Missing Out » : l'angoisse que les autres s'amusent sans soi, la « peur de rater quelque chose ».",
+        "example": "Voir les photos de la fête m'a donné une sacrée FOMO.",
+        "term": "FOMO"
+      },
+      "es": {
+        "definition": "Siglas de 'Fear Of Missing Out': la ansiedad de creer que los demás se divierten sin ti.",
+        "example": "Ver las fotos de la fiesta me dio un FOMO terrible.",
+        "term": "FOMO"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-036",
+    "deck": "internet-slang",
+    "term": "Vibe check",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An informal assessment of someone's mood or a situation's energy.",
+        "example": "Quick vibe check before we walk in — everyone good?"
+      },
+      "ru": {
+        "definition": "Быстро прикинуть настроение человека или атмосферу ситуации. Наше — «проверить вайб».",
+        "example": "Vibe check перед входом — все норм?",
+        "term": "Vibe check"
+      },
+      "ja": {
+        "definition": "その場の雰囲気や人の機嫌をさっと確認すること。日本語の「空気の確認」に近い。",
+        "example": "入る前にちょっとvibe check(空気の確認)、みんな大丈夫?",
+        "term": "Vibe check"
+      },
+      "ko": {
+        "definition": "누군가의 기분이나 상황의 분위기를 가볍게 살펴보는 것을 뜻한다.",
+        "example": "들어가기 전에 quick vibe check, 다들 괜찮아?",
+        "term": "Vibe check"
+      },
+      "fr": {
+        "definition": "Une évaluation informelle de l'humeur de quelqu'un ou de l'ambiance d'une situation ; « prendre la température ».",
+        "example": "Petit vibe check avant d'entrer : tout le monde est partant ?",
+        "term": "Vibe check"
+      },
+      "es": {
+        "definition": "Una evaluación informal del estado de ánimo de alguien o de la energía de una situación.",
+        "example": "Un vibe check rápido antes de entrar: ¿todos bien?",
+        "term": "Vibe check"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-037",
+    "deck": "internet-slang",
+    "term": "Receipts",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "social",
+      "proof"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Proof, such as screenshots, backing up a claim or accusation.",
+        "example": "She said it never happened, but I've got receipts."
+      },
+      "ru": {
+        "definition": "Доказательства — скрины и т.п., подтверждающие слова или обвинение. Наше — «пруфы».",
+        "example": "Она говорит, ничего не было, а у меня receipts.",
+        "term": "Receipts/Пруфы"
+      },
+      "ja": {
+        "definition": "主張や告発を裏付ける証拠、特にスクショなどを指す。日本語の「証拠(スクショ)」に近い。",
+        "example": "彼女はそんなことなかったって言うけど、receipts(証拠)あるよ。",
+        "term": "Receipts"
+      },
+      "ko": {
+        "definition": "주장이나 비난을 뒷받침하는 스크린샷 같은 증거를 뜻하며, 우리말 '증거', '캡처'에 가깝다.",
+        "example": "걔는 그런 적 없다고 하는데, 나한테 receipts 있어.",
+        "term": "Receipts"
+      },
+      "fr": {
+        "definition": "Des preuves, comme des captures d'écran, à l'appui d'une affirmation ou d'une accusation.",
+        "example": "Elle dit que ça n'est jamais arrivé, mais j'ai les receipts.",
+        "term": "Receipts"
+      },
+      "es": {
+        "definition": "Pruebas, como capturas de pantalla, que respaldan una afirmación o acusación. Equivale a 'tener pruebas'.",
+        "example": "Dice que nunca pasó, pero yo tengo receipts.",
+        "term": "Receipts"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-038",
+    "deck": "internet-slang",
+    "term": "Tea",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "gossip",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Juicy gossip or the truth about something. 'Spill the tea'.",
+        "example": "So what's the tea on those two?"
+      },
+      "ru": {
+        "definition": "Сочные сплетни или правда о чём-то. «Spill the tea» — «выкладывай». Наше — «гони сплетни».",
+        "example": "Ну и какой там tea про этих двоих?",
+        "term": "Чай (сплетни)"
+      },
+      "ja": {
+        "definition": "おいしいゴシップや内輪の真相を指すスラング。「spill the tea(暴露して)」の形でよく使う。",
+        "example": "で、あの二人のtea(ゴシップ)って何なの?",
+        "term": "Tea"
+      },
+      "ko": {
+        "definition": "흥미진진한 가십이나 어떤 일의 진실을 뜻한다. 'spill the tea'는 '비밀을 털어놓다'는 뜻이다.",
+        "example": "그래서 저 둘 사이 무슨 tea가 있는 거야?",
+        "term": "Tea"
+      },
+      "fr": {
+        "definition": "Des ragots croustillants ou la vérité sur quelque chose ; « balancer les ragots » se dit « spill the tea ».",
+        "example": "Alors, c'est quoi le tea sur ces deux-là ?",
+        "term": "Tea"
+      },
+      "es": {
+        "definition": "Chismes jugosos o la verdad sobre algo. 'Spill the tea' es soltar el chisme. Equivale a 'el cotilleo'.",
+        "example": "¿Y qué hay del tea de esos dos?",
+        "term": "Tea"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-039",
+    "deck": "internet-slang",
+    "term": "Shook",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "reaction",
+      "emotion"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Shocked or deeply surprised.",
+        "example": "That plot twist left me shook."
+      },
+      "ru": {
+        "definition": "В шоке, ошарашен. Наше — «в ауте», «выпал».",
+        "example": "Этот сюжетный поворот меня shook.",
+        "term": "Shook"
+      },
+      "ja": {
+        "definition": "ショックを受けてかなり驚いている様子。日本語の「衝撃を受けた」に近い。",
+        "example": "あの展開にはshook(衝撃)だったわ。",
+        "term": "Shook"
+      },
+      "ko": {
+        "definition": "충격을 받거나 크게 놀란 상태를 뜻하는 비격식 표현이다.",
+        "example": "그 반전 때문에 완전 충격받았어 / 멘붕왔어.",
+        "term": "Shook"
+      },
+      "fr": {
+        "definition": "Choqué ou profondément surpris ; « scotché » ou « sur le cul ».",
+        "example": "Ce retournement de situation m'a laissé shook.",
+        "term": "Shook"
+      },
+      "es": {
+        "definition": "Conmocionado o profundamente sorprendido. Equivale a 'flipando' o 'en shock'.",
+        "example": "Ese giro de la trama me dejó shook.",
+        "term": "Shook"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-040",
+    "deck": "internet-slang",
+    "term": "Woke",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "social",
+      "politics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Alert to social injustice; now often used pejoratively too.",
+        "example": "The brand tried to look woke with that ad."
+      },
+      "ru": {
+        "definition": "Чуткий к соц. несправедливости; сейчас часто и с насмешкой/негативом.",
+        "example": "Бренд попытался выглядеть woke этой рекламой.",
+        "term": "Woke"
+      },
+      "ja": {
+        "definition": "社会的不公正に敏感であること。最近は皮肉や批判的な意味でも使われる。",
+        "example": "そのブランド、あの広告でwoke(意識高い)アピールしようとしてたね。",
+        "term": "Woke"
+      },
+      "ko": {
+        "definition": "사회 부조리에 깨어 있다는 뜻이지만, 요즘은 비꼬는 의미로도 자주 쓴다.",
+        "example": "그 브랜드는 그 광고로 woke한 척하려 했어.",
+        "term": "Woke"
+      },
+      "fr": {
+        "definition": "Éveillé aux injustices sociales ; désormais souvent employé de façon péjorative.",
+        "example": "La marque a essayé de se donner un air woke avec cette pub.",
+        "term": "Woke"
+      },
+      "es": {
+        "definition": "Consciente de la injusticia social; ahora también se usa de forma despectiva. Equivale a 'concienciado' o, en tono crítico, 'progre'.",
+        "example": "La marca intentó parecer woke con ese anuncio.",
+        "term": "Woke"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-041",
+    "deck": "internet-slang",
+    "term": "Mood",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "reaction",
+      "relatable"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Something highly relatable to your current feeling.",
+        "example": "A cat refusing to move? Honestly, mood."
+      },
+      "ru": {
+        "definition": "То, что прям про тебя, попадает в текущее состояние. Наше — «это про меня», «мое настроение».",
+        "example": "Кот, который отказывается двигаться? Это mood.",
+        "term": "Муд"
+      },
+      "ja": {
+        "definition": "今の自分の気持ちにすごく共感できる物事を指す一言。日本語の「それな」「わかる」に近い。",
+        "example": "動くのを拒否する猫?正直、mood(それな)。",
+        "term": "Mood"
+      },
+      "ko": {
+        "definition": "지금 내 기분과 너무 똑같아 공감된다는 뜻으로, 우리말 '내 얘기네'에 가깝다.",
+        "example": "안 움직이겠다고 버티는 고양이? 솔직히 mood다.",
+        "term": "Mood"
+      },
+      "fr": {
+        "definition": "Quelque chose dans lequel on se reconnaît parfaitement sur le moment ; « tout moi » ou « ça me résume ».",
+        "example": "Un chat qui refuse de bouger ? Franchement, mood.",
+        "term": "Mood"
+      },
+      "es": {
+        "definition": "Algo con lo que te identificas mucho según cómo te sientes. Equivale a 'me siento identificado' o 'ese soy yo'.",
+        "example": "¿Un gato que se niega a moverse? Sinceramente, mood.",
+        "term": "Mood"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-042",
+    "deck": "internet-slang",
+    "term": "Karen",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "meme",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A stereotype of an entitled, demanding woman who 'wants the manager'.",
+        "example": "She went full Karen over a cold latte."
+      },
+      "ru": {
+        "definition": "Стереотип скандальной тётки, которая требует «позвать менеджера».",
+        "example": "Устроила полный Karen из-за холодного латте.",
+        "term": "Karen"
+      },
+      "ja": {
+        "definition": "店員に横柄で「責任者を出して」と言うような、わがままな中年女性のステレオタイプ。",
+        "example": "彼女、ぬるいラテにブチ切れて完全にKaren(クレーマーおばさん)化してた。",
+        "term": "Karen"
+      },
+      "ko": {
+        "definition": "별것 아닌 일로 '매니저 불러와' 하며 진상 부리는 특권의식 강한 여성을 가리키는 밈성 표현이다.",
+        "example": "걔는 라떼가 식었다고 완전 Karen처럼 굴었어.",
+        "term": "Karen"
+      },
+      "fr": {
+        "definition": "Le stéréotype de la femme arrogante et exigeante qui « veut parler au responsable ».",
+        "example": "Elle a fait sa Karen à fond pour un latte tiède.",
+        "term": "Karen"
+      },
+      "es": {
+        "definition": "Estereotipo de mujer prepotente y exigente que 'quiere hablar con el encargado'.",
+        "example": "Montó un numerito de Karen por un café frío.",
+        "term": "Karen"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-043",
+    "deck": "internet-slang",
+    "term": "Ick",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "dating",
+      "reaction"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sudden feeling of disgust that kills attraction to someone.",
+        "example": "He chewed with his mouth open and I caught the ick."
+      },
+      "ru": {
+        "definition": "Внезапное отвращение, убивающее симпатию к человеку. Наше — «всё, разонравился».",
+        "example": "Чавкал с открытым ртом — и я словила ick.",
+        "term": "Ick"
+      },
+      "ja": {
+        "definition": "相手への恋愛感情が一気に冷める、ふとした嫌悪感を指す。日本語の「冷める」「萎える」に近い。",
+        "example": "彼がくちゃくちゃ音立てて食べてて、一気にick(萎えた)。",
+        "term": "Ick"
+      },
+      "ko": {
+        "definition": "상대에게 갑자기 정이 뚝 떨어지게 만드는 혐오감을 뜻하며, 우리말 '정 떨어진다'에 가깝다.",
+        "example": "걔가 입 벌리고 쩝쩝대며 먹는 거 보고 ick이 왔어.",
+        "term": "Ick"
+      },
+      "fr": {
+        "definition": "Un dégoût soudain qui tue net l'attirance qu'on avait pour quelqu'un.",
+        "example": "Il mâchait la bouche ouverte et j'ai chopé l'ick.",
+        "term": "Ick"
+      },
+      "es": {
+        "definition": "Una sensación repentina de asco que mata la atracción hacia alguien. Equivale a 'darte repelús'.",
+        "example": "Masticaba con la boca abierta y me dio el ick.",
+        "term": "Ick"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-044",
+    "deck": "internet-slang",
+    "term": "Gaslight",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "psychology",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To manipulate someone into doubting their own perception or memory.",
+        "example": "Don't gaslight me — I know what you said."
+      },
+      "ru": {
+        "definition": "Манипулировать так, чтобы человек сомневался в своём восприятии и памяти. Наше — «газлайтить».",
+        "example": "Не газлайть меня — я помню, что ты сказал.",
+        "term": "Газлайтинг"
+      },
+      "ja": {
+        "definition": "相手に自分の認識や記憶を疑わせるよう心理的に操作すること。日本語でも「ガスライティング」と言う。",
+        "example": "私をgaslight(言いくるめて記憶を疑わせる)しないで、言ったこと覚えてるから。",
+        "term": "ガスライティング"
+      },
+      "ko": {
+        "definition": "상대가 자기 기억이나 판단을 의심하게 만드는 심리적 조작을 뜻하며, 우리말 '가스라이팅'으로 자리 잡았다.",
+        "example": "날 gaslight하지 마. 네가 뭐라고 했는지 다 알아.",
+        "term": "가스라이팅"
+      },
+      "fr": {
+        "definition": "Manipuler quelqu'un pour le faire douter de sa propre perception ou mémoire ; le verbe « gaslighter » est passé en français.",
+        "example": "Ne me gaslighte pas : je sais ce que tu as dit.",
+        "term": "Gaslighting"
+      },
+      "es": {
+        "definition": "Manipular a alguien para que dude de su propia percepción o memoria. Equivale a 'hacer luz de gas'.",
+        "example": "No me hagas gaslight: sé muy bien lo que dijiste.",
+        "term": "Gaslighting"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-045",
+    "deck": "internet-slang",
+    "term": "Pick me",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Someone seeking approval by claiming to be unlike their peers.",
+        "example": "'I'm not like other girls' is such a pick me line."
+      },
+      "ru": {
+        "definition": "Та, что напрашивается на одобрение через «я не такая, как все». Наше — «ятакая», «выпендрёжница».",
+        "example": "«Я не как другие девочки» — типичная pick me фраза.",
+        "term": "Pick me"
+      },
+      "ja": {
+        "definition": "「他の子とは違う」とアピールして異性の気を引こうとする人を揶揄する言葉。",
+        "example": "「私は他の女子と違うの」なんて、典型的なpick me(かまってちゃん)発言だよ。",
+        "term": "Pick me"
+      },
+      "ko": {
+        "definition": "'난 다른 애들이랑 달라'라며 인정받으려 애쓰는 사람을 비꼬는 표현이다.",
+        "example": "'난 다른 여자애들이랑 달라'는 진짜 pick me 멘트야.",
+        "term": "Pick me"
+      },
+      "fr": {
+        "definition": "Quelqu'un qui cherche l'approbation en prétendant ne pas être comme ses semblables ; « choisis-moi ».",
+        "example": "« Je ne suis pas comme les autres filles », c'est une réplique de pick me typique.",
+        "term": "Pick me"
+      },
+      "es": {
+        "definition": "Alguien que busca aprobación afirmando ser distinto al resto de su grupo. Tono crítico.",
+        "example": "'No soy como las demás chicas' es una frase muy pick me.",
+        "term": "Pick me"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-046",
+    "deck": "internet-slang",
+    "term": "Glaze",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "genz",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To excessively praise or hype someone up.",
+        "example": "Stop glazing him, he missed every shot."
+      },
+      "ru": {
+        "definition": "Чрезмерно нахваливать, лизать, надувать кому-то эго. Наше — «лизать», «облизывать».",
+        "example": "Хватит его glazing, он мимо всех бросков пробил.",
+        "term": "Glaze"
+      },
+      "ja": {
+        "definition": "誰かを過剰に持ち上げてベタ褒めすること。日本語の「ヨイショ」「ゴマすり」に近い。",
+        "example": "あいつシュート全部外したのに、glaze(ヨイショ)するのやめなよ。",
+        "term": "Glaze"
+      },
+      "ko": {
+        "definition": "누군가를 과하게 띄워주고 추켜세운다.",
+        "example": "걔 슛 다 빗나갔는데 그만 좀 띄워줘.",
+        "term": "Glaze"
+      },
+      "fr": {
+        "definition": "Encenser ou survaloriser quelqu'un de façon excessive ; « cirer les pompes » ou « faire de la lèche ».",
+        "example": "Arrête de le glazer, il a raté tous ses tirs.",
+        "term": "Glaze"
+      },
+      "es": {
+        "definition": "Adular o ensalzar a alguien de forma exagerada. Equivale a 'hacer la pelota' o 'dorar la píldora'.",
+        "example": "Deja de hacerle glaze, falló todos los tiros.",
+        "term": "Glaze"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-047",
+    "deck": "internet-slang",
+    "term": "Mogged",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "genz",
+      "appearance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Outshone or dominated, especially in looks or stature.",
+        "example": "Standing next to him, I got completely mogged."
+      },
+      "ru": {
+        "definition": "Затмить, задавить, особенно по внешности или росту. Наше — «затмить», «задоминировать».",
+        "example": "Рядом с ним меня просто mogged.",
+        "term": "Mogged"
+      },
+      "ja": {
+        "definition": "特に見た目や体格で完全に圧倒され、見劣りすること。",
+        "example": "あいつの隣に立ったら、完全にmogged(見劣り)したわ。",
+        "term": "Mogged"
+      },
+      "ko": {
+        "definition": "특히 외모나 체격에서 상대를 압도해 초라하게 만든다는 뜻이다.",
+        "example": "걔 옆에 서니까 내가 완전히 mogged당했어.",
+        "term": "Mogged"
+      },
+      "fr": {
+        "definition": "Être éclipsé ou dominé, surtout sur le plan du physique ou de la stature.",
+        "example": "À côté de lui, je me suis fait complètement mogged.",
+        "term": "Mogged"
+      },
+      "es": {
+        "definition": "Eclipsado o dominado, sobre todo en aspecto físico o estatura. Equivale a 'dejar a la sombra'.",
+        "example": "A su lado me dejó mogged por completo.",
+        "term": "Mogged"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-048",
+    "deck": "internet-slang",
+    "term": "Goated",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "praise",
+      "gaming"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Being the greatest; the verb form of GOAT.",
+        "example": "That update is goated, no notes."
+      },
+      "ru": {
+        "definition": "Быть лучшим из лучших; глагольная форма GOAT. Наше — «топчик», «имба».",
+        "example": "Этот апдейт goated, без вопросов.",
+        "term": "Goated"
+      },
+      "ja": {
+        "definition": "最高であること。GOATの動詞・形容詞形。日本語の「神」に近い。",
+        "example": "あのアップデートはgoated(神)、文句なし。",
+        "term": "Goated"
+      },
+      "ko": {
+        "definition": "최고라는 뜻으로, GOAT의 동사 형태다.",
+        "example": "이번 업데이트 완전 goated다, 흠잡을 데 없어.",
+        "term": "Goated"
+      },
+      "fr": {
+        "definition": "Être le meilleur ; la forme verbale de GOAT, « légendaire ».",
+        "example": "Cette mise à jour est goated, rien à redire.",
+        "term": "Goated"
+      },
+      "es": {
+        "definition": "Ser el mejor; forma verbal de GOAT. Equivale a 'es lo más' o 'es de los mejores'.",
+        "example": "Esa actualización está goated, sin peros.",
+        "term": "Goated"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-049",
+    "deck": "internet-slang",
+    "term": "Cheugy",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "fashion",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Out of date or trying too hard, especially millennial trends.",
+        "example": "Live, laugh, love signs are so cheugy."
+      },
+      "ru": {
+        "definition": "Устаревшее или старающееся казаться модным, особенно тренды миллениалов. Наше — «олдскульно-кринжово».",
+        "example": "Таблички «Live, laugh, love» — это так cheugy.",
+        "term": "Cheugy"
+      },
+      "ja": {
+        "definition": "時代遅れで頑張りすぎ、特にミレニアル世代っぽくダサい様子を指す。",
+        "example": "「Live, Laugh, Love」の看板とか、めっちゃcheugy(時代遅れでダサい)。",
+        "term": "Cheugy"
+      },
+      "ko": {
+        "definition": "특히 밀레니얼 세대 유행처럼 한물갔거나 촌스럽게 애쓰는 느낌을 뜻한다.",
+        "example": "'Live, laugh, love' 액자는 진짜 cheugy해.",
+        "term": "Cheugy"
+      },
+      "fr": {
+        "definition": "Démodé ou qui en fait trop, surtout les tendances de la génération millénaire ; « ringard ».",
+        "example": "Les pancartes « Live, Laugh, Love », c'est tellement cheugy.",
+        "term": "Cheugy"
+      },
+      "es": {
+        "definition": "Pasado de moda o que se esfuerza demasiado, sobre todo tendencias 'millennial'. Equivale a 'rancio' o 'casposo'.",
+        "example": "Los carteles de 'vive, ríe, ama' son muy cheugy.",
+        "term": "Cheugy"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-050",
+    "deck": "internet-slang",
+    "term": "Bop",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "music",
+      "praise"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A genuinely catchy, enjoyable song.",
+        "example": "Say what you want, that's a total bop."
+      },
+      "ru": {
+        "definition": "Реально цепляющая, приятная песня. Наше — «банжер», «зашло».",
+        "example": "Говори что хочешь, но это bop.",
+        "term": "Bop"
+      },
+      "ja": {
+        "definition": "本当に耳に残る、聴いていて楽しい曲を指す。日本語の「神曲」に近い。",
+        "example": "何と言おうと、あれは完全にbop(良曲)だよ。",
+        "term": "Bop"
+      },
+      "ko": {
+        "definition": "정말 중독성 있고 듣기 좋은 노래를 뜻하는 비격식 표현이다.",
+        "example": "뭐라고 하든, 이건 완전 bop이야.",
+        "term": "Bop"
+      },
+      "fr": {
+        "definition": "Une chanson vraiment entraînante et plaisante ; un « tube » ou un « banger ».",
+        "example": "Tu peux dire ce que tu veux, c'est un vrai bop.",
+        "term": "Bop"
+      },
+      "es": {
+        "definition": "Una canción genuinamente pegadiza y disfrutable. Equivale a 'un temazo'.",
+        "example": "Digas lo que digas, eso es un bop total.",
+        "term": "Bop"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-051",
+    "deck": "internet-slang",
+    "term": "Snatched",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "beauty",
+      "praise"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Looking sharp, toned, or perfectly styled.",
+        "example": "Her makeup is snatched today."
+      },
+      "ru": {
+        "definition": "Выглядит остро, подтянуто, идеально уложено. Наше — «на стиле», «вылизано».",
+        "example": "Её макияж сегодня snatched.",
+        "term": "Snatched"
+      },
+      "ja": {
+        "definition": "見た目が抜群に決まっている、引き締まって完璧にスタイリングされた様子。",
+        "example": "今日の彼女のメイク、snatched(完璧に決まってる)。",
+        "term": "Snatched"
+      },
+      "ko": {
+        "definition": "날렵하고 탄탄하거나 완벽하게 꾸민 모습을 뜻하는 칭찬 표현이다.",
+        "example": "오늘 걔 메이크업 완전 snatched다.",
+        "term": "Snatched"
+      },
+      "fr": {
+        "definition": "Avoir l'air impeccable, sculpté ou parfaitement stylé ; « au top » ou « canon ».",
+        "example": "Son maquillage est snatched aujourd'hui.",
+        "term": "Snatched"
+      },
+      "es": {
+        "definition": "Lucir impecable, en forma o perfectamente arreglado. Equivale a 'estar espectacular'.",
+        "example": "Su maquillaje está snatched hoy.",
+        "term": "Snatched"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-052",
+    "deck": "internet-slang",
+    "term": "Drag",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "social",
+      "conflict"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To harshly criticize or mock someone publicly.",
+        "example": "The comments dragged him for that take."
+      },
+      "ru": {
+        "definition": "Жёстко публично критиковать или высмеивать. Наше — «разнести», «закидать».",
+        "example": "В комментах его dragged за этот тейк.",
+        "term": "Drag"
+      },
+      "ja": {
+        "definition": "人を公然と厳しく批判したり、こき下ろしたりすること。日本語の「叩く」に近い。",
+        "example": "あの発言で、コメント欄が彼をdrag(フルボッコに)してた。",
+        "term": "Drag"
+      },
+      "ko": {
+        "definition": "공개적으로 누군가를 신랄하게 비판하거나 조롱한다는 뜻으로, 우리말 '저격하다'에 가깝다.",
+        "example": "댓글들이 그 발언으로 걔를 drag했어.",
+        "term": "Drag"
+      },
+      "fr": {
+        "definition": "Critiquer ou tourner quelqu'un en ridicule durement et en public ; « démolir » ou « clasher ».",
+        "example": "Les commentaires l'ont drag pour cet avis.",
+        "term": "Drag"
+      },
+      "es": {
+        "definition": "Criticar o ridiculizar a alguien duramente en público. Equivale a 'poner verde' o 'machacar'.",
+        "example": "En los comentarios lo pusieron verde por esa opinión.",
+        "term": "Drag"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-053",
+    "deck": "internet-slang",
+    "term": "Snack",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "dating",
+      "appearance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An attractive person. A 'whole meal' is even more so.",
+        "example": "In that outfit he's a whole snack."
+      },
+      "ru": {
+        "definition": "Привлекательный человек, «вкусняшка». «Whole meal» — ещё горячее.",
+        "example": "В этом прикиде он прям snack.",
+        "term": "Snack"
+      },
+      "ja": {
+        "definition": "魅力的な人を指すスラング。さらに魅力的なら「whole meal(フルコース)」と言う。",
+        "example": "あの服着てると彼、完全にwhole snack(超イケてる)だね。",
+        "term": "Snack"
+      },
+      "ko": {
+        "definition": "매력적인 사람을 뜻하는 표현으로, 'whole meal'은 그보다 더 끝내준다는 뜻이다.",
+        "example": "저 옷 입으니까 걔 완전 snack이네.",
+        "term": "Snack"
+      },
+      "fr": {
+        "definition": "Une personne séduisante ; un « whole meal » l'est encore plus. Proche de « un canon » ou « un beau gosse ».",
+        "example": "Dans cette tenue, c'est un vrai snack.",
+        "term": "Snack"
+      },
+      "es": {
+        "definition": "Una persona atractiva. Un 'whole meal' (plato completo) lo es aún más. Equivale a 'estar como un queso'.",
+        "example": "Con ese conjunto está hecho un snack.",
+        "term": "Snack"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-054",
+    "deck": "internet-slang",
+    "term": "Lit",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "party",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Exciting, fun, or excellent, especially an event.",
+        "example": "The party was absolutely lit."
+      },
+      "ru": {
+        "definition": "Огонь, весело, круто — особенно про тусовку. Наше — «жара», «угар».",
+        "example": "Вечеринка была просто lit.",
+        "term": "Lit"
+      },
+      "ja": {
+        "definition": "特にイベントなどが盛り上がって最高な様子。日本語の「アツい」「沸いた」に近い。",
+        "example": "あのパーティー、マジでlit(激アツ)だった。",
+        "term": "Lit"
+      },
+      "ko": {
+        "definition": "특히 행사나 분위기가 신나고 재밌고 끝내준다는 뜻이다.",
+        "example": "그 파티 진짜 완전 lit했어.",
+        "term": "Lit"
+      },
+      "fr": {
+        "definition": "Excitant, amusant ou excellent, surtout pour un événement ; « de folie » ou « ça envoie ».",
+        "example": "La fête était absolument lit.",
+        "term": "Lit"
+      },
+      "es": {
+        "definition": "Emocionante, divertido o excelente, sobre todo un evento. Equivale a 'la caña' o 'lo peta'.",
+        "example": "La fiesta estuvo absolutamente lit.",
+        "term": "Lit"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-055",
+    "deck": "internet-slang",
+    "term": "Periodt",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "emphasis"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Emphatic 'period' — end of discussion, no argument.",
+        "example": "She's the best dancer here, periodt."
+      },
+      "ru": {
+        "definition": "Усиленное «точка» — разговор окончен, без возражений. Наше — «и точка», «всё, баста».",
+        "example": "Она тут лучшая танцовщица, periodt.",
+        "term": "Periodt"
+      },
+      "ja": {
+        "definition": "「以上、議論終わり」と強調する「period」の強調形。日本語の「以上!」に近い。",
+        "example": "ここで一番うまいダンサーは彼女、periodt(以上)。",
+        "term": "Periodt"
+      },
+      "ko": {
+        "definition": "'period'를 강조한 표현으로, '더 말할 것 없어', '반박 불가'라는 뜻이다.",
+        "example": "여기서 걔가 춤 제일 잘 춰, periodt.",
+        "term": "Periodt"
+      },
+      "fr": {
+        "definition": "Un « point final » emphatique : fin de la discussion, pas de débat ; « point barre ».",
+        "example": "C'est la meilleure danseuse ici, periodt.",
+        "term": "Periodt"
+      },
+      "es": {
+        "definition": "'Punto' enfático: fin de la discusión, sin réplica. Equivale a 'y punto' o 'punto final'.",
+        "example": "Es la mejor bailarina de aquí, periodt.",
+        "term": "Periodt"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-056",
+    "deck": "internet-slang",
+    "term": "Hits different",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "reaction"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Feels uniquely better or more meaningful than usual.",
+        "example": "Coffee on a day off just hits different."
+      },
+      "ru": {
+        "definition": "Ощущается как-то по-особому, лучше обычного. Наше — «совсем другое дело», «по-другому заходит».",
+        "example": "Кофе в выходной hits different.",
+        "term": "Hits different"
+      },
+      "ja": {
+        "definition": "いつもより格別に良く、特別に感じられる様子。日本語の「格別」に近い。",
+        "example": "休みの日のコーヒーは、なんかhits different(格別)なんだよね。",
+        "term": "Hits different"
+      },
+      "ko": {
+        "definition": "평소보다 유독 더 좋거나 특별하게 느껴진다는 뜻이다.",
+        "example": "쉬는 날 마시는 커피는 그냥 hits different야.",
+        "term": "Hits different"
+      },
+      "fr": {
+        "definition": "Procure une sensation singulièrement meilleure ou plus marquante que d'habitude ; « ça n'a rien à voir ».",
+        "example": "Un café un jour de repos, ça hits different.",
+        "term": "Hits different"
+      },
+      "es": {
+        "definition": "Se siente especialmente mejor o más significativo de lo habitual. Equivale a 'sabe distinto' o 'no es lo mismo'.",
+        "example": "Un café en un día libre hits different.",
+        "term": "Hits different"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-057",
+    "deck": "internet-slang",
+    "term": "Caught in 4K",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "social",
+      "proof"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Caught doing something clearly, with undeniable proof.",
+        "example": "He denied it but got caught in 4K on camera."
+      },
+      "ru": {
+        "definition": "Спалился по полной, с неопровержимыми доказательствами. Наше — «спалился», «попал на видео».",
+        "example": "Отрицал, но got caught in 4K на камеру.",
+        "term": "Caught in 4K"
+      },
+      "ja": {
+        "definition": "言い逃れできない明確な証拠付きで現場を押さえられること。「動かぬ証拠」に近い。",
+        "example": "彼は否定したけど、カメラにcaught in 4K(バッチリ証拠を)押さえられてた。",
+        "term": "Caught in 4K"
+      },
+      "ko": {
+        "definition": "빼도 박도 못할 명백한 증거와 함께 딱 걸렸다는 뜻으로, 우리말 '현장 적발'에 가깝다.",
+        "example": "걔는 아니라고 했지만 카메라에 caught in 4K됐어.",
+        "term": "Caught in 4K"
+      },
+      "fr": {
+        "definition": "Pris sur le fait de façon flagrante, avec une preuve indéniable ; « pris la main dans le sac ».",
+        "example": "Il a nié, mais il s'est fait caught in 4K à la caméra.",
+        "term": "Caught in 4K"
+      },
+      "es": {
+        "definition": "Pillado haciendo algo de forma clara, con pruebas innegables. Equivale a 'pillado con las manos en la masa'.",
+        "example": "Lo negó, pero lo pillaron in 4K en cámara.",
+        "term": "Caught in 4K"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-058",
+    "deck": "internet-slang",
+    "term": "Understood the assignment",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "praise",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Did exactly what was needed, often exceeding expectations.",
+        "example": "Her outfit for the theme party? Understood the assignment."
+      },
+      "ru": {
+        "definition": "Сделал ровно то, что надо, и даже превзошёл. Наше — «справился на отлично», «понял задачу».",
+        "example": "Её костюм на тематическую вечеринку? Understood the assignment.",
+        "term": "Understood the assignment"
+      },
+      "ja": {
+        "definition": "求められたことを完璧に、期待以上にやってのけたという賛辞。",
+        "example": "テーマパーティーでの彼女の衣装?understood the assignment(完璧に理解してた)。",
+        "term": "Understood the assignment"
+      },
+      "ko": {
+        "definition": "요구된 것을 정확히, 흔히 기대 이상으로 해냈다는 뜻의 칭찬 표현이다.",
+        "example": "테마 파티용 걔 의상? 완전 understood the assignment였어.",
+        "term": "Understood the assignment"
+      },
+      "fr": {
+        "definition": "Avoir fait exactement ce qu'il fallait, souvent au-delà des attentes ; « avoir tout compris ».",
+        "example": "Sa tenue pour la soirée à thème ? Understood the assignment.",
+        "term": "Understood the assignment"
+      },
+      "es": {
+        "definition": "Hacer exactamente lo que se requería, a menudo superando lo esperado. Equivale a 'estar a la altura' o 'clavarlo'.",
+        "example": "¿Su conjunto para la fiesta temática? Understood the assignment.",
+        "term": "Understood the assignment"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-059",
+    "deck": "internet-slang",
+    "term": "It's giving",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "reaction"
+    ],
+    "locales": {
+      "en": {
+        "definition": "It evokes or resembles a certain vibe or aesthetic.",
+        "example": "That jacket — it's giving vintage rockstar."
+      },
+      "ru": {
+        "definition": "Передаёт определённый вайб, отдаёт чем-то. Наше — «вайбит как», «отдаёт».",
+        "example": "Эта куртка — it's giving винтажный рокстар.",
+        "term": "It's giving"
+      },
+      "ja": {
+        "definition": "ある雰囲気やテイストを醸し出している、という表現。日本語の「〜感ある」に近い。",
+        "example": "あのジャケット、it's giving(まさに〜感)ヴィンテージなロックスター。",
+        "term": "It's giving"
+      },
+      "ko": {
+        "definition": "어떤 특정한 분위기나 미감을 풍긴다는 뜻으로, 우리말 '~한 느낌이다'에 가깝다.",
+        "example": "저 재킷, it's giving 빈티지 록스타 느낌이야.",
+        "term": "It's giving"
+      },
+      "fr": {
+        "definition": "Cela évoque ou rappelle une certaine ambiance ou esthétique ; « ça donne un côté… ».",
+        "example": "Cette veste, it's giving rockeur vintage.",
+        "term": "It's giving"
+      },
+      "es": {
+        "definition": "Evoca o recuerda a cierta vibra o estética. Equivale a 'da rollo' o 'tiene un aire a'.",
+        "example": "Esa chaqueta: it's giving rockero vintage.",
+        "term": "It's giving"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-060",
+    "deck": "internet-slang",
+    "term": "Era",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A self-defined phase of life or personality you're embracing.",
+        "example": "I'm in my healthy-cooking era right now."
+      },
+      "ru": {
+        "definition": "Этап жизни или образ, который ты сейчас на себя примеряешь. Наше — «у меня сейчас период…».",
+        "example": "У меня сейчас era здорового питания.",
+        "term": "Era"
+      },
+      "ja": {
+        "definition": "自分で定義する人生や性格のフェーズ・モードを指す。日本語の「〜期」に近い。",
+        "example": "今は健康的な料理にハマってるera(時期)なんだ。",
+        "term": "Era"
+      },
+      "ko": {
+        "definition": "스스로 받아들이고 있는 인생이나 성향의 한 시기를 뜻하며, 우리말 '~하는 시기'에 가깝다.",
+        "example": "나 요즘 건강식 해먹는 era야.",
+        "term": "Era"
+      },
+      "fr": {
+        "definition": "Une phase de vie ou de personnalité qu'on s'attribue et qu'on assume ; sa « période » ou son « ère ».",
+        "example": "Là, je suis dans mon ère cuisine saine.",
+        "term": "Era"
+      },
+      "es": {
+        "definition": "Una etapa de la vida o personalidad autodefinida que estás abrazando. Equivale a 'mi etapa de'.",
+        "example": "Ahora mismo estoy en mi era de comer sano.",
+        "term": "Era"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-061",
+    "deck": "internet-slang",
+    "term": "Core memory",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "emotion"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A moment so meaningful it becomes a defining memory.",
+        "example": "That road trip was a total core memory."
+      },
+      "ru": {
+        "definition": "Момент настолько важный, что становится определяющим воспоминанием.",
+        "example": "Та поездка — настоящая core memory.",
+        "term": "Core memory"
+      },
+      "ja": {
+        "definition": "その人を形作るほど意味のある、忘れられない大切な思い出を指す。",
+        "example": "あのドライブ旅行は完全にcore memory(一生モノの思い出)だった。",
+        "term": "Core memory"
+      },
+      "ko": {
+        "definition": "인생을 정의할 만큼 의미 있는 결정적 추억을 뜻한다.",
+        "example": "그 로드트립은 완전 core memory였어.",
+        "term": "Core memory"
+      },
+      "fr": {
+        "definition": "Un moment si fort qu'il devient un souvenir fondateur ; un « souvenir gravé ».",
+        "example": "Ce road trip, c'était un vrai core memory.",
+        "term": "Core memory"
+      },
+      "es": {
+        "definition": "Un momento tan significativo que se convierte en un recuerdo que te define. Equivale a 'un recuerdo para toda la vida'.",
+        "example": "Ese viaje por carretera fue un core memory total.",
+        "term": "Core memory"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-062",
+    "deck": "internet-slang",
+    "term": "Beige flag",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "dating",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A quirky, neutral trait in a partner — neither good nor bad, just odd.",
+        "example": "He names his houseplants — total beige flag."
+      },
+      "ru": {
+        "definition": "Странная нейтральная черта партнёра — не плюс и не минус, просто чудинка.",
+        "example": "Он даёт имена комнатным растениям — чистый beige flag.",
+        "term": "Beige flag"
+      },
+      "ja": {
+        "definition": "恋人の、良くも悪くもない風変わりで中立的なクセを指す。red/green flagの中間。",
+        "example": "彼、観葉植物に名前つけてるんだよ、完全にbeige flag(変わった中立的なクセ)。",
+        "term": "Beige flag"
+      },
+      "ko": {
+        "definition": "연인의 특이하지만 좋지도 나쁘지도 않은 그냥 엉뚱한 특징을 뜻한다.",
+        "example": "걔는 화분들한테 이름을 붙여. 완전 beige flag야.",
+        "term": "Beige flag"
+      },
+      "fr": {
+        "definition": "Un trait neutre et bizarre chez un partenaire, ni bon ni mauvais, juste insolite ; « drapeau beige ».",
+        "example": "Il donne des prénoms à ses plantes vertes, vrai beige flag.",
+        "term": "Beige flag"
+      },
+      "es": {
+        "definition": "Un rasgo peculiar y neutro en la pareja: ni bueno ni malo, solo raro.",
+        "example": "Les pone nombre a sus plantas: beige flag total.",
+        "term": "Beige flag"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-063",
+    "deck": "internet-slang",
+    "term": "Green flag",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "dating",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A positive sign that someone is a good partner or friend.",
+        "example": "He texts when he's running late — green flag."
+      },
+      "ru": {
+        "definition": "Хороший знак, что человек годится в партнёры или друзья. Наше — «зелёный флаг», «хороший знак».",
+        "example": "Пишет, если опаздывает — green flag.",
+        "term": "Green flag"
+      },
+      "ja": {
+        "definition": "その人が良い恋人や友人である前向きなサイン。red flagの反対で、日本語でも「青信号」的に使う。",
+        "example": "遅れる時はちゃんと連絡くれる、green flag(好サイン)だね。",
+        "term": "Green flag"
+      },
+      "ko": {
+        "definition": "좋은 연인이나 친구임을 보여주는 긍정적인 신호를 뜻한다.",
+        "example": "걔는 늦으면 미리 문자해. green flag지.",
+        "term": "Green flag"
+      },
+      "fr": {
+        "definition": "Un signe positif qui montre qu'une personne est un bon partenaire ou ami ; « bon signe ».",
+        "example": "Il prévient quand il est en retard, green flag.",
+        "term": "Green flag"
+      },
+      "es": {
+        "definition": "Una señal positiva de que alguien es buena pareja o buen amigo. Equivale a 'buena señal' o 'bandera verde'.",
+        "example": "Avisa cuando va a llegar tarde: green flag.",
+        "term": "Green flag"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-064",
+    "deck": "internet-slang",
+    "term": "Red flag",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "dating",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A warning sign of trouble in a person or situation.",
+        "example": "He was rude to the waiter — huge red flag."
+      },
+      "ru": {
+        "definition": "Тревожный звоночек в человеке или ситуации. Наше — «красный флаг», «звоночек».",
+        "example": "Нахамил официанту — огромный red flag.",
+        "term": "Red flag"
+      },
+      "ja": {
+        "definition": "人や状況に潜む危険・トラブルの警告サイン。日本語でも「危険信号」と言う。",
+        "example": "彼、店員に失礼な態度だった、これは超red flag(危険信号)。",
+        "term": "Red flag"
+      },
+      "ko": {
+        "definition": "사람이나 상황에서 문제가 있음을 알리는 경고 신호를 뜻한다.",
+        "example": "걔가 종업원한테 무례하게 굴더라. 완전 red flag야.",
+        "term": "Red flag"
+      },
+      "fr": {
+        "definition": "Un signal d'alarme annonçant des problèmes chez une personne ou dans une situation ; « signal d'alerte ».",
+        "example": "Il a été impoli avec le serveur, énorme red flag.",
+        "term": "Red flag"
+      },
+      "es": {
+        "definition": "Una señal de alarma de problemas en una persona o situación. Equivale a 'mala señal' o 'bandera roja'.",
+        "example": "Fue grosero con el camarero: un red flag enorme.",
+        "term": "Red flag"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-065",
+    "deck": "internet-slang",
+    "term": "Gatekeep",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "social",
+      "fandom"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To restrict access to knowledge or a community to feel superior.",
+        "example": "Don't gatekeep the playlist, just share it."
+      },
+      "ru": {
+        "definition": "Закрывать доступ к знанию или сообществу, чтобы чувствовать превосходство. Наше — «душнить элитарностью».",
+        "example": "Не gatekeep плейлист, просто скинь его.",
+        "term": "Гейткипинг"
+      },
+      "ja": {
+        "definition": "優越感のために、知識やコミュニティへのアクセスを独占して人に与えないこと。",
+        "example": "そのプレイリスト、gatekeep(出し惜しみ)しないで共有してよ。",
+        "term": "Gatekeep"
+      },
+      "ko": {
+        "definition": "우월감을 느끼려고 지식이나 커뮤니티 접근을 막는 행동을 뜻하며, 우리말 '진입장벽 치다'에 가깝다.",
+        "example": "플레이리스트 gatekeep하지 말고 그냥 공유해.",
+        "term": "Gatekeep"
+      },
+      "fr": {
+        "definition": "Restreindre l'accès à un savoir ou à une communauté pour se sentir supérieur ; « faire le portier ».",
+        "example": "Ne gatekeepe pas la playlist, partage-la, c'est tout.",
+        "term": "Gatekeep"
+      },
+      "es": {
+        "definition": "Restringir el acceso a un conocimiento o comunidad para sentirse superior. Equivale a 'guardarse el secreto' con celo.",
+        "example": "No hagas gatekeep con la playlist, compártela y ya.",
+        "term": "Gatekeep"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-066",
+    "deck": "internet-slang",
+    "term": "Girlboss",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "social",
+      "work"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An ambitious woman in business; now often used ironically.",
+        "example": "She replied to emails on vacation — girlboss, I guess."
+      },
+      "ru": {
+        "definition": "Амбициозная бизнес-вумен; сейчас часто иронично. Наше — «бизнес-леди» (с подколом).",
+        "example": "Отвечала на письма в отпуске — girlboss, ну такое.",
+        "term": "Girlboss"
+      },
+      "ja": {
+        "definition": "バリバリ働く野心的な女性を指す言葉。今では皮肉として使われることも多い。",
+        "example": "彼女、休暇中もメール返してたよ、girlboss(意識高い系キャリア女子)ってやつかな。",
+        "term": "Girlboss"
+      },
+      "ko": {
+        "definition": "사업에서 야망 있는 여성을 뜻하지만, 요즘은 비꼬는 의미로 자주 쓴다.",
+        "example": "휴가 중에도 이메일에 답장했다고? girlboss네, 뭐.",
+        "term": "Girlboss"
+      },
+      "fr": {
+        "definition": "Une femme ambitieuse dans le monde du travail ; désormais souvent employé avec ironie.",
+        "example": "Elle répondait à ses mails en vacances, girlboss, j'imagine.",
+        "term": "Girlboss"
+      },
+      "es": {
+        "definition": "Una mujer ambiciosa en los negocios; ahora suele usarse con ironía.",
+        "example": "Contestó correos en vacaciones: girlboss, supongo.",
+        "term": "Girlboss"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-067",
+    "deck": "internet-slang",
+    "term": "Goblin mode",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "behavior"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Embracing lazy, messy, self-indulgent behavior unapologetically.",
+        "example": "I went full goblin mode all weekend — snacks and no pants."
+      },
+      "ru": {
+        "definition": "Без стеснения уйти в ленивый, неряшливый, потакающий себе режим. Наше — «режим тюленя/гоблина».",
+        "example": "Все выходные в goblin mode — снеки и без штанов.",
+        "term": "Goblin mode"
+      },
+      "ja": {
+        "definition": "だらしなく自堕落な振る舞いを、開き直って堂々と楽しむこと。日本語の「ぐうたらモード」に近い。",
+        "example": "週末ずっとgoblin mode(自堕落モード)で、お菓子食べてズボンも履かなかった。",
+        "term": "Goblin mode"
+      },
+      "ko": {
+        "definition": "게으르고 지저분하며 자기 멋대로 행동하는 모습을 당당히 즐긴다는 뜻이다.",
+        "example": "주말 내내 goblin mode였어. 과자랑 노바지로 뒹굴었지.",
+        "term": "Goblin mode"
+      },
+      "fr": {
+        "definition": "Assumer pleinement un comportement paresseux, débraillé et complaisant ; « mode larve ».",
+        "example": "J'ai passé tout le week-end en goblin mode : grignotages et pas de pantalon.",
+        "term": "Goblin mode"
+      },
+      "es": {
+        "definition": "Abrazar sin disculpas un comportamiento perezoso, desordenado y autoindulgente. Equivale a 'modo cerdi' o 'modo guarro'.",
+        "example": "Estuve en goblin mode todo el finde: snacks y sin pantalones.",
+        "term": "Goblin mode"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-068",
+    "deck": "internet-slang",
+    "term": "Slept on",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "opinion",
+      "praise"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Underrated or overlooked despite being good.",
+        "example": "This album is so slept on."
+      },
+      "ru": {
+        "definition": "Недооценённое, незаслуженно обойдённое вниманием. Наше — «недооценённое».",
+        "example": "Этот альбом так slept on.",
+        "term": "Slept on"
+      },
+      "ja": {
+        "definition": "いいのに見過ごされている、過小評価されている様子。日本語の「過小評価」に近い。",
+        "example": "このアルバム、めっちゃslept on(過小評価)されてる。",
+        "term": "Slept on"
+      },
+      "ko": {
+        "definition": "좋은데도 저평가되거나 주목받지 못한다는 뜻이다.",
+        "example": "이 앨범 진짜 너무 slept on이야.",
+        "term": "Slept on"
+      },
+      "fr": {
+        "definition": "Sous-estimé ou ignoré malgré sa qualité ; « pas assez reconnu ».",
+        "example": "Cet album est tellement slept on.",
+        "term": "Slept on"
+      },
+      "es": {
+        "definition": "Infravalorado o ignorado pese a ser bueno. Equivale a 'no se le hace justicia'.",
+        "example": "Este disco está muy slept on.",
+        "term": "Slept on"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-069",
+    "deck": "internet-slang",
+    "term": "Pressed",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "emotion",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Overly upset or bothered about something minor.",
+        "example": "Why are you so pressed about a game?"
+      },
+      "ru": {
+        "definition": "Слишком кипит и парится из-за мелочи. Наше — «бомбит», «гонит».",
+        "example": "Чего ты такой pressed из-за игры?",
+        "term": "Pressed"
+      },
+      "ja": {
+        "definition": "些細なことで必要以上にムキになって怒っている様子。日本語の「ムキになってる」に近い。",
+        "example": "なんでただのゲームでそんなにpressed(ムキに)なってんの?",
+        "term": "Pressed"
+      },
+      "ko": {
+        "definition": "사소한 일에 지나치게 발끈하거나 신경 쓴다는 뜻이다.",
+        "example": "왜 게임 하나에 그렇게 pressed해?",
+        "term": "Pressed"
+      },
+      "fr": {
+        "definition": "Exagérément contrarié ou agacé par un détail ; « se prendre la tête » ou « avoir le seum ».",
+        "example": "Pourquoi tu es si pressed pour un simple jeu ?",
+        "term": "Pressed"
+      },
+      "es": {
+        "definition": "Demasiado molesto o afectado por algo insignificante. Equivale a 'picado' o 'rayado'.",
+        "example": "¿Por qué estás tan pressed por un partido?",
+        "term": "Pressed"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-070",
+    "deck": "internet-slang",
+    "term": "Clout",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "status"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Online influence or status, often chased for its own sake.",
+        "example": "He only posted that for the clout."
+      },
+      "ru": {
+        "definition": "Онлайн-влияние и статус, за которыми часто гонятся ради них самих. Наше — «хайп», «пиар».",
+        "example": "Он выложил это только ради clout.",
+        "term": "Клаут"
+      },
+      "ja": {
+        "definition": "ネット上の影響力や知名度を指す。それ自体を目的に追い求めることも多い。「バズり狙い」に近い。",
+        "example": "あいつ、ただのclout(注目)目当てであれ投稿しただけだよ。",
+        "term": "Clout"
+      },
+      "ko": {
+        "definition": "온라인에서의 영향력이나 인지도를 뜻하며, 그 자체를 좇는 경우가 많다.",
+        "example": "걔는 그거 순전히 clout 때문에 올린 거야.",
+        "term": "Clout"
+      },
+      "fr": {
+        "definition": "Influence ou notoriété en ligne, souvent recherchée pour elle-même ; le « buzz ».",
+        "example": "Il n'a posté ça que pour la clout.",
+        "term": "Clout"
+      },
+      "es": {
+        "definition": "Influencia o estatus en internet, a menudo perseguidos por sí mismos. Equivale a 'fama' o 'notoriedad'.",
+        "example": "Solo publicó eso por el clout.",
+        "term": "Clout"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-071",
+    "deck": "internet-slang",
+    "term": "Throw shade",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "conflict"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To insult or disrespect someone subtly or indirectly.",
+        "example": "She threw shade at his cooking the whole dinner."
+      },
+      "ru": {
+        "definition": "Тонко, исподтишка задеть или унизить. Наше — «подъколоть», «пройтись».",
+        "example": "Весь ужин throw shade по поводу его готовки.",
+        "term": "Throw shade"
+      },
+      "ja": {
+        "definition": "遠回しに、それとなく人を侮辱したり見下したりすること。日本語の「嫌味を言う」に近い。",
+        "example": "彼女、夕食の間ずっと彼の料理にthrow shade(嫌味を言って)た。",
+        "term": "Throw shade"
+      },
+      "ko": {
+        "definition": "누군가를 은근하고 간접적으로 모욕하거나 깎아내린다는 뜻이다.",
+        "example": "걔는 저녁 내내 걔 요리에 대고 throw shade했어.",
+        "term": "Throw shade"
+      },
+      "fr": {
+        "definition": "Insulter ou manquer de respect à quelqu'un de façon subtile ou détournée ; « envoyer des piques ».",
+        "example": "Elle a throw shade sur sa cuisine pendant tout le dîner.",
+        "term": "Throw shade"
+      },
+      "es": {
+        "definition": "Insultar o faltar al respeto a alguien de forma sutil o indirecta. Equivale a 'tirar pullas' o 'lanzar indirectas'.",
+        "example": "Le estuvo tirando shade a su cocina toda la cena.",
+        "term": "Throw shade"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-072",
+    "deck": "internet-slang",
+    "term": "Hard launch",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "dating",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To publicly reveal a relationship online, clearly and openly.",
+        "example": "They finally hard launched with a couple's photo."
+      },
+      "ru": {
+        "definition": "Открыто заявить об отношениях в сети, без намёков. Наше — «рассекретить пару».",
+        "example": "Наконец hard launched совместным фото.",
+        "term": "Hard launch"
+      },
+      "ja": {
+        "definition": "交際関係をネット上で明確かつ堂々と公表すること。soft launchの反対。",
+        "example": "あの二人、ついにカップル写真でhard launch(交際を公表)したね。",
+        "term": "Hard launch"
+      },
+      "ko": {
+        "definition": "연애 사실을 온라인에 분명하고 공개적으로 드러내는 것을 뜻한다.",
+        "example": "걔네 드디어 커플 사진으로 hard launch했어.",
+        "term": "Hard launch"
+      },
+      "fr": {
+        "definition": "Révéler publiquement et clairement une relation en ligne ; « officialiser au grand jour ».",
+        "example": "Ils ont enfin fait leur hard launch avec une photo de couple.",
+        "term": "Hard launch"
+      },
+      "es": {
+        "definition": "Revelar públicamente una relación en internet, de forma clara y abierta. Equivale a 'oficializar' la relación.",
+        "example": "Por fin hicieron el hard launch con una foto de pareja.",
+        "term": "Hard launch"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-073",
+    "deck": "internet-slang",
+    "term": "Soft launch",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "dating",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To hint at a relationship online without showing the partner's face.",
+        "example": "A blurry hand in the photo — classic soft launch."
+      },
+      "ru": {
+        "definition": "Намекнуть на отношения в сети, не показывая лица партнёра. Наше — «намекнуть на пару».",
+        "example": "Размытая рука в кадре — классический soft launch.",
+        "term": "Soft launch"
+      },
+      "ja": {
+        "definition": "相手の顔は見せず、それとなく交際をほのめかすこと。日本語の「匂わせ」にかなり近い。",
+        "example": "写真にぼやけた手だけ、典型的なsoft launch(匂わせ)だね。",
+        "term": "Soft launch"
+      },
+      "ko": {
+        "definition": "연인의 얼굴은 안 보이게 하면서 연애 사실을 은근히 암시하는 것을 뜻한다.",
+        "example": "사진 속 흐릿한 손 하나. 전형적인 soft launch지.",
+        "term": "Soft launch"
+      },
+      "fr": {
+        "definition": "Laisser deviner une relation en ligne sans montrer le visage du partenaire ; « teaser sa relation ».",
+        "example": "Une main floue sur la photo : un soft launch classique.",
+        "term": "Soft launch"
+      },
+      "es": {
+        "definition": "Insinuar una relación en internet sin mostrar la cara de la pareja. Equivale a 'soltar pistas' de la relación.",
+        "example": "Una mano borrosa en la foto: soft launch de manual.",
+        "term": "Soft launch"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-074",
+    "deck": "internet-slang",
+    "term": "Situationship",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "dating",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A romantic relationship that's undefined and lacks commitment.",
+        "example": "We're not dating exactly, it's more of a situationship."
+      },
+      "ru": {
+        "definition": "Непонятные отношения без обязательств и статуса. Наше — «всё сложно», «непонятка».",
+        "example": "Мы вроде не встречаемся, это скорее situationship.",
+        "term": "Ситуэйшеншип"
+      },
+      "ja": {
+        "definition": "はっきり定義されず、責任も伴わない曖昧な恋愛関係。日本語の「曖昧な関係」に近い。",
+        "example": "付き合ってるわけじゃなくて、どっちかというとsituationship(曖昧な関係)なんだ。",
+        "term": "Situationship"
+      },
+      "ko": {
+        "definition": "관계 규정도 약속도 없는 애매한 연애 상태를 뜻하며, 우리말 '썸'에 가깝다.",
+        "example": "우리 정확히 사귀는 건 아니고, situationship에 가까워.",
+        "term": "Situationship"
+      },
+      "fr": {
+        "definition": "Une relation amoureuse floue et sans engagement, entre l'amitié et le couple.",
+        "example": "On ne sort pas vraiment ensemble, c'est plutôt une situationship.",
+        "term": "Situationship"
+      },
+      "es": {
+        "definition": "Una relación romántica indefinida y sin compromiso. Equivale a 'rollo' o 'lo nuestro sin etiquetas'.",
+        "example": "No estamos saliendo exactamente, es más bien un situationship.",
+        "term": "Situationship"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-075",
+    "deck": "internet-slang",
+    "term": "Canon event",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "genz",
+      "meme"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An unavoidable formative experience you shouldn't interfere with.",
+        "example": "Letting her get that bad haircut — it's a canon event."
+      },
+      "ru": {
+        "definition": "Неизбежный формирующий опыт, в который лучше не вмешиваться.",
+        "example": "Дать ей сделать эту ужасную стрижку — это canon event.",
+        "term": "Canon event"
+      },
+      "ja": {
+        "definition": "避けられない、その人を形作るための通過儀礼的な出来事。邪魔してはいけないとされる。",
+        "example": "彼女があの変な髪型にするのを止めない、これはcanon event(必要な通過儀礼)だよ。",
+        "term": "Canon event"
+      },
+      "ko": {
+        "definition": "피할 수 없는 성장의 통과의례라 끼어들어선 안 되는 경험을 뜻한다.",
+        "example": "걔가 그 망한 머리를 하게 두는 거, 그건 canon event야.",
+        "term": "Canon event"
+      },
+      "fr": {
+        "definition": "Une épreuve formatrice et inévitable dans laquelle il ne faut pas intervenir ; un « passage obligé ».",
+        "example": "La laisser faire cette coupe ratée, c'est un canon event.",
+        "term": "Canon event"
+      },
+      "es": {
+        "definition": "Una experiencia formativa inevitable en la que no deberías interferir. Equivale a 'algo que tenía que pasar'.",
+        "example": "Dejar que se haga ese corte de pelo horrible: es un canon event.",
+        "term": "Canon event"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-076",
+    "deck": "internet-slang",
+    "term": "NPC streamer",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "tiktok",
+      "internet"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A creator who acts like a video-game character reacting to gift prompts.",
+        "example": "That NPC streamer says 'ice cream so good' on repeat."
+      },
+      "ru": {
+        "definition": "Стример, изображающий персонажа игры, реагирующего на присланные донат-команды.",
+        "example": "Этот NPC streamer бесконечно повторяет «ice cream so good».",
+        "term": "NPC streamer"
+      },
+      "ja": {
+        "definition": "投げ銭の指示に反応して、ゲームのキャラのように振る舞う配信者を指す。",
+        "example": "あのNPC streamer(NPC配信者)、ずっと「アイスクリームうまい」って繰り返してる。",
+        "term": "NPC streamer"
+      },
+      "ko": {
+        "definition": "후원 알림에 반응해 게임 캐릭터처럼 행동하는 크리에이터를 가리킨다.",
+        "example": "저 NPC streamer는 'ice cream so good'만 반복해.",
+        "term": "NPC streamer"
+      },
+      "fr": {
+        "definition": "Un créateur qui se comporte comme un personnage de jeu vidéo réagissant aux cadeaux des spectateurs.",
+        "example": "Ce NPC streamer répète « ice cream so good » en boucle.",
+        "term": "NPC streamer"
+      },
+      "es": {
+        "definition": "Un creador que actúa como un personaje de videojuego reaccionando a los regalos de la audiencia.",
+        "example": "Ese NPC streamer dice 'helado tan rico' sin parar.",
+        "term": "NPC streamer"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-077",
+    "deck": "internet-slang",
+    "term": "Brain rot",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "internet",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Low-quality online content, or the mental fog from consuming too much of it.",
+        "example": "My feed is pure brain rot lately."
+      },
+      "ru": {
+        "definition": "Тупой залипательный контент или каша в голове от его передоза. Наше — «брейнрот», «контент-жвачка».",
+        "example": "Моя лента в последнее время — сплошной brain rot.",
+        "term": "Brain rot"
+      },
+      "ja": {
+        "definition": "低俗なネットコンテンツ、またはそれを浴びすぎて頭がぼんやりする状態。日本語でも「脳が溶ける」と言う。",
+        "example": "最近、俺のフィードは完全にbrain rot(脳が溶けるコンテンツ)だよ。",
+        "term": "Brain rot"
+      },
+      "ko": {
+        "definition": "저질 인터넷 콘텐츠, 또는 그걸 과하게 봐서 머리가 멍해지는 상태를 뜻한다.",
+        "example": "요즘 내 피드는 완전 brain rot 천지야.",
+        "term": "Brain rot"
+      },
+      "fr": {
+        "definition": "Du contenu en ligne de très mauvaise qualité, ou l'abrutissement mental qu'il provoque ; « décérébrant ».",
+        "example": "Mon fil d'actu, c'est du pur brain rot en ce moment.",
+        "term": "Brain rot"
+      },
+      "es": {
+        "definition": "Contenido de internet de baja calidad, o el embotamiento mental de consumir demasiado. Equivale a 'me pudre el cerebro'.",
+        "example": "Mi feed es puro brain rot últimamente.",
+        "term": "Brain rot"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-078",
+    "deck": "internet-slang",
+    "term": "Skibidi",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "genz",
+      "meme"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A nonsense slang term from a viral series; meaning varies, often 'bad' or random.",
+        "example": "Kids keep saying 'skibidi' and I have no idea why."
+      },
+      "ru": {
+        "definition": "Бессмысленное словечко из вирусного сериала; значение плавает, часто «плохо» или просто рандом.",
+        "example": "Дети без конца говорят «skibidi», а я не понимаю зачем.",
+        "term": "Skibidi"
+      },
+      "ja": {
+        "definition": "バズり動画シリーズ由来の意味不明なスラング。文脈で意味が変わり、「ダメ」や適当な意味で使われる。",
+        "example": "子供たちがずっと「skibidi」って言ってるけど、意味が全然わからない。",
+        "term": "Skibidi"
+      },
+      "ko": {
+        "definition": "바이럴 시리즈에서 나온 무의미한 신조어로, 뜻이 일정치 않고 흔히 '나쁘다'거나 아무 맥락 없이 쓰인다.",
+        "example": "애들이 자꾸 'skibidi'라는데 왜 그러는지 전혀 모르겠어.",
+        "term": "Skibidi"
+      },
+      "fr": {
+        "definition": "Un mot d'argot sans sens issu d'une série virale ; signification variable, souvent « nul » ou aléatoire.",
+        "example": "Les gamins n'arrêtent pas de dire « skibidi » et je n'y comprends rien.",
+        "term": "Skibidi"
+      },
+      "es": {
+        "definition": "Una palabra sin sentido salida de una serie viral; el significado varía, a menudo 'malo' o aleatorio.",
+        "example": "Los críos dicen 'skibidi' sin parar y no tengo ni idea de por qué.",
+        "term": "Skibidi"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-079",
+    "deck": "internet-slang",
+    "term": "Fanum tax",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "genz",
+      "meme"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Jokingly taking a portion of a friend's food; from a streamer's bit.",
+        "example": "He grabbed a fry off my plate — fanum tax."
+      },
+      "ru": {
+        "definition": "В шутку стащить кусок еды у друга; от фишки стримера Fanum. Наше — «налог дружбы».",
+        "example": "Стащил картошку с моей тарелки — fanum tax.",
+        "term": "Fanum tax"
+      },
+      "ja": {
+        "definition": "友達の食べ物を冗談半分でちょっと奪うこと。ある配信者のネタが由来。",
+        "example": "あいつ俺の皿からポテト一本取った、fanum tax(友達の食べ物税)だな。",
+        "term": "Fanum tax"
+      },
+      "ko": {
+        "definition": "친구 음식을 장난삼아 한 입 빼앗아 먹는 행동으로, 한 스트리머의 콘텐츠에서 왔다.",
+        "example": "걔가 내 접시에서 감자튀김 하나 집어갔어. fanum tax지.",
+        "term": "Fanum tax"
+      },
+      "fr": {
+        "definition": "Piquer pour rire une part de la nourriture d'un ami ; tiré du sketch d'un streamer.",
+        "example": "Il a piqué une frite dans mon assiette : fanum tax.",
+        "term": "Fanum tax"
+      },
+      "es": {
+        "definition": "Quitarle en broma una parte de la comida a un amigo; viene de un gag de un streamer.",
+        "example": "Me cogió una patata del plato: fanum tax.",
+        "term": "Fanum tax"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-080",
+    "deck": "internet-slang",
+    "term": "Aura points",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "genz",
+      "meme"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Imaginary points for how cool or composed an action makes you look.",
+        "example": "Tripping in front of everyone? Minus a thousand aura points."
+      },
+      "ru": {
+        "definition": "Воображаемые очки за то, насколько круто и невозмутимо ты выглядишь. Наше — «очки харизмы».",
+        "example": "Споткнулся при всех? Минус тысяча aura points.",
+        "term": "Aura points"
+      },
+      "ja": {
+        "definition": "ある行動がどれだけイケてる(または痛い)かを示す架空のポイント。日本語の「株が上がる/下がる」に近い。",
+        "example": "みんなの前でこけた?aura points(オーラポイント)マイナス1000だな。",
+        "term": "Aura points"
+      },
+      "ko": {
+        "definition": "어떤 행동이 얼마나 멋지거나 침착해 보이는지를 매기는 가상의 점수다.",
+        "example": "다들 보는 앞에서 넘어졌다고? aura points 마이너스 천 점이야.",
+        "term": "Aura points"
+      },
+      "fr": {
+        "definition": "Des points imaginaires mesurant à quel point une action te rend cool ou classe ; « points de classe ».",
+        "example": "Se vautrer devant tout le monde ? Moins mille aura points.",
+        "term": "Aura points"
+      },
+      "es": {
+        "definition": "Puntos imaginarios según lo guay o sereno que te haga parecer una acción. Equivale a 'puntos de carisma'.",
+        "example": "¿Tropezar delante de todos? Menos mil puntos de aura.",
+        "term": "Aura points"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-081",
+    "deck": "internet-slang",
+    "term": "Cooked",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "reaction"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Doomed, exhausted, or in serious trouble.",
+        "example": "I haven't studied at all — I'm so cooked for this exam."
+      },
+      "ru": {
+        "definition": "Обречён, вымотан или влип по полной. Наше — «всё, я труп», «мне конец».",
+        "example": "Вообще не готовился — я so cooked перед экзаменом.",
+        "term": "Cooked"
+      },
+      "ja": {
+        "definition": "もうダメだ、疲れ果てた、大ピンチという意味。日本語の「終わった」「詰んだ」に近い。",
+        "example": "全然勉強してない、この試験マジでcooked(詰んだ)。",
+        "term": "Cooked"
+      },
+      "ko": {
+        "definition": "망했거나, 진이 다 빠졌거나, 큰일 났다는 뜻으로, 우리말 '망했다'에 가깝다.",
+        "example": "공부를 하나도 안 했어. 이번 시험 완전 cooked야.",
+        "term": "Cooked"
+      },
+      "fr": {
+        "definition": "Fichu, épuisé ou dans de sales draps ; « cuit » ou « mort ».",
+        "example": "Je n'ai pas du tout révisé, je suis trop cooked pour cet examen.",
+        "term": "Cooked"
+      },
+      "es": {
+        "definition": "Condenado, agotado o metido en un buen lío. Equivale a 'estoy frito' o 'estoy acabado'.",
+        "example": "No he estudiado nada: estoy super cooked para este examen.",
+        "term": "Cooked"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-082",
+    "deck": "internet-slang",
+    "term": "Locked in",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "focus"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Fully focused and committed to a task.",
+        "example": "No distractions tonight, I'm locked in."
+      },
+      "ru": {
+        "definition": "Полностью сосредоточен и в деле, без отвлечений. Наше — «в потоке», «врубился, погнал».",
+        "example": "Сегодня без отвлечений, я locked in.",
+        "term": "Locked in"
+      },
+      "ja": {
+        "definition": "完全に集中して全力で取り組んでいる状態。日本語の「集中モード」「本気出す」に近い。",
+        "example": "今夜は邪魔なし、locked in(集中モード)でいく。",
+        "term": "Locked in"
+      },
+      "ko": {
+        "definition": "어떤 일에 완전히 몰입하고 집중한 상태를 뜻한다.",
+        "example": "오늘 밤은 딴짓 없이 locked in 할 거야.",
+        "term": "Locked in"
+      },
+      "fr": {
+        "definition": "Entièrement concentré et investi dans une tâche ; « à fond » ou « en mode focus ».",
+        "example": "Pas de distractions ce soir, je suis locked in.",
+        "term": "Locked in"
+      },
+      "es": {
+        "definition": "Totalmente concentrado y comprometido con una tarea. Equivale a 'estar metido a tope' o 'enchufado'.",
+        "example": "Esta noche sin distracciones, estoy locked in.",
+        "term": "Locked in"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-083",
+    "deck": "internet-slang",
+    "term": "Opp",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An opponent, enemy, or rival.",
+        "example": "Don't tell the opps our plan."
+      },
+      "ru": {
+        "definition": "Противник, враг, соперник. Наше — «противник», «недруг».",
+        "example": "Не сливай opps наш план.",
+        "term": "Opp"
+      },
+      "ja": {
+        "definition": "敵、ライバル、対立相手を指すスラング。opponentの略。",
+        "example": "俺たちの計画をopps(敵側)にバラすなよ。",
+        "term": "Opp"
+      },
+      "ko": {
+        "definition": "적, 라이벌, 상대를 뜻하는 비격식 표현이다.",
+        "example": "opp한테 우리 계획 말하지 마.",
+        "term": "Opp"
+      },
+      "fr": {
+        "definition": "Un adversaire, un ennemi ou un rival ; abréviation de « opponent ».",
+        "example": "Ne va pas raconter notre plan aux opps.",
+        "term": "Opp"
+      },
+      "es": {
+        "definition": "Un oponente, enemigo o rival. Equivale a 'rival' o 'enemigo'.",
+        "example": "No les cuentes el plan a los opps.",
+        "term": "Opp"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-084",
+    "deck": "internet-slang",
+    "term": "Mewing",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "genz",
+      "meme"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Pressing the tongue to the roof of the mouth, claimed to sharpen the jawline.",
+        "example": "He stayed silent and pointed at his jaw — he was mewing."
+      },
+      "ru": {
+        "definition": "Прижимать язык к нёбу — якобы делает челюсть чётче. Тренд из тиктока.",
+        "example": "Молчал и тыкал в челюсть — он был mewing.",
+        "term": "Mewing"
+      },
+      "ja": {
+        "definition": "舌を上あごに押し当てる行為で、あご周りがシャープになると噂される(科学的根拠は薄い)。",
+        "example": "彼、黙ってあごを指さしてた、mewing(舌トレ)してたんだよ。",
+        "term": "Mewing"
+      },
+      "ko": {
+        "definition": "턱선을 날카롭게 만든다며 혀를 입천장에 붙이는 행동을 뜻한다.",
+        "example": "걔는 말없이 자기 턱을 가리켰어. mewing 중이었던 거야.",
+        "term": "Mewing"
+      },
+      "fr": {
+        "definition": "Plaquer la langue contre le palais, censé affiner la mâchoire ; le terme « mewing » s'emploie tel quel.",
+        "example": "Il est resté silencieux et a montré sa mâchoire : il faisait du mewing.",
+        "term": "Mewing"
+      },
+      "es": {
+        "definition": "Presionar la lengua contra el paladar, supuestamente para marcar la mandíbula.",
+        "example": "Se quedó callado y se señaló la mandíbula: estaba mewing.",
+        "term": "Mewing"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-085",
+    "deck": "internet-slang",
+    "term": "Looksmaxxing",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "genz",
+      "appearance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Maximizing one's physical attractiveness through various efforts.",
+        "example": "He's deep into looksmaxxing routines now."
+      },
+      "ru": {
+        "definition": "Прокачивать внешность всеми способами. Наше — «прокачка внешности».",
+        "example": "Он сейчас плотно сидит на looksmaxxing.",
+        "term": "Looksmaxxing"
+      },
+      "ja": {
+        "definition": "あらゆる努力で自分の外見の魅力を最大限に高めること。日本語の「見た目磨き」に近い。",
+        "example": "あいつ今、looksmaxxing(見た目磨き)のルーティンにどっぷりだよ。",
+        "term": "Looksmaxxing"
+      },
+      "ko": {
+        "definition": "여러 방법으로 외모 매력을 극대화하려는 노력을 뜻한다.",
+        "example": "걔 요즘 looksmaxxing 루틴에 푹 빠졌어.",
+        "term": "Looksmaxxing"
+      },
+      "fr": {
+        "definition": "Maximiser son attrait physique par divers moyens et routines.",
+        "example": "Il est à fond dans ses routines de looksmaxxing maintenant.",
+        "term": "Looksmaxxing"
+      },
+      "es": {
+        "definition": "Maximizar el atractivo físico a base de distintos esfuerzos. Equivale a 'sacarse el máximo partido'.",
+        "example": "Ahora está metidísimo en rutinas de looksmaxxing.",
+        "term": "Looksmaxxing"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-086",
+    "deck": "internet-slang",
+    "term": "Yap",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To talk a lot, often pointlessly; a 'yapper' won't stop.",
+        "example": "Stop yapping and get to the point."
+      },
+      "ru": {
+        "definition": "Трепаться много и часто без толку; «yapper» не затыкается. Наше — «балаболить», «трещать».",
+        "example": "Хватит yapping, давай к делу.",
+        "term": "Yap"
+      },
+      "ja": {
+        "definition": "だらだらと、しばしば中身なく喋りまくること。喋り倒す人を「yapper」と言う。",
+        "example": "yap(ダラダラ喋る)のやめて、要点を言ってよ。",
+        "term": "Yap"
+      },
+      "ko": {
+        "definition": "흔히 영양가 없이 말이 많다는 뜻으로, 'yapper'는 쉴 새 없이 떠드는 사람이다. 우리말 '주절거리다'에 가깝다.",
+        "example": "yapping 그만하고 본론만 말해.",
+        "term": "Yap"
+      },
+      "fr": {
+        "definition": "Parler beaucoup, souvent pour ne rien dire ; un « yapper » ne s'arrête jamais. Proche de « jacasser ».",
+        "example": "Arrête de yapper et viens-en au fait.",
+        "term": "Yap"
+      },
+      "es": {
+        "definition": "Hablar mucho, a menudo sin sentido; un 'yapper' no para de hablar. Equivale a 'enrollarse' o 'cotorrear'.",
+        "example": "Deja de hacer yap y ve al grano.",
+        "term": "Yap"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-087",
+    "deck": "internet-slang",
+    "term": "Vibing",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genz",
+      "mood"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Relaxing and enjoying the mood of the moment.",
+        "example": "Just vibing to some music at home."
+      },
+      "ru": {
+        "definition": "Расслабляться и ловить настроение момента. Наше — «вайбить», «кайфовать».",
+        "example": "Просто vibing под музыку дома.",
+        "term": "Vibing"
+      },
+      "ja": {
+        "definition": "その場の雰囲気をまったり楽しんでくつろいでいる様子。日本語でも「チルする」と言う。",
+        "example": "家で音楽聴きながらvibing(まったり)してるだけだよ。",
+        "term": "Vibing"
+      },
+      "ko": {
+        "definition": "그 순간의 분위기를 느긋하게 즐긴다는 뜻이다.",
+        "example": "그냥 집에서 음악 들으면서 vibing 중이야.",
+        "term": "Vibing"
+      },
+      "fr": {
+        "definition": "Se détendre et savourer l'ambiance du moment ; « kiffer l'instant ».",
+        "example": "Je suis juste en train de vibing sur de la musique à la maison.",
+        "term": "Vibing"
+      },
+      "es": {
+        "definition": "Relajarse y disfrutar del ambiente del momento. Equivale a 'estar a gusto' o 'fluir'.",
+        "example": "Aquí en casa, vibing con algo de música.",
+        "term": "Vibing"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-088",
+    "deck": "internet-slang",
+    "term": "Fire",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "praise",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Excellent, impressive, or extremely good.",
+        "example": "That new verse is straight fire."
+      },
+      "ru": {
+        "definition": "Отлично, мощно, нереально круто. Наше — «огонь», «пушка».",
+        "example": "Новый куплет просто fire.",
+        "term": "Fire"
+      },
+      "ja": {
+        "definition": "最高に素晴らしい、イケてるという褒め言葉。日本語の「ヤバい(良い意味)」に近い。",
+        "example": "あの新しいバース、マジでfire(ヤバい)。",
+        "term": "Fire"
+      },
+      "ko": {
+        "definition": "훌륭하고 인상적이며 엄청 좋다는 뜻으로, 우리말 '쩐다'에 가깝다.",
+        "example": "그 새 벌스 진짜 straight fire야.",
+        "term": "Fire"
+      },
+      "fr": {
+        "definition": "Excellent, impressionnant ou vraiment génial ; « le feu » ou « ça envoie ».",
+        "example": "Ce nouveau couplet est straight fire.",
+        "term": "Fire"
+      },
+      "es": {
+        "definition": "Excelente, impresionante o buenísimo. Equivale a 'la caña' o 'una pasada'.",
+        "example": "Esa estrofa nueva es straight fire.",
+        "term": "Fire"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-089",
+    "deck": "internet-slang",
+    "term": "Lowkey flex",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A subtle, understated show of something impressive.",
+        "example": "Casually mentioning his villa was a lowkey flex."
+      },
+      "ru": {
+        "definition": "Тонкий, ненавязчивый показ чего-то крутого. Наше — «скрытый флекс».",
+        "example": "Вскользь упомянул свою виллу — lowkey flex.",
+        "term": "Lowkey flex"
+      },
+      "ja": {
+        "definition": "すごいことを、わざと控えめに・さりげなく見せる自慢。日本語の「さりげない自慢」に近い。",
+        "example": "別荘の話をさらっと出すなんて、lowkey flex(さりげない自慢)だね。",
+        "term": "Lowkey flex"
+      },
+      "ko": {
+        "definition": "대단한 것을 은근하고 티 안 나게 과시하는 것을 뜻한다.",
+        "example": "자기 별장 얘기를 슬쩍 흘린 건 lowkey flex였어.",
+        "term": "Lowkey flex"
+      },
+      "fr": {
+        "definition": "Un étalage subtil et discret de quelque chose d'impressionnant ; une frime tout en retenue.",
+        "example": "Mentionner sa villa l'air de rien, c'était un lowkey flex.",
+        "term": "Lowkey flex"
+      },
+      "es": {
+        "definition": "Una muestra sutil y discreta de algo impresionante. Equivale a 'fardar con disimulo'.",
+        "example": "Mencionar de pasada su villa fue un lowkey flex.",
+        "term": "Lowkey flex"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-090",
+    "deck": "internet-slang",
+    "term": "Bestie",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Best friend; also used loosely to address anyone, sometimes sarcastically.",
+        "example": "Bestie, you cannot wear that."
+      },
+      "ru": {
+        "definition": "Лучший друг; ещё и обращение к кому угодно, порой с сарказмом. Наше — «бро», «подруга».",
+        "example": "Bestie, ты не можешь это надеть.",
+        "term": "Bestie"
+      },
+      "ja": {
+        "definition": "親友のこと。誰にでも気軽に、時に皮肉で呼びかける言葉としても使う。「ねえちょっと」に近い。",
+        "example": "bestie(ねえ)、それはさすがに着られないよ。",
+        "term": "Bestie"
+      },
+      "ko": {
+        "definition": "단짝 친구를 뜻하지만, 아무에게나 가볍게, 때로는 비꼬듯 부르는 호칭으로도 쓴다.",
+        "example": "Bestie, 너 그거 입으면 안 돼.",
+        "term": "Bestie"
+      },
+      "fr": {
+        "definition": "Meilleure amie ; aussi employé librement pour s'adresser à n'importe qui, parfois avec ironie.",
+        "example": "Bestie, tu ne peux pas porter ça.",
+        "term": "Bestie"
+      },
+      "es": {
+        "definition": "Mejor amigo; también se usa sin más para dirigirse a cualquiera, a veces con sarcasmo. Equivale a 'mejor amigo' o 'figura'.",
+        "example": "Bestie, no puedes ponerte eso.",
+        "term": "Bestie"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-091",
+    "deck": "internet-slang",
+    "term": "Vibe shift",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "culture",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A noticeable change in the dominant cultural mood or trend.",
+        "example": "There's been a real vibe shift in fashion this year."
+      },
+      "ru": {
+        "definition": "Заметная смена доминирующего культурного настроения или тренда.",
+        "example": "В моде в этом году реальный vibe shift.",
+        "term": "Vibe shift"
+      },
+      "ja": {
+        "definition": "文化的なムードや流行の、はっきり感じ取れる潮目の変化を指す。「潮目が変わる」に近い。",
+        "example": "今年のファッションは、はっきりとvibe shift(潮目の変化)があったね。",
+        "term": "Vibe shift"
+      },
+      "ko": {
+        "definition": "문화적 분위기나 유행의 주류가 눈에 띄게 바뀌는 것을 뜻한다.",
+        "example": "올해 패션에 진짜 vibe shift가 있었어.",
+        "term": "Vibe shift"
+      },
+      "fr": {
+        "definition": "Un changement perceptible de l'humeur ou de la tendance culturelle dominante ; un « basculement d'ambiance ».",
+        "example": "Il y a eu un vrai vibe shift dans la mode cette année.",
+        "term": "Vibe shift"
+      },
+      "es": {
+        "definition": "Un cambio notable en el ambiente cultural o la tendencia dominante. Equivale a 'cambio de aires' o 'giro de tendencia'.",
+        "example": "Ha habido un vibe shift de verdad en la moda este año.",
+        "term": "Vibe shift"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-092",
+    "deck": "internet-slang",
+    "term": "Gassed",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "emotion"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Hyped up or overly confident, often by others' praise.",
+        "example": "They gassed him up before the game."
+      },
+      "ru": {
+        "definition": "Раскрученный, перехваленный, чрезмерно уверенный — часто из-за чужих похвал. Наше — «накрутили эго».",
+        "example": "Его gassed up перед игрой.",
+        "term": "Gassed"
+      },
+      "ja": {
+        "definition": "周りの褒め言葉などでテンションが上がり、調子に乗っている状態。「おだてられて舞い上がる」に近い。",
+        "example": "試合前にみんなが彼をgassed(おだてて舞い上がらせ)てた。",
+        "term": "Gassed"
+      },
+      "ko": {
+        "definition": "주로 남들의 칭찬에 들떠 자신감이 과해진 상태를 뜻한다.",
+        "example": "애들이 경기 전에 걔를 gassed 시켜놨어.",
+        "term": "Gassed"
+      },
+      "fr": {
+        "definition": "Survolté ou trop sûr de soi, souvent à force de compliments ; « chauffé à blanc ».",
+        "example": "Ils l'ont gassed avant le match.",
+        "term": "Gassed"
+      },
+      "es": {
+        "definition": "Eufórico o demasiado confiado, a menudo por los halagos de otros. Equivale a 'venirse arriba' o 'subirse a la parra'.",
+        "example": "Le subieron mucho el ego a base de elogios antes del partido.",
+        "term": "Gassed"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-093",
+    "deck": "internet-slang",
+    "term": "Real one",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "social",
+      "praise"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A genuine, loyal, trustworthy person.",
+        "example": "You covered my shift? You're a real one."
+      },
+      "ru": {
+        "definition": "Настоящий, преданный, надёжный человек. Наше — «свой человек», «реальный пацан».",
+        "example": "Подменил мою смену? Ты real one.",
+        "term": "Real one"
+      },
+      "ja": {
+        "definition": "裏表のない、誠実で信頼できる人を指す賛辞。日本語の「いいやつ」「義理堅いやつ」に近い。",
+        "example": "俺のシフト代わってくれたの?お前real one(マジでいいやつ)だわ。",
+        "term": "Real one"
+      },
+      "ko": {
+        "definition": "진실되고 의리 있으며 믿을 만한 사람을 뜻한다.",
+        "example": "내 근무 대신 서줬다고? 넌 진짜 real one이야.",
+        "term": "Real one"
+      },
+      "fr": {
+        "definition": "Une personne authentique, loyale et digne de confiance ; un « vrai de vrai ».",
+        "example": "Tu as assuré mon service à ma place ? Tu es un real one.",
+        "term": "Real one"
+      },
+      "es": {
+        "definition": "Una persona genuina, leal y de confianza. Equivale a 'un crack' o 'una persona de fiar'.",
+        "example": "¿Me cubriste el turno? Eres un real one.",
+        "term": "Real one"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-094",
+    "deck": "internet-slang",
+    "term": "Wholesome",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "internet",
+      "reaction"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Heartwarming and pure, in a sincere, feel-good way.",
+        "example": "That video of the rescue dog is so wholesome."
+      },
+      "ru": {
+        "definition": "Душевное, чистое, по-доброму трогательное. Наше — «милота», «по-доброму».",
+        "example": "Это видео со спасённой собакой такое wholesome.",
+        "term": "Wholesome"
+      },
+      "ja": {
+        "definition": "心がほっこりする、純粋で素直に温かい気持ちになる様子。「ほっこり」「尊い」に近い。",
+        "example": "あの保護犬の動画、めっちゃwholesome(ほっこり)。",
+        "term": "Wholesome"
+      },
+      "ko": {
+        "definition": "진심 어리고 순수해서 마음이 따뜻해진다는 뜻으로, 우리말 '훈훈하다'에 가깝다.",
+        "example": "그 유기견 구조 영상 진짜 wholesome하다.",
+        "term": "Wholesome"
+      },
+      "fr": {
+        "definition": "Touchant et pur, dans un esprit sincère et réconfortant ; « adorable » ou « ça fait du bien ».",
+        "example": "Cette vidéo du chien sauvé est tellement wholesome.",
+        "term": "Wholesome"
+      },
+      "es": {
+        "definition": "Entrañable y puro, de un modo sincero y reconfortante. Equivale a 'tierno' o 'que te llena el corazón'.",
+        "example": "Ese vídeo del perro rescatado es muy wholesome.",
+        "term": "Wholesome"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-095",
+    "deck": "internet-slang",
+    "term": "Cancelled",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "internet"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Publicly boycotted or shunned over offensive behavior.",
+        "example": "The influencer got cancelled after the old posts surfaced."
+      },
+      "ru": {
+        "definition": "Публично забойкотированный за неприемлемое поведение. Наше — «отменили», «закенселили».",
+        "example": "Блогера cancelled после всплывших старых постов.",
+        "term": "Кэнселнут"
+      },
+      "ja": {
+        "definition": "問題発言や行動を理由に、世間から公然と排斥・ボイコットされること。日本語でも「キャンセルされる」と言う。",
+        "example": "あのインフルエンサー、過去の投稿が掘り起こされてcancelled(炎上して排斥)された。",
+        "term": "キャンセル"
+      },
+      "ko": {
+        "definition": "잘못된 행동 때문에 공개적으로 외면당하거나 불매당한다는 뜻으로, 우리말 '손절당하다'에 가깝다.",
+        "example": "그 인플루언서는 옛날 게시물이 드러나면서 cancelled됐어.",
+        "term": "캔슬"
+      },
+      "fr": {
+        "definition": "Boycotté ou mis au ban publiquement à cause d'un comportement offensant ; « annulé ».",
+        "example": "L'influenceur s'est fait cancel après la réapparition de vieux posts.",
+        "term": "Cancelled"
+      },
+      "es": {
+        "definition": "Boicoteado o rechazado públicamente por un comportamiento ofensivo. Equivale a 'funado' (LatAm) o 'cancelado'.",
+        "example": "Cancelaron al influencer cuando salieron sus publicaciones antiguas.",
+        "term": "Cancelado"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-096",
+    "deck": "internet-slang",
+    "term": "Glow down",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "beauty",
+      "genz"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A decline in appearance or style; the opposite of glow up.",
+        "example": "That haircut was a real glow down."
+      },
+      "ru": {
+        "definition": "Спад во внешности или стиле; противоположность glow up. Наше — «подурнела», «скатилась».",
+        "example": "Эта стрижка — настоящий glow down.",
+        "term": "Glow down"
+      },
+      "ja": {
+        "definition": "見た目やスタイルが悪化すること。glow up(垢抜け)の反対。",
+        "example": "あの髪型はガチでglow down(劣化)だった。",
+        "term": "Glow down"
+      },
+      "ko": {
+        "definition": "외모나 스타일이 나빠진 것을 뜻하며, glow up의 반대 표현이다.",
+        "example": "그 머리는 진짜 glow down이었어.",
+        "term": "Glow down"
+      },
+      "fr": {
+        "definition": "Un déclin de l'apparence ou du style ; l'inverse du glow up.",
+        "example": "Cette coupe de cheveux, c'était un vrai glow down.",
+        "term": "Glow down"
+      },
+      "es": {
+        "definition": "Un declive en el aspecto o el estilo; lo contrario de glow up. Equivale a 'bajón' de imagen.",
+        "example": "Ese corte de pelo fue un glow down de verdad.",
+        "term": "Glow down"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-097",
+    "deck": "internet-slang",
+    "term": "Menty b",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "genz",
+      "emotion"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A playful, downplayed way of saying a mental breakdown.",
+        "example": "Three exams in one day? I'm having a menty b."
+      },
+      "ru": {
+        "definition": "Шутливо-приуменьшённое название нервного срыва. Наше — «у меня кукуха едет».",
+        "example": "Три экзамена за день? У меня menty b.",
+        "term": "Menty b"
+      },
+      "ja": {
+        "definition": "精神的な限界・メンタル崩壊を、ふざけて軽く言う言い回し。mental breakdownの崩し。",
+        "example": "一日に試験3つ?もうmenty b(メンタル崩壊)だわ。",
+        "term": "Menty b"
+      },
+      "ko": {
+        "definition": "정신적 붕괴(mental breakdown)를 가볍고 귀엽게 줄여 이르는 표현이다.",
+        "example": "하루에 시험을 세 개나? 나 menty b 올 것 같아.",
+        "term": "Menty b"
+      },
+      "fr": {
+        "definition": "Une manière badine et minimisée de parler d'une crise de nerfs ; abréviation de « mental breakdown ».",
+        "example": "Trois examens en une journée ? Je fais une menty b.",
+        "term": "Menty b"
+      },
+      "es": {
+        "definition": "Una forma juguetona y suavizada de decir que tienes una crisis mental. Equivale a 'una mini crisis'.",
+        "example": "¿Tres exámenes en un día? Me está dando una menty b.",
+        "term": "Menty b"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-098",
+    "deck": "internet-slang",
+    "term": "CEO of",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "humor"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Jokingly the best at or most associated with something.",
+        "example": "She's the CEO of being late."
+      },
+      "ru": {
+        "definition": "В шутку «главный по чему-то», лучший в этом. Наше — «гендир по…», «чемпион по…».",
+        "example": "Она CEO of опаздывать.",
+        "term": "CEO of"
+      },
+      "ja": {
+        "definition": "あることが一番うまい、または最も象徴的な人を冗談めかして指す言い方。「〜界の王」に近い。",
+        "example": "彼女、遅刻のCEO(遅刻界の王)だよ。",
+        "term": "CEO of"
+      },
+      "ko": {
+        "definition": "어떤 일을 제일 잘하거나 그것의 대명사라고 장난스럽게 이르는 표현이다.",
+        "example": "걔는 지각계의 CEO야.",
+        "term": "CEO of"
+      },
+      "fr": {
+        "definition": "Pour rire, le meilleur dans un domaine ou celui qu'on y associe le plus ; le « roi/la reine de ».",
+        "example": "Elle est la CEO of arriver en retard.",
+        "term": "CEO of"
+      },
+      "es": {
+        "definition": "En broma, el mejor en algo o el más asociado a ello. Equivale a 'el rey de' o 'el campeón de'.",
+        "example": "Es la CEO de llegar tarde.",
+        "term": "CEO of"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-099",
+    "deck": "internet-slang",
+    "term": "Unalive",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "tiktok",
+      "internet"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A euphemism for death or killing, used to dodge content filters.",
+        "example": "Creators say 'unalive' to avoid being demonetized."
+      },
+      "ru": {
+        "definition": "Эвфемизм для смерти или убийства, чтобы обойти фильтры контента.",
+        "example": "Авторы говорят «unalive», чтобы их не лишили монетизации.",
+        "term": "Unalive"
+      },
+      "ja": {
+        "definition": "死や殺害を指す婉曲表現で、コンテンツ規制を回避するために使われる。",
+        "example": "クリエイターは収益化されないように「unalive(死を言い換えた表現)」を使う。",
+        "term": "Unalive"
+      },
+      "ko": {
+        "definition": "콘텐츠 필터를 피하려고 죽음이나 살해를 에둘러 표현하는 완곡어다.",
+        "example": "크리에이터들은 수익화 정지를 피하려고 'unalive'라고 말해.",
+        "term": "Unalive"
+      },
+      "fr": {
+        "definition": "Un euphémisme pour la mort ou le fait de tuer, utilisé pour contourner les filtres des plateformes.",
+        "example": "Les créateurs disent « unalive » pour éviter d'être démonétisés.",
+        "term": "Unalive"
+      },
+      "es": {
+        "definition": "Un eufemismo para la muerte o el acto de matar, usado para esquivar los filtros de contenido.",
+        "example": "Los creadores dicen 'unalive' para evitar que les desmoneticen.",
+        "term": "Unalive"
+      }
+    }
+  },
+  {
+    "id": "internet-slang-100",
+    "deck": "internet-slang",
+    "term": "Crash out",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "genz",
+      "emotion"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To react with reckless rage or an emotional outburst.",
+        "example": "He was about to crash out over a parking spot."
+      },
+      "ru": {
+        "definition": "Сорваться в безбашенную ярость или эмоциональный взрыв. Наше — «слететь с катушек», «психануть».",
+        "example": "Он чуть не crash out из-за парковочного места.",
+        "term": "Crash out"
+      },
+      "ja": {
+        "definition": "後先考えず激怒したり、感情を爆発させたりすること。日本語の「ブチギレる」「爆発する」に近い。",
+        "example": "あいつ、駐車スペースのことでcrash out(ブチギレ)しかけてた。",
+        "term": "Crash out"
+      },
+      "ko": {
+        "definition": "분노에 휩싸여 막 나가거나 감정을 폭발시킨다는 뜻으로, 우리말 '멘붕와서 폭주하다'에 가깝다.",
+        "example": "걔는 주차 자리 하나 때문에 crash out 하기 직전이었어.",
+        "term": "Crash out"
+      },
+      "fr": {
+        "definition": "Réagir avec une rage incontrôlée ou un débordement émotionnel ; « péter un câble ».",
+        "example": "Il était sur le point de crash out pour une place de parking.",
+        "term": "Crash out"
+      },
+      "es": {
+        "definition": "Reaccionar con rabia imprudente o un estallido emocional. Equivale a 'perder los papeles' o 'estallar'.",
+        "example": "Estuvo a punto de hacer un crash out por una plaza de aparcamiento.",
+        "term": "Crash out"
+      }
+    }
+  }
+]

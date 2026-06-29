@@ -1,0 +1,4200 @@
+[
+  {
+    "id": "tech-jargon-001",
+    "deck": "tech-jargon",
+    "term": "Idempotent",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "api",
+      "reliability"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An operation that gives the same result no matter how many times you run it.",
+        "example": "Hitting the same DELETE endpoint twice is fine if it's idempotent."
+      },
+      "ru": {
+        "definition": "Операция, которая даёт один и тот же результат, сколько бы раз её ни повторили.",
+        "example": "Дважды дёрнуть тот же DELETE-эндпоинт не страшно, если он идемпотентен.",
+        "term": "Идемпотентность"
+      },
+      "ja": {
+        "definition": "何回実行しても同じ結果になる操作のこと。",
+        "example": "同じDELETEエンドポイントを2回叩いても、冪等なら問題ない。",
+        "term": "冪等"
+      },
+      "ko": {
+        "definition": "몇 번을 실행하든 항상 같은 결과를 내는 연산.",
+        "example": "멱등성이 보장되면 같은 DELETE 엔드포인트를 두 번 호출해도 문제없다.",
+        "term": "멱등성"
+      },
+      "fr": {
+        "definition": "Une opération qui donne le même résultat quel que soit le nombre de fois où on l'exécute.",
+        "example": "Appeler deux fois le même endpoint DELETE ne pose pas de problème s'il est idempotent.",
+        "term": "Idempotent"
+      },
+      "es": {
+        "definition": "Operación que da el mismo resultado sin importar cuántas veces se ejecute.",
+        "example": "Llamar dos veces al mismo endpoint DELETE no causa problemas si es idempotente.",
+        "term": "Idempotente"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-002",
+    "deck": "tech-jargon",
+    "term": "Race condition",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "concurrency",
+      "bugs"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A bug where the outcome depends on the unpredictable timing of concurrent operations.",
+        "example": "Two threads incremented the counter at once — a classic race condition."
+      },
+      "ru": {
+        "definition": "Баг, при котором результат зависит от непредсказуемого порядка одновременных операций.",
+        "example": "Два потока разом увеличили счётчик — классический race condition.",
+        "term": "Состояние гонки"
+      },
+      "ja": {
+        "definition": "並行して動く処理のタイミング次第で結果が変わってしまう不具合のこと。",
+        "example": "2つのスレッドが同時にカウンターを増やした、典型的な競合状態だ。",
+        "term": "競合状態"
+      },
+      "ko": {
+        "definition": "동시에 실행되는 작업들의 예측 불가능한 타이밍에 따라 결과가 달라지는 버그.",
+        "example": "두 스레드가 동시에 카운터를 증가시킨, 전형적인 레이스 컨디션이었다.",
+        "term": "경쟁 상태"
+      },
+      "fr": {
+        "definition": "Un bug dont le résultat dépend du minutage imprévisible d'opérations concurrentes.",
+        "example": "Deux threads ont incrémenté le compteur en même temps : une race condition classique.",
+        "term": "Situation de compétition"
+      },
+      "es": {
+        "definition": "Error cuyo resultado depende del orden impredecible de operaciones simultáneas.",
+        "example": "Dos hilos incrementaron el contador a la vez: una clásica race condition.",
+        "term": "Condición de carrera"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-003",
+    "deck": "tech-jargon",
+    "term": "Tech debt",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "engineering",
+      "culture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The future cost of choosing a quick solution now instead of a better one.",
+        "example": "We shipped fast, but the tech debt is slowing every new feature."
+      },
+      "ru": {
+        "definition": "Будущая цена быстрого решения сейчас вместо более качественного.",
+        "example": "Выкатили быстро, но техдолг тормозит каждую новую фичу.",
+        "term": "Технический долг"
+      },
+      "ja": {
+        "definition": "今より良い解決策ではなく手早い解決策を選んだことで、将来支払うことになるコストのこと。",
+        "example": "速くリリースできたが、技術的負債が新機能の開発を毎回遅らせている。",
+        "term": "技術的負債"
+      },
+      "ko": {
+        "definition": "더 나은 방법 대신 당장 빠른 해결책을 택했을 때 나중에 치르게 되는 비용.",
+        "example": "빠르게 출시했지만, 기술 부채 때문에 새 기능을 추가할 때마다 속도가 느려진다.",
+        "term": "기술 부채"
+      },
+      "fr": {
+        "definition": "Le coût futur engendré par le choix d'une solution rapide aujourd'hui plutôt que d'une meilleure.",
+        "example": "On a livré vite, mais la tech debt ralentit désormais chaque nouvelle fonctionnalité.",
+        "term": "Dette technique"
+      },
+      "es": {
+        "definition": "El coste futuro de elegir ahora una solución rápida en lugar de una mejor.",
+        "example": "Lanzamos rápido, pero la tech debt frena cada nueva funcionalidad.",
+        "term": "Deuda técnica"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-004",
+    "deck": "tech-jargon",
+    "term": "Refactor",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "engineering"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Restructuring code to improve it without changing what it does.",
+        "example": "Let's refactor this 300-line function before adding more to it."
+      },
+      "ru": {
+        "definition": "Перестройка кода, улучшающая его без изменения поведения.",
+        "example": "Давай отрефакторим эту функцию на 300 строк, прежде чем дописывать.",
+        "term": "Рефакторинг"
+      },
+      "ja": {
+        "definition": "動作を変えずにコードの構造を改善すること。",
+        "example": "この300行の関数は、これ以上機能を足す前にリファクタリングしよう。",
+        "term": "リファクタリング"
+      },
+      "ko": {
+        "definition": "동작은 그대로 두고 코드의 구조만 개선하는 작업.",
+        "example": "여기에 더 추가하기 전에 이 300줄짜리 함수부터 리팩터링하자.",
+        "term": "리팩터링"
+      },
+      "fr": {
+        "definition": "Restructurer du code pour l'améliorer sans changer ce qu'il fait.",
+        "example": "Refactorisons cette fonction de 300 lignes avant d'y ajouter encore du code.",
+        "term": "Refactorisation"
+      },
+      "es": {
+        "definition": "Reestructurar el código para mejorarlo sin cambiar lo que hace.",
+        "example": "Hagamos refactor de esta función de 300 líneas antes de ampliarla más.",
+        "term": "Refactorización"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-005",
+    "deck": "tech-jargon",
+    "term": "Yak shaving",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "culture",
+      "slang"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Doing a chain of unrelated tasks just to finally get to the real one.",
+        "example": "Fixing the build needed a new tool, which needed an update — total yak shaving."
+      },
+      "ru": {
+        "definition": "Цепочка побочных задач, которые приходится сделать, лишь бы дойти до настоящей.",
+        "example": "Чтобы починить сборку, понадобился новый инструмент, а тому — обновление. Сплошной yak shaving.",
+        "term": "Yak shaving"
+      },
+      "ja": {
+        "definition": "本来やりたい作業にたどり着くために、関係のない作業を次々とこなしていくこと。",
+        "example": "ビルドを直すには新しいツールが必要で、そのツールには更新が必要で、完全にヤクの毛刈り状態だった。",
+        "term": "Yak shaving"
+      },
+      "ko": {
+        "definition": "정작 하려던 일에 도달하기 위해 관련 없는 작업들을 줄줄이 처리하게 되는 상황.",
+        "example": "빌드를 고치려니 새 도구가 필요했고, 그 도구는 업데이트가 필요했다 — 완전한 야크 셰이빙이다.",
+        "term": "Yak shaving"
+      },
+      "fr": {
+        "definition": "Enchaîner une série de tâches sans rapport juste pour pouvoir enfin s'attaquer à la vraie.",
+        "example": "Réparer le build exigeait un nouvel outil, qui exigeait une mise à jour : du pur yak shaving.",
+        "term": "Yak shaving"
+      },
+      "es": {
+        "definition": "Encadenar tareas no relacionadas solo para por fin llegar a la que de verdad importa.",
+        "example": "Arreglar la compilación exigía una herramienta nueva, que exigía una actualización: puro yak shaving.",
+        "term": "Yak shaving"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-006",
+    "deck": "tech-jargon",
+    "term": "Bikeshedding",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "culture",
+      "meetings"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Wasting time on trivial details while ignoring the important decisions.",
+        "example": "We spent an hour bikeshedding the button color instead of the architecture."
+      },
+      "ru": {
+        "definition": "Трата времени на мелкие детали в ущерб действительно важным решениям.",
+        "example": "Час спорили о цвете кнопки вместо архитектуры — чистый bikeshedding.",
+        "term": "Bikeshedding"
+      },
+      "ja": {
+        "definition": "重要な決定をおろそかにして、些細な点に時間を浪費すること。",
+        "example": "アーキテクチャではなく、ボタンの色の議論に1時間も費やしてしまった。",
+        "term": "Bikeshedding"
+      },
+      "ko": {
+        "definition": "정작 중요한 결정은 놔두고 사소한 세부 사항에 시간을 낭비하는 것.",
+        "example": "아키텍처는 제쳐두고 버튼 색깔을 두고 한 시간이나 바이크셰딩을 했다.",
+        "term": "Bikeshedding"
+      },
+      "fr": {
+        "definition": "Perdre du temps sur des détails insignifiants en négligeant les décisions importantes.",
+        "example": "On a passé une heure à débattre de la couleur du bouton au lieu de l'architecture.",
+        "term": "Bikeshedding"
+      },
+      "es": {
+        "definition": "Perder el tiempo en detalles triviales mientras se ignoran las decisiones importantes.",
+        "example": "Pasamos una hora con bikeshedding sobre el color del botón en vez de la arquitectura.",
+        "term": "Bikeshedding"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-007",
+    "deck": "tech-jargon",
+    "term": "MVP",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "startup",
+      "product"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The smallest version of a product that still delivers value and tests an idea.",
+        "example": "Launch the MVP first; we can add the fancy dashboard later."
+      },
+      "ru": {
+        "definition": "Минимальная версия продукта, которая всё ещё несёт пользу и проверяет идею.",
+        "example": "Сначала запустим MVP, навороченный дашборд добавим потом.",
+        "term": "MVP"
+      },
+      "ja": {
+        "definition": "価値を提供しアイデアを検証できる、製品の必要最小限のバージョンのこと。",
+        "example": "まずはMVPをローンチしよう。凝ったダッシュボードは後で追加できる。",
+        "term": "MVP"
+      },
+      "ko": {
+        "definition": "그래도 가치를 제공하고 아이디어를 검증할 수 있는, 제품의 가장 작은 버전.",
+        "example": "MVP를 먼저 출시하자. 멋진 대시보드는 나중에 추가하면 된다.",
+        "term": "MVP"
+      },
+      "fr": {
+        "definition": "La plus petite version d'un produit qui apporte déjà de la valeur et permet de tester une idée.",
+        "example": "Lançons d'abord le MVP ; on pourra ajouter le tableau de bord sophistiqué plus tard.",
+        "term": "MVP"
+      },
+      "es": {
+        "definition": "La versión más pequeña de un producto que aun así aporta valor y permite probar una idea.",
+        "example": "Lancemos primero el MVP; el panel sofisticado lo añadimos después.",
+        "term": "MVP"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-008",
+    "deck": "tech-jargon",
+    "term": "Pivot",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "startup",
+      "strategy"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A fundamental change in a startup's strategy while keeping its learnings.",
+        "example": "After low demand, the team pivoted from B2C to selling tools to enterprises."
+      },
+      "ru": {
+        "definition": "Резкая смена стратегии стартапа с сохранением накопленного опыта.",
+        "example": "После слабого спроса команда сделала pivot с B2C на продажу инструментов корпорациям.",
+        "term": "Пивот"
+      },
+      "ja": {
+        "definition": "学びを活かしつつ、スタートアップの戦略を根本的に転換すること。",
+        "example": "需要が低かったため、チームはB2Cから企業向けツール販売へとピボットした。",
+        "term": "ピボット"
+      },
+      "ko": {
+        "definition": "그동안 배운 것은 유지하면서 스타트업의 전략을 근본적으로 전환하는 것.",
+        "example": "수요가 저조하자 팀은 B2C에서 기업용 도구 판매로 피벗했다.",
+        "term": "피벗"
+      },
+      "fr": {
+        "definition": "Un changement fondamental de la stratégie d'une startup, tout en conservant ses acquis.",
+        "example": "Face à une faible demande, l'équipe est passée du B2C à la vente d'outils aux grandes entreprises.",
+        "term": "Pivot"
+      },
+      "es": {
+        "definition": "Un cambio fundamental en la estrategia de una startup conservando lo aprendido.",
+        "example": "Ante la baja demanda, el equipo hizo un pivot de B2C a vender herramientas a empresas.",
+        "term": "Pivote"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-009",
+    "deck": "tech-jargon",
+    "term": "Runway",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "startup",
+      "finance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How long a startup can operate before it runs out of money.",
+        "example": "At this burn rate we have nine months of runway left."
+      },
+      "ru": {
+        "definition": "Срок, на который стартапу хватит денег при текущих тратах.",
+        "example": "При таком расходе у нас осталось девять месяцев runway.",
+        "term": "Runway"
+      },
+      "ja": {
+        "definition": "資金が尽きるまでスタートアップが事業を続けられる期間のこと。",
+        "example": "この資金燃焼ペースだと、残りのランウェイは9か月だ。",
+        "term": "Runway"
+      },
+      "ko": {
+        "definition": "스타트업이 자금이 바닥나기 전까지 버틸 수 있는 기간.",
+        "example": "이 소진 속도라면 남은 런웨이는 9개월이다.",
+        "term": "Runway"
+      },
+      "fr": {
+        "definition": "La durée pendant laquelle une startup peut fonctionner avant de manquer de trésorerie.",
+        "example": "À ce rythme de dépenses, il nous reste neuf mois de trésorerie.",
+        "term": "Runway"
+      },
+      "es": {
+        "definition": "Cuánto tiempo puede operar una startup antes de quedarse sin dinero.",
+        "example": "A este ritmo de gasto nos quedan nueve meses de runway.",
+        "term": "Runway"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-010",
+    "deck": "tech-jargon",
+    "term": "Churn",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "startup",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The rate at which customers stop using a product or service.",
+        "example": "Monthly churn jumped to 8%, so retention is now our top priority."
+      },
+      "ru": {
+        "definition": "Скорость, с которой клиенты перестают пользоваться продуктом.",
+        "example": "Месячный churn подскочил до 8%, так что удержание теперь приоритет №1.",
+        "term": "Отток (Churn)"
+      },
+      "ja": {
+        "definition": "顧客が製品やサービスの利用をやめていく割合のこと。",
+        "example": "月間のチャーン(解約率)が8%に跳ね上がり、リテンションが最優先課題になった。",
+        "term": "チャーン"
+      },
+      "ko": {
+        "definition": "고객이 제품이나 서비스 사용을 중단하는 비율.",
+        "example": "월간 이탈률이 8%까지 치솟아서 이제 리텐션이 최우선 과제다.",
+        "term": "이탈률(Churn)"
+      },
+      "fr": {
+        "definition": "Le taux auquel les clients cessent d'utiliser un produit ou un service.",
+        "example": "Le taux d'attrition mensuel a bondi à 8 %, la rétention est donc notre priorité absolue.",
+        "term": "Attrition (Churn)"
+      },
+      "es": {
+        "definition": "El ritmo al que los clientes dejan de usar un producto o servicio.",
+        "example": "El churn mensual subió al 8%, así que la retención es ahora nuestra prioridad.",
+        "term": "Rotación (Churn)"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-011",
+    "deck": "tech-jargon",
+    "term": "Boilerplate",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "code",
+      "patterns"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Repetitive code or text that's needed but adds little unique value.",
+        "example": "This framework cuts the boilerplate you'd write for every form."
+      },
+      "ru": {
+        "definition": "Повторяющийся код или текст, нужный, но почти не несущий уникальной ценности.",
+        "example": "Этот фреймворк убирает boilerplate, который пришлось бы писать под каждую форму.",
+        "term": "Boilerplate"
+      },
+      "ja": {
+        "definition": "必要だがほとんど独自の価値を生まない、定型的で繰り返しの多いコードや文章のこと。",
+        "example": "このフレームワークは、フォームごとに書くはずだったボイラープレートを減らしてくれる。",
+        "term": "ボイラープレート"
+      },
+      "ko": {
+        "definition": "꼭 필요하지만 고유한 가치는 거의 더하지 않는, 반복적인 코드나 텍스트.",
+        "example": "이 프레임워크는 폼마다 작성해야 할 보일러플레이트를 줄여 준다.",
+        "term": "보일러플레이트"
+      },
+      "fr": {
+        "definition": "Du code ou du texte répétitif, nécessaire mais qui apporte peu de valeur propre.",
+        "example": "Ce framework réduit le code répétitif qu'on écrirait pour chaque formulaire.",
+        "term": "Boilerplate"
+      },
+      "es": {
+        "definition": "Código o texto repetitivo que es necesario pero aporta poco valor propio.",
+        "example": "Este framework reduce el boilerplate que escribirías para cada formulario.",
+        "term": "Boilerplate"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-012",
+    "deck": "tech-jargon",
+    "term": "Rubber duck debugging",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "debugging",
+      "culture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Solving a bug by explaining your code out loud, line by line, to anything.",
+        "example": "I found the typo halfway through rubber duck debugging to a coworker."
+      },
+      "ru": {
+        "definition": "Поиск бага через проговаривание кода вслух, строка за строкой, хоть кому.",
+        "example": "Я нашёл опечатку на середине, объясняя код коллеге, — rubber duck debugging в действии.",
+        "term": "Метод утёнка"
+      },
+      "ja": {
+        "definition": "コードを1行ずつ何かに声に出して説明することでバグを解決する手法のこと。",
+        "example": "同僚にラバーダック・デバッグで説明している途中で、タイプミスを見つけた。",
+        "term": "ラバーダックデバッグ"
+      },
+      "ko": {
+        "definition": "코드를 한 줄씩 무언가에게 소리 내어 설명하면서 버그를 찾는 방법.",
+        "example": "동료에게 러버덕 디버깅을 하던 중간에 오타를 발견했다.",
+        "term": "러버덕 디버깅"
+      },
+      "fr": {
+        "definition": "Résoudre un bug en expliquant son code à voix haute, ligne par ligne, à n'importe quoi.",
+        "example": "J'ai trouvé la coquille en pleine explication de mon code à un collègue, comme à un canard en plastique.",
+        "term": "Débogage du canard en plastique"
+      },
+      "es": {
+        "definition": "Resolver un error explicando tu código en voz alta, línea por línea, a cualquier cosa.",
+        "example": "Encontré la errata a mitad del rubber duck debugging explicándoselo a un compañero.",
+        "term": "Depuración del patito de goma"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-013",
+    "deck": "tech-jargon",
+    "term": "Heisenbug",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "debugging",
+      "bugs"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A bug that changes or disappears when you try to observe or debug it.",
+        "example": "Adding a log statement made the heisenbug vanish entirely."
+      },
+      "ru": {
+        "definition": "Баг, который меняется или исчезает, как только пытаешься его поймать.",
+        "example": "Добавил одну строку лога — и heisenbug пропал начисто.",
+        "term": "Heisenbug"
+      },
+      "ja": {
+        "definition": "観察したりデバッグしようとすると、変化したり消えたりするバグのこと。",
+        "example": "ログ出力を1行追加したら、ハイゼンバグが完全に消えてしまった。",
+        "term": "ハイゼンバグ"
+      },
+      "ko": {
+        "definition": "관찰하거나 디버깅하려고 하면 양상이 바뀌거나 사라져 버리는 버그.",
+        "example": "로그 한 줄을 추가했더니 하이젠버그가 완전히 사라졌다.",
+        "term": "하이젠버그"
+      },
+      "fr": {
+        "definition": "Un bug qui change de comportement ou disparaît dès qu'on essaie de l'observer ou de le déboguer.",
+        "example": "Ajouter une ligne de log a fait disparaître complètement ce heisenbug.",
+        "term": "Heisenbug"
+      },
+      "es": {
+        "definition": "Error que cambia o desaparece cuando intentas observarlo o depurarlo.",
+        "example": "Añadir una línea de log hizo que el heisenbug desapareciera por completo.",
+        "term": "Heisenbug"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-014",
+    "deck": "tech-jargon",
+    "term": "Big O",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "algorithms",
+      "performance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Notation describing how an algorithm's cost grows as input size grows.",
+        "example": "A nested loop over the list is O(n squared) in Big O terms."
+      },
+      "ru": {
+        "definition": "Нотация, описывающая, как растут затраты алгоритма с ростом размера входных данных.",
+        "example": "Вложенный цикл по списку — это O(n в квадрате) на языке Big O.",
+        "term": "Big O"
+      },
+      "ja": {
+        "definition": "入力サイズが大きくなるにつれてアルゴリズムのコストがどう増えるかを表す記法のこと。",
+        "example": "リストを二重ループで回すのは、Big O記法ではO(n²)になる。",
+        "term": "ビッグオー記法"
+      },
+      "ko": {
+        "definition": "입력 크기가 커질 때 알고리즘의 비용이 어떻게 증가하는지 나타내는 표기법.",
+        "example": "리스트를 중첩 루프로 도는 것은 빅오로 O(n 제곱)이다.",
+        "term": "빅오 표기법"
+      },
+      "fr": {
+        "definition": "Une notation décrivant comment le coût d'un algorithme croît à mesure que la taille des données augmente.",
+        "example": "Une boucle imbriquée sur la liste est en O(n²) selon la notation Big O.",
+        "term": "Big O"
+      },
+      "es": {
+        "definition": "Notación que describe cómo crece el coste de un algoritmo al aumentar el tamaño de la entrada.",
+        "example": "Un bucle anidado sobre la lista es O(n al cuadrado) en términos de Big O.",
+        "term": "Big O"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-015",
+    "deck": "tech-jargon",
+    "term": "Cache invalidation",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "caching",
+      "systems"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Deciding when cached data is stale and must be refreshed or removed.",
+        "example": "Stale prices showed up because our cache invalidation logic missed an update."
+      },
+      "ru": {
+        "definition": "Определение момента, когда кэш устарел и его пора обновить или сбросить.",
+        "example": "Показывались старые цены: логика инвалидации кэша пропустила обновление.",
+        "term": "Инвалидация кэша"
+      },
+      "ja": {
+        "definition": "キャッシュしたデータが古くなり、更新や削除が必要になる時点を判断すること。",
+        "example": "キャッシュ無効化の処理が更新を取りこぼし、古い価格が表示されてしまった。",
+        "term": "キャッシュ無効化"
+      },
+      "ko": {
+        "definition": "캐시에 저장된 데이터가 오래되어 갱신하거나 제거해야 할 시점을 판단하는 것.",
+        "example": "캐시 무효화 로직이 업데이트를 놓치는 바람에 오래된 가격이 표시됐다.",
+        "term": "캐시 무효화"
+      },
+      "fr": {
+        "definition": "Déterminer quand les données en cache sont périmées et doivent être rafraîchies ou supprimées.",
+        "example": "Des prix périmés sont apparus car notre logique d'invalidation du cache a manqué une mise à jour.",
+        "term": "Invalidation du cache"
+      },
+      "es": {
+        "definition": "Decidir cuándo los datos en caché están obsoletos y deben refrescarse o eliminarse.",
+        "example": "Aparecieron precios obsoletos porque la lógica de cache invalidation se saltó una actualización.",
+        "term": "Invalidación de caché"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-016",
+    "deck": "tech-jargon",
+    "term": "Throttling",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "performance",
+      "api"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Deliberately limiting how often an operation or request can happen.",
+        "example": "The API started throttling us after 1,000 calls per minute."
+      },
+      "ru": {
+        "definition": "Намеренное ограничение частоты операций или запросов.",
+        "example": "API начал нас троттлить после 1000 вызовов в минуту.",
+        "term": "Троттлинг"
+      },
+      "ja": {
+        "definition": "操作やリクエストの頻度を意図的に制限すること。",
+        "example": "1分間に1,000回呼び出したところで、APIがスロットリングを始めた。",
+        "term": "スロットリング"
+      },
+      "ko": {
+        "definition": "어떤 연산이나 요청이 발생하는 빈도를 의도적으로 제한하는 것.",
+        "example": "분당 1,000번 호출을 넘기자 API가 우리 요청을 스로틀링하기 시작했다.",
+        "term": "스로틀링"
+      },
+      "fr": {
+        "definition": "Limiter délibérément la fréquence à laquelle une opération ou une requête peut avoir lieu.",
+        "example": "L'API a commencé à nous brider au-delà de 1 000 appels par minute.",
+        "term": "Throttling"
+      },
+      "es": {
+        "definition": "Limitar a propósito la frecuencia con que puede ocurrir una operación o petición.",
+        "example": "La API empezó a aplicar throttling tras 1.000 llamadas por minuto.",
+        "term": "Throttling"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-017",
+    "deck": "tech-jargon",
+    "term": "Backpressure",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "systems",
+      "streaming"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A signal that slows producers when consumers can't keep up with the load.",
+        "example": "The queue applied backpressure so the service wouldn't be overwhelmed."
+      },
+      "ru": {
+        "definition": "Сигнал, который притормаживает поставщиков, когда потребители не успевают за нагрузкой.",
+        "example": "Очередь включила backpressure, чтобы сервис не захлебнулся.",
+        "term": "Backpressure"
+      },
+      "ja": {
+        "definition": "受け手が処理しきれないとき、送り手に速度を落とさせる仕組み(信号)のこと。",
+        "example": "キューがバックプレッシャーをかけたおかげで、サービスが過負荷にならずに済んだ。",
+        "term": "バックプレッシャー"
+      },
+      "ko": {
+        "definition": "소비자가 부하를 감당하지 못할 때 생산자의 속도를 늦추는 신호.",
+        "example": "큐가 백프레셔를 걸어서 서비스가 과부하되지 않도록 했다.",
+        "term": "백프레셔"
+      },
+      "fr": {
+        "definition": "Un signal qui ralentit les producteurs quand les consommateurs n'arrivent plus à suivre la charge.",
+        "example": "La file d'attente a appliqué une régulation de flux pour ne pas saturer le service.",
+        "term": "Backpressure"
+      },
+      "es": {
+        "definition": "Señal que frena a los productores cuando los consumidores no dan abasto con la carga.",
+        "example": "La cola aplicó backpressure para que el servicio no se saturara.",
+        "term": "Backpressure"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-018",
+    "deck": "tech-jargon",
+    "term": "Feature flag",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "deployment",
+      "product"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A switch that turns a feature on or off without redeploying code.",
+        "example": "We hid the new checkout behind a feature flag for a slow rollout."
+      },
+      "ru": {
+        "definition": "Переключатель, включающий или отключающий фичу без передеплоя кода.",
+        "example": "Новую оплату спрятали за feature flag ради плавного раскатывания.",
+        "term": "Feature flag"
+      },
+      "ja": {
+        "definition": "コードを再デプロイせずに機能のオン・オフを切り替えるスイッチのこと。",
+        "example": "新しいチェックアウト画面をフィーチャーフラグで隠し、段階的に公開した。",
+        "term": "フィーチャーフラグ"
+      },
+      "ko": {
+        "definition": "코드를 재배포하지 않고도 기능을 켜고 끌 수 있는 스위치.",
+        "example": "점진적 출시를 위해 새 결제 화면을 피처 플래그 뒤에 숨겨 두었다.",
+        "term": "피처 플래그"
+      },
+      "fr": {
+        "definition": "Un interrupteur qui active ou désactive une fonctionnalité sans redéployer le code.",
+        "example": "On a caché le nouveau tunnel de paiement derrière un feature flag pour un déploiement progressif.",
+        "term": "Feature flag"
+      },
+      "es": {
+        "definition": "Un interruptor que activa o desactiva una funcionalidad sin volver a desplegar el código.",
+        "example": "Ocultamos el nuevo checkout tras un feature flag para un despliegue gradual.",
+        "term": "Feature flag"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-019",
+    "deck": "tech-jargon",
+    "term": "Canary release",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "deployment",
+      "reliability"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Rolling out a change to a small group first to catch problems early.",
+        "example": "The canary release to 5% of users surfaced the crash before everyone saw it."
+      },
+      "ru": {
+        "definition": "Выкатка изменения сначала на небольшую группу, чтобы заранее поймать проблемы.",
+        "example": "Canary-релиз на 5% пользователей выявил краш до того, как его увидели все.",
+        "term": "Канареечный релиз"
+      },
+      "ja": {
+        "definition": "問題を早期に発見するため、まず少数のユーザーに変更を展開すること。",
+        "example": "5%のユーザーへのカナリアリリースで、全員に届く前にクラッシュを発見できた。",
+        "term": "カナリアリリース"
+      },
+      "ko": {
+        "definition": "문제를 일찍 발견하기 위해 소수의 사용자에게 먼저 변경 사항을 배포하는 것.",
+        "example": "사용자 5%를 대상으로 한 카나리 릴리스에서 전체 배포 전에 크래시를 잡아냈다.",
+        "term": "카나리 릴리스"
+      },
+      "fr": {
+        "definition": "Déployer un changement d'abord auprès d'un petit groupe pour détecter les problèmes au plus tôt.",
+        "example": "Le déploiement canari auprès de 5 % des utilisateurs a révélé le plantage avant que tout le monde ne le voie.",
+        "term": "Déploiement canari"
+      },
+      "es": {
+        "definition": "Desplegar un cambio primero a un grupo pequeño para detectar problemas pronto.",
+        "example": "El canary release al 5% de los usuarios reveló el fallo antes de que lo viera todo el mundo.",
+        "term": "Despliegue canario"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-020",
+    "deck": "tech-jargon",
+    "term": "Blue-green deploy",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "deployment",
+      "reliability"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Running two identical environments and switching traffic to release safely.",
+        "example": "A blue-green deploy let us flip back instantly when the new version failed."
+      },
+      "ru": {
+        "definition": "Два одинаковых окружения и переключение трафика между ними для безопасного релиза.",
+        "example": "Blue-green deploy позволил мгновенно откатиться, когда новая версия упала.",
+        "term": "Blue-green деплой"
+      },
+      "ja": {
+        "definition": "同一の環境を2つ用意し、トラフィックを切り替えることで安全にリリースする手法のこと。",
+        "example": "ブルーグリーンデプロイのおかげで、新バージョンが失敗したときに即座に切り戻せた。",
+        "term": "ブルーグリーンデプロイ"
+      },
+      "ko": {
+        "definition": "동일한 두 환경을 운영하면서 트래픽을 전환해 안전하게 배포하는 방식.",
+        "example": "블루-그린 배포 덕분에 새 버전이 실패했을 때 즉시 되돌릴 수 있었다.",
+        "term": "블루-그린 배포"
+      },
+      "fr": {
+        "definition": "Faire tourner deux environnements identiques et basculer le trafic pour publier en toute sécurité.",
+        "example": "Un déploiement blue-green nous a permis de revenir en arrière instantanément quand la nouvelle version a échoué.",
+        "term": "Déploiement bleu-vert"
+      },
+      "es": {
+        "definition": "Mantener dos entornos idénticos y cambiar el tráfico entre ellos para desplegar con seguridad.",
+        "example": "Un blue-green deploy nos permitió volver atrás al instante cuando falló la versión nueva.",
+        "term": "Despliegue azul-verde"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-021",
+    "deck": "tech-jargon",
+    "term": "Sharding",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "databases",
+      "scaling"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Splitting a database across machines so each holds part of the data.",
+        "example": "We started sharding the users table by region to handle the load."
+      },
+      "ru": {
+        "definition": "Разбиение базы по машинам так, что каждая хранит лишь часть данных.",
+        "example": "Мы начали шардировать таблицу пользователей по регионам, чтобы вытянуть нагрузку.",
+        "term": "Шардирование"
+      },
+      "ja": {
+        "definition": "各マシンがデータの一部を持つように、データベースを複数のマシンに分割すること。",
+        "example": "負荷に対応するため、ユーザーテーブルを地域ごとにシャーディングし始めた。",
+        "term": "シャーディング"
+      },
+      "ko": {
+        "definition": "데이터의 일부씩만 담도록 데이터베이스를 여러 머신에 나누는 것.",
+        "example": "부하를 감당하려고 사용자 테이블을 지역별로 샤딩하기 시작했다.",
+        "term": "샤딩"
+      },
+      "fr": {
+        "definition": "Répartir une base de données sur plusieurs machines pour que chacune n'en détienne qu'une partie.",
+        "example": "On a commencé à partitionner la table des utilisateurs par région pour absorber la charge.",
+        "term": "Sharding"
+      },
+      "es": {
+        "definition": "Repartir una base de datos entre varias máquinas para que cada una guarde parte de los datos.",
+        "example": "Empezamos a hacer sharding de la tabla de usuarios por región para soportar la carga.",
+        "term": "Sharding"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-022",
+    "deck": "tech-jargon",
+    "term": "Eventual consistency",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "databases",
+      "systems"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A guarantee that replicas will agree given time, but maybe not instantly.",
+        "example": "Under eventual consistency your post may take a moment to appear everywhere."
+      },
+      "ru": {
+        "definition": "Гарантия, что реплики со временем сойдутся, но, возможно, не мгновенно.",
+        "example": "При eventual consistency ваш пост может появиться везде с небольшой задержкой.",
+        "term": "Конечная согласованность"
+      },
+      "ja": {
+        "definition": "時間が経てばレプリカ間でデータが一致するが、必ずしも即座ではない、という保証のこと。",
+        "example": "結果整合性の下では、投稿がすべての場所に反映されるまで少し時間がかかることがある。",
+        "term": "結果整合性"
+      },
+      "ko": {
+        "definition": "시간이 지나면 복제본들이 결국 일치하지만, 즉시 일치하지는 않을 수 있다는 보장.",
+        "example": "최종 일관성 모델에서는 작성한 글이 모든 곳에 나타나기까지 잠시 걸릴 수 있다.",
+        "term": "최종 일관성"
+      },
+      "fr": {
+        "definition": "Une garantie selon laquelle les réplicas finiront par s'accorder avec le temps, mais peut-être pas instantanément.",
+        "example": "En cohérence à terme, votre publication peut mettre un instant à apparaître partout.",
+        "term": "Cohérence à terme"
+      },
+      "es": {
+        "definition": "Garantía de que las réplicas coincidirán con el tiempo, aunque quizá no de inmediato.",
+        "example": "Con consistencia eventual tu publicación puede tardar un momento en aparecer en todas partes.",
+        "term": "Consistencia eventual"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-023",
+    "deck": "tech-jargon",
+    "term": "CAP theorem",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "systems",
+      "theory"
+    ],
+    "locales": {
+      "en": {
+        "definition": "You can guarantee only two of consistency, availability, and partition tolerance.",
+        "example": "The CAP theorem forced us to favor availability over strict consistency."
+      },
+      "ru": {
+        "definition": "Из согласованности, доступности и устойчивости к разделению можно гарантировать только два.",
+        "example": "CAP-теорема вынудила нас выбрать доступность вместо строгой согласованности.",
+        "term": "CAP-теорема"
+      },
+      "ja": {
+        "definition": "一貫性・可用性・分断耐性のうち、同時に保証できるのは2つまでだという定理のこと。",
+        "example": "CAP定理により、厳密な一貫性よりも可用性を優先せざるを得なかった。",
+        "term": "CAP定理"
+      },
+      "ko": {
+        "definition": "일관성, 가용성, 분할 내성 중 두 가지만 동시에 보장할 수 있다는 정리.",
+        "example": "CAP 정리 때문에 엄격한 일관성보다 가용성을 우선할 수밖에 없었다.",
+        "term": "CAP 정리"
+      },
+      "fr": {
+        "definition": "On ne peut garantir que deux propriétés parmi la cohérence, la disponibilité et la tolérance au partitionnement.",
+        "example": "Le théorème CAP nous a contraints à privilégier la disponibilité plutôt qu'une cohérence stricte.",
+        "term": "Théorème CAP"
+      },
+      "es": {
+        "definition": "Solo puedes garantizar dos de tres: consistencia, disponibilidad y tolerancia a particiones.",
+        "example": "El teorema CAP nos obligó a priorizar la disponibilidad sobre la consistencia estricta.",
+        "term": "Teorema CAP"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-024",
+    "deck": "tech-jargon",
+    "term": "Memoization",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "performance",
+      "algorithms"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Caching a function's results so repeated calls with the same input are fast.",
+        "example": "Memoization turned the slow recursive fib into an instant lookup."
+      },
+      "ru": {
+        "definition": "Кэширование результатов функции, чтобы повторные вызовы с теми же входами были мгновенными.",
+        "example": "Мемоизация превратила медленную рекурсивную fib в моментальный поиск по кэшу.",
+        "term": "Мемоизация"
+      },
+      "ja": {
+        "definition": "関数の結果をキャッシュし、同じ入力での再呼び出しを高速化する手法のこと。",
+        "example": "メモ化によって、遅かった再帰版フィボナッチが一瞬の参照で済むようになった。",
+        "term": "メモ化"
+      },
+      "ko": {
+        "definition": "함수의 결과를 캐시해 같은 입력으로 다시 호출할 때 빠르게 처리하는 것.",
+        "example": "메모이제이션 덕분에 느린 재귀 피보나치가 즉각적인 조회로 바뀌었다.",
+        "term": "메모이제이션"
+      },
+      "fr": {
+        "definition": "Mettre en cache les résultats d'une fonction pour que les appels répétés avec la même entrée soient rapides.",
+        "example": "La mémoïsation a transformé le calcul récursif et lent de Fibonacci en une consultation instantanée.",
+        "term": "Mémoïsation"
+      },
+      "es": {
+        "definition": "Guardar en caché el resultado de una función para que las llamadas repetidas con la misma entrada sean rápidas.",
+        "example": "La memoización convirtió la lenta función recursiva de Fibonacci en una consulta instantánea.",
+        "term": "Memoización"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-025",
+    "deck": "tech-jargon",
+    "term": "Dependency injection",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "patterns",
+      "architecture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Passing an object's dependencies in from outside instead of creating them inside.",
+        "example": "Dependency injection let us swap the real database for a mock in tests."
+      },
+      "ru": {
+        "definition": "Передача объекту его зависимостей снаружи вместо создания их внутри.",
+        "example": "Dependency injection позволил подменить реальную БД на мок в тестах.",
+        "term": "Внедрение зависимостей"
+      },
+      "ja": {
+        "definition": "オブジェクトが内部で依存先を生成するのではなく、外部から渡してもらう設計のこと。",
+        "example": "依存性注入のおかげで、テストでは本物のデータベースをモックに差し替えられた。",
+        "term": "依存性注入"
+      },
+      "ko": {
+        "definition": "객체가 의존하는 것들을 내부에서 생성하지 않고 외부에서 주입받는 것.",
+        "example": "의존성 주입 덕분에 테스트에서 실제 데이터베이스를 목으로 교체할 수 있었다.",
+        "term": "의존성 주입"
+      },
+      "fr": {
+        "definition": "Fournir à un objet ses dépendances depuis l'extérieur plutôt que de les créer en interne.",
+        "example": "L'injection de dépendances nous a permis de remplacer la vraie base de données par un simulacre dans les tests.",
+        "term": "Injection de dépendances"
+      },
+      "es": {
+        "definition": "Pasar las dependencias de un objeto desde fuera en lugar de crearlas dentro de él.",
+        "example": "La inyección de dependencias nos permitió sustituir la base de datos real por un mock en las pruebas.",
+        "term": "Inyección de dependencias"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-026",
+    "deck": "tech-jargon",
+    "term": "Monkey patch",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "code",
+      "hacks"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Changing code or behavior at runtime without editing the original source.",
+        "example": "We monkey patched the library to fix the bug until the upstream release."
+      },
+      "ru": {
+        "definition": "Изменение кода или поведения на лету, без правки исходника.",
+        "example": "Мы пропатчили библиотеку через monkey patch, пока не вышел фикс от авторов.",
+        "term": "Monkey patch"
+      },
+      "ja": {
+        "definition": "元のソースを編集せずに、実行時にコードや挙動を書き換えること。",
+        "example": "上流での修正版がリリースされるまで、ライブラリをモンキーパッチでバグ修正した。",
+        "term": "モンキーパッチ"
+      },
+      "ko": {
+        "definition": "원본 소스를 수정하지 않고 런타임에 코드나 동작을 바꾸는 것.",
+        "example": "업스트림 릴리스가 나올 때까지 버그를 고치려고 라이브러리를 몽키 패치했다.",
+        "term": "몽키 패치"
+      },
+      "fr": {
+        "definition": "Modifier du code ou un comportement à l'exécution sans toucher au code source original.",
+        "example": "On a appliqué un correctif à chaud à la bibliothèque pour corriger le bug en attendant la version officielle.",
+        "term": "Monkey patch"
+      },
+      "es": {
+        "definition": "Modificar código o comportamiento en tiempo de ejecución sin tocar el código fuente original.",
+        "example": "Aplicamos un monkey patch a la librería para corregir el error hasta la versión oficial.",
+        "term": "Monkey patch"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-027",
+    "deck": "tech-jargon",
+    "term": "Foobar",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "culture",
+      "placeholder"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Placeholder names used in examples when the real name doesn't matter.",
+        "example": "The tutorial stores foo in bar just to show the syntax."
+      },
+      "ru": {
+        "definition": "Имена-заглушки в примерах, когда настоящее название не важно.",
+        "example": "В туториале foo кладут в bar просто чтобы показать синтаксис.",
+        "term": "Foobar"
+      },
+      "ja": {
+        "definition": "実際の名前が重要でないとき、例の中で使うプレースホルダー名のこと。",
+        "example": "そのチュートリアルは、構文を示すためだけにfooをbarに格納している。",
+        "term": "Foobar"
+      },
+      "ko": {
+        "definition": "실제 이름이 중요하지 않을 때 예제에서 쓰는 자리표시용 이름.",
+        "example": "그 튜토리얼은 문법을 보여주려고 그냥 foo를 bar에 저장한다.",
+        "term": "Foobar"
+      },
+      "fr": {
+        "definition": "Des noms fictifs utilisés dans les exemples quand le vrai nom n'a pas d'importance.",
+        "example": "Le tutoriel stocke foo dans bar simplement pour montrer la syntaxe.",
+        "term": "Foobar"
+      },
+      "es": {
+        "definition": "Nombres de relleno usados en ejemplos cuando el nombre real no importa.",
+        "example": "El tutorial guarda foo en bar solo para mostrar la sintaxis.",
+        "term": "Foobar"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-028",
+    "deck": "tech-jargon",
+    "term": "Snake oil",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "culture",
+      "marketing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A product sold with exaggerated claims it can't actually deliver.",
+        "example": "That AI tool promising to write all your code is pure snake oil."
+      },
+      "ru": {
+        "definition": "Продукт, который продают с раздутыми обещаниями, невыполнимыми на деле.",
+        "example": "ИИ-инструмент, обещающий написать за тебя весь код, — чистый snake oil.",
+        "term": "Snake oil"
+      },
+      "ja": {
+        "definition": "実際には実現できない誇大な宣伝文句で売られる製品のこと。",
+        "example": "コードを全部書いてくれると謳うあのAIツールは、まったくのインチキ商品だ。",
+        "term": "Snake oil"
+      },
+      "ko": {
+        "definition": "실제로는 해낼 수 없는 과장된 주장을 내세워 파는 제품.",
+        "example": "당신의 코드를 전부 작성해 준다는 그 AI 도구는 순전히 사기다.",
+        "term": "Snake oil"
+      },
+      "fr": {
+        "definition": "Un produit vendu avec des promesses exagérées qu'il ne peut pas réellement tenir.",
+        "example": "Cet outil d'IA qui promet d'écrire tout votre code, c'est de la poudre aux yeux.",
+        "term": "Snake oil"
+      },
+      "es": {
+        "definition": "Producto vendido con promesas exageradas que en realidad no puede cumplir.",
+        "example": "Esa herramienta de IA que promete escribir todo tu código es puro humo.",
+        "term": "Snake oil"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-029",
+    "deck": "tech-jargon",
+    "term": "Dogfooding",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "culture",
+      "product"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Using your own product internally to find issues before customers do.",
+        "example": "The team dogfoods the chat app for all their standups."
+      },
+      "ru": {
+        "definition": "Использование собственного продукта внутри компании, чтобы найти проблемы раньше клиентов.",
+        "example": "Команда живёт на своём чат-приложении и проводит в нём все стендапы — dogfooding.",
+        "term": "Dogfooding"
+      },
+      "ja": {
+        "definition": "顧客より先に問題を見つけるため、自社製品を社内で実際に使うこと。",
+        "example": "チームは自社のチャットアプリをドッグフーディングして、毎日の朝会に使っている。",
+        "term": "ドッグフーディング"
+      },
+      "ko": {
+        "definition": "고객보다 먼저 문제를 찾기 위해 자사 제품을 내부에서 직접 사용하는 것.",
+        "example": "자체 채팅 앱을 도그푸딩(직접 사용)한다.",
+        "term": "도그푸딩"
+      },
+      "fr": {
+        "definition": "Utiliser son propre produit en interne pour repérer les problèmes avant les clients.",
+        "example": "L'équipe utilise sa propre messagerie pour toutes ses réunions quotidiennes.",
+        "term": "Dogfooding"
+      },
+      "es": {
+        "definition": "Usar tu propio producto internamente para detectar fallos antes que los clientes.",
+        "example": "El equipo usa su propia app de chat para todos sus standups (dogfooding).",
+        "term": "Dogfooding"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-030",
+    "deck": "tech-jargon",
+    "term": "Greenfield",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "engineering",
+      "projects"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A brand-new project with no existing code or constraints to work around.",
+        "example": "It's a greenfield rewrite, so we can pick any stack we like."
+      },
+      "ru": {
+        "definition": "Совершенно новый проект без старого кода и ограничений, под которые надо подстраиваться.",
+        "example": "Это greenfield-переписывание, так что можем взять любой стек.",
+        "term": "Greenfield"
+      },
+      "ja": {
+        "definition": "既存のコードや制約が一切ない、まったく新規のプロジェクトのこと。",
+        "example": "グリーンフィールドの作り直しなので、好きな技術スタックを自由に選べる。",
+        "term": "グリーンフィールド"
+      },
+      "ko": {
+        "definition": "기존 코드나 제약 없이 처음부터 시작하는 완전히 새로운 프로젝트.",
+        "example": "그린필드 재작성이라서 원하는 기술 스택을 무엇이든 고를 수 있다.",
+        "term": "그린필드"
+      },
+      "fr": {
+        "definition": "Un projet entièrement neuf, sans code existant ni contraintes à contourner.",
+        "example": "C'est une réécriture greenfield, on peut donc choisir la pile technique qu'on veut.",
+        "term": "Greenfield"
+      },
+      "es": {
+        "definition": "Proyecto totalmente nuevo, sin código previo ni restricciones que sortear.",
+        "example": "Es una reescritura greenfield, así que podemos elegir el stack que queramos.",
+        "term": "Greenfield"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-031",
+    "deck": "tech-jargon",
+    "term": "Brownfield",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "engineering",
+      "projects"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A project built on top of existing, often legacy, code and systems.",
+        "example": "This brownfield app still carries decisions made a decade ago."
+      },
+      "ru": {
+        "definition": "Проект, который строят поверх существующего, нередко легаси-кода и систем.",
+        "example": "Это brownfield-приложение до сих пор тащит решения десятилетней давности.",
+        "term": "Brownfield"
+      },
+      "ja": {
+        "definition": "既存の、多くは古いコードやシステムの上に構築されるプロジェクトのこと。",
+        "example": "このブラウンフィールドのアプリには、10年前に下された判断が今も残っている。",
+        "term": "ブラウンフィールド"
+      },
+      "ko": {
+        "definition": "기존의, 흔히 레거시인 코드와 시스템 위에 구축하는 프로젝트.",
+        "example": "이 브라운필드 앱은 10년 전에 내린 결정들을 여전히 떠안고 있다.",
+        "term": "브라운필드"
+      },
+      "fr": {
+        "definition": "Un projet construit par-dessus du code et des systèmes existants, souvent hérités.",
+        "example": "Cette application brownfield traîne encore des décisions prises il y a dix ans.",
+        "term": "Brownfield"
+      },
+      "es": {
+        "definition": "Proyecto construido sobre código y sistemas existentes, a menudo heredados.",
+        "example": "Esta app brownfield todavía arrastra decisiones tomadas hace una década.",
+        "term": "Brownfield"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-032",
+    "deck": "tech-jargon",
+    "term": "Scope creep",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "product",
+      "management"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The gradual expansion of a project's goals beyond the original plan.",
+        "example": "Scope creep turned a one-week fix into a two-month overhaul."
+      },
+      "ru": {
+        "definition": "Постепенное разрастание целей проекта за рамки исходного плана.",
+        "example": "Scope creep превратил недельный фикс в двухмесячную переделку.",
+        "term": "Расползание скоупа"
+      },
+      "ja": {
+        "definition": "当初の計画を超えて、プロジェクトの目標が少しずつ膨らんでいくこと。",
+        "example": "スコープクリープによって、1週間の修正のはずが2か月がかりの大改修になった。",
+        "term": "スコープクリープ"
+      },
+      "ko": {
+        "definition": "프로젝트의 목표가 원래 계획을 넘어 점점 확장되는 현상.",
+        "example": "스코프 크리프 때문에 일주일짜리 수정이 두 달짜리 개편이 됐다.",
+        "term": "스코프 크리프"
+      },
+      "fr": {
+        "definition": "L'élargissement progressif des objectifs d'un projet au-delà du plan initial.",
+        "example": "La dérive du périmètre a transformé un correctif d'une semaine en une refonte de deux mois.",
+        "term": "Dérive du périmètre"
+      },
+      "es": {
+        "definition": "La expansión gradual de los objetivos de un proyecto más allá del plan original.",
+        "example": "El scope creep convirtió un arreglo de una semana en una reforma de dos meses.",
+        "term": "Expansión del alcance"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-033",
+    "deck": "tech-jargon",
+    "term": "Bus factor",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "culture",
+      "risk"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How many people could leave before a project stalls from lost knowledge.",
+        "example": "Only Dana knows the payments code, so our bus factor is one."
+      },
+      "ru": {
+        "definition": "Сколько человек может уйти, прежде чем проект встанет из-за потери знаний.",
+        "example": "Платёжный код знает только Дана, так что наш bus factor равен единице.",
+        "term": "Bus factor"
+      },
+      "ja": {
+        "definition": "知識が失われてプロジェクトが止まるまでに、何人が抜けると致命的かを示す指標のこと。",
+        "example": "決済まわりのコードはダナしか知らないので、うちのバス係数は1だ。",
+        "term": "バス係数"
+      },
+      "ko": {
+        "definition": "몇 명이 떠나면 지식 손실로 프로젝트가 멈추는지를 나타내는 척도.",
+        "example": "결제 코드는 Dana만 알고 있어서, 우리 버스 팩터는 1이다.",
+        "term": "버스 팩터"
+      },
+      "fr": {
+        "definition": "Le nombre de personnes qui pourraient partir avant qu'un projet ne s'enlise faute de connaissances.",
+        "example": "Seule Dana connaît le code des paiements, notre facteur d'autobus est donc de un.",
+        "term": "Bus factor"
+      },
+      "es": {
+        "definition": "Cuántas personas podrían marcharse antes de que un proyecto se pare por el conocimiento perdido.",
+        "example": "Solo Dana conoce el código de pagos, así que nuestro bus factor es uno.",
+        "term": "Bus factor"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-034",
+    "deck": "tech-jargon",
+    "term": "Cargo culting",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "culture",
+      "antipattern"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Copying practices without understanding why, hoping for the same results.",
+        "example": "Adding microservices just because Google did is cargo culting."
+      },
+      "ru": {
+        "definition": "Слепое копирование практик без понимания зачем — в надежде на тот же результат.",
+        "example": "Пихать микросервисы только потому, что так делает Google, — это cargo culting.",
+        "term": "Карго-культ"
+      },
+      "ja": {
+        "definition": "理由を理解しないまま手法だけを真似て、同じ成果を期待すること。",
+        "example": "Googleがやっているからという理由だけでマイクロサービスを導入するのは、カーゴカルト的な真似事だ。",
+        "term": "カーゴカルト"
+      },
+      "ko": {
+        "definition": "이유도 모른 채 같은 결과를 바라며 관행을 그대로 따라 하는 것.",
+        "example": "구글이 했다는 이유만으로 마이크로서비스를 도입하는 건 카고 컬팅이다.",
+        "term": "카고 컬트"
+      },
+      "fr": {
+        "definition": "Copier des pratiques sans en comprendre la raison, en espérant les mêmes résultats.",
+        "example": "Adopter les microservices juste parce que Google l'a fait relève du culte du cargo.",
+        "term": "Culte du cargo"
+      },
+      "es": {
+        "definition": "Copiar prácticas sin entender por qué, esperando obtener los mismos resultados.",
+        "example": "Añadir microservicios solo porque Google lo hace es cargo culting.",
+        "term": "Culto al cargo"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-035",
+    "deck": "tech-jargon",
+    "term": "API",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "api",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A defined way for programs to talk to each other and share data.",
+        "example": "We pull weather data through the provider's public API."
+      },
+      "ru": {
+        "definition": "Описанный способ для программ общаться между собой и обмениваться данными.",
+        "example": "Мы тянем данные о погоде через публичный API провайдера.",
+        "term": "API"
+      },
+      "ja": {
+        "definition": "プログラム同士が通信しデータをやり取りするための、定められた仕組みのこと。",
+        "example": "私たちはそのプロバイダーの公開APIを通じて天気データを取得している。",
+        "term": "API"
+      },
+      "ko": {
+        "definition": "프로그램들이 서로 통신하고 데이터를 주고받기 위해 정해 둔 방식.",
+        "example": "우리는 공급자의 공개 API를 통해 날씨 데이터를 가져온다.",
+        "term": "API"
+      },
+      "fr": {
+        "definition": "Une manière définie pour des programmes de communiquer entre eux et d'échanger des données.",
+        "example": "On récupère les données météo via l'API publique du fournisseur.",
+        "term": "API"
+      },
+      "es": {
+        "definition": "Una forma definida en que los programas se comunican entre sí y comparten datos.",
+        "example": "Obtenemos los datos meteorológicos a través de la API pública del proveedor.",
+        "term": "API"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-036",
+    "deck": "tech-jargon",
+    "term": "Endpoint",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "api",
+      "web"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A specific URL where an API receives and responds to requests.",
+        "example": "The login endpoint accepts a POST with email and password."
+      },
+      "ru": {
+        "definition": "Конкретный URL, по которому API принимает запросы и отвечает на них.",
+        "example": "Эндпоинт логина принимает POST с email и паролем.",
+        "term": "Эндпоинт"
+      },
+      "ja": {
+        "definition": "APIがリクエストを受け取り応答する、特定のURLのこと。",
+        "example": "ログイン用エンドポイントは、メールアドレスとパスワードを含むPOSTを受け付ける。",
+        "term": "エンドポイント"
+      },
+      "ko": {
+        "definition": "API가 요청을 받아 응답하는 특정 URL.",
+        "example": "로그인 엔드포인트는 이메일과 비밀번호를 담은 POST를 받는다.",
+        "term": "엔드포인트"
+      },
+      "fr": {
+        "definition": "Une URL précise où une API reçoit les requêtes et y répond.",
+        "example": "L'endpoint de connexion accepte une requête POST avec l'e-mail et le mot de passe.",
+        "term": "Endpoint"
+      },
+      "es": {
+        "definition": "Una URL concreta donde una API recibe peticiones y responde a ellas.",
+        "example": "El endpoint de login acepta un POST con correo y contraseña.",
+        "term": "Endpoint"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-037",
+    "deck": "tech-jargon",
+    "term": "Latency",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "performance",
+      "networking"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The delay between making a request and getting a response.",
+        "example": "Moving servers closer to users cut latency in half."
+      },
+      "ru": {
+        "definition": "Задержка между отправкой запроса и получением ответа.",
+        "example": "Перенос серверов ближе к пользователям сократил задержку вдвое.",
+        "term": "Задержка (Latency)"
+      },
+      "ja": {
+        "definition": "リクエストを送ってから応答が返るまでの遅延のこと。",
+        "example": "サーバーをユーザーの近くに移したことで、レイテンシが半分になった。",
+        "term": "レイテンシ"
+      },
+      "ko": {
+        "definition": "요청을 보낸 뒤 응답을 받기까지의 지연 시간.",
+        "example": "서버를 사용자 가까이로 옮겼더니 지연 시간이 절반으로 줄었다.",
+        "term": "지연시간(Latency)"
+      },
+      "fr": {
+        "definition": "Le délai entre l'envoi d'une requête et la réception de la réponse.",
+        "example": "Rapprocher les serveurs des utilisateurs a réduit la latence de moitié.",
+        "term": "Latence"
+      },
+      "es": {
+        "definition": "El retardo entre hacer una petición y recibir la respuesta.",
+        "example": "Acercar los servidores a los usuarios redujo la latencia a la mitad.",
+        "term": "Latencia"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-038",
+    "deck": "tech-jargon",
+    "term": "Bandwidth",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "networking",
+      "performance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How much data can move through a connection in a given time.",
+        "example": "The video stream stuttered because of limited bandwidth."
+      },
+      "ru": {
+        "definition": "Сколько данных проходит через соединение за единицу времени.",
+        "example": "Видеопоток подтормаживал из-за нехватки полосы пропускания.",
+        "term": "Пропускная способность"
+      },
+      "ja": {
+        "definition": "一定時間内に接続を通じて転送できるデータ量のこと。",
+        "example": "帯域幅が足りず、動画のストリーミングが途切れ途切れになった。",
+        "term": "帯域幅"
+      },
+      "ko": {
+        "definition": "일정 시간 동안 하나의 연결로 전송할 수 있는 데이터의 양.",
+        "example": "대역폭이 부족해서 영상 스트리밍이 끊겼다.",
+        "term": "대역폭"
+      },
+      "fr": {
+        "definition": "La quantité de données pouvant transiter par une connexion en un temps donné.",
+        "example": "Le flux vidéo saccadait à cause d'une bande passante limitée.",
+        "term": "Bande passante"
+      },
+      "es": {
+        "definition": "Cuántos datos pueden circular por una conexión en un tiempo determinado.",
+        "example": "El vídeo se entrecortaba por el ancho de banda limitado.",
+        "term": "Ancho de banda"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-039",
+    "deck": "tech-jargon",
+    "term": "Deprecate",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "engineering",
+      "api"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To mark something as outdated and discourage its use before removal.",
+        "example": "We deprecated the old endpoint and gave teams six months to migrate."
+      },
+      "ru": {
+        "definition": "Пометить что-то как устаревшее и не рекомендуемое перед удалением.",
+        "example": "Мы пометили старый эндпоинт как deprecated и дали командам полгода на миграцию.",
+        "term": "Депрекация"
+      },
+      "ja": {
+        "definition": "あるものを時代遅れと位置づけ、削除前に使用を控えるよう促すこと。",
+        "example": "古いエンドポイントを非推奨にし、各チームに6か月の移行期間を与えた。",
+        "term": "非推奨化"
+      },
+      "ko": {
+        "definition": "제거하기에 앞서 어떤 것을 구식으로 표시하고 사용을 권장하지 않는 것.",
+        "example": "기존 엔드포인트를 디프리케이트하고 각 팀에 마이그레이션할 6개월을 주었다.",
+        "term": "지원 중단(Deprecate)"
+      },
+      "fr": {
+        "definition": "Marquer un élément comme obsolète et en décourager l'usage avant sa suppression.",
+        "example": "On a déprécié l'ancien endpoint et laissé six mois aux équipes pour migrer.",
+        "term": "Dépréciation"
+      },
+      "es": {
+        "definition": "Marcar algo como obsoleto y desaconsejar su uso antes de eliminarlo.",
+        "example": "Marcamos el antiguo endpoint como obsoleto y dimos seis meses a los equipos para migrar.",
+        "term": "Deprecación"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-040",
+    "deck": "tech-jargon",
+    "term": "Regression",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "testing",
+      "bugs"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A bug where something that used to work breaks after a change.",
+        "example": "The release caused a regression in the search feature."
+      },
+      "ru": {
+        "definition": "Баг, когда после изменения ломается то, что раньше работало.",
+        "example": "Релиз вызвал регрессию в поиске.",
+        "term": "Регрессия"
+      },
+      "ja": {
+        "definition": "変更後に、これまで動いていたものが壊れてしまうバグのこと。",
+        "example": "今回のリリースで検索機能にデグレ(リグレッション)が発生した。",
+        "term": "リグレッション"
+      },
+      "ko": {
+        "definition": "변경 이후 잘 동작하던 기능이 망가지는 버그.",
+        "example": "이번 릴리스로 검색 기능에 회귀 버그가 생겼다.",
+        "term": "회귀(Regression)"
+      },
+      "fr": {
+        "definition": "Un bug où quelque chose qui fonctionnait auparavant cesse de marcher après un changement.",
+        "example": "La mise en production a provoqué une régression dans la fonction de recherche.",
+        "term": "Régression"
+      },
+      "es": {
+        "definition": "Error en el que algo que antes funcionaba se rompe tras un cambio.",
+        "example": "La nueva versión provocó una regresión en la función de búsqueda.",
+        "term": "Regresión"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-041",
+    "deck": "tech-jargon",
+    "term": "Edge case",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "testing",
+      "engineering"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A rare or extreme situation that's easy to overlook when coding.",
+        "example": "An empty shopping cart was the edge case that crashed checkout."
+      },
+      "ru": {
+        "definition": "Редкая или экстремальная ситуация, которую легко упустить при написании кода.",
+        "example": "Пустая корзина оказалась тем самым edge case, который ронял оформление заказа.",
+        "term": "Граничный случай"
+      },
+      "ja": {
+        "definition": "コーディング時に見落としやすい、まれな、または極端な状況のこと。",
+        "example": "空のカートというエッジケースが、チェックアウトをクラッシュさせた。",
+        "term": "エッジケース"
+      },
+      "ko": {
+        "definition": "코딩할 때 놓치기 쉬운, 드물거나 극단적인 상황.",
+        "example": "빈 장바구니가 결제를 망가뜨린 엣지 케이스였다.",
+        "term": "엣지 케이스"
+      },
+      "fr": {
+        "definition": "Une situation rare ou extrême, facile à négliger lorsqu'on écrit du code.",
+        "example": "Un panier vide était le cas limite qui faisait planter le paiement.",
+        "term": "Cas limite"
+      },
+      "es": {
+        "definition": "Situación rara o extrema que es fácil pasar por alto al programar.",
+        "example": "Un carrito de compra vacío fue el caso límite que tumbó el checkout.",
+        "term": "Caso límite"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-042",
+    "deck": "tech-jargon",
+    "term": "Hotfix",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "deployment",
+      "ops"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An urgent patch shipped quickly to fix a critical problem in production.",
+        "example": "We pushed a hotfix at midnight to stop the payment errors."
+      },
+      "ru": {
+        "definition": "Срочная заплатка, быстро выкатываемая для устранения критичной проблемы в проде.",
+        "example": "Мы выкатили хотфикс в полночь, чтобы остановить ошибки оплаты.",
+        "term": "Хотфикс"
+      },
+      "ja": {
+        "definition": "本番環境の重大な問題を直すため、急いでリリースする緊急パッチのこと。",
+        "example": "決済エラーを止めるため、深夜にホットフィックスを投入した。",
+        "term": "ホットフィックス"
+      },
+      "ko": {
+        "definition": "운영 환경의 치명적인 문제를 고치려고 급히 배포하는 긴급 패치.",
+        "example": "결제 오류를 멈추려고 자정에 핫픽스를 배포했다.",
+        "term": "핫픽스"
+      },
+      "fr": {
+        "definition": "Un correctif urgent livré rapidement pour régler un problème critique en production.",
+        "example": "On a déployé un correctif d'urgence à minuit pour stopper les erreurs de paiement.",
+        "term": "Hotfix"
+      },
+      "es": {
+        "definition": "Parche urgente publicado rápidamente para corregir un problema crítico en producción.",
+        "example": "Subimos un hotfix a medianoche para frenar los errores de pago.",
+        "term": "Hotfix"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-043",
+    "deck": "tech-jargon",
+    "term": "Rollback",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "deployment",
+      "ops"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Reverting to a previous working version after a bad deploy.",
+        "example": "When the update broke login, we did an immediate rollback."
+      },
+      "ru": {
+        "definition": "Возврат к предыдущей рабочей версии после неудачного деплоя.",
+        "example": "Когда обновление сломало вход, мы сразу сделали откат.",
+        "term": "Откат (Rollback)"
+      },
+      "ja": {
+        "definition": "問題のあるデプロイの後、以前の正常に動くバージョンに戻すこと。",
+        "example": "アップデートでログインが壊れたので、すぐにロールバックした。",
+        "term": "ロールバック"
+      },
+      "ko": {
+        "definition": "잘못된 배포 이후 이전의 정상 버전으로 되돌리는 것.",
+        "example": "업데이트로 로그인이 망가지자 즉시 롤백했다.",
+        "term": "롤백"
+      },
+      "fr": {
+        "definition": "Revenir à une version précédente qui fonctionnait après un déploiement raté.",
+        "example": "Quand la mise à jour a cassé la connexion, on a immédiatement fait un retour arrière.",
+        "term": "Rollback"
+      },
+      "es": {
+        "definition": "Volver a una versión anterior que funcionaba tras un despliegue defectuoso.",
+        "example": "Cuando la actualización rompió el login, hicimos un rollback inmediato.",
+        "term": "Rollback"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-044",
+    "deck": "tech-jargon",
+    "term": "CI/CD",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "devops",
+      "automation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Automated pipelines that build, test, and ship code continuously.",
+        "example": "Our CI/CD runs the tests and deploys to staging on every merge."
+      },
+      "ru": {
+        "definition": "Автоматизированные пайплайны, которые непрерывно собирают, тестируют и выкатывают код.",
+        "example": "Наш CI/CD на каждом мёрдже гоняет тесты и деплоит на стейджинг.",
+        "term": "CI/CD"
+      },
+      "ja": {
+        "definition": "コードのビルド・テスト・リリースを継続的に自動化するパイプラインのこと。",
+        "example": "うちのCI/CDは、マージのたびにテストを実行してステージング環境にデプロイする。",
+        "term": "CI/CD"
+      },
+      "ko": {
+        "definition": "코드를 지속적으로 빌드, 테스트, 배포하는 자동화된 파이프라인.",
+        "example": "우리 CI/CD는 머지할 때마다 테스트를 돌리고 스테이징에 배포한다.",
+        "term": "CI/CD"
+      },
+      "fr": {
+        "definition": "Des chaînes automatisées qui compilent, testent et livrent le code en continu.",
+        "example": "Notre chaîne CI/CD lance les tests et déploie en préproduction à chaque fusion.",
+        "term": "CI/CD"
+      },
+      "es": {
+        "definition": "Tuberías automatizadas que compilan, prueban y publican el código de forma continua.",
+        "example": "Nuestro CI/CD ejecuta las pruebas y despliega a staging en cada merge.",
+        "term": "CI/CD"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-045",
+    "deck": "tech-jargon",
+    "term": "Microservices",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "architecture",
+      "scaling"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An architecture splitting an app into small, independent services.",
+        "example": "They broke the monolith into microservices for auth, billing, and search."
+      },
+      "ru": {
+        "definition": "Архитектура, в которой приложение разбито на небольшие независимые сервисы.",
+        "example": "Они разбили монолит на микросервисы для авторизации, биллинга и поиска.",
+        "term": "Микросервисы"
+      },
+      "ja": {
+        "definition": "アプリを小さく独立したサービス群に分割するアーキテクチャのこと。",
+        "example": "彼らはモノリスを、認証・課金・検索といったマイクロサービスに分割した。",
+        "term": "マイクロサービス"
+      },
+      "ko": {
+        "definition": "앱을 작고 독립적인 여러 서비스로 나누는 아키텍처.",
+        "example": "그들은 모놀리식을 인증, 결제, 검색 마이크로서비스로 쪼갰다.",
+        "term": "마이크로서비스"
+      },
+      "fr": {
+        "definition": "Une architecture qui découpe une application en petits services indépendants.",
+        "example": "Ils ont éclaté le monolithe en microservices pour l'authentification, la facturation et la recherche.",
+        "term": "Microservices"
+      },
+      "es": {
+        "definition": "Arquitectura que divide una aplicación en servicios pequeños e independientes.",
+        "example": "Dividieron el monolito en microservicios de autenticación, facturación y búsqueda.",
+        "term": "Microservicios"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-046",
+    "deck": "tech-jargon",
+    "term": "Monolith",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "architecture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An application built and deployed as a single large unit.",
+        "example": "The monolith is simple to run but hard to scale one part alone."
+      },
+      "ru": {
+        "definition": "Приложение, которое собирается и деплоится как единое крупное целое.",
+        "example": "Монолит прост в эксплуатации, но его сложно масштабировать по частям.",
+        "term": "Монолит"
+      },
+      "ja": {
+        "definition": "単一の大きな塊として構築・デプロイされるアプリケーションのこと。",
+        "example": "モノリスは運用は簡単だが、一部分だけをスケールさせるのは難しい。",
+        "term": "モノリス"
+      },
+      "ko": {
+        "definition": "하나의 거대한 단위로 빌드하고 배포하는 애플리케이션.",
+        "example": "모놀리식은 운영은 단순하지만 일부만 따로 확장하기는 어렵다.",
+        "term": "모놀리스"
+      },
+      "fr": {
+        "definition": "Une application construite et déployée comme une seule grande unité.",
+        "example": "Le monolithe est simple à exploiter mais difficile à mettre à l'échelle partie par partie.",
+        "term": "Monolithe"
+      },
+      "es": {
+        "definition": "Aplicación construida y desplegada como una única unidad de gran tamaño.",
+        "example": "El monolito es fácil de operar, pero cuesta escalar una sola parte por separado.",
+        "term": "Monolito"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-047",
+    "deck": "tech-jargon",
+    "term": "Load balancer",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "systems",
+      "networking"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A component that spreads incoming traffic across multiple servers.",
+        "example": "The load balancer routes requests to whichever server is least busy."
+      },
+      "ru": {
+        "definition": "Компонент, распределяющий входящий трафик между несколькими серверами.",
+        "example": "Балансировщик направляет запросы на наименее загруженный сервер.",
+        "term": "Балансировщик нагрузки"
+      },
+      "ja": {
+        "definition": "受信したトラフィックを複数のサーバーに振り分けるコンポーネントのこと。",
+        "example": "ロードバランサーは、最も負荷の低いサーバーへリクエストを振り分ける。",
+        "term": "ロードバランサー"
+      },
+      "ko": {
+        "definition": "들어오는 트래픽을 여러 서버에 분산하는 구성 요소.",
+        "example": "로드 밸런서는 가장 한가한 서버로 요청을 라우팅한다.",
+        "term": "로드 밸런서"
+      },
+      "fr": {
+        "definition": "Un composant qui répartit le trafic entrant entre plusieurs serveurs.",
+        "example": "Le répartiteur de charge dirige les requêtes vers le serveur le moins sollicité.",
+        "term": "Répartiteur de charge"
+      },
+      "es": {
+        "definition": "Componente que reparte el tráfico entrante entre varios servidores.",
+        "example": "El balanceador de carga dirige las peticiones al servidor menos ocupado.",
+        "term": "Balanceador de carga"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-048",
+    "deck": "tech-jargon",
+    "term": "Webhook",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "api",
+      "integration"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An automatic HTTP callback that fires when an event happens.",
+        "example": "Stripe sends a webhook to our server when a payment succeeds."
+      },
+      "ru": {
+        "definition": "Автоматический HTTP-вызов, который срабатывает при наступлении события.",
+        "example": "Stripe шлёт вебхук на наш сервер, когда платёж прошёл.",
+        "term": "Вебхук"
+      },
+      "ja": {
+        "definition": "イベントの発生時に自動で送られるHTTPコールバックのこと。",
+        "example": "決済が成功すると、StripeはうちのサーバーにWebhookを送ってくる。",
+        "term": "Webhook"
+      },
+      "ko": {
+        "definition": "이벤트가 발생할 때 자동으로 호출되는 HTTP 콜백.",
+        "example": "결제가 성공하면 Stripe가 우리 서버로 웹훅을 보낸다.",
+        "term": "웹훅"
+      },
+      "fr": {
+        "definition": "Un rappel HTTP automatique qui se déclenche quand un événement se produit.",
+        "example": "Stripe envoie un webhook à notre serveur lorsqu'un paiement aboutit.",
+        "term": "Webhook"
+      },
+      "es": {
+        "definition": "Una llamada HTTP automática que se dispara cuando ocurre un evento.",
+        "example": "Stripe envía un webhook a nuestro servidor cuando un pago se completa.",
+        "term": "Webhook"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-049",
+    "deck": "tech-jargon",
+    "term": "Polling",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "api",
+      "networking"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Repeatedly asking a service for updates instead of waiting to be told.",
+        "example": "Instead of webhooks, the app polls the status endpoint every minute."
+      },
+      "ru": {
+        "definition": "Периодический опрос сервиса об обновлениях вместо ожидания уведомления.",
+        "example": "Вместо вебхуков приложение опрашивает эндпоинт статуса раз в минуту.",
+        "term": "Поллинг"
+      },
+      "ja": {
+        "definition": "通知を待つのではなく、サービスに更新がないか繰り返し問い合わせること。",
+        "example": "Webhookの代わりに、アプリは1分ごとにステータスのエンドポイントをポーリングしている。",
+        "term": "ポーリング"
+      },
+      "ko": {
+        "definition": "통지를 기다리는 대신 서비스에 반복적으로 업데이트를 물어보는 것.",
+        "example": "웹훅 대신 앱이 1분마다 상태 엔드포인트를 폴링한다.",
+        "term": "폴링"
+      },
+      "fr": {
+        "definition": "Interroger un service à intervalles réguliers pour obtenir des mises à jour, plutôt que d'attendre d'en être informé.",
+        "example": "Au lieu de webhooks, l'application interroge l'endpoint de statut chaque minute.",
+        "term": "Polling"
+      },
+      "es": {
+        "definition": "Preguntar repetidamente a un servicio por novedades en lugar de esperar a que avise.",
+        "example": "En vez de webhooks, la app consulta el endpoint de estado cada minuto mediante polling.",
+        "term": "Polling"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-050",
+    "deck": "tech-jargon",
+    "term": "Mutex",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "concurrency",
+      "systems"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A lock that lets only one thread access a shared resource at a time.",
+        "example": "A mutex around the balance prevents two withdrawals from clashing."
+      },
+      "ru": {
+        "definition": "Блокировка, дающая доступ к общему ресурсу лишь одному потоку за раз.",
+        "example": "Mutex вокруг баланса не даёт двум списаниям столкнуться.",
+        "term": "Мьютекс"
+      },
+      "ja": {
+        "definition": "共有リソースに同時にアクセスできるスレッドを1つだけに制限するロックのこと。",
+        "example": "残高にミューテックスをかけることで、2件の出金が衝突するのを防いでいる。",
+        "term": "ミューテックス"
+      },
+      "ko": {
+        "definition": "한 번에 하나의 스레드만 공유 자원에 접근하도록 하는 잠금.",
+        "example": "잔액에 뮤텍스를 걸어 두 출금이 충돌하지 않도록 막는다.",
+        "term": "뮤텍스"
+      },
+      "fr": {
+        "definition": "Un verrou qui n'autorise qu'un seul thread à accéder à une ressource partagée à la fois.",
+        "example": "Un mutex autour du solde empêche deux retraits de se télescoper.",
+        "term": "Mutex"
+      },
+      "es": {
+        "definition": "Un bloqueo que permite que solo un hilo acceda a un recurso compartido a la vez.",
+        "example": "Un mutex en torno al saldo evita que dos retiradas choquen entre sí.",
+        "term": "Mutex"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-051",
+    "deck": "tech-jargon",
+    "term": "Deadlock",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "concurrency",
+      "bugs"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When processes each wait on the other forever and none can proceed.",
+        "example": "Two transactions locked rows in opposite order and hit a deadlock."
+      },
+      "ru": {
+        "definition": "Когда процессы вечно ждут друг друга и ни один не может продолжиться.",
+        "example": "Две транзакции заблокировали строки в обратном порядке и попали в deadlock.",
+        "term": "Взаимоблокировка (Дедлок)"
+      },
+      "ja": {
+        "definition": "複数の処理が互いの完了を永遠に待ち合い、どれも先に進めなくなる状態のこと。",
+        "example": "2つのトランザクションが逆の順序で行をロックし、デッドロックに陥った。",
+        "term": "デッドロック"
+      },
+      "ko": {
+        "definition": "프로세스들이 서로를 영원히 기다리며 아무도 진행하지 못하는 상태.",
+        "example": "두 트랜잭션이 행을 반대 순서로 잠가서 데드락에 빠졌다.",
+        "term": "데드락"
+      },
+      "fr": {
+        "definition": "Quand des processus s'attendent mutuellement indéfiniment et qu'aucun ne peut avancer.",
+        "example": "Deux transactions ont verrouillé des lignes dans l'ordre inverse et ont provoqué un interblocage.",
+        "term": "Interblocage (Deadlock)"
+      },
+      "es": {
+        "definition": "Cuando varios procesos se esperan mutuamente para siempre y ninguno puede avanzar.",
+        "example": "Dos transacciones bloquearon filas en orden opuesto y cayeron en un deadlock.",
+        "term": "Interbloqueo (Deadlock)"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-052",
+    "deck": "tech-jargon",
+    "term": "Garbage collection",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "memory",
+      "runtime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Automatic reclaiming of memory that a program no longer uses.",
+        "example": "A garbage collection pause caused the brief latency spike."
+      },
+      "ru": {
+        "definition": "Автоматическое освобождение памяти, которую программа больше не использует.",
+        "example": "Краткий скачок задержки вызвала пауза на сборку мусора.",
+        "term": "Сборка мусора"
+      },
+      "ja": {
+        "definition": "プログラムがもう使わないメモリを自動的に回収すること。",
+        "example": "ガベージコレクションの一時停止が、短いレイテンシの跳ね上がりを引き起こした。",
+        "term": "ガベージコレクション"
+      },
+      "ko": {
+        "definition": "프로그램이 더 이상 사용하지 않는 메모리를 자동으로 회수하는 것.",
+        "example": "가비지 컬렉션으로 인한 멈춤이 잠깐의 지연 급증을 일으켰다.",
+        "term": "가비지 컬렉션"
+      },
+      "fr": {
+        "definition": "La récupération automatique de la mémoire qu'un programme n'utilise plus.",
+        "example": "Une pause du ramasse-miettes a provoqué ce bref pic de latence.",
+        "term": "Ramasse-miettes"
+      },
+      "es": {
+        "definition": "Recuperación automática de la memoria que un programa ya no utiliza.",
+        "example": "Una pausa del recolector de basura causó el breve pico de latencia.",
+        "term": "Recolección de basura"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-053",
+    "deck": "tech-jargon",
+    "term": "Memory leak",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "memory",
+      "bugs"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Memory that's allocated but never released, slowly exhausting resources.",
+        "example": "The server crashed nightly because of a slow memory leak."
+      },
+      "ru": {
+        "definition": "Память, которая выделяется, но не освобождается, постепенно истощая ресурсы.",
+        "example": "Сервер падал каждую ночь из-за медленной утечки памяти.",
+        "term": "Утечка памяти"
+      },
+      "ja": {
+        "definition": "確保したまま解放されず、徐々にリソースを食い尽くしていくメモリのこと。",
+        "example": "じわじわ進むメモリリークのせいで、サーバーが毎晩クラッシュしていた。",
+        "term": "メモリリーク"
+      },
+      "ko": {
+        "definition": "할당된 뒤 해제되지 않아 자원을 서서히 고갈시키는 메모리.",
+        "example": "느린 메모리 누수 때문에 서버가 밤마다 크래시했다.",
+        "term": "메모리 누수"
+      },
+      "fr": {
+        "definition": "De la mémoire allouée mais jamais libérée, qui épuise lentement les ressources.",
+        "example": "Le serveur plantait chaque nuit à cause d'une lente fuite de mémoire.",
+        "term": "Fuite de mémoire"
+      },
+      "es": {
+        "definition": "Memoria que se reserva pero nunca se libera, agotando los recursos poco a poco.",
+        "example": "El servidor se caía cada noche por una lenta fuga de memoria.",
+        "term": "Fuga de memoria"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-054",
+    "deck": "tech-jargon",
+    "term": "Concurrency",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "systems",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Handling multiple tasks that overlap in time, not always at once.",
+        "example": "Async code gives concurrency without spinning up many threads."
+      },
+      "ru": {
+        "definition": "Работа с несколькими задачами, перекрывающимися во времени, но не обязательно разом.",
+        "example": "Асинхронный код даёт конкурентность без запуска кучи потоков.",
+        "term": "Конкурентность"
+      },
+      "ja": {
+        "definition": "必ずしも同時ではなく、時間的に重なり合う複数のタスクを扱うこと。",
+        "example": "非同期コードを使えば、多数のスレッドを立ち上げずに並行処理を実現できる。",
+        "term": "並行性"
+      },
+      "ko": {
+        "definition": "여러 작업을 시간상 겹치게 처리하는 것으로, 반드시 동시에는 아니다.",
+        "example": "비동기 코드는 스레드를 많이 띄우지 않고도 동시성을 제공한다.",
+        "term": "동시성"
+      },
+      "fr": {
+        "definition": "Gérer plusieurs tâches qui se chevauchent dans le temps, sans forcément s'exécuter simultanément.",
+        "example": "Le code asynchrone offre de la concurrence sans lancer une multitude de threads.",
+        "term": "Concurrence"
+      },
+      "es": {
+        "definition": "Gestionar varias tareas que se solapan en el tiempo, no necesariamente a la vez.",
+        "example": "El código asíncrono ofrece concurrencia sin lanzar muchos hilos.",
+        "term": "Concurrencia"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-055",
+    "deck": "tech-jargon",
+    "term": "Parallelism",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "systems",
+      "performance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Actually running multiple computations at the same time on many cores.",
+        "example": "We used parallelism across eight cores to speed up the image processing."
+      },
+      "ru": {
+        "definition": "Реальный одновременный запуск нескольких вычислений на множестве ядер.",
+        "example": "Мы распараллелили обработку картинок по восьми ядрам и ускорили её.",
+        "term": "Параллелизм"
+      },
+      "ja": {
+        "definition": "多数のコアで複数の計算を実際に同時に実行すること。",
+        "example": "8コアにまたがる並列処理を使って、画像処理を高速化した。",
+        "term": "並列性"
+      },
+      "ko": {
+        "definition": "여러 연산을 여러 코어에서 실제로 동시에 실행하는 것.",
+        "example": "이미지 처리를 빠르게 하려고 8개 코어에 걸쳐 병렬 처리를 사용했다.",
+        "term": "병렬성"
+      },
+      "fr": {
+        "definition": "Exécuter réellement plusieurs calculs en même temps sur plusieurs cœurs.",
+        "example": "On a exploité le parallélisme sur huit cœurs pour accélérer le traitement d'images.",
+        "term": "Parallélisme"
+      },
+      "es": {
+        "definition": "Ejecutar de verdad varias operaciones al mismo tiempo en muchos núcleos.",
+        "example": "Usamos paralelismo en ocho núcleos para acelerar el procesamiento de imágenes.",
+        "term": "Paralelismo"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-056",
+    "deck": "tech-jargon",
+    "term": "Stateless",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "architecture",
+      "api"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A service that keeps no memory of past requests between calls.",
+        "example": "Stateless servers are easy to scale since any one can handle any request."
+      },
+      "ru": {
+        "definition": "Сервис, который не хранит память о прошлых запросах между вызовами.",
+        "example": "Stateless-серверы легко масштабировать: любой обработает любой запрос.",
+        "term": "Stateless"
+      },
+      "ja": {
+        "definition": "呼び出し間で過去のリクエストを一切記憶しないサービスのこと。",
+        "example": "ステートレスなサーバーは、どのサーバーもどのリクエストも処理できるためスケールさせやすい。",
+        "term": "ステートレス"
+      },
+      "ko": {
+        "definition": "호출 사이에 이전 요청에 대한 정보를 전혀 기억하지 않는 서비스.",
+        "example": "스테이트리스 서버는 어느 것이든 어떤 요청이라도 처리할 수 있어 확장이 쉽다.",
+        "term": "스테이트리스"
+      },
+      "fr": {
+        "definition": "Un service qui ne conserve aucune mémoire des requêtes passées d'un appel à l'autre.",
+        "example": "Les serveurs sans état sont faciles à mettre à l'échelle puisque n'importe lequel peut traiter n'importe quelle requête.",
+        "term": "Stateless"
+      },
+      "es": {
+        "definition": "Servicio que no guarda memoria de las peticiones anteriores entre llamadas.",
+        "example": "Los servidores sin estado son fáciles de escalar, pues cualquiera puede atender cualquier petición.",
+        "term": "Stateless"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-057",
+    "deck": "tech-jargon",
+    "term": "Stateful",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "architecture",
+      "systems"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A service that remembers data across requests or sessions.",
+        "example": "The game server is stateful because it tracks each match in progress."
+      },
+      "ru": {
+        "definition": "Сервис, который помнит данные между запросами или сессиями.",
+        "example": "Игровой сервер stateful, ведь он отслеживает каждый идущий матч.",
+        "term": "Stateful"
+      },
+      "ja": {
+        "definition": "リクエストやセッションをまたいでデータを記憶するサービスのこと。",
+        "example": "そのゲームサーバーは進行中の各試合を管理しているため、ステートフルだ。",
+        "term": "ステートフル"
+      },
+      "ko": {
+        "definition": "요청이나 세션에 걸쳐 데이터를 기억하는 서비스.",
+        "example": "그 게임 서버는 진행 중인 각 매치를 추적하므로 스테이트풀하다.",
+        "term": "스테이트풀"
+      },
+      "fr": {
+        "definition": "Un service qui mémorise des données d'une requête ou d'une session à l'autre.",
+        "example": "Le serveur de jeu est à état car il suit chaque partie en cours.",
+        "term": "Stateful"
+      },
+      "es": {
+        "definition": "Servicio que recuerda datos entre peticiones o sesiones.",
+        "example": "El servidor de juego es con estado porque sigue cada partida en curso.",
+        "term": "Stateful"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-058",
+    "deck": "tech-jargon",
+    "term": "Serverless",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "cloud",
+      "architecture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Running code on demand without managing the underlying servers yourself.",
+        "example": "We moved the image resizer to a serverless function to cut idle cost."
+      },
+      "ru": {
+        "definition": "Запуск кода по запросу без управления серверами под капотом.",
+        "example": "Мы перенесли ресайз картинок в serverless-функцию, чтобы не платить за простой.",
+        "term": "Serverless"
+      },
+      "ja": {
+        "definition": "裏側のサーバーを自分で管理せず、必要に応じてコードを実行する方式のこと。",
+        "example": "アイドル時のコストを抑えるため、画像リサイズ処理をサーバーレス関数に移した。",
+        "term": "サーバーレス"
+      },
+      "ko": {
+        "definition": "기반 서버를 직접 관리하지 않고 필요할 때만 코드를 실행하는 것.",
+        "example": "유휴 비용을 줄이려고 이미지 리사이저를 서버리스 함수로 옮겼다.",
+        "term": "서버리스"
+      },
+      "fr": {
+        "definition": "Exécuter du code à la demande sans gérer soi-même les serveurs sous-jacents.",
+        "example": "On a déplacé le redimensionneur d'images vers une fonction serverless pour réduire le coût d'inactivité.",
+        "term": "Serverless"
+      },
+      "es": {
+        "definition": "Ejecutar código bajo demanda sin gestionar tú mismo los servidores subyacentes.",
+        "example": "Movimos el redimensionador de imágenes a una función serverless para reducir el coste en reposo.",
+        "term": "Serverless"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-059",
+    "deck": "tech-jargon",
+    "term": "Containerization",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "devops",
+      "cloud"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Packaging an app with its dependencies to run consistently anywhere.",
+        "example": "Containerization with Docker ended the 'works on my machine' excuse."
+      },
+      "ru": {
+        "definition": "Упаковка приложения со всеми зависимостями ради единообразного запуска где угодно.",
+        "example": "Контейнеризация на Docker покончила с отговоркой «у меня на машине работает».",
+        "term": "Контейнеризация"
+      },
+      "ja": {
+        "definition": "アプリを依存関係ごとパッケージ化し、どこでも一貫して動くようにすること。",
+        "example": "Dockerによるコンテナ化で、「自分の環境では動く」という言い訳がなくなった。",
+        "term": "コンテナ化"
+      },
+      "ko": {
+        "definition": "앱을 의존성과 함께 묶어 어디서나 일관되게 실행되도록 패키징하는 것.",
+        "example": "Docker를 이용한 컨테이너화로 '내 컴퓨터에서는 되는데'라는 변명이 사라졌다.",
+        "term": "컨테이너화"
+      },
+      "fr": {
+        "definition": "Empaqueter une application avec ses dépendances pour qu'elle s'exécute de façon identique partout.",
+        "example": "La conteneurisation avec Docker a mis fin à l'excuse du « ça marche sur ma machine ».",
+        "term": "Conteneurisation"
+      },
+      "es": {
+        "definition": "Empaquetar una aplicación con sus dependencias para que funcione igual en cualquier lugar.",
+        "example": "Los contenedores con Docker acabaron con la excusa de 'en mi máquina funciona'.",
+        "term": "Contenerización"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-060",
+    "deck": "tech-jargon",
+    "term": "Orchestration",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "devops",
+      "cloud"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Automatically managing how many containers run, where, and when.",
+        "example": "Kubernetes handles orchestration so failed pods restart on their own."
+      },
+      "ru": {
+        "definition": "Автоматическое управление тем, сколько контейнеров запущено, где и когда.",
+        "example": "Kubernetes занимается оркестрацией, так что упавшие поды перезапускаются сами.",
+        "term": "Оркестрация"
+      },
+      "ja": {
+        "definition": "いくつのコンテナを、どこで、いつ動かすかを自動的に管理すること。",
+        "example": "Kubernetesがオーケストレーションを担い、落ちたPodを自動で再起動してくれる。",
+        "term": "オーケストレーション"
+      },
+      "ko": {
+        "definition": "얼마나 많은 컨테이너를 어디서 언제 실행할지 자동으로 관리하는 것.",
+        "example": "Kubernetes가 오케스트레이션을 맡아 실패한 파드가 스스로 재시작된다.",
+        "term": "오케스트레이션"
+      },
+      "fr": {
+        "definition": "Gérer automatiquement le nombre de conteneurs qui s'exécutent, où et quand.",
+        "example": "Kubernetes assure l'orchestration pour que les pods défaillants redémarrent d'eux-mêmes.",
+        "term": "Orchestration"
+      },
+      "es": {
+        "definition": "Gestionar automáticamente cuántos contenedores se ejecutan, dónde y cuándo.",
+        "example": "Kubernetes se encarga de la orquestación para que los pods caídos se reinicien solos.",
+        "term": "Orquestación"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-061",
+    "deck": "tech-jargon",
+    "term": "Immutable",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "code",
+      "data"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Data that can't be changed after it's created; you make a new copy instead.",
+        "example": "Using immutable state made the bug-prone updates much easier to track."
+      },
+      "ru": {
+        "definition": "Данные, которые нельзя менять после создания; вместо этого делают новую копию.",
+        "example": "Иммутабельное состояние сделало багоопасные обновления куда отслеживаемее.",
+        "term": "Иммутабельность"
+      },
+      "ja": {
+        "definition": "作成後は変更できず、変更したいときは新しいコピーを作るデータのこと。",
+        "example": "イミュータブルな状態を使ったことで、バグの起きやすかった更新がずっと追いやすくなった。",
+        "term": "イミュータブル"
+      },
+      "ko": {
+        "definition": "생성된 뒤에는 바꿀 수 없고, 대신 새 복사본을 만드는 데이터.",
+        "example": "불변 상태를 쓰니 버그가 잦던 업데이트를 추적하기가 훨씬 쉬워졌다.",
+        "term": "불변(Immutable)"
+      },
+      "fr": {
+        "definition": "Des données qu'on ne peut pas modifier après leur création ; on en crée une nouvelle copie à la place.",
+        "example": "Recourir à un état immuable a rendu bien plus faciles à suivre ces mises à jour sujettes aux bugs.",
+        "term": "Immuable"
+      },
+      "es": {
+        "definition": "Datos que no se pueden cambiar tras crearse; en su lugar se hace una copia nueva.",
+        "example": "Usar estado inmutable hizo mucho más fácil rastrear las actualizaciones propensas a errores.",
+        "term": "Inmutable"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-062",
+    "deck": "tech-jargon",
+    "term": "Idempotency key",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "api",
+      "reliability"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A unique token that stops a repeated request from being processed twice.",
+        "example": "Send an idempotency key so a retried payment isn't charged again."
+      },
+      "ru": {
+        "definition": "Уникальный токен, не дающий повторному запросу обработаться дважды.",
+        "example": "Передавай idempotency key, чтобы повторный платёж не списался снова.",
+        "term": "Ключ идемпотентности"
+      },
+      "ja": {
+        "definition": "繰り返し送られたリクエストが二重に処理されるのを防ぐ、一意のトークンのこと。",
+        "example": "冪等性キーを送れば、リトライした決済が二重に課金されることはない。",
+        "term": "冪等性キー"
+      },
+      "ko": {
+        "definition": "반복된 요청이 두 번 처리되지 않도록 막는 고유 토큰.",
+        "example": "멱등성 키를 보내면 재시도된 결제가 다시 청구되지 않는다.",
+        "term": "멱등성 키"
+      },
+      "fr": {
+        "definition": "Un jeton unique qui empêche qu'une requête répétée soit traitée deux fois.",
+        "example": "Envoyez une clé d'idempotence pour qu'un paiement réessayé ne soit pas débité une seconde fois.",
+        "term": "Clé d'idempotence"
+      },
+      "es": {
+        "definition": "Un token único que impide que una petición repetida se procese dos veces.",
+        "example": "Envía una idempotency key para que un pago reintentado no se cobre de nuevo.",
+        "term": "Clave de idempotencia"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-063",
+    "deck": "tech-jargon",
+    "term": "Rate limit",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "api",
+      "reliability"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A cap on how many requests a client can make in a time window.",
+        "example": "Hit the rate limit and the API returns 429 until you slow down."
+      },
+      "ru": {
+        "definition": "Ограничение на число запросов, которые клиент может сделать за окно времени.",
+        "example": "Упёрся в rate limit — и API отвечает 429, пока не сбавишь темп.",
+        "term": "Лимит запросов (Rate limit)"
+      },
+      "ja": {
+        "definition": "一定時間内にクライアントが送れるリクエスト数の上限のこと。",
+        "example": "レートリミットに達すると、速度を落とすまでAPIは429を返す。",
+        "term": "レート制限"
+      },
+      "ko": {
+        "definition": "일정 시간 동안 클라이언트가 보낼 수 있는 요청 수의 상한.",
+        "example": "레이트 리밋에 걸리면 속도를 늦출 때까지 API가 429를 반환한다.",
+        "term": "속도 제한(Rate limit)"
+      },
+      "fr": {
+        "definition": "Un plafond sur le nombre de requêtes qu'un client peut envoyer dans une fenêtre de temps.",
+        "example": "Atteignez la limite de débit et l'API renvoie un code 429 jusqu'à ce que vous ralentissiez.",
+        "term": "Limite de débit (Rate limit)"
+      },
+      "es": {
+        "definition": "Un tope de cuántas peticiones puede hacer un cliente en una ventana de tiempo.",
+        "example": "Si superas el rate limit, la API devuelve un 429 hasta que reduzcas el ritmo.",
+        "term": "Límite de tasa (Rate limit)"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-064",
+    "deck": "tech-jargon",
+    "term": "Schema",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "data",
+      "databases"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The defined structure and rules for how data is organized.",
+        "example": "We updated the schema to add a phone field to every user."
+      },
+      "ru": {
+        "definition": "Заданная структура и правила того, как организованы данные.",
+        "example": "Мы обновили схему, добавив поле телефона каждому пользователю.",
+        "term": "Схема"
+      },
+      "ja": {
+        "definition": "データがどう構成されるかを定めた構造とルールのこと。",
+        "example": "スキーマを更新して、全ユーザーに電話番号フィールドを追加した。",
+        "term": "スキーマ"
+      },
+      "ko": {
+        "definition": "데이터가 어떻게 구성되는지에 대해 정의된 구조와 규칙.",
+        "example": "모든 사용자에 전화번호 필드를 추가하려고 스키마를 수정했다.",
+        "term": "스키마"
+      },
+      "fr": {
+        "definition": "La structure et les règles définies pour l'organisation des données.",
+        "example": "On a mis à jour le schéma pour ajouter un champ téléphone à chaque utilisateur.",
+        "term": "Schéma"
+      },
+      "es": {
+        "definition": "La estructura y las reglas definidas para organizar los datos.",
+        "example": "Actualizamos el esquema para añadir un campo de teléfono a cada usuario.",
+        "term": "Esquema"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-065",
+    "deck": "tech-jargon",
+    "term": "Migration",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "databases",
+      "devops"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A scripted, versioned change to a database's structure or data.",
+        "example": "The migration added an index and renamed the old column safely."
+      },
+      "ru": {
+        "definition": "Скриптовое версионируемое изменение структуры или данных базы.",
+        "example": "Миграция добавила индекс и безопасно переименовала старую колонку.",
+        "term": "Миграция"
+      },
+      "ja": {
+        "definition": "データベースの構造やデータに対する、スクリプト化されバージョン管理された変更のこと。",
+        "example": "そのマイグレーションは、インデックスを追加し、古いカラムを安全にリネームした。",
+        "term": "マイグレーション"
+      },
+      "ko": {
+        "definition": "데이터베이스의 구조나 데이터에 대한, 스크립트로 작성되고 버전 관리되는 변경.",
+        "example": "이 마이그레이션은 인덱스를 추가하고 기존 컬럼명을 안전하게 변경했다.",
+        "term": "마이그레이션"
+      },
+      "fr": {
+        "definition": "Une modification scriptée et versionnée de la structure ou des données d'une base de données.",
+        "example": "La migration a ajouté un index et renommé l'ancienne colonne en toute sécurité.",
+        "term": "Migration"
+      },
+      "es": {
+        "definition": "Un cambio versionado y automatizado en la estructura o los datos de una base de datos.",
+        "example": "La migración añadió un índice y renombró la columna antigua de forma segura.",
+        "term": "Migración"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-066",
+    "deck": "tech-jargon",
+    "term": "ORM",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "databases",
+      "code"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A tool that maps database rows to objects in your programming language.",
+        "example": "The ORM let us query users without writing raw SQL."
+      },
+      "ru": {
+        "definition": "Инструмент, отображающий строки БД в объекты вашего языка программирования.",
+        "example": "ORM позволил запрашивать пользователей без сырого SQL.",
+        "term": "ORM"
+      },
+      "ja": {
+        "definition": "データベースの行を、プログラミング言語のオブジェクトに対応づけるツールのこと。",
+        "example": "ORMのおかげで、生のSQLを書かずにユーザーを照会できた。",
+        "term": "ORM"
+      },
+      "ko": {
+        "definition": "데이터베이스의 행을 프로그래밍 언어의 객체로 매핑해 주는 도구.",
+        "example": "ORM 덕분에 raw SQL을 작성하지 않고도 사용자를 조회할 수 있었다.",
+        "term": "ORM"
+      },
+      "fr": {
+        "definition": "Un outil qui fait correspondre les lignes d'une base de données à des objets de votre langage de programmation.",
+        "example": "L'ORM nous a permis d'interroger les utilisateurs sans écrire de SQL brut.",
+        "term": "ORM"
+      },
+      "es": {
+        "definition": "Herramienta que mapea las filas de una base de datos a objetos de tu lenguaje de programación.",
+        "example": "El ORM nos permitió consultar usuarios sin escribir SQL a mano.",
+        "term": "ORM"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-067",
+    "deck": "tech-jargon",
+    "term": "CRUD",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "databases",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The four basic data operations: create, read, update, and delete.",
+        "example": "The admin panel is just a CRUD interface over the products table."
+      },
+      "ru": {
+        "definition": "Четыре базовые операции с данными: создание, чтение, обновление и удаление.",
+        "example": "Админка — это просто CRUD-интерфейс над таблицей товаров.",
+        "term": "CRUD"
+      },
+      "ja": {
+        "definition": "作成・読み取り・更新・削除という、データ操作の基本4つのこと。",
+        "example": "その管理画面は、商品テーブルに対する単なるCRUDのインターフェースだ。",
+        "term": "CRUD"
+      },
+      "ko": {
+        "definition": "생성, 조회, 수정, 삭제라는 네 가지 기본 데이터 연산.",
+        "example": "그 관리자 페이지는 상품 테이블에 대한 단순한 CRUD 인터페이스일 뿐이다.",
+        "term": "CRUD"
+      },
+      "fr": {
+        "definition": "Les quatre opérations de base sur les données : créer, lire, mettre à jour et supprimer.",
+        "example": "Le panneau d'administration n'est qu'une interface CRUD sur la table des produits.",
+        "term": "CRUD"
+      },
+      "es": {
+        "definition": "Las cuatro operaciones básicas con datos: crear, leer, actualizar y eliminar.",
+        "example": "El panel de administración es solo una interfaz CRUD sobre la tabla de productos.",
+        "term": "CRUD"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-068",
+    "deck": "tech-jargon",
+    "term": "REST",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "api",
+      "web"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A style for web APIs that uses HTTP methods on addressable resources.",
+        "example": "The REST API uses GET to fetch and POST to create orders."
+      },
+      "ru": {
+        "definition": "Стиль веб-API, использующий HTTP-методы над адресуемыми ресурсами.",
+        "example": "REST API использует GET для получения и POST для создания заказов.",
+        "term": "REST"
+      },
+      "ja": {
+        "definition": "アドレス可能なリソースにHTTPメソッドを用いる、Web APIの設計スタイルのこと。",
+        "example": "そのREST APIは、取得にGET、注文の作成にPOSTを使う。",
+        "term": "REST"
+      },
+      "ko": {
+        "definition": "주소로 식별되는 리소스에 HTTP 메서드를 사용하는 웹 API 스타일.",
+        "example": "그 REST API는 조회에 GET을, 주문 생성에 POST를 사용한다.",
+        "term": "REST"
+      },
+      "fr": {
+        "definition": "Un style d'API web qui applique les méthodes HTTP à des ressources adressables.",
+        "example": "L'API REST utilise GET pour récupérer et POST pour créer des commandes.",
+        "term": "REST"
+      },
+      "es": {
+        "definition": "Un estilo de API web que usa métodos HTTP sobre recursos direccionables.",
+        "example": "La API REST usa GET para obtener y POST para crear pedidos.",
+        "term": "REST"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-069",
+    "deck": "tech-jargon",
+    "term": "GraphQL",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "api",
+      "web"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A query language letting clients request exactly the data they need.",
+        "example": "With GraphQL the app fetches the user and their posts in one call."
+      },
+      "ru": {
+        "definition": "Язык запросов, позволяющий клиенту запросить ровно те данные, что нужны.",
+        "example": "С GraphQL приложение получает пользователя и его посты за один вызов.",
+        "term": "GraphQL"
+      },
+      "ja": {
+        "definition": "クライアントが必要なデータだけを正確に要求できるクエリ言語のこと。",
+        "example": "GraphQLを使えば、アプリはユーザーとその投稿を1回の呼び出しで取得できる。",
+        "term": "GraphQL"
+      },
+      "ko": {
+        "definition": "클라이언트가 필요한 데이터만 정확히 요청할 수 있게 해 주는 쿼리 언어.",
+        "example": "GraphQL로 앱은 사용자와 그의 게시글을 한 번의 호출로 가져온다.",
+        "term": "GraphQL"
+      },
+      "fr": {
+        "definition": "Un langage de requête qui permet aux clients de demander exactement les données dont ils ont besoin.",
+        "example": "Avec GraphQL, l'application récupère l'utilisateur et ses publications en un seul appel.",
+        "term": "GraphQL"
+      },
+      "es": {
+        "definition": "Un lenguaje de consulta que permite a los clientes pedir exactamente los datos que necesitan.",
+        "example": "Con GraphQL la app obtiene el usuario y sus publicaciones en una sola llamada.",
+        "term": "GraphQL"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-070",
+    "deck": "tech-jargon",
+    "term": "Payload",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "api",
+      "networking"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The actual data carried inside a request or response.",
+        "example": "The webhook's payload includes the order ID and amount."
+      },
+      "ru": {
+        "definition": "Собственно данные, которые несёт запрос или ответ.",
+        "example": "В payload вебхука есть ID заказа и сумма.",
+        "term": "Payload"
+      },
+      "ja": {
+        "definition": "リクエストやレスポンスに含まれる実際のデータ(本体)のこと。",
+        "example": "そのWebhookのペイロードには、注文IDと金額が含まれている。",
+        "term": "ペイロード"
+      },
+      "ko": {
+        "definition": "요청이나 응답 안에 실려 전달되는 실제 데이터.",
+        "example": "그 웹훅의 페이로드에는 주문 ID와 금액이 담겨 있다.",
+        "term": "페이로드"
+      },
+      "fr": {
+        "definition": "Les données effectivement transportées au sein d'une requête ou d'une réponse.",
+        "example": "Le contenu du webhook inclut l'identifiant de commande et le montant.",
+        "term": "Payload"
+      },
+      "es": {
+        "definition": "Los datos reales que viajan dentro de una petición o respuesta.",
+        "example": "El payload del webhook incluye el ID del pedido y el importe.",
+        "term": "Payload"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-071",
+    "deck": "tech-jargon",
+    "term": "Idempotent retry",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "reliability",
+      "systems"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Safely re-sending a request because repeating it causes no extra effect.",
+        "example": "An idempotent retry recovered the upload after the network blip."
+      },
+      "ru": {
+        "definition": "Безопасная повторная отправка запроса, ведь его повтор не даёт лишнего эффекта.",
+        "example": "Идемпотентный повтор восстановил загрузку после сбоя сети.",
+        "term": "Идемпотентный ретрай"
+      },
+      "ja": {
+        "definition": "繰り返しても余計な影響が出ないため、リクエストを安全に再送できること。",
+        "example": "冪等なリトライによって、ネットワークの一瞬の途切れの後でもアップロードが復旧した。",
+        "term": "冪等リトライ"
+      },
+      "ko": {
+        "definition": "반복해도 추가적인 영향이 없기 때문에 안전하게 다시 보내는 요청.",
+        "example": "멱등 재시도 덕분에 네트워크가 잠깐 끊긴 뒤 업로드가 복구됐다.",
+        "term": "멱등 재시도"
+      },
+      "fr": {
+        "definition": "Renvoyer une requête sans risque, parce que la répéter ne produit aucun effet supplémentaire.",
+        "example": "Une nouvelle tentative idempotente a permis de récupérer l'envoi après la coupure réseau.",
+        "term": "Réessai idempotent"
+      },
+      "es": {
+        "definition": "Reenviar una petición con seguridad porque repetirla no provoca ningún efecto adicional.",
+        "example": "Un reintento idempotente recuperó la subida tras el corte de red.",
+        "term": "Reintento idempotente"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-072",
+    "deck": "tech-jargon",
+    "term": "Graceful degradation",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "reliability",
+      "ux"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Keeping core features working when parts of a system fail.",
+        "example": "If recommendations fail, graceful degradation still shows the catalog."
+      },
+      "ru": {
+        "definition": "Сохранение работы ключевых функций, когда части системы отказывают.",
+        "example": "Если рекомендации отвалятся, graceful degradation всё равно покажет каталог.",
+        "term": "Плавная деградация"
+      },
+      "ja": {
+        "definition": "システムの一部が壊れても、中核となる機能は動き続けるようにすること。",
+        "example": "レコメンドが失敗しても、グレースフルデグラデーションのおかげでカタログは表示され続ける。",
+        "term": "グレースフルデグラデーション"
+      },
+      "ko": {
+        "definition": "시스템 일부가 고장 나도 핵심 기능은 계속 동작하도록 유지하는 것.",
+        "example": "추천이 실패해도 그레이스풀 디그러데이션 덕분에 카탈로그는 여전히 표시된다.",
+        "term": "우아한 성능 저하"
+      },
+      "fr": {
+        "definition": "Maintenir les fonctionnalités essentielles en marche lorsque des parties d'un système tombent en panne.",
+        "example": "Si les recommandations échouent, la dégradation progressive affiche tout de même le catalogue.",
+        "term": "Dégradation gracieuse"
+      },
+      "es": {
+        "definition": "Mantener funcionando las funciones esenciales cuando partes de un sistema fallan.",
+        "example": "Si fallan las recomendaciones, la degradación elegante sigue mostrando el catálogo.",
+        "term": "Degradación elegante"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-073",
+    "deck": "tech-jargon",
+    "term": "Circuit breaker",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "reliability",
+      "patterns"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A guard that stops calling a failing service to let it recover.",
+        "example": "The circuit breaker tripped and skipped the down payment provider."
+      },
+      "ru": {
+        "definition": "Защита, прекращающая вызовы падающего сервиса, чтобы дать ему восстановиться.",
+        "example": "Circuit breaker сработал и отключил лежачего платёжного провайдера.",
+        "term": "Circuit breaker"
+      },
+      "ja": {
+        "definition": "失敗しているサービスへの呼び出しを止め、回復を待つための防御の仕組みのこと。",
+        "example": "サーキットブレーカーが作動し、ダウンしている決済プロバイダーへの呼び出しをスキップした。",
+        "term": "サーキットブレーカー"
+      },
+      "ko": {
+        "definition": "장애가 난 서비스를 회복할 수 있도록 호출을 중단시키는 보호 장치.",
+        "example": "서킷 브레이커가 작동해 다운된 결제 공급자 호출을 건너뛰었다.",
+        "term": "서킷 브레이커"
+      },
+      "fr": {
+        "definition": "Un garde-fou qui cesse d'appeler un service défaillant pour lui laisser le temps de se rétablir.",
+        "example": "Le disjoncteur s'est déclenché et a contourné le prestataire de paiement hors service.",
+        "term": "Disjoncteur (Circuit breaker)"
+      },
+      "es": {
+        "definition": "Un mecanismo que deja de llamar a un servicio que falla para dejar que se recupere.",
+        "example": "El cortacircuitos saltó y omitió el proveedor de pagos caído.",
+        "term": "Cortacircuitos (Circuit breaker)"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-074",
+    "deck": "tech-jargon",
+    "term": "Observability",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "devops",
+      "monitoring"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How well you can understand a system's state from its outputs.",
+        "example": "Good observability meant we traced the outage to one slow query."
+      },
+      "ru": {
+        "definition": "Насколько хорошо по выходным данным можно понять состояние системы.",
+        "example": "Хорошая observability помогла свести сбой к одному медленному запросу.",
+        "term": "Наблюдаемость"
+      },
+      "ja": {
+        "definition": "システムの出力から、その内部状態をどれだけ把握できるかという度合いのこと。",
+        "example": "可観測性が高かったおかげで、障害の原因を1つの遅いクエリまで突き止められた。",
+        "term": "オブザーバビリティ"
+      },
+      "ko": {
+        "definition": "시스템의 출력으로부터 그 상태를 얼마나 잘 파악할 수 있는지를 나타내는 정도.",
+        "example": "좋은 관측 가능성 덕분에 장애 원인을 느린 쿼리 하나로 추적할 수 있었다.",
+        "term": "관측 가능성"
+      },
+      "fr": {
+        "definition": "La capacité à comprendre l'état d'un système à partir de ce qu'il produit en sortie.",
+        "example": "Une bonne observabilité nous a permis de remonter la panne jusqu'à une requête lente.",
+        "term": "Observabilité"
+      },
+      "es": {
+        "definition": "Hasta qué punto puedes entender el estado de un sistema a partir de sus salidas.",
+        "example": "Una buena observabilidad nos permitió rastrear la caída hasta una sola consulta lenta.",
+        "term": "Observabilidad"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-075",
+    "deck": "tech-jargon",
+    "term": "Telemetry",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "monitoring",
+      "devops"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Automatically collected data about how a system is performing.",
+        "example": "Telemetry showed memory climbing right before each crash."
+      },
+      "ru": {
+        "definition": "Автоматически собираемые данные о том, как работает система.",
+        "example": "Телеметрия показала рост памяти прямо перед каждым крашем.",
+        "term": "Телеметрия"
+      },
+      "ja": {
+        "definition": "システムの稼働状況について自動的に収集されるデータのこと。",
+        "example": "テレメトリは、クラッシュの直前に毎回メモリが上昇していたことを示していた。",
+        "term": "テレメトリ"
+      },
+      "ko": {
+        "definition": "시스템이 어떻게 동작하는지에 관해 자동으로 수집되는 데이터.",
+        "example": "텔레메트리에서 매번 크래시 직전에 메모리가 치솟는 것이 보였다.",
+        "term": "텔레메트리"
+      },
+      "fr": {
+        "definition": "Des données collectées automatiquement sur le fonctionnement d'un système.",
+        "example": "La télémétrie montrait la mémoire grimper juste avant chaque plantage.",
+        "term": "Télémétrie"
+      },
+      "es": {
+        "definition": "Datos recogidos automáticamente sobre el rendimiento de un sistema.",
+        "example": "La telemetría mostró que la memoria subía justo antes de cada caída.",
+        "term": "Telemetría"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-076",
+    "deck": "tech-jargon",
+    "term": "SLA",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "business",
+      "reliability"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A formal promise about a service's uptime or performance level.",
+        "example": "Our SLA guarantees 99.9% uptime or the customer gets credits."
+      },
+      "ru": {
+        "definition": "Формальное обещание об уровне доступности или производительности сервиса.",
+        "example": "Наш SLA гарантирует аптайм 99,9%, иначе клиент получает компенсацию.",
+        "term": "SLA"
+      },
+      "ja": {
+        "definition": "サービスの稼働率や性能水準についての正式な取り決め(約束)のこと。",
+        "example": "うちのSLAは99.9%の稼働率を保証し、満たせなければ顧客にクレジットを付与する。",
+        "term": "SLA"
+      },
+      "ko": {
+        "definition": "서비스의 가동 시간이나 성능 수준에 대한 공식적인 약속.",
+        "example": "우리 SLA는 99.9% 가동 시간을 보장하며, 그러지 못하면 고객에게 크레딧을 준다.",
+        "term": "SLA"
+      },
+      "fr": {
+        "definition": "Un engagement formel sur le niveau de disponibilité ou de performance d'un service.",
+        "example": "Notre contrat de niveau de service garantit 99,9 % de disponibilité, sinon le client reçoit des avoirs.",
+        "term": "SLA"
+      },
+      "es": {
+        "definition": "Un compromiso formal sobre el nivel de disponibilidad o rendimiento de un servicio.",
+        "example": "Nuestro SLA garantiza un 99,9% de disponibilidad o el cliente recibe compensaciones.",
+        "term": "SLA"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-077",
+    "deck": "tech-jargon",
+    "term": "Burn rate",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "startup",
+      "finance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How fast a company is spending its cash, usually per month.",
+        "example": "A $200k monthly burn rate means we need funding by fall."
+      },
+      "ru": {
+        "definition": "Скорость, с которой компания тратит деньги, обычно за месяц.",
+        "example": "Burn rate в $200k в месяц значит, что финансирование нужно к осени.",
+        "term": "Burn rate"
+      },
+      "ja": {
+        "definition": "通常は月単位で、企業が現金を消費していく速さのこと。",
+        "example": "月20万ドルのバーンレートということは、秋までに資金調達が必要だ。",
+        "term": "バーンレート"
+      },
+      "ko": {
+        "definition": "회사가 보유 현금을 얼마나 빨리 쓰고 있는지, 보통 월 단위로 나타낸 값.",
+        "example": "월 20만 달러의 소진 속도라면 가을까지 자금을 조달해야 한다.",
+        "term": "번 레이트"
+      },
+      "fr": {
+        "definition": "La vitesse à laquelle une entreprise dépense sa trésorerie, généralement par mois.",
+        "example": "Un taux de combustion de 200 000 $ par mois signifie qu'il nous faut un financement d'ici l'automne.",
+        "term": "Burn rate"
+      },
+      "es": {
+        "definition": "La rapidez con que una empresa gasta su efectivo, normalmente al mes.",
+        "example": "Un ritmo de gasto de 200.000 $ al mes significa que necesitamos financiación en otoño.",
+        "term": "Burn rate"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-078",
+    "deck": "tech-jargon",
+    "term": "Bootstrapped",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "startup",
+      "finance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Built using personal funds and revenue, without outside investors.",
+        "example": "They bootstrapped the company to $1M revenue before raising money."
+      },
+      "ru": {
+        "definition": "Построенный на свои деньги и выручку, без внешних инвесторов.",
+        "example": "Они довели компанию до $1M выручки на свои, прежде чем привлекать деньги.",
+        "term": "Bootstrapped"
+      },
+      "ja": {
+        "definition": "外部投資家に頼らず、自己資金と売上だけで事業を築くこと。",
+        "example": "彼らは資金調達をする前に、ブートストラップで売上100万ドルまで会社を育てた。",
+        "term": "ブートストラップ"
+      },
+      "ko": {
+        "definition": "외부 투자자 없이 자기 자금과 매출로 구축하는 것.",
+        "example": "그들은 외부 투자를 받기 전에 매출 100만 달러까지 자력으로 부트스트래핑했다.",
+        "term": "부트스트랩"
+      },
+      "fr": {
+        "definition": "Développé grâce aux fonds personnels et aux revenus, sans investisseurs extérieurs.",
+        "example": "Ils ont autofinancé l'entreprise jusqu'à 1 M$ de chiffre d'affaires avant de lever des fonds.",
+        "term": "Bootstrapped"
+      },
+      "es": {
+        "definition": "Levantado con fondos propios e ingresos, sin inversores externos.",
+        "example": "Llevaron la empresa a 1 millón de ingresos de forma autofinanciada antes de captar dinero.",
+        "term": "Bootstrapped"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-079",
+    "deck": "tech-jargon",
+    "term": "Unicorn",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "startup",
+      "finance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A privately held startup valued at over one billion dollars.",
+        "example": "After the round, the fintech became a unicorn overnight."
+      },
+      "ru": {
+        "definition": "Частный стартап с оценкой более миллиарда долларов.",
+        "example": "После раунда финтех в одночасье стал единорогом.",
+        "term": "Единорог (Unicorn)"
+      },
+      "ja": {
+        "definition": "評価額が10億ドルを超える、非上場のスタートアップのこと。",
+        "example": "その資金調達ラウンドの後、そのフィンテックは一夜にしてユニコーンになった。",
+        "term": "ユニコーン"
+      },
+      "ko": {
+        "definition": "기업 가치가 10억 달러를 넘는 비상장 스타트업.",
+        "example": "그 투자 라운드 이후 그 핀테크는 하룻밤 사이에 유니콘이 됐다.",
+        "term": "유니콘"
+      },
+      "fr": {
+        "definition": "Une startup non cotée valorisée à plus d'un milliard de dollars.",
+        "example": "Après la levée de fonds, la fintech est devenue une licorne du jour au lendemain.",
+        "term": "Licorne"
+      },
+      "es": {
+        "definition": "Una startup privada valorada en más de mil millones de dólares.",
+        "example": "Tras la ronda, la fintech se convirtió en un unicornio de la noche a la mañana.",
+        "term": "Unicornio"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-080",
+    "deck": "tech-jargon",
+    "term": "Product-market fit",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "startup",
+      "product"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a product satisfies strong demand in a real, sizable market.",
+        "example": "Word-of-mouth growth told us we'd finally hit product-market fit."
+      },
+      "ru": {
+        "definition": "Когда продукт удовлетворяет сильный спрос на реальном крупном рынке.",
+        "example": "Рост за счёт сарафанного радио подсказал, что мы наконец нашли product-market fit.",
+        "term": "Product-market fit"
+      },
+      "ja": {
+        "definition": "製品が、現実の十分な規模の市場で強い需要を満たしている状態のこと。",
+        "example": "口コミでの成長を見て、ついにプロダクトマーケットフィットを達成したと確信した。",
+        "term": "プロダクトマーケットフィット"
+      },
+      "ko": {
+        "definition": "제품이 실재하고 규모 있는 시장에서 강한 수요를 충족하는 상태.",
+        "example": "입소문을 통한 성장은 우리가 마침내 제품-시장 적합성에 도달했음을 알려 주었다.",
+        "term": "제품-시장 적합성"
+      },
+      "fr": {
+        "definition": "Quand un produit répond à une forte demande sur un marché réel et conséquent.",
+        "example": "La croissance par le bouche-à-oreille nous a montré qu'on avait enfin trouvé l'adéquation produit-marché.",
+        "term": "Adéquation produit-marché"
+      },
+      "es": {
+        "definition": "Cuando un producto satisface una fuerte demanda en un mercado real y de tamaño relevante.",
+        "example": "El crecimiento por boca a boca nos dijo que por fin habíamos logrado el product-market fit.",
+        "term": "Encaje producto-mercado"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-081",
+    "deck": "tech-jargon",
+    "term": "Go-to-market",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "startup",
+      "strategy"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The plan for how a company will reach and sell to its customers.",
+        "example": "Our go-to-market starts with developers before targeting enterprises."
+      },
+      "ru": {
+        "definition": "План того, как компания дойдёт до клиентов и будет им продавать.",
+        "example": "Наш go-to-market стартует с разработчиков, а потом нацеливается на корпорации.",
+        "term": "Go-to-market"
+      },
+      "ja": {
+        "definition": "企業がどのように顧客に到達し販売していくかの計画のこと。",
+        "example": "うちのGo-to-market戦略は、まず開発者から始め、その後に企業を狙う。",
+        "term": "Go-to-market"
+      },
+      "ko": {
+        "definition": "회사가 고객에게 어떻게 도달하고 판매할지에 대한 계획.",
+        "example": "우리 시장 진입 전략은 개발자부터 시작해 이후 기업을 공략하는 것이다.",
+        "term": "Go-to-market"
+      },
+      "fr": {
+        "definition": "Le plan définissant comment une entreprise va atteindre ses clients et leur vendre.",
+        "example": "Notre stratégie de mise sur le marché commence par les développeurs avant de viser les grandes entreprises.",
+        "term": "Go-to-market"
+      },
+      "es": {
+        "definition": "El plan de cómo una empresa llegará a sus clientes y les venderá.",
+        "example": "Nuestra estrategia de salida al mercado empieza por los desarrolladores antes de apuntar a las empresas.",
+        "term": "Go-to-market"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-082",
+    "deck": "tech-jargon",
+    "term": "Stakeholder",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "business",
+      "management"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Anyone with an interest in or affected by a project's outcome.",
+        "example": "We gathered every stakeholder before locking the roadmap."
+      },
+      "ru": {
+        "definition": "Любой, кто заинтересован в исходе проекта или затронут им.",
+        "example": "Мы собрали всех стейкхолдеров, прежде чем зафиксировать роадмап.",
+        "term": "Стейкхолдер"
+      },
+      "ja": {
+        "definition": "プロジェクトの結果に利害を持つ、あるいはその影響を受けるすべての関係者のこと。",
+        "example": "ロードマップを確定する前に、すべてのステークホルダーを集めた。",
+        "term": "ステークホルダー"
+      },
+      "ko": {
+        "definition": "프로젝트의 결과에 이해관계가 있거나 영향을 받는 모든 사람.",
+        "example": "로드맵을 확정하기 전에 모든 이해관계자를 모았다.",
+        "term": "이해관계자"
+      },
+      "fr": {
+        "definition": "Toute personne ayant un intérêt dans le résultat d'un projet ou affectée par celui-ci.",
+        "example": "On a réuni toutes les parties prenantes avant de figer la feuille de route.",
+        "term": "Partie prenante"
+      },
+      "es": {
+        "definition": "Cualquiera con interés en el resultado de un proyecto o afectado por él.",
+        "example": "Reunimos a todos los stakeholders antes de cerrar la hoja de ruta.",
+        "term": "Parte interesada"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-083",
+    "deck": "tech-jargon",
+    "term": "Bandwidth (figurative)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "culture",
+      "slang"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Slang for a person's available time or mental capacity to take on work.",
+        "example": "I don't have the bandwidth for another project this sprint."
+      },
+      "ru": {
+        "definition": "Сленг про свободное время или умственный ресурс человека, чтобы взять задачу.",
+        "example": "У меня нет bandwidth ещё на один проект в этом спринте.",
+        "term": "Bandwidth (образно)"
+      },
+      "ja": {
+        "definition": "仕事を引き受けられる、その人の空き時間や心の余力を指す俗語のこと。",
+        "example": "今のスプリントでは、もう一つプロジェクトを抱えるだけの余力(リソース)がない。",
+        "term": "Bandwidth(比喩)"
+      },
+      "ko": {
+        "definition": "일을 맡을 수 있는 사람의 가용 시간이나 정신적 여력을 가리키는 속어.",
+        "example": "이번 스프린트에 또 다른 프로젝트를 맡을 여력이 없다.",
+        "term": "Bandwidth(비유)"
+      },
+      "fr": {
+        "definition": "Terme familier désignant le temps disponible ou la capacité mentale d'une personne à prendre du travail.",
+        "example": "Je n'ai pas la disponibilité pour un projet de plus durant ce sprint.",
+        "term": "Bande passante (au figuré)"
+      },
+      "es": {
+        "definition": "Jerga para el tiempo disponible o la capacidad mental de una persona para asumir trabajo.",
+        "example": "No tengo bandwidth para otro proyecto en este sprint.",
+        "term": "Ancho de banda (figurado)"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-084",
+    "deck": "tech-jargon",
+    "term": "Low-hanging fruit",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "culture",
+      "management"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The easiest tasks that give quick, obvious wins.",
+        "example": "Let's grab the low-hanging fruit and fix the typos first."
+      },
+      "ru": {
+        "definition": "Самые простые задачи, дающие быстрые и очевидные победы.",
+        "example": "Сначала возьмём low-hanging fruit и поправим опечатки.",
+        "term": "Low-hanging fruit"
+      },
+      "ja": {
+        "definition": "手早く明白な成果が得られる、最も簡単な作業のこと。",
+        "example": "まずは取りやすい成果として、誤字の修正から片付けよう。",
+        "term": "Low-hanging fruit"
+      },
+      "ko": {
+        "definition": "빠르고 분명한 성과를 주는 가장 쉬운 일들.",
+        "example": "손쉬운 것부터 잡아서 오타 먼저 고치자.",
+        "term": "Low-hanging fruit"
+      },
+      "fr": {
+        "definition": "Les tâches les plus faciles, qui procurent des gains rapides et évidents.",
+        "example": "Commençons par les gains faciles et corrigeons d'abord les coquilles.",
+        "term": "Low-hanging fruit"
+      },
+      "es": {
+        "definition": "Las tareas más fáciles que dan victorias rápidas y evidentes.",
+        "example": "Empecemos por la fruta madura y corrijamos primero las erratas.",
+        "term": "Low-hanging fruit"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-085",
+    "deck": "tech-jargon",
+    "term": "Move fast and break things",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "culture",
+      "startup"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A mindset of shipping quickly and accepting some breakage to learn.",
+        "example": "Early on they moved fast and broke things to outpace rivals."
+      },
+      "ru": {
+        "definition": "Подход: выкатывать быстро и мириться с поломками ради опыта.",
+        "example": "На старте они действовали по принципу move fast and break things, чтобы обогнать конкурентов.",
+        "term": "Move fast and break things"
+      },
+      "ja": {
+        "definition": "学ぶためなら多少の破綻は許容し、とにかく素早くリリースするという考え方のこと。",
+        "example": "創業初期、彼らは競合を出し抜くために「素早く動き、破壊せよ」の精神で進んだ。",
+        "term": "Move fast and break things"
+      },
+      "ko": {
+        "definition": "빠르게 출시하고 배움을 위해 어느 정도의 파손은 감수하는 사고방식.",
+        "example": "빠르게 출시하며 일부가 깨지는 것을 감수했다.",
+        "term": "Move fast and break things"
+      },
+      "fr": {
+        "definition": "Un état d'esprit consistant à livrer vite en acceptant quelques casses pour apprendre.",
+        "example": "À leurs débuts, ils avançaient vite quitte à tout casser pour devancer leurs concurrents.",
+        "term": "Move fast and break things"
+      },
+      "es": {
+        "definition": "Una mentalidad de lanzar rápido y aceptar algunos fallos para aprender.",
+        "example": "Iban rápido y rompían cosas para adelantarse a sus rivales.",
+        "term": "Move fast and break things"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-086",
+    "deck": "tech-jargon",
+    "term": "Premature optimization",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "engineering",
+      "antipattern"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Tuning performance before it's needed, often wasting effort.",
+        "example": "Caching that endpoint was premature optimization — it's barely called."
+      },
+      "ru": {
+        "definition": "Оптимизация производительности раньше, чем она нужна, — обычно пустая трата сил.",
+        "example": "Кэшировать тот эндпоинт было преждевременной оптимизацией: его почти не вызывают.",
+        "term": "Преждевременная оптимизация"
+      },
+      "ja": {
+        "definition": "必要になる前に性能を作り込み、しばしば労力を無駄にすること。",
+        "example": "あのエンドポイントのキャッシュは時期尚早な最適化だった。ほとんど呼ばれていない。",
+        "term": "早すぎる最適化"
+      },
+      "ko": {
+        "definition": "필요해지기도 전에 성능을 튜닝하는 것으로, 흔히 노력을 낭비한다.",
+        "example": "그 엔드포인트를 캐싱한 건 섣부른 최적화였다 — 거의 호출되지도 않는다.",
+        "term": "조기 최적화"
+      },
+      "fr": {
+        "definition": "Optimiser les performances avant que ce soit nécessaire, souvent en gaspillant des efforts.",
+        "example": "Mettre cet endpoint en cache était une optimisation prématurée : il est à peine appelé.",
+        "term": "Optimisation prématurée"
+      },
+      "es": {
+        "definition": "Optimizar el rendimiento antes de que haga falta, a menudo malgastando esfuerzo.",
+        "example": "Cachear ese endpoint fue optimización prematura: apenas se llama.",
+        "term": "Optimización prematura"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-087",
+    "deck": "tech-jargon",
+    "term": "Spaghetti code",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "code",
+      "antipattern"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Tangled, hard-to-follow code with no clear structure.",
+        "example": "The legacy module is spaghetti code nobody dares to touch."
+      },
+      "ru": {
+        "definition": "Запутанный, трудночитаемый код без ясной структуры.",
+        "example": "Этот легаси-модуль — спагетти-код, который никто не решается трогать.",
+        "term": "Спагетти-код"
+      },
+      "ja": {
+        "definition": "明確な構造がなく、入り組んで追いにくいコードのこと。",
+        "example": "そのレガシーモジュールは、誰も触ろうとしないスパゲッティコードだ。",
+        "term": "スパゲッティコード"
+      },
+      "ko": {
+        "definition": "명확한 구조 없이 뒤엉켜 따라가기 어려운 코드.",
+        "example": "그 레거시 모듈은 아무도 감히 건드리지 못하는 스파게티 코드다.",
+        "term": "스파게티 코드"
+      },
+      "fr": {
+        "definition": "Du code emmêlé et difficile à suivre, sans structure claire.",
+        "example": "Le module hérité est un code spaghetti auquel personne n'ose toucher.",
+        "term": "Code spaghetti"
+      },
+      "es": {
+        "definition": "Código enmarañado y difícil de seguir, sin una estructura clara.",
+        "example": "El módulo heredado es código espagueti que nadie se atreve a tocar.",
+        "term": "Código espagueti"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-088",
+    "deck": "tech-jargon",
+    "term": "Linter",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "tooling",
+      "code"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A tool that flags style issues and likely errors in code.",
+        "example": "The linter caught the unused variable before review."
+      },
+      "ru": {
+        "definition": "Инструмент, отмечающий стилевые проблемы и вероятные ошибки в коде.",
+        "example": "Линтер поймал неиспользуемую переменную ещё до ревью.",
+        "term": "Линтер"
+      },
+      "ja": {
+        "definition": "コードのスタイル上の問題や、起こりそうなエラーを指摘するツールのこと。",
+        "example": "レビューの前に、リンターが未使用の変数を見つけてくれた。",
+        "term": "リンター"
+      },
+      "ko": {
+        "definition": "코드의 스타일 문제와 잠재적 오류를 짚어 주는 도구.",
+        "example": "린터가 리뷰 전에 사용하지 않는 변수를 잡아냈다.",
+        "term": "린터"
+      },
+      "fr": {
+        "definition": "Un outil qui signale les problèmes de style et les erreurs probables dans le code.",
+        "example": "Le linter a détecté la variable inutilisée avant la revue.",
+        "term": "Linter"
+      },
+      "es": {
+        "definition": "Herramienta que señala problemas de estilo y errores probables en el código.",
+        "example": "El linter detectó la variable sin usar antes de la revisión.",
+        "term": "Linter"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-089",
+    "deck": "tech-jargon",
+    "term": "Pull request",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "git",
+      "collaboration"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A proposal to merge code changes, opened for review and discussion.",
+        "example": "She opened a pull request and tagged two reviewers."
+      },
+      "ru": {
+        "definition": "Предложение влить изменения в код, открытое для ревью и обсуждения.",
+        "example": "Она открыла pull request и отметила двух ревьюеров.",
+        "term": "Pull request"
+      },
+      "ja": {
+        "definition": "コードの変更をマージするための提案で、レビューと議論のために公開されるもののこと。",
+        "example": "彼女はプルリクエストを出し、レビュアーを2人指名した。",
+        "term": "プルリクエスト"
+      },
+      "ko": {
+        "definition": "코드 변경을 병합하자고 제안하며 리뷰와 논의를 위해 여는 것.",
+        "example": "그녀는 풀 리퀘스트를 열고 리뷰어 두 명을 태그했다.",
+        "term": "풀 리퀘스트"
+      },
+      "fr": {
+        "definition": "Une proposition de fusionner des modifications de code, ouverte pour revue et discussion.",
+        "example": "Elle a ouvert une pull request et a désigné deux relecteurs.",
+        "term": "Pull request"
+      },
+      "es": {
+        "definition": "Una propuesta para fusionar cambios de código, abierta para revisión y debate.",
+        "example": "Abrió un pull request y etiquetó a dos revisores.",
+        "term": "Pull request"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-090",
+    "deck": "tech-jargon",
+    "term": "Merge conflict",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "git",
+      "collaboration"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When Git can't auto-combine changes that edited the same lines.",
+        "example": "We hit a merge conflict in the config file and resolved it by hand."
+      },
+      "ru": {
+        "definition": "Когда Git не может сам объединить правки, затронувшие одни и те же строки.",
+        "example": "Мы словили merge conflict в конфиге и разрулили его руками.",
+        "term": "Конфликт слияния"
+      },
+      "ja": {
+        "definition": "同じ行を編集した変更をGitが自動で統合できない状態のこと。",
+        "example": "設定ファイルでマージコンフリクトが起き、手作業で解決した。",
+        "term": "マージコンフリクト"
+      },
+      "ko": {
+        "definition": "같은 줄을 수정한 변경들을 Git이 자동으로 합치지 못할 때 생기는 상황.",
+        "example": "설정 파일에서 머지 충돌이 나서 수작업으로 해결했다.",
+        "term": "머지 충돌"
+      },
+      "fr": {
+        "definition": "Quand Git ne peut pas combiner automatiquement des modifications portant sur les mêmes lignes.",
+        "example": "On a eu un conflit de fusion dans le fichier de configuration et on l'a résolu à la main.",
+        "term": "Conflit de fusion"
+      },
+      "es": {
+        "definition": "Cuando Git no puede combinar automáticamente cambios que editaron las mismas líneas.",
+        "example": "Tuvimos un merge conflict en el archivo de configuración y lo resolvimos a mano.",
+        "term": "Conflicto de fusión"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-091",
+    "deck": "tech-jargon",
+    "term": "Commit",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "git",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A saved snapshot of changes recorded in version control.",
+        "example": "Each commit message should say what changed and why."
+      },
+      "ru": {
+        "definition": "Сохранённый снимок изменений, зафиксированный в системе контроля версий.",
+        "example": "В каждом коммите сообщение должно говорить, что изменилось и зачем.",
+        "term": "Коммит"
+      },
+      "ja": {
+        "definition": "バージョン管理に記録される、変更のスナップショットのこと。",
+        "example": "コミットメッセージには、何をなぜ変更したかを書くべきだ。",
+        "term": "コミット"
+      },
+      "ko": {
+        "definition": "버전 관리에 기록된, 변경 사항의 저장된 스냅샷.",
+        "example": "각 커밋 메시지에는 무엇이 왜 바뀌었는지 적어야 한다.",
+        "term": "커밋"
+      },
+      "fr": {
+        "definition": "Un instantané de modifications enregistré dans le gestionnaire de versions.",
+        "example": "Chaque message de commit devrait indiquer ce qui a changé et pourquoi.",
+        "term": "Commit"
+      },
+      "es": {
+        "definition": "Una instantánea de cambios guardada en el control de versiones.",
+        "example": "Cada mensaje de commit debería decir qué cambió y por qué.",
+        "term": "Commit"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-092",
+    "deck": "tech-jargon",
+    "term": "Branch",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "git",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A separate line of development you can work on without affecting main.",
+        "example": "Create a feature branch before starting the new login flow."
+      },
+      "ru": {
+        "definition": "Отдельная линия разработки, где можно работать, не задевая main.",
+        "example": "Создай ветку под фичу, прежде чем браться за новый флоу логина.",
+        "term": "Ветка (Branch)"
+      },
+      "ja": {
+        "definition": "mainに影響を与えずに作業できる、独立した開発の流れのこと。",
+        "example": "新しいログインフローに着手する前に、フィーチャーブランチを作ろう。",
+        "term": "ブランチ"
+      },
+      "ko": {
+        "definition": "main에 영향을 주지 않고 작업할 수 있는 별도의 개발 라인.",
+        "example": "새 로그인 흐름을 시작하기 전에 피처 브랜치를 만들어라.",
+        "term": "브랜치"
+      },
+      "fr": {
+        "definition": "Une ligne de développement distincte sur laquelle on peut travailler sans affecter la branche principale.",
+        "example": "Crée une branche de fonctionnalité avant de commencer le nouveau parcours de connexion.",
+        "term": "Branche"
+      },
+      "es": {
+        "definition": "Una línea de desarrollo separada en la que puedes trabajar sin afectar a la principal.",
+        "example": "Crea una rama de funcionalidad antes de empezar el nuevo flujo de login.",
+        "term": "Rama (Branch)"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-093",
+    "deck": "tech-jargon",
+    "term": "Sprint",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agile",
+      "management"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A short, fixed period in which a team completes a set of work.",
+        "example": "We committed to five tickets for the two-week sprint."
+      },
+      "ru": {
+        "definition": "Короткий фиксированный отрезок, за который команда делает набор работы.",
+        "example": "Мы взяли пять тикетов на двухнедельный спринт.",
+        "term": "Спринт"
+      },
+      "ja": {
+        "definition": "チームが一連の作業を完了させる、短く区切られた一定期間のこと。",
+        "example": "私たちは2週間のスプリントで5枚のチケットをやり切ると約束した。",
+        "term": "スプリント"
+      },
+      "ko": {
+        "definition": "팀이 정해진 분량의 작업을 완료하는 짧고 고정된 기간.",
+        "example": "우리는 2주짜리 스프린트에 다섯 개의 티켓을 약속했다.",
+        "term": "스프린트"
+      },
+      "fr": {
+        "definition": "Une période courte et fixe pendant laquelle une équipe réalise un ensemble de travaux.",
+        "example": "On s'est engagés sur cinq tickets pour le sprint de deux semaines.",
+        "term": "Sprint"
+      },
+      "es": {
+        "definition": "Un periodo corto y fijo en el que un equipo completa un conjunto de trabajo.",
+        "example": "Nos comprometimos a cinco tickets para el sprint de dos semanas.",
+        "term": "Sprint"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-094",
+    "deck": "tech-jargon",
+    "term": "Backlog",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agile",
+      "management"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The prioritized list of work a team has yet to do.",
+        "example": "That feature is in the backlog but not scheduled yet."
+      },
+      "ru": {
+        "definition": "Приоритизированный список работы, которую команде ещё предстоит сделать.",
+        "example": "Эта фича в бэклоге, но в план пока не поставлена.",
+        "term": "Бэклог"
+      },
+      "ja": {
+        "definition": "チームがこれからやるべき、優先順位づけされた作業の一覧のこと。",
+        "example": "その機能はバックログには入っているが、まだ予定は組まれていない。",
+        "term": "バックログ"
+      },
+      "ko": {
+        "definition": "팀이 아직 처리하지 못한, 우선순위가 매겨진 작업 목록.",
+        "example": "그 기능은 백로그에 있지만 아직 일정이 잡히지 않았다.",
+        "term": "백로그"
+      },
+      "fr": {
+        "definition": "La liste priorisée des travaux qu'une équipe n'a pas encore réalisés.",
+        "example": "Cette fonctionnalité est dans le backlog mais n'est pas encore planifiée.",
+        "term": "Backlog"
+      },
+      "es": {
+        "definition": "La lista priorizada de trabajo que un equipo aún tiene pendiente.",
+        "example": "Esa funcionalidad está en el backlog pero todavía no está programada.",
+        "term": "Backlog"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-095",
+    "deck": "tech-jargon",
+    "term": "Standup",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agile",
+      "culture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A brief daily meeting where the team shares progress and blockers.",
+        "example": "Keep standup short: what you did, what's next, what's blocking you."
+      },
+      "ru": {
+        "definition": "Короткая ежедневная встреча, где команда делится прогрессом и блокерами.",
+        "example": "Держи стендап коротким: что сделал, что дальше, что мешает.",
+        "term": "Стендап"
+      },
+      "ja": {
+        "definition": "チームが進捗や障害を共有する、短い毎日のミーティングのこと。",
+        "example": "スタンドアップは手短に。やったこと、次にやること、止まっていることだけ話そう。",
+        "term": "スタンドアップ"
+      },
+      "ko": {
+        "definition": "팀이 진행 상황과 장애 요소를 공유하는 짧은 일일 회의.",
+        "example": "스탠드업은 짧게 하자. 한 일, 할 일, 막힌 일만.",
+        "term": "스탠드업"
+      },
+      "fr": {
+        "definition": "Une brève réunion quotidienne où l'équipe partage ses avancées et ses points de blocage.",
+        "example": "Garde la mêlée courte : ce que tu as fait, ce qui vient ensuite, ce qui te bloque.",
+        "term": "Standup"
+      },
+      "es": {
+        "definition": "Una breve reunión diaria en la que el equipo comparte avances y bloqueos.",
+        "example": "Mantén el standup corto: qué hiciste, qué sigue y qué te bloquea.",
+        "term": "Standup"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-096",
+    "deck": "tech-jargon",
+    "term": "Blocker",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agile",
+      "management"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Anything stopping a task from moving forward.",
+        "example": "The missing API key is a blocker on the integration."
+      },
+      "ru": {
+        "definition": "Всё, что мешает задаче двигаться дальше.",
+        "example": "Отсутствующий ключ API — это блокер на интеграции.",
+        "term": "Блокер"
+      },
+      "ja": {
+        "definition": "タスクが前に進むのを妨げているもののこと。",
+        "example": "APIキーがないことが、その連携作業のブロッカーになっている。",
+        "term": "ブロッカー"
+      },
+      "ko": {
+        "definition": "작업이 진행되지 못하게 막는 모든 것.",
+        "example": "API 키가 없는 것이 그 연동 작업의 블로커다.",
+        "term": "블로커"
+      },
+      "fr": {
+        "definition": "Tout ce qui empêche une tâche d'avancer.",
+        "example": "La clé d'API manquante est un point de blocage pour l'intégration.",
+        "term": "Blocage (Blocker)"
+      },
+      "es": {
+        "definition": "Cualquier cosa que impide que una tarea avance.",
+        "example": "La clave de API que falta es un bloqueo para la integración.",
+        "term": "Bloqueante (Blocker)"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-097",
+    "deck": "tech-jargon",
+    "term": "Ship it",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "culture",
+      "slang"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An informal call to release a feature, often once it's good enough.",
+        "example": "Tests pass and review's done — ship it."
+      },
+      "ru": {
+        "definition": "Неформальный призыв выкатить фичу, часто как только она достаточно готова.",
+        "example": "Тесты зелёные, ревью пройдено — ship it.",
+        "term": "Ship it"
+      },
+      "ja": {
+        "definition": "十分に良くなったら機能をリリースしよう、というくだけた掛け声のこと。",
+        "example": "テストは通ったしレビューも終わった。リリースしよう。",
+        "term": "Ship it"
+      },
+      "ko": {
+        "definition": "흔히 충분히 괜찮아지면 기능을 배포하자는 비격식적인 외침.",
+        "example": "테스트도 통과하고 리뷰도 끝났으니 — 출시하자.",
+        "term": "Ship it"
+      },
+      "fr": {
+        "definition": "Un appel informel à publier une fonctionnalité, souvent dès qu'elle est suffisamment au point.",
+        "example": "Les tests passent et la revue est faite : on livre.",
+        "term": "Ship it"
+      },
+      "es": {
+        "definition": "Una llamada informal a publicar una funcionalidad, a menudo cuando ya es suficientemente buena.",
+        "example": "Las pruebas pasan y la revisión está hecha: a publicar.",
+        "term": "Ship it"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-098",
+    "deck": "tech-jargon",
+    "term": "Hardcode",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "code",
+      "antipattern"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Embedding a fixed value directly in code instead of configuring it.",
+        "example": "Don't hardcode the API key; load it from an environment variable."
+      },
+      "ru": {
+        "definition": "Зашить фиксированное значение прямо в код вместо вынесения в настройки.",
+        "example": "Не хардкодь ключ API — подгружай его из переменной окружения.",
+        "term": "Хардкод"
+      },
+      "ja": {
+        "definition": "設定で外出しせず、固定の値をコードに直接埋め込むこと。",
+        "example": "APIキーをハードコードせず、環境変数から読み込もう。",
+        "term": "ハードコード"
+      },
+      "ko": {
+        "definition": "설정으로 빼지 않고 고정된 값을 코드에 직접 박아 넣는 것.",
+        "example": "API 키를 하드코딩하지 말고 환경 변수에서 불러와라.",
+        "term": "하드코딩"
+      },
+      "fr": {
+        "definition": "Inscrire une valeur fixe directement dans le code au lieu de la rendre configurable.",
+        "example": "Ne code pas la clé d'API en dur ; charge-la depuis une variable d'environnement.",
+        "term": "Code en dur"
+      },
+      "es": {
+        "definition": "Incrustar un valor fijo directamente en el código en lugar de configurarlo.",
+        "example": "No incrustes la clave de API en el código; cárgala desde una variable de entorno.",
+        "term": "Hardcodear"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-099",
+    "deck": "tech-jargon",
+    "term": "Stub",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "testing",
+      "code"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A placeholder implementation standing in for real code during tests.",
+        "example": "We stubbed the email service so tests don't send real messages."
+      },
+      "ru": {
+        "definition": "Заглушка вместо настоящего кода на время тестов.",
+        "example": "Мы заменили почтовый сервис стабом, чтобы тесты не слали реальные письма.",
+        "term": "Заглушка (Stub)"
+      },
+      "ja": {
+        "definition": "テスト中に本物のコードの代わりに置く、仮の実装のこと。",
+        "example": "テストが実際のメールを送らないよう、メール送信サービスをスタブに差し替えた。",
+        "term": "スタブ"
+      },
+      "ko": {
+        "definition": "테스트 중에 실제 코드를 대신하는 자리표시용 구현.",
+        "example": "테스트가 실제 메일을 보내지 않도록 이메일 서비스를 스텁으로 대체했다.",
+        "term": "스텁"
+      },
+      "fr": {
+        "definition": "Une implémentation factice qui remplace le vrai code pendant les tests.",
+        "example": "On a remplacé le service d'e-mail par un stub pour que les tests n'envoient pas de vrais messages.",
+        "term": "Stub"
+      },
+      "es": {
+        "definition": "Una implementación de relleno que sustituye al código real durante las pruebas.",
+        "example": "Sustituimos el servicio de correo con un stub para que las pruebas no envíen mensajes reales.",
+        "term": "Stub"
+      }
+    }
+  },
+  {
+    "id": "tech-jargon-100",
+    "deck": "tech-jargon",
+    "term": "Smoke test",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "testing",
+      "devops"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A quick check that the most critical features work after a build.",
+        "example": "The smoke test confirms login and checkout before full QA."
+      },
+      "ru": {
+        "definition": "Быстрая проверка, что важнейшие функции работают после сборки.",
+        "example": "Smoke-тест подтверждает вход и оформление заказа до полного QA.",
+        "term": "Дымовой тест"
+      },
+      "ja": {
+        "definition": "ビルド後に、最も重要な機能が動くかを手早く確認すること。",
+        "example": "スモークテストで、本格的なQAの前にログインとチェックアウトを確認する。",
+        "term": "スモークテスト"
+      },
+      "ko": {
+        "definition": "빌드 후 가장 핵심적인 기능이 동작하는지 빠르게 확인하는 검사.",
+        "example": "스모크 테스트로 전체 QA에 앞서 로그인과 결제를 확인한다.",
+        "term": "스모크 테스트"
+      },
+      "fr": {
+        "definition": "Une vérification rapide que les fonctionnalités les plus critiques marchent après une compilation.",
+        "example": "Le test de fumée confirme la connexion et le paiement avant la recette complète.",
+        "term": "Test de fumée"
+      },
+      "es": {
+        "definition": "Una comprobación rápida de que las funciones más críticas operan tras una compilación.",
+        "example": "El smoke test confirma el login y el checkout antes del QA completo.",
+        "term": "Prueba de humo"
+      }
+    }
+  }
+]
