@@ -14,8 +14,9 @@
         "example": "The first image of a black hole was captured in 2019."
       },
       "ru": {
-        "definition": "",
-        "example": ""
+        "definition": "Область пространства, где гравитация так сильна, что вырваться не может ничто — даже свет.",
+        "example": "Первое изображение чёрной дыры получили в 2019 году.",
+        "term": "Чёрная дыра"
       }
     }
   },
@@ -34,8 +35,9 @@
         "example": "Once past the event horizon, even light cannot escape."
       },
       "ru": {
-        "definition": "",
-        "example": ""
+        "definition": "Граница вокруг чёрной дыры, из-за которой нет возврата.",
+        "example": "За горизонтом событий даже свет не может вырваться наружу.",
+        "term": "Горизонт событий"
       }
     }
   },
@@ -54,8 +56,9 @@
         "example": "Thousands of exoplanets have been found, some in habitable zones."
       },
       "ru": {
-        "definition": "",
-        "example": ""
+        "definition": "Планета, обращающаяся вокруг звезды за пределами Солнечной системы.",
+        "example": "Найдены тысячи экзопланет, некоторые — в зоне обитаемости.",
+        "term": "Экзопланета"
       }
     }
   },
@@ -74,8 +77,9 @@
         "example": "Elements like gold are forged in supernova explosions."
       },
       "ru": {
-        "definition": "",
-        "example": ""
+        "definition": "Мощный взрыв умирающей звезды, на время затмевающий целую галактику.",
+        "example": "Такие элементы, как золото, рождаются во взрывах сверхновых.",
+        "term": "Сверхновая"
       }
     }
   },
@@ -94,8 +98,9 @@
         "example": "Redshift shows that distant galaxies are receding — the universe expands."
       },
       "ru": {
-        "definition": "",
-        "example": ""
+        "definition": "Растяжение света к длинным волнам, когда объект удаляется от нас.",
+        "example": "Красное смещение показывает: далёкие галактики разбегаются — Вселенная расширяется.",
+        "term": "Красное смещение"
       }
     }
   },
@@ -114,8 +119,9 @@
         "example": "Craters look sharpest along the Moon's terminator."
       },
       "ru": {
-        "definition": "",
-        "example": ""
+        "definition": "Движущаяся линия, разделяющая дневную и ночную стороны планеты или луны.",
+        "example": "Кратеры лучше всего видны вдоль терминатора Луны.",
+        "term": "Терминатор"
       }
     }
   }
