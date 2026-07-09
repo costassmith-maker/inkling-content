@@ -1,0 +1,122 @@
+[
+  {
+    "id": "space-001",
+    "deck": "space",
+    "term": "Black hole",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "astro"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A region of space where gravity is so strong that nothing, not even light, can escape.",
+        "example": "The first image of a black hole was captured in 2019."
+      },
+      "ru": {
+        "definition": "",
+        "example": ""
+      }
+    }
+  },
+  {
+    "id": "space-002",
+    "deck": "space",
+    "term": "Event horizon",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "astro"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The boundary around a black hole beyond which nothing can return.",
+        "example": "Once past the event horizon, even light cannot escape."
+      },
+      "ru": {
+        "definition": "",
+        "example": ""
+      }
+    }
+  },
+  {
+    "id": "space-003",
+    "deck": "space",
+    "term": "Exoplanet",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "astro"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A planet that orbits a star outside our Solar System.",
+        "example": "Thousands of exoplanets have been found, some in habitable zones."
+      },
+      "ru": {
+        "definition": "",
+        "example": ""
+      }
+    }
+  },
+  {
+    "id": "space-004",
+    "deck": "space",
+    "term": "Supernova",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "astro"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A powerful explosion of a dying star, briefly outshining its whole galaxy.",
+        "example": "Elements like gold are forged in supernova explosions."
+      },
+      "ru": {
+        "definition": "",
+        "example": ""
+      }
+    }
+  },
+  {
+    "id": "space-005",
+    "deck": "space",
+    "term": "Redshift",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "astro"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The stretching of light toward longer waves as objects move away from us.",
+        "example": "Redshift shows that distant galaxies are receding — the universe expands."
+      },
+      "ru": {
+        "definition": "",
+        "example": ""
+      }
+    }
+  },
+  {
+    "id": "space-006",
+    "deck": "space",
+    "term": "Terminator",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "astro"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The moving line that divides the day side and night side of a planet or moon.",
+        "example": "Craters look sharpest along the Moon's terminator."
+      },
+      "ru": {
+        "definition": "",
+        "example": ""
+      }
+    }
+  }
+]

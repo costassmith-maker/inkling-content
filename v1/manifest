@@ -111,9 +111,21 @@
         "es": "Palabra del día"
       },
       "count": 312
+    },
+    {
+      "id": "space",
+      "title": {
+        "en": "Space",
+        "ru": "Космос",
+        "ja": "宇宙",
+        "ko": "우주",
+        "fr": "Espace",
+        "es": "Espacio"
+      },
+      "count": 6
     }
   ],
-  "total_cards": 1113,
-  "content_version": "8c46b4d59f38016d",
-  "generated_at": "2026-06-29T14:18:42.032155+00:00"
+  "total_cards": 1119,
+  "content_version": "d9b4b7971677e218",
+  "generated_at": "2026-07-09T04:22:38.891614+00:00"
 }
