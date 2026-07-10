@@ -1,0 +1,2126 @@
+[
+  {
+    "id": "digital-marketing-001",
+    "deck": "digital-marketing",
+    "term": "CTR (Click-Through Rate)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "metrics",
+      "paid",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The share of people who clicked an ad or link out of everyone who saw it.",
+        "example": "The banner drew 40 clicks from 4,000 views — a 1% CTR."
+      },
+      "ru": {
+        "definition": "Доля тех, кто кликнул по объявлению или ссылке, из всех, кто их увидел.",
+        "example": "Баннер собрал 40 кликов на 4000 показов — CTR 1%.",
+        "term": "CTR (кликабельность)"
+      },
+      "ja": {
+        "definition": "広告やリンクを見た人のうち、実際にクリックした人の割合のこと。",
+        "example": "バナーは4,000回の表示で40クリック、CTRは1%だった。",
+        "term": "CTR（クリック率）"
+      },
+      "ko": {
+        "definition": "광고나 링크를 본 사람 중 실제로 클릭한 사람의 비율.",
+        "example": "배너가 4,000회 노출에 클릭 40번 — CTR 1%였다.",
+        "term": "CTR(클릭률)"
+      },
+      "fr": {
+        "definition": "La part des personnes qui ont cliqué sur une annonce ou un lien parmi toutes celles qui l'ont vu.",
+        "example": "La bannière a récolté 40 clics pour 4 000 affichages, soit un CTR de 1 %.",
+        "term": "CTR (taux de clic)"
+      },
+      "es": {
+        "definition": "Proporción de quienes hicieron clic en un anuncio o enlace entre todos los que lo vieron.",
+        "example": "El banner logró 40 clics de 4.000 visualizaciones: un CTR del 1%.",
+        "term": "CTR (tasa de clics)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-002",
+    "deck": "digital-marketing",
+    "term": "CPC (Cost Per Click)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "metrics",
+      "paid",
+      "bidding"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How much an advertiser pays each time someone clicks their ad.",
+        "example": "Search clicks got pricey last quarter, pushing CPC above plan."
+      },
+      "ru": {
+        "definition": "Сколько рекламодатель платит за каждый клик по своему объявлению.",
+        "example": "В прошлом квартале клики в поиске подорожали, и CPC ушёл выше плана.",
+        "term": "CPC (цена за клик)"
+      },
+      "ja": {
+        "definition": "広告が1回クリックされるたびに広告主が支払う金額のこと。",
+        "example": "先四半期は検索のクリックが値上がりし、CPCが計画を超えた。",
+        "term": "CPC（クリック単価）"
+      },
+      "ko": {
+        "definition": "광고를 한 번 클릭할 때마다 광고주가 내는 금액.",
+        "example": "지난 분기에 검색 클릭이 비싸지면서 CPC가 계획을 넘어섰다.",
+        "term": "CPC(클릭당 비용)"
+      },
+      "fr": {
+        "definition": "Ce que l'annonceur paie à chaque fois qu'une personne clique sur son annonce.",
+        "example": "Les clics en recherche ont grimpé le trimestre dernier, poussant le CPC au-delà du plan.",
+        "term": "CPC (coût par clic)"
+      },
+      "es": {
+        "definition": "Lo que paga el anunciante cada vez que alguien hace clic en su anuncio.",
+        "example": "Los clics en búsqueda se encarecieron y el CPC se salió del plan.",
+        "term": "CPC (coste por clic)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-003",
+    "deck": "digital-marketing",
+    "term": "CPM (Cost Per Mille)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "metrics",
+      "paid",
+      "display"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The price an advertiser pays for one thousand ad impressions.",
+        "example": "The publisher quoted a flat CPM for its homepage takeover."
+      },
+      "ru": {
+        "definition": "Цена, которую рекламодатель платит за тысячу показов объявления.",
+        "example": "Издатель назвал фиксированный CPM за баннер на главной.",
+        "term": "CPM (цена за 1000 показов)"
+      },
+      "ja": {
+        "definition": "広告を1,000回表示するのに広告主が支払う金額のこと。",
+        "example": "媒体側はトップページ枠を定額のCPMで提示してきた。",
+        "term": "CPM（インプレッション単価）"
+      },
+      "ko": {
+        "definition": "광고를 1,000회 노출하는 데 광고주가 내는 금액.",
+        "example": "매체사가 메인 배너에 대해 고정 CPM을 제시했다.",
+        "term": "CPM(1,000회 노출당 비용)"
+      },
+      "fr": {
+        "definition": "Le prix que paie l'annonceur pour mille affichages de son annonce.",
+        "example": "L'éditeur a annoncé un CPM fixe pour l'habillage de sa page d'accueil.",
+        "term": "CPM (coût pour mille)"
+      },
+      "es": {
+        "definition": "Precio que paga el anunciante por cada mil impresiones de un anuncio.",
+        "example": "El medio nos pasó un CPM fijo para ocupar toda la portada.",
+        "term": "CPM (coste por mil)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-004",
+    "deck": "digital-marketing",
+    "term": "CPA (Cost Per Action)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "metrics",
+      "paid",
+      "acquisition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "What it costs on average to get one desired action, like a signup or sale.",
+        "example": "We capped CPA at a level where each new order still turned a profit."
+      },
+      "ru": {
+        "definition": "Сколько в среднем стоит одно целевое действие — регистрация или покупка.",
+        "example": "Мы держали CPA на уровне, при котором каждый заказ оставался в плюсе.",
+        "term": "CPA (цена за действие)"
+      },
+      "ja": {
+        "definition": "登録や購入など、目的の行動を1件得るのにかかる平均費用のこと。",
+        "example": "1件の注文が黒字に収まる水準までCPAに上限を設けた。",
+        "term": "CPA（顧客獲得単価）"
+      },
+      "ko": {
+        "definition": "가입이나 구매 같은 목표 액션 하나를 얻는 데 드는 평균 비용.",
+        "example": "주문마다 이익이 남는 선에서 CPA 상한을 잡았다.",
+        "term": "CPA(액션당 비용)"
+      },
+      "fr": {
+        "definition": "Ce que coûte en moyenne une action visée, comme une inscription ou une vente.",
+        "example": "On a plafonné le CPA à un niveau où chaque commande restait rentable.",
+        "term": "CPA (coût par action)"
+      },
+      "es": {
+        "definition": "Lo que cuesta en promedio conseguir una acción deseada, como un registro o una venta.",
+        "example": "Fijamos un tope de CPA con el que cada pedido nuevo aún dejaba margen.",
+        "term": "CPA (coste por acción)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-005",
+    "deck": "digital-marketing",
+    "term": "CPL (Cost Per Lead)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "metrics",
+      "paid",
+      "acquisition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The average cost of generating one lead from a campaign.",
+        "example": "The webinar ads brought a lower CPL than the ebook ones."
+      },
+      "ru": {
+        "definition": "Средняя стоимость одного лида, полученного из кампании.",
+        "example": "Реклама вебинара дала более дешёвый CPL, чем реклама книги.",
+        "term": "CPL (цена за лид)"
+      },
+      "ja": {
+        "definition": "キャンペーンからリードを1件獲得するのにかかる平均費用のこと。",
+        "example": "ウェビナー広告は電子書籍の広告よりCPLが安く済んだ。",
+        "term": "CPL（リード獲得単価）"
+      },
+      "ko": {
+        "definition": "캠페인에서 잠재고객 한 명을 확보하는 데 드는 평균 비용.",
+        "example": "웨비나 광고가 전자책 광고보다 CPL이 더 낮게 나왔다.",
+        "term": "CPL(리드당 비용)"
+      },
+      "fr": {
+        "definition": "Le coût moyen pour générer un lead à partir d'une campagne.",
+        "example": "Les annonces du webinaire ont donné un CPL plus bas que celles de l'ebook.",
+        "term": "CPL (coût par lead)"
+      },
+      "es": {
+        "definition": "Coste medio de generar un lead a partir de una campaña.",
+        "example": "Los anuncios del webinar dieron un CPL más bajo que los del ebook.",
+        "term": "CPL (coste por lead)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-006",
+    "deck": "digital-marketing",
+    "term": "CPI (Cost Per Install)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "metrics",
+      "mobile",
+      "acquisition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "What an advertiser pays for each app install driven by a campaign.",
+        "example": "Rewarded video ads cut our CPI on Android in half."
+      },
+      "ru": {
+        "definition": "Сколько рекламодатель платит за каждую установку приложения из кампании.",
+        "example": "Реклама с вознаграждением вдвое снизила CPI на Android.",
+        "term": "CPI (цена за установку)"
+      },
+      "ja": {
+        "definition": "キャンペーン経由のアプリインストール1件ごとに広告主が支払う金額のこと。",
+        "example": "リワード動画広告でAndroidのCPIが半分になった。",
+        "term": "CPI（インストール単価）"
+      },
+      "ko": {
+        "definition": "캠페인으로 앱을 한 번 설치시키는 데 광고주가 내는 비용.",
+        "example": "보상형 동영상 광고로 안드로이드 CPI를 절반으로 줄였다.",
+        "term": "CPI(설치당 비용)"
+      },
+      "fr": {
+        "definition": "Ce que l'annonceur paie pour chaque installation d'appli issue d'une campagne.",
+        "example": "Les vidéos récompensées ont divisé par deux notre CPI sur Android.",
+        "term": "CPI (coût par installation)"
+      },
+      "es": {
+        "definition": "Lo que paga el anunciante por cada instalación de app que trae una campaña.",
+        "example": "El vídeo con recompensa nos redujo a la mitad el CPI en Android.",
+        "term": "CPI (coste por instalación)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-007",
+    "deck": "digital-marketing",
+    "term": "CAC (Customer Acquisition Cost)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "unit-economics",
+      "acquisition",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The full sales and marketing cost of winning one new paying customer.",
+        "example": "Rising ad prices pushed CAC past what a first order brings in."
+      },
+      "ru": {
+        "definition": "Все затраты на маркетинг и продажи ради одного нового платящего клиента.",
+        "example": "Подорожавшая реклама подняла CAC выше выручки с первого заказа.",
+        "term": "CAC (стоимость привлечения)"
+      },
+      "ja": {
+        "definition": "新規の有料顧客を1人獲得するのにかかる営業・マーケ費用の総額のこと。",
+        "example": "広告費の高騰で、CACが初回注文の売上を上回ってしまった。",
+        "term": "CAC（顧客獲得コスト）"
+      },
+      "ko": {
+        "definition": "새 유료 고객 한 명을 얻는 데 든 마케팅·영업 비용 전체.",
+        "example": "광고비가 오르면서 CAC가 첫 주문 매출을 넘어섰다.",
+        "term": "CAC(고객 획득 비용)"
+      },
+      "fr": {
+        "definition": "L'ensemble des dépenses de vente et de marketing pour gagner un nouveau client payant.",
+        "example": "La hausse des prix pub a poussé le CAC au-dessus de ce que rapporte une première commande.",
+        "term": "CAC (coût d'acquisition client)"
+      },
+      "es": {
+        "definition": "Todo el gasto de ventas y marketing para ganar un cliente nuevo que paga.",
+        "example": "La subida del precio de los anuncios llevó el CAC por encima del primer pedido.",
+        "term": "CAC (coste de adquisición)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-008",
+    "deck": "digital-marketing",
+    "term": "LTV (Lifetime Value)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "unit-economics",
+      "retention",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The total revenue a business expects from a customer over the whole relationship.",
+        "example": "Subscribers who stay for years lift the average LTV sharply."
+      },
+      "ru": {
+        "definition": "Вся выручка, которую бизнес ждёт от клиента за всё время работы с ним.",
+        "example": "Подписчики, которые остаются годами, заметно поднимают средний LTV.",
+        "term": "LTV (пожизненная ценность)"
+      },
+      "ja": {
+        "definition": "1人の顧客から取引期間全体を通じて見込める売上の総額のこと。",
+        "example": "何年も続く定期購読者が、平均LTVを大きく押し上げている。",
+        "term": "LTV（顧客生涯価値）"
+      },
+      "ko": {
+        "definition": "한 고객이 관계가 이어지는 동안 안겨줄 것으로 기대되는 총매출.",
+        "example": "몇 년씩 남는 구독자들이 평균 LTV를 크게 끌어올린다.",
+        "term": "LTV(고객 생애 가치)"
+      },
+      "fr": {
+        "definition": "Le revenu total qu'une entreprise attend d'un client sur toute la durée de la relation.",
+        "example": "Les abonnés qui restent des années font nettement grimper la LTV moyenne.",
+        "term": "LTV (valeur vie client)"
+      },
+      "es": {
+        "definition": "Ingresos totales que un negocio espera de un cliente durante toda la relación.",
+        "example": "Los suscriptores que se quedan años elevan mucho el LTV medio.",
+        "term": "LTV (valor de vida)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-009",
+    "deck": "digital-marketing",
+    "term": "LTV:CAC ratio",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "unit-economics",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How the value of a customer compares to the cost of acquiring them.",
+        "example": "Investors asked for our LTV:CAC before backing more ad spend."
+      },
+      "ru": {
+        "definition": "Как ценность клиента соотносится с затратами на его привлечение.",
+        "example": "Инвесторы попросили наш LTV:CAC, прежде чем одобрить рост бюджета.",
+        "term": "LTV:CAC"
+      },
+      "ja": {
+        "definition": "顧客の生涯価値が、その獲得にかかる費用の何倍かを示す比のこと。",
+        "example": "広告予算の増額を承認する前に、投資家はLTV:CACを尋ねてきた。",
+        "term": "LTV:CAC 比率"
+      },
+      "ko": {
+        "definition": "고객의 가치가 그를 데려오는 데 든 비용과 어떻게 견주어지는지.",
+        "example": "투자자들이 광고비 증액을 승인하기 전에 우리 LTV:CAC부터 물었다.",
+        "term": "LTV:CAC 비율"
+      },
+      "fr": {
+        "definition": "Comment la valeur d'un client se compare au coût de son acquisition.",
+        "example": "Les investisseurs ont réclamé notre LTV:CAC avant d'appuyer un budget pub plus large.",
+        "term": "Ratio LTV:CAC"
+      },
+      "es": {
+        "definition": "Cómo se compara el valor de un cliente con lo que cuesta captarlo.",
+        "example": "Los inversores pidieron nuestro LTV:CAC antes de respaldar más inversión.",
+        "term": "Ratio LTV:CAC"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-010",
+    "deck": "digital-marketing",
+    "term": "ROI (Return on Investment)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "metrics",
+      "unit-economics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The profit earned relative to the money put into a campaign or channel.",
+        "example": "The email channel showed the strongest ROI of anything we ran."
+      },
+      "ru": {
+        "definition": "Прибыль по отношению к деньгам, вложенным в кампанию или канал.",
+        "example": "Самый высокий ROI из всех каналов показала почтовая рассылка.",
+        "term": "ROI (возврат инвестиций)"
+      },
+      "ja": {
+        "definition": "キャンペーンやチャネルに投じた金額に対して得られた利益のこと。",
+        "example": "どの施策よりも、メール配信が最も高いROIを示した。",
+        "term": "ROI（投資利益率）"
+      },
+      "ko": {
+        "definition": "캠페인이나 채널에 넣은 돈 대비 벌어들인 이익.",
+        "example": "우리가 돌린 채널 중 이메일이 가장 높은 ROI를 보였다.",
+        "term": "ROI(투자 수익률)"
+      },
+      "fr": {
+        "definition": "Le profit obtenu par rapport à l'argent injecté dans une campagne ou un canal.",
+        "example": "Le canal e-mail a montré le meilleur ROI de tout ce qu'on a lancé.",
+        "term": "ROI (retour sur investissement)"
+      },
+      "es": {
+        "definition": "Beneficio obtenido en relación con el dinero puesto en una campaña o canal.",
+        "example": "El correo mostró el ROI más fuerte de todo lo que lanzamos.",
+        "term": "ROI (retorno de la inversión)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-011",
+    "deck": "digital-marketing",
+    "term": "ROAS (Return on Ad Spend)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "metrics",
+      "paid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Revenue earned for every unit of money spent on advertising.",
+        "example": "The retargeting set held a 5:1 ROAS through the holiday push."
+      },
+      "ru": {
+        "definition": "Сколько выручки приносит каждая единица денег, потраченная на рекламу.",
+        "example": "На праздниках ретаргетинг держал ROAS 5:1.",
+        "term": "ROAS (возврат на рекламу)"
+      },
+      "ja": {
+        "definition": "広告に使った1単位の金額あたり、いくらの売上が得られたかを示す指標のこと。",
+        "example": "年末商戦の間、リターゲティングはROAS 5:1を維持した。",
+        "term": "ROAS（広告費用対効果）"
+      },
+      "ko": {
+        "definition": "광고에 쓴 돈 한 단위당 벌어들이는 매출.",
+        "example": "리타게팅 세트는 연말 시즌 내내 ROAS 5:1을 유지했다.",
+        "term": "ROAS(광고 수익률)"
+      },
+      "fr": {
+        "definition": "Le revenu obtenu pour chaque unité d'argent dépensée en publicité.",
+        "example": "Le retargeting a tenu un ROAS de 5:1 pendant la ruée des fêtes.",
+        "term": "ROAS (retour sur dépense pub)"
+      },
+      "es": {
+        "definition": "Ingresos generados por cada unidad de dinero gastada en publicidad.",
+        "example": "El retargeting aguantó un ROAS de 5:1 durante la campaña navideña.",
+        "term": "ROAS (retorno de la inversión publicitaria)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-012",
+    "deck": "digital-marketing",
+    "term": "ARPU (Average Revenue Per User)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "unit-economics",
+      "metrics",
+      "monetization"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Average revenue a product earns per user over a given period.",
+        "example": "A pricier plan tier nudged monthly ARPU upward."
+      },
+      "ru": {
+        "definition": "Средний доход, который продукт приносит с одного пользователя за период.",
+        "example": "Более дорогой тариф немного поднял месячный ARPU.",
+        "term": "ARPU (доход на пользователя)"
+      },
+      "ja": {
+        "definition": "一定期間にユーザー1人あたりから得られる平均売上のこと。",
+        "example": "上位プランの導入で、月間ARPUが少し上がった。",
+        "term": "ARPU（ユーザー平均単価）"
+      },
+      "ko": {
+        "definition": "일정 기간 제품이 사용자 한 명에게서 버는 평균 매출.",
+        "example": "더 비싼 요금제 덕에 월 ARPU가 조금 올랐다.",
+        "term": "ARPU(사용자당 평균 매출)"
+      },
+      "fr": {
+        "definition": "Le revenu moyen qu'un produit tire d'un utilisateur sur une période donnée.",
+        "example": "Un palier tarifaire plus cher a fait monter l'ARPU mensuel.",
+        "term": "ARPU (revenu moyen par utilisateur)"
+      },
+      "es": {
+        "definition": "Ingreso medio que genera un producto por cada usuario en un periodo dado.",
+        "example": "Un plan más caro empujó al alza el ARPU mensual.",
+        "term": "ARPU (ingreso medio por usuario)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-013",
+    "deck": "digital-marketing",
+    "term": "AOV (Average Order Value)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ecommerce",
+      "metrics",
+      "monetization"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The average amount a customer spends in a single order.",
+        "example": "Free shipping over a threshold lifted AOV on the store."
+      },
+      "ru": {
+        "definition": "Средняя сумма, которую клиент тратит за один заказ.",
+        "example": "Бесплатная доставка от порога подняла AOV в магазине.",
+        "term": "AOV (средний чек)"
+      },
+      "ja": {
+        "definition": "顧客が1回の注文で使う平均金額のこと。",
+        "example": "一定額以上で送料無料にしたら、店舗のAOVが上がった。",
+        "term": "AOV（平均注文額）"
+      },
+      "ko": {
+        "definition": "고객이 한 번 주문할 때 쓰는 평균 금액.",
+        "example": "일정 금액 이상 무료 배송을 걸자 스토어의 AOV가 올랐다.",
+        "term": "AOV(평균 주문 금액)"
+      },
+      "fr": {
+        "definition": "La somme moyenne qu'un client dépense en une seule commande.",
+        "example": "La livraison offerte au-delà d'un seuil a relevé l'AOV de la boutique.",
+        "term": "AOV (panier moyen)"
+      },
+      "es": {
+        "definition": "Cantidad media que gasta un cliente en un solo pedido.",
+        "example": "El envío gratis a partir de cierto importe subió el AOV de la tienda.",
+        "term": "AOV (ticket medio)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-014",
+    "deck": "digital-marketing",
+    "term": "CVR (Conversion Rate)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "metrics",
+      "conversion",
+      "cro"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The share of visitors who complete a desired action out of the total.",
+        "example": "A clearer checkout raised the landing page's CVR."
+      },
+      "ru": {
+        "definition": "Доля посетителей, совершивших целевое действие, от их общего числа.",
+        "example": "Более понятная оплата подняла CVR посадочной страницы.",
+        "term": "CVR (коэффициент конверсии)"
+      },
+      "ja": {
+        "definition": "訪問者全体のうち、目的の行動を完了した人の割合のこと。",
+        "example": "決済画面を分かりやすくして、LPのCVRが上がった。",
+        "term": "CVR（コンバージョン率）"
+      },
+      "ko": {
+        "definition": "방문자 전체 중 목표 액션을 끝까지 완료한 사람의 비율.",
+        "example": "결제 화면을 명확하게 바꾸니 랜딩페이지 CVR이 올라갔다.",
+        "term": "CVR(전환율)"
+      },
+      "fr": {
+        "definition": "La part des visiteurs qui accomplissent une action visée sur l'ensemble du trafic.",
+        "example": "Un tunnel de paiement plus clair a relevé le CVR de la page d'atterrissage.",
+        "term": "CVR (taux de conversion)"
+      },
+      "es": {
+        "definition": "Proporción de visitantes que completan una acción deseada sobre el total.",
+        "example": "Un checkout más claro subió la CVR de la landing.",
+        "term": "CVR (tasa de conversión)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-015",
+    "deck": "digital-marketing",
+    "term": "Conversion",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "conversion",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A visitor completing an action you want, like a purchase or signup.",
+        "example": "Each demo booking counts as a conversion in the report."
+      },
+      "ru": {
+        "definition": "Посетитель совершает нужное вам действие — покупку или регистрацию.",
+        "example": "Каждая запись на демо считается конверсией в отчёте.",
+        "term": "Конверсия"
+      },
+      "ja": {
+        "definition": "訪問者が購入や登録など、こちらの望む行動を完了することのこと。",
+        "example": "デモ予約は1件ずつコンバージョンとしてレポートに計上される。",
+        "term": "コンバージョン"
+      },
+      "ko": {
+        "definition": "방문자가 구매나 가입처럼 우리가 바라는 액션을 완료하는 것.",
+        "example": "데모 예약 하나하나가 리포트에서는 전환으로 잡힌다.",
+        "term": "전환"
+      },
+      "fr": {
+        "definition": "Un visiteur qui accomplit l'action souhaitée, comme un achat ou une inscription.",
+        "example": "Chaque réservation de démo compte comme une conversion dans le rapport.",
+        "term": "Conversion"
+      },
+      "es": {
+        "definition": "Un visitante completa la acción que buscas, como una compra o un registro.",
+        "example": "Cada reserva de demo cuenta como conversión en el informe.",
+        "term": "Conversión"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-016",
+    "deck": "digital-marketing",
+    "term": "Churn rate",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "retention",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The share of customers who stop using a product over a period.",
+        "example": "A rough onboarding flow drove churn up in the first month."
+      },
+      "ru": {
+        "definition": "Доля клиентов, переставших пользоваться продуктом за период.",
+        "example": "Неудобное начало работы подняло отток в первый месяц.",
+        "term": "Отток (churn)"
+      },
+      "ja": {
+        "definition": "一定期間に製品の利用をやめた顧客の割合のこと。",
+        "example": "初期設定の分かりにくさで、最初の1か月のチャーンが増えた。",
+        "term": "チャーン率（解約率）"
+      },
+      "ko": {
+        "definition": "일정 기간에 제품 사용을 그만두는 고객의 비율.",
+        "example": "온보딩이 매끄럽지 못해 첫 달 이탈률이 치솟았다.",
+        "term": "이탈률(Churn)"
+      },
+      "fr": {
+        "definition": "La part des clients qui cessent d'utiliser un produit sur une période.",
+        "example": "Un démarrage laborieux a fait grimper l'attrition dès le premier mois.",
+        "term": "Taux d'attrition (churn)"
+      },
+      "es": {
+        "definition": "Proporción de clientes que dejan de usar un producto durante un periodo.",
+        "example": "Un onboarding tosco disparó el churn en el primer mes.",
+        "term": "Tasa de abandono (churn)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-017",
+    "deck": "digital-marketing",
+    "term": "Retention rate",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "retention",
+      "metrics",
+      "lifecycle"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The share of customers who keep using a product across a period.",
+        "example": "Push reminders nudged week-two retention higher."
+      },
+      "ru": {
+        "definition": "Доля клиентов, продолжающих пользоваться продуктом за период.",
+        "example": "Push-напоминания подняли удержание на второй неделе.",
+        "term": "Удержание"
+      },
+      "ja": {
+        "definition": "一定期間を通じて製品を使い続けた顧客の割合のこと。",
+        "example": "プッシュ通知のリマインドで、2週目のリテンションが上がった。",
+        "term": "リテンション率（継続率）"
+      },
+      "ko": {
+        "definition": "일정 기간 내내 제품을 계속 쓰는 고객의 비율.",
+        "example": "푸시 알림을 보냈더니 2주차 리텐션이 올라갔다.",
+        "term": "리텐션(잔존율)"
+      },
+      "fr": {
+        "definition": "La part des clients qui continuent d'utiliser un produit tout au long d'une période.",
+        "example": "Les rappels push ont relevé la rétention de la deuxième semaine.",
+        "term": "Taux de rétention"
+      },
+      "es": {
+        "definition": "Proporción de clientes que siguen usando un producto a lo largo de un periodo.",
+        "example": "Los avisos push subieron la retención de la segunda semana.",
+        "term": "Tasa de retención"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-018",
+    "deck": "digital-marketing",
+    "term": "Bounce rate",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "analytics",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The share of visits where someone leaves after seeing just one page.",
+        "example": "A slow-loading page spiked the bounce rate on mobile."
+      },
+      "ru": {
+        "definition": "Доля визитов, где человек уходит, посмотрев лишь одну страницу.",
+        "example": "Медленная загрузка взвинтила показатель отказов на мобильных.",
+        "term": "Показатель отказов"
+      },
+      "ja": {
+        "definition": "1ページだけ見て離脱した訪問が、全訪問に占める割合のこと。",
+        "example": "読み込みの遅いページで、モバイルの直帰率が跳ね上がった。",
+        "term": "直帰率"
+      },
+      "ko": {
+        "definition": "한 페이지만 보고 그대로 떠나는 방문의 비율.",
+        "example": "페이지 로딩이 느려 모바일 이탈률이 급등했다.",
+        "term": "이탈률(Bounce)"
+      },
+      "fr": {
+        "definition": "La part des visites où la personne repart après n'avoir vu qu'une seule page.",
+        "example": "Une page lente à charger a fait bondir le taux de rebond sur mobile.",
+        "term": "Taux de rebond"
+      },
+      "es": {
+        "definition": "Proporción de visitas en las que alguien se va tras ver una sola página.",
+        "example": "Una página lenta disparó la tasa de rebote en móvil.",
+        "term": "Tasa de rebote"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-019",
+    "deck": "digital-marketing",
+    "term": "Impressions",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "paid",
+      "metrics",
+      "display"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The number of times an ad or post is shown, counting repeats.",
+        "example": "The campaign racked up a million impressions in a week."
+      },
+      "ru": {
+        "definition": "Сколько раз объявление или пост показали, считая повторы.",
+        "example": "За неделю кампания набрала миллион показов.",
+        "term": "Показы"
+      },
+      "ja": {
+        "definition": "広告や投稿が表示された回数のこと。重複表示も数える。",
+        "example": "キャンペーンは1週間で100万インプレッションを積み上げた。",
+        "term": "インプレッション"
+      },
+      "ko": {
+        "definition": "광고나 게시물이 화면에 표시된 횟수로, 반복도 그대로 센다.",
+        "example": "캠페인이 일주일 만에 노출수 100만을 찍었다.",
+        "term": "노출수(임프레션)"
+      },
+      "fr": {
+        "definition": "Le nombre de fois qu'une annonce ou un post est affiché, répétitions comprises.",
+        "example": "La campagne a accumulé un million d'impressions en une semaine.",
+        "term": "Impressions"
+      },
+      "es": {
+        "definition": "Número de veces que se muestra un anuncio o publicación, contando repeticiones.",
+        "example": "La campaña acumuló un millón de impresiones en una semana.",
+        "term": "Impresiones"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-020",
+    "deck": "digital-marketing",
+    "term": "Reach",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "metrics",
+      "paid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The number of unique people who saw a post or ad at least once.",
+        "example": "The reel's reach spread far past our own followers."
+      },
+      "ru": {
+        "definition": "Сколько уникальных людей хотя бы раз увидели пост или объявление.",
+        "example": "Охват ролика вышел далеко за пределы наших подписчиков.",
+        "term": "Охват"
+      },
+      "ja": {
+        "definition": "投稿や広告を少なくとも1回見た、重複を除いた人数のこと。",
+        "example": "そのリールのリーチは、自分のフォロワーをはるかに超えて広がった。",
+        "term": "リーチ"
+      },
+      "ko": {
+        "definition": "게시물이나 광고를 최소 한 번이라도 본 순수 인원수.",
+        "example": "릴스 도달이 우리 팔로워를 훌쩍 넘어 퍼졌다.",
+        "term": "도달(리치)"
+      },
+      "fr": {
+        "definition": "Le nombre de personnes uniques qui ont vu un post ou une annonce au moins une fois.",
+        "example": "La portée du reel a débordé bien au-delà de nos propres abonnés.",
+        "term": "Portée"
+      },
+      "es": {
+        "definition": "Número de personas únicas que vieron una publicación o anuncio al menos una vez.",
+        "example": "El alcance del reel llegó mucho más allá de nuestros seguidores.",
+        "term": "Alcance"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-021",
+    "deck": "digital-marketing",
+    "term": "Frequency",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "paid",
+      "display",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The average number of times each person saw an ad in a period.",
+        "example": "Frequency climbed so high that people started ignoring the ad."
+      },
+      "ru": {
+        "definition": "Сколько в среднем раз каждый человек увидел объявление за период.",
+        "example": "Частота выросла так, что люди перестали замечать рекламу.",
+        "term": "Частота показов"
+      },
+      "ja": {
+        "definition": "一定期間に1人が同じ広告を見た平均回数のこと。",
+        "example": "フリークエンシーが高すぎて、みんな広告を無視し始めた。",
+        "term": "フリークエンシー"
+      },
+      "ko": {
+        "definition": "일정 기간에 한 사람이 광고를 본 평균 횟수.",
+        "example": "빈도가 너무 높아지자 사람들이 광고를 무시하기 시작했다.",
+        "term": "노출 빈도(프리퀀시)"
+      },
+      "fr": {
+        "definition": "Le nombre moyen de fois où chaque personne a vu une annonce sur une période.",
+        "example": "La fréquence a tellement grimpé que les gens se sont mis à ignorer l'annonce.",
+        "term": "Fréquence"
+      },
+      "es": {
+        "definition": "Número medio de veces que cada persona vio un anuncio en un periodo.",
+        "example": "La frecuencia subió tanto que la gente empezó a ignorar el anuncio.",
+        "term": "Frecuencia"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-022",
+    "deck": "digital-marketing",
+    "term": "Engagement rate",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The share of an audience that likes, comments on, or shares your content.",
+        "example": "Polls in stories lifted the account's engagement rate."
+      },
+      "ru": {
+        "definition": "Доля аудитории, которая ставит лайки, комментирует или делится контентом.",
+        "example": "Опросы в сторис подняли вовлечённость аккаунта.",
+        "term": "Вовлечённость"
+      },
+      "ja": {
+        "definition": "コンテンツにいいね・コメント・シェアで反応した人の割合のこと。",
+        "example": "ストーリーズのアンケートで、アカウントのエンゲージメント率が上がった。",
+        "term": "エンゲージメント率"
+      },
+      "ko": {
+        "definition": "콘텐츠에 좋아요·댓글·공유로 반응한 사람의 비율.",
+        "example": "스토리 투표를 넣었더니 계정 참여율이 올랐다.",
+        "term": "참여율(인게이지먼트)"
+      },
+      "fr": {
+        "definition": "La part de l'audience qui aime, commente ou partage votre contenu.",
+        "example": "Les sondages en stories ont relevé le taux d'engagement du compte.",
+        "term": "Taux d'engagement"
+      },
+      "es": {
+        "definition": "Proporción de la audiencia que da me gusta, comenta o comparte tu contenido.",
+        "example": "Las encuestas en stories subieron la tasa de interacción de la cuenta.",
+        "term": "Tasa de interacción"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-023",
+    "deck": "digital-marketing",
+    "term": "MRR (Monthly Recurring Revenue)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "unit-economics",
+      "monetization",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The predictable subscription revenue a business collects each month.",
+        "example": "Two enterprise deals added a healthy chunk to MRR."
+      },
+      "ru": {
+        "definition": "Предсказуемая выручка с подписок, которую бизнес получает каждый месяц.",
+        "example": "Две корпоративные сделки заметно прибавили к MRR.",
+        "term": "MRR (регулярная выручка/мес)"
+      },
+      "ja": {
+        "definition": "毎月見込める、サブスクリプションからの安定した売上のこと。",
+        "example": "大口2件の契約で、MRRにまとまった上乗せがあった。",
+        "term": "MRR（月次経常収益）"
+      },
+      "ko": {
+        "definition": "구독으로 매달 예측 가능하게 들어오는 매출.",
+        "example": "기업 계약 두 건이 MRR을 든든하게 보탰다.",
+        "term": "MRR(월 반복 매출)"
+      },
+      "fr": {
+        "definition": "Le revenu d'abonnement prévisible qu'une entreprise encaisse chaque mois.",
+        "example": "Deux contrats grands comptes ont bien gonflé le MRR.",
+        "term": "MRR (revenu récurrent mensuel)"
+      },
+      "es": {
+        "definition": "Ingreso predecible por suscripciones que un negocio cobra cada mes.",
+        "example": "Dos contratos con grandes cuentas sumaron un buen pellizco al MRR.",
+        "term": "MRR (ingreso recurrente mensual)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-024",
+    "deck": "digital-marketing",
+    "term": "KPI (Key Performance Indicator)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "metrics",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A key number a team tracks to judge whether it's hitting its goals.",
+        "example": "Signups were the headline KPI for the launch quarter."
+      },
+      "ru": {
+        "definition": "Ключевая цифра, по которой команда судит, идёт ли она к своим целям.",
+        "example": "Главным KPI квартала запуска стали регистрации.",
+        "term": "KPI (ключевой показатель)"
+      },
+      "ja": {
+        "definition": "目標に届いているかを判断するために、チームが追う中心的な数値のこと。",
+        "example": "ローンチ四半期は、登録数を看板KPIに据えた。",
+        "term": "KPI（重要業績評価指標）"
+      },
+      "ko": {
+        "definition": "팀이 목표에 다가가는지 판단하려고 추적하는 핵심 수치.",
+        "example": "출시 분기에는 가입 수가 대표 KPI였다.",
+        "term": "KPI(핵심 성과 지표)"
+      },
+      "fr": {
+        "definition": "Un chiffre clé qu'une équipe suit pour juger si elle atteint ses objectifs.",
+        "example": "Les inscriptions étaient le KPI phare du trimestre de lancement.",
+        "term": "KPI (indicateur clé de performance)"
+      },
+      "es": {
+        "definition": "Cifra clave que un equipo sigue para saber si alcanza sus objetivos.",
+        "example": "Los registros fueron el KPI estrella del trimestre del lanzamiento.",
+        "term": "KPI (indicador clave)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-025",
+    "deck": "digital-marketing",
+    "term": "North star metric",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "metrics",
+      "growth"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The single metric that best captures the core value a product delivers.",
+        "example": "The team rallied around weekly active teams as its north star."
+      },
+      "ru": {
+        "definition": "Единственная метрика, точнее всего отражающая пользу продукта.",
+        "example": "Команда сплотилась вокруг недельных активных команд как north star.",
+        "term": "Главная метрика (north star)"
+      },
+      "ja": {
+        "definition": "製品が届ける中核的な価値を最もよく表す、ひとつの指標のこと。",
+        "example": "チームは週次アクティブチーム数をノーススターに掲げてまとまった。",
+        "term": "ノーススターメトリック"
+      },
+      "ko": {
+        "definition": "제품이 주는 핵심 가치를 가장 잘 담아내는 단 하나의 지표.",
+        "example": "팀은 주간 활성 팀 수를 노스 스타로 삼고 뭉쳤다.",
+        "term": "노스 스타 지표"
+      },
+      "fr": {
+        "definition": "L'unique métrique qui capture le mieux la valeur au cœur d'un produit.",
+        "example": "L'équipe s'est ralliée aux équipes actives par semaine comme métrique nord.",
+        "term": "Métrique nord (north star)"
+      },
+      "es": {
+        "definition": "La única métrica que mejor refleja el valor central que aporta un producto.",
+        "example": "El equipo se unió en torno a los equipos activos semanales como métrica norte.",
+        "term": "Métrica norte (north star)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-026",
+    "deck": "digital-marketing",
+    "term": "GMV (Gross Merchandise Value)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ecommerce",
+      "metrics",
+      "monetization"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The total value of goods sold through a marketplace before fees or returns.",
+        "example": "The marketplace crossed a billion in annual GMV."
+      },
+      "ru": {
+        "definition": "Общая стоимость проданных на площадке товаров до вычета комиссий и возвратов.",
+        "example": "Площадка перевалила за миллиард годового GMV.",
+        "term": "GMV (валовой оборот)"
+      },
+      "ja": {
+        "definition": "手数料や返品を差し引く前の、マーケット全体での販売総額のこと。",
+        "example": "そのマーケットプレイスは年間GMVで10億を突破した。",
+        "term": "GMV（流通取引総額）"
+      },
+      "ko": {
+        "definition": "수수료나 반품을 빼기 전, 마켓플레이스에서 팔린 상품의 총액.",
+        "example": "그 마켓플레이스가 연 GMV 10억 달러를 넘어섰다.",
+        "term": "GMV(총거래액)"
+      },
+      "fr": {
+        "definition": "La valeur totale des biens vendus sur une place de marché avant frais et retours.",
+        "example": "La place de marché a franchi le milliard de GMV annuel.",
+        "term": "GMV (volume d'affaires brut)"
+      },
+      "es": {
+        "definition": "Valor total de lo vendido en un marketplace antes de comisiones y devoluciones.",
+        "example": "El marketplace superó los mil millones de GMV anual.",
+        "term": "GMV (volumen bruto de mercancía)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-027",
+    "deck": "digital-marketing",
+    "term": "Attribution",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "attribution",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Assigning credit for a conversion to the marketing touches that led to it.",
+        "example": "Attribution settled a turf war over which channel earned the sale."
+      },
+      "ru": {
+        "definition": "Распределение заслуги за конверсию между рекламными касаниями до неё.",
+        "example": "Атрибуция прекратила спор о том, какой канал принёс продажу.",
+        "term": "Атрибуция"
+      },
+      "ja": {
+        "definition": "コンバージョンの貢献を、そこに至った各接点に割り当てることのこと。",
+        "example": "アトリビューションで、どのチャネルの成果かの縄張り争いが収まった。",
+        "term": "アトリビューション"
+      },
+      "ko": {
+        "definition": "전환에 이르게 한 마케팅 접점들에 그 공을 나눠 매기는 것.",
+        "example": "어트리뷰션이 어느 채널이 판매를 만들었는지를 둘러싼 다툼을 정리했다.",
+        "term": "어트리뷰션(기여 분석)"
+      },
+      "fr": {
+        "definition": "Attribuer le mérite d'une conversion aux points de contact marketing qui y ont mené.",
+        "example": "L'attribution a réglé la guerre de tranchées sur le canal qui a décroché la vente.",
+        "term": "Attribution"
+      },
+      "es": {
+        "definition": "Repartir el mérito de una conversión entre los contactos de marketing que la impulsaron.",
+        "example": "La atribución zanjó la pelea sobre qué canal se ganó la venta.",
+        "term": "Atribución"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-028",
+    "deck": "digital-marketing",
+    "term": "Last-click attribution",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "attribution",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Giving all credit for a conversion to the final touch before it.",
+        "example": "Under last-click, brand search grabbed credit the ads had earned."
+      },
+      "ru": {
+        "definition": "Вся заслуга за конверсию отдаётся последнему касанию перед ней.",
+        "example": "По последнему клику брендовый поиск забрал заслугу рекламы.",
+        "term": "Атрибуция по последнему клику"
+      },
+      "ja": {
+        "definition": "コンバージョン直前の最後の接点に、貢献をすべて割り当てる方式のこと。",
+        "example": "ラストクリックだと、広告が育てた成果を指名検索が横取りした。",
+        "term": "ラストクリックアトリビューション"
+      },
+      "ko": {
+        "definition": "전환 직전 마지막 접점에 공을 전부 몰아주는 방식.",
+        "example": "라스트 클릭에서는 광고가 만든 성과를 브랜드 검색이 가져갔다.",
+        "term": "라스트 클릭 어트리뷰션"
+      },
+      "fr": {
+        "definition": "Attribuer tout le mérite d'une conversion au dernier point de contact avant elle.",
+        "example": "En dernier clic, la recherche de marque a raflé le mérite gagné par les annonces.",
+        "term": "Attribution au dernier clic"
+      },
+      "es": {
+        "definition": "Dar todo el mérito de una conversión al último contacto previo a ella.",
+        "example": "Con el último clic, la búsqueda de marca se llevó el mérito de los anuncios.",
+        "term": "Atribución al último clic"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-029",
+    "deck": "digital-marketing",
+    "term": "First-click attribution",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "attribution",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Giving all credit for a conversion to the very first touch a person had.",
+        "example": "First-click flattered the blog that started each journey."
+      },
+      "ru": {
+        "definition": "Вся заслуга за конверсию отдаётся самому первому касанию человека.",
+        "example": "Первый клик льстил блогу, с которого начинался каждый путь.",
+        "term": "Атрибуция по первому клику"
+      },
+      "ja": {
+        "definition": "最初に接触した接点に、コンバージョンの貢献をすべて割り当てる方式のこと。",
+        "example": "ファーストクリックは、各導線の起点となったブログを過大評価した。",
+        "term": "ファーストクリックアトリビューション"
+      },
+      "ko": {
+        "definition": "사람이 처음 만난 접점에 전환의 공을 전부 몰아주는 방식.",
+        "example": "퍼스트 클릭은 모든 여정을 시작시킨 블로그를 후하게 대접했다.",
+        "term": "퍼스트 클릭 어트리뷰션"
+      },
+      "fr": {
+        "definition": "Attribuer tout le mérite d'une conversion au tout premier contact de la personne.",
+        "example": "Le premier clic flattait le blog par lequel commençait chaque parcours.",
+        "term": "Attribution au premier clic"
+      },
+      "es": {
+        "definition": "Dar todo el mérito de una conversión al primer contacto que tuvo la persona.",
+        "example": "El primer clic favorecía al blog que arrancaba cada recorrido.",
+        "term": "Atribución al primer clic"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-030",
+    "deck": "digital-marketing",
+    "term": "Multi-touch attribution",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "attribution",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Splitting conversion credit across every touch along the customer's path.",
+        "example": "Multi-touch revealed how email assisted sales that search closed."
+      },
+      "ru": {
+        "definition": "Заслуга за конверсию делится между всеми касаниями на пути клиента.",
+        "example": "Многоканальная атрибуция показала, как письмо помогло продаже из поиска.",
+        "term": "Многоканальная атрибуция"
+      },
+      "ja": {
+        "definition": "顧客の経路上のすべての接点に、貢献を分けて割り当てる方式のこと。",
+        "example": "マルチタッチで、検索が締めた成果をメールが支えていたと分かった。",
+        "term": "マルチタッチアトリビューション"
+      },
+      "ko": {
+        "definition": "고객 경로의 모든 접점에 전환의 공을 나눠 매기는 방식.",
+        "example": "멀티터치로 보니 검색이 닫은 판매를 이메일이 거들었다는 게 드러났다.",
+        "term": "멀티터치 어트리뷰션"
+      },
+      "fr": {
+        "definition": "Répartir le mérite d'une conversion sur chaque contact du parcours client.",
+        "example": "Le multi-touch a révélé comment l'e-mail a épaulé les ventes closes par la recherche.",
+        "term": "Attribution multi-touch"
+      },
+      "es": {
+        "definition": "Repartir el mérito de una conversión entre todos los contactos del recorrido del cliente.",
+        "example": "La multicontacto reveló cómo el correo ayudaba a ventas que cerraba la búsqueda.",
+        "term": "Atribución multicontacto"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-031",
+    "deck": "digital-marketing",
+    "term": "Data-driven attribution",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "attribution",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Letting a model weigh each touch's real contribution using your own data.",
+        "example": "Data-driven attribution shifted budget toward the underrated upper funnel."
+      },
+      "ru": {
+        "definition": "Модель сама взвешивает вклад каждого касания по вашим собственным данным.",
+        "example": "Атрибуция на данных сместила бюджет к недооценённой верхней воронке.",
+        "term": "Атрибуция на данных"
+      },
+      "ja": {
+        "definition": "自社データを使い、各接点の実際の貢献度をモデルに重み付けさせる方式のこと。",
+        "example": "データドリブンで、過小評価されていた上流に予算が寄った。",
+        "term": "データドリブンアトリビューション"
+      },
+      "ko": {
+        "definition": "자사 데이터로 모델이 각 접점의 실제 기여를 저울질하게 하는 방식.",
+        "example": "데이터 기반 어트리뷰션이 저평가됐던 상단 퍼널로 예산을 옮겼다.",
+        "term": "데이터 기반 어트리뷰션"
+      },
+      "fr": {
+        "definition": "Laisser un modèle pondérer l'apport réel de chaque contact à partir de vos données.",
+        "example": "L'attribution par les données a déplacé le budget vers le haut de tunnel sous-estimé.",
+        "term": "Attribution pilotée par les données"
+      },
+      "es": {
+        "definition": "Dejar que un modelo pese la aportación real de cada contacto con tus propios datos.",
+        "example": "La atribución basada en datos movió presupuesto hacia el embudo alto, infravalorado.",
+        "term": "Atribución basada en datos"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-032",
+    "deck": "digital-marketing",
+    "term": "Incrementality",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "attribution",
+      "analytics",
+      "testing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The extra conversions a campaign truly caused, beyond what would happen anyway.",
+        "example": "A holdout test showed the brand ads had little incrementality."
+      },
+      "ru": {
+        "definition": "Дополнительные конверсии, которые кампания реально вызвала сверх обычного.",
+        "example": "Тест с контрольной группой показал слабую инкрементальность брендовой рекламы.",
+        "term": "Инкрементальность"
+      },
+      "ja": {
+        "definition": "放っておいても起きた分を除いた、キャンペーンが本当に生んだ上乗せの成果のこと。",
+        "example": "ホールドアウト検証で、ブランド広告のインクリメンタリティは薄いと分かった。",
+        "term": "インクリメンタリティ"
+      },
+      "ko": {
+        "definition": "캠페인이 없어도 일어났을 몫을 빼고, 순수하게 더 만들어낸 전환.",
+        "example": "홀드아웃 테스트에서 브랜드 광고의 증분 효과는 미미하게 나왔다.",
+        "term": "증분 효과(인크리멘탈리티)"
+      },
+      "fr": {
+        "definition": "Les conversions supplémentaires vraiment provoquées par une campagne, au-delà du naturel.",
+        "example": "Un test avec groupe témoin a montré une faible incrémentalité des annonces de marque.",
+        "term": "Incrémentalité"
+      },
+      "es": {
+        "definition": "Las conversiones extra que una campaña causó de verdad, más allá de lo que ocurriría igual.",
+        "example": "Un test con grupo de control mostró que los anuncios de marca aportaban poca incrementalidad.",
+        "term": "Incrementalidad"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-033",
+    "deck": "digital-marketing",
+    "term": "MMM (Media Mix Modeling)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "attribution",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Using statistics on aggregate data to gauge each channel's impact on sales.",
+        "example": "With cookies fading, the team leaned on MMM to plan the budget."
+      },
+      "ru": {
+        "definition": "Оценка вклада каждого канала в продажи по статистике агрегированных данных.",
+        "example": "С уходом cookie команда оперлась на MMM при планировании бюджета.",
+        "term": "MMM (медиамикс-моделирование)"
+      },
+      "ja": {
+        "definition": "集計データを統計で分析し、各チャネルが売上に与えた影響を測る手法のこと。",
+        "example": "Cookieが使えなくなり、チームは予算計画をMMMに頼った。",
+        "term": "MMM（メディアミックスモデリング）"
+      },
+      "ko": {
+        "definition": "집계 데이터를 통계로 분석해 채널별 매출 기여를 가늠하는 것.",
+        "example": "쿠키가 사라지자 팀은 예산 계획에 MMM을 기댔다.",
+        "term": "MMM(미디어 믹스 모델링)"
+      },
+      "fr": {
+        "definition": "Mesurer l'impact de chaque canal sur les ventes par des stats sur données agrégées.",
+        "example": "Les cookies s'effaçant, l'équipe s'est appuyée sur le MMM pour planifier le budget.",
+        "term": "MMM (modélisation du mix média)"
+      },
+      "es": {
+        "definition": "Usar estadística sobre datos agregados para medir el impacto de cada canal en las ventas.",
+        "example": "Con las cookies en retirada, el equipo se apoyó en el MMM para planear el presupuesto.",
+        "term": "MMM (modelado de mix de medios)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-034",
+    "deck": "digital-marketing",
+    "term": "UTM parameters",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "tracking",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Tags added to a link so analytics can see which campaign sent the visit.",
+        "example": "A typo in the UTM parameters split one campaign across three rows."
+      },
+      "ru": {
+        "definition": "Метки в ссылке, по которым аналитика видит, какая кампания привела визит.",
+        "example": "Опечатка в UTM-метках размазала одну кампанию по трём строкам отчёта.",
+        "term": "UTM-метки"
+      },
+      "ja": {
+        "definition": "どのキャンペーン経由の訪問かを解析で識別するために、リンクに付ける印のこと。",
+        "example": "UTMパラメータのタイプミスで、1つのキャンペーンが3行に分かれた。",
+        "term": "UTMパラメータ"
+      },
+      "ko": {
+        "definition": "어떤 캠페인이 방문을 보냈는지 분석 도구가 알도록 링크에 붙이는 태그.",
+        "example": "UTM 파라미터 오타 하나로 캠페인 한 개가 리포트 세 줄로 쪼개졌다.",
+        "term": "UTM 파라미터"
+      },
+      "fr": {
+        "definition": "Des balises ajoutées à un lien pour que l'analytique voie quelle campagne a amené la visite.",
+        "example": "Une coquille dans les paramètres UTM a éclaté une campagne sur trois lignes.",
+        "term": "Paramètres UTM"
+      },
+      "es": {
+        "definition": "Etiquetas que se añaden a un enlace para que la analítica vea qué campaña trajo la visita.",
+        "example": "Un error en los parámetros UTM partió una campaña en tres filas distintas.",
+        "term": "Parámetros UTM"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-035",
+    "deck": "digital-marketing",
+    "term": "Conversion tracking",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tracking",
+      "analytics",
+      "paid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Recording when users complete valued actions so campaigns can be measured.",
+        "example": "Broken conversion tracking made the ads look worse than they were."
+      },
+      "ru": {
+        "definition": "Запись целевых действий пользователей, чтобы измерять кампании.",
+        "example": "Сломанное отслеживание конверсий выставило рекламу хуже, чем она была.",
+        "term": "Отслеживание конверсий"
+      },
+      "ja": {
+        "definition": "価値ある行動の完了を記録し、キャンペーンを測定できるようにすることのこと。",
+        "example": "コンバージョン計測が壊れ、広告が実態より悪く見えていた。",
+        "term": "コンバージョン計測"
+      },
+      "ko": {
+        "definition": "캠페인을 측정할 수 있도록 사용자의 가치 있는 액션을 기록하는 것.",
+        "example": "전환 추적이 망가진 탓에 광고가 실제보다 나빠 보였다.",
+        "term": "전환 추적"
+      },
+      "fr": {
+        "definition": "Enregistrer quand les utilisateurs accomplissent des actions clés pour mesurer les campagnes.",
+        "example": "Un suivi des conversions cassé faisait paraître les annonces pires qu'elles n'étaient.",
+        "term": "Suivi des conversions"
+      },
+      "es": {
+        "definition": "Registrar cuándo los usuarios completan acciones valiosas para poder medir las campañas.",
+        "example": "Un seguimiento de conversiones roto hizo que los anuncios parecieran peores.",
+        "term": "Seguimiento de conversiones"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-036",
+    "deck": "digital-marketing",
+    "term": "Tracking pixel",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "tracking",
+      "adtech",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A tiny invisible image that fires to record a visit or action.",
+        "example": "The ad platform's tracking pixel wasn't on the thank-you page."
+      },
+      "ru": {
+        "definition": "Крошечная невидимая картинка, срабатывающая при визите или действии.",
+        "example": "Пикселя рекламной площадки не оказалось на странице благодарности.",
+        "term": "Пиксель отслеживания"
+      },
+      "ja": {
+        "definition": "訪問や行動を記録するために読み込まれる、目に見えない極小の画像のこと。",
+        "example": "広告媒体のトラッキングピクセルが、サンクスページに入っていなかった。",
+        "term": "トラッキングピクセル"
+      },
+      "ko": {
+        "definition": "방문이나 액션을 기록하려고 작동하는, 눈에 안 보이는 작은 이미지.",
+        "example": "광고 플랫폼의 트래킹 픽셀이 감사 페이지에 안 붙어 있었다.",
+        "term": "트래킹 픽셀"
+      },
+      "fr": {
+        "definition": "Une minuscule image invisible qui se déclenche pour enregistrer une visite ou une action.",
+        "example": "Le pixel de suivi de la régie manquait sur la page de remerciement.",
+        "term": "Pixel de suivi"
+      },
+      "es": {
+        "definition": "Imagen diminuta e invisible que se dispara para registrar una visita o acción.",
+        "example": "El píxel de seguimiento de la plataforma no estaba en la página de gracias.",
+        "term": "Píxel de seguimiento"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-037",
+    "deck": "digital-marketing",
+    "term": "Cohort analysis",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "analytics",
+      "retention"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Grouping users by when they joined to compare how each group behaves over time.",
+        "example": "Cohort analysis showed newer signups stuck around longer."
+      },
+      "ru": {
+        "definition": "Группировка пользователей по дате прихода, чтобы сравнить их поведение во времени.",
+        "example": "Когортный анализ показал, что новые регистрации задерживались дольше.",
+        "term": "Когортный анализ"
+      },
+      "ja": {
+        "definition": "参加時期でユーザーをまとめ、各グループの振る舞いを時系列で比べる手法のこと。",
+        "example": "コホート分析で、新しく登録した層のほうが長く残ると分かった。",
+        "term": "コホート分析"
+      },
+      "ko": {
+        "definition": "가입 시기로 사용자를 묶어 집단별 행동을 시간에 따라 비교하는 것.",
+        "example": "코호트 분석에서 최근 가입자가 더 오래 남는 것으로 나왔다.",
+        "term": "코호트 분석"
+      },
+      "fr": {
+        "definition": "Regrouper les utilisateurs selon leur date d'arrivée pour comparer leur comportement dans le temps.",
+        "example": "L'analyse de cohortes a montré que les inscrits récents restaient plus longtemps.",
+        "term": "Analyse de cohortes"
+      },
+      "es": {
+        "definition": "Agrupar usuarios según cuándo entraron para comparar cómo se comporta cada grupo con el tiempo.",
+        "example": "El análisis de cohortes mostró que los registros recientes se quedaban más tiempo.",
+        "term": "Análisis de cohortes"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-038",
+    "deck": "digital-marketing",
+    "term": "Funnel",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "funnel",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The staged path people move through from first awareness to a final action.",
+        "example": "Most of the drop-off in the funnel happened right at signup."
+      },
+      "ru": {
+        "definition": "Ступенчатый путь людей от первого знакомства до целевого действия.",
+        "example": "Больше всего людей отваливалось в воронке прямо на регистрации.",
+        "term": "Воронка"
+      },
+      "ja": {
+        "definition": "認知から最終行動まで、人が段階を追って進んでいく道筋のこと。",
+        "example": "ファネルの離脱の大半は、まさに登録の場面で起きていた。",
+        "term": "ファネル"
+      },
+      "ko": {
+        "definition": "처음 인지부터 마지막 액션까지 사람들이 단계별로 지나는 경로.",
+        "example": "퍼널에서 이탈이 가장 많이 일어난 지점은 바로 가입 단계였다.",
+        "term": "퍼널"
+      },
+      "fr": {
+        "definition": "Le parcours par étapes des gens, de la première prise de conscience à l'action finale.",
+        "example": "La plupart des abandons dans l'entonnoir se produisaient pile à l'inscription.",
+        "term": "Entonnoir"
+      },
+      "es": {
+        "definition": "El camino por etapas que recorre la gente desde el primer conocimiento hasta una acción final.",
+        "example": "Casi toda la caída del embudo pasaba justo en el registro.",
+        "term": "Embudo"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-039",
+    "deck": "digital-marketing",
+    "term": "Conversion funnel",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "funnel",
+      "conversion",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The step-by-step path a visitor takes toward a purchase or signup.",
+        "example": "We mapped the conversion funnel to find where carts were abandoned."
+      },
+      "ru": {
+        "definition": "Пошаговый путь посетителя к покупке или регистрации.",
+        "example": "Мы разобрали воронку конверсии, чтобы найти, где бросают корзину.",
+        "term": "Воронка конверсии"
+      },
+      "ja": {
+        "definition": "訪問者が購入や登録に向かって進む、段階ごとの道筋のこと。",
+        "example": "コンバージョンファネルを描いて、カゴ落ちの箇所を突き止めた。",
+        "term": "コンバージョンファネル"
+      },
+      "ko": {
+        "definition": "방문자가 구매나 가입으로 향하는 단계별 경로.",
+        "example": "장바구니를 어디서 버리는지 찾으려고 전환 퍼널을 그려봤다.",
+        "term": "전환 퍼널"
+      },
+      "fr": {
+        "definition": "Le parcours pas à pas d'un visiteur vers un achat ou une inscription.",
+        "example": "On a cartographié l'entonnoir de conversion pour trouver où les paniers étaient abandonnés.",
+        "term": "Entonnoir de conversion"
+      },
+      "es": {
+        "definition": "El camino paso a paso que sigue un visitante hacia una compra o un registro.",
+        "example": "Mapeamos el embudo de conversión para ver dónde se abandonaba el carrito.",
+        "term": "Embudo de conversión"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-040",
+    "deck": "digital-marketing",
+    "term": "Session",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "analytics",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A single visit to a site or app, bundling one user's actions in one sitting.",
+        "example": "Average session length dropped after the redesign."
+      },
+      "ru": {
+        "definition": "Один визит на сайт или в приложение, объединяющий действия за один заход.",
+        "example": "Средняя длина сессии упала после редизайна.",
+        "term": "Сессия"
+      },
+      "ja": {
+        "definition": "サイトやアプリへの1回の訪問。ひとまとまりの操作をまとめた単位のこと。",
+        "example": "リニューアル後、平均セッション時間が下がった。",
+        "term": "セッション"
+      },
+      "ko": {
+        "definition": "한 사용자가 한 번에 벌인 행동을 묶은, 사이트나 앱 방문 한 건.",
+        "example": "리디자인 이후 평균 세션 길이가 짧아졌다.",
+        "term": "세션"
+      },
+      "fr": {
+        "definition": "Une seule visite d'un site ou d'une appli, regroupant les actions d'un utilisateur d'un trait.",
+        "example": "La durée moyenne des sessions a chuté après la refonte.",
+        "term": "Session"
+      },
+      "es": {
+        "definition": "Una sola visita a un sitio o app, que agrupa las acciones de un usuario de una tirada.",
+        "example": "La duración media de sesión cayó tras el rediseño.",
+        "term": "Sesión"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-041",
+    "deck": "digital-marketing",
+    "term": "Event tracking",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "analytics",
+      "tracking"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Logging specific user actions like clicks or video plays for analysis.",
+        "example": "Event tracking on the signup button revealed a dead form field."
+      },
+      "ru": {
+        "definition": "Запись конкретных действий — кликов, запусков видео — для анализа.",
+        "example": "Отслеживание событий на кнопке выявило мёртвое поле формы.",
+        "term": "Отслеживание событий"
+      },
+      "ja": {
+        "definition": "クリックや動画再生など、特定の行動を分析用に記録することのこと。",
+        "example": "登録ボタンのイベントトラッキングで、反応しない入力欄が見つかった。",
+        "term": "イベントトラッキング"
+      },
+      "ko": {
+        "definition": "클릭이나 동영상 재생 같은 특정 사용자 액션을 분석용으로 기록하는 것.",
+        "example": "가입 버튼 이벤트 추적에서 죽어 있는 폼 필드가 드러났다.",
+        "term": "이벤트 추적"
+      },
+      "fr": {
+        "definition": "Journaliser des actions précises comme les clics ou les lectures vidéo pour les analyser.",
+        "example": "Le suivi d'événements sur le bouton d'inscription a révélé un champ de formulaire mort.",
+        "term": "Suivi d'événements"
+      },
+      "es": {
+        "definition": "Registrar acciones concretas del usuario, como clics o reproducciones de vídeo, para analizarlas.",
+        "example": "El seguimiento de eventos en el botón de registro reveló un campo muerto del formulario.",
+        "term": "Seguimiento de eventos"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-042",
+    "deck": "digital-marketing",
+    "term": "A/B testing",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "testing",
+      "cro",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Comparing two versions with live traffic to see which performs better.",
+        "example": "A/B testing the headline lifted signups by a clear margin."
+      },
+      "ru": {
+        "definition": "Сравнение двух версий на живом трафике, чтобы понять, какая лучше.",
+        "example": "A/B-тест заголовка заметно поднял число регистраций.",
+        "term": "A/B-тестирование"
+      },
+      "ja": {
+        "definition": "2つの案に実トラフィックを流し、どちらが良いかを比べることのこと。",
+        "example": "見出しのA/Bテストで、登録数がはっきりと伸びた。",
+        "term": "A/Bテスト"
+      },
+      "ko": {
+        "definition": "두 버전을 실제 트래픽으로 견주어 어느 쪽이 더 나은지 보는 것.",
+        "example": "헤드라인 A/B 테스트로 가입이 뚜렷하게 늘었다.",
+        "term": "A/B 테스트"
+      },
+      "fr": {
+        "definition": "Comparer deux versions sur du trafic réel pour voir laquelle est la plus performante.",
+        "example": "Tester le titre en A/B a relevé les inscriptions d'une marge nette.",
+        "term": "Test A/B"
+      },
+      "es": {
+        "definition": "Comparar dos versiones con tráfico real para ver cuál rinde mejor.",
+        "example": "Un test A/B del titular subió los registros con un margen claro.",
+        "term": "Test A/B"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-043",
+    "deck": "digital-marketing",
+    "term": "Multivariate testing",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "testing",
+      "cro"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Testing many element combinations at once to find the best-performing mix.",
+        "example": "Multivariate testing needed weeks of traffic to reach a verdict."
+      },
+      "ru": {
+        "definition": "Проверка множества сочетаний элементов сразу ради лучшей комбинации.",
+        "example": "Многовариантному тесту понадобились недели трафика для вердикта.",
+        "term": "Многовариантное тестирование"
+      },
+      "ja": {
+        "definition": "複数の要素の組み合わせを同時に試し、最も成果の高い組を探すことのこと。",
+        "example": "多変量テストは、結論に至るまで数週間分のトラフィックが必要だった。",
+        "term": "多変量テスト"
+      },
+      "ko": {
+        "definition": "여러 요소 조합을 한꺼번에 시험해 가장 잘 되는 조합을 찾는 것.",
+        "example": "다변량 테스트는 결론이 나기까지 몇 주치 트래픽이 필요했다.",
+        "term": "다변량 테스트"
+      },
+      "fr": {
+        "definition": "Tester d'un coup de nombreuses combinaisons d'éléments pour trouver le meilleur mélange.",
+        "example": "Le test multivarié a exigé des semaines de trafic avant de rendre un verdict.",
+        "term": "Test multivarié"
+      },
+      "es": {
+        "definition": "Probar muchas combinaciones de elementos a la vez para hallar la mezcla que mejor rinde.",
+        "example": "El test multivariante necesitó semanas de tráfico para dar un veredicto.",
+        "term": "Test multivariante"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-044",
+    "deck": "digital-marketing",
+    "term": "Dashboard",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "analytics",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A single screen that pulls key metrics together for a quick read.",
+        "example": "The morning dashboard flagged a sudden drop in traffic."
+      },
+      "ru": {
+        "definition": "Один экран, собирающий ключевые метрики для быстрого взгляда.",
+        "example": "Утренний дашборд подсветил резкое падение трафика.",
+        "term": "Дашборд"
+      },
+      "ja": {
+        "definition": "主要な指標を1画面に集め、ひと目で読み取れるようにしたもののこと。",
+        "example": "朝のダッシュボードが、突然のトラフィック減を知らせてきた。",
+        "term": "ダッシュボード"
+      },
+      "ko": {
+        "definition": "핵심 지표를 한 화면에 모아 한눈에 보게 해주는 것.",
+        "example": "아침 대시보드가 트래픽 급감을 짚어줬다.",
+        "term": "대시보드"
+      },
+      "fr": {
+        "definition": "Un seul écran qui rassemble les métriques clés pour une lecture rapide.",
+        "example": "Le tableau de bord du matin a signalé une chute brutale du trafic.",
+        "term": "Tableau de bord"
+      },
+      "es": {
+        "definition": "Una sola pantalla que reúne las métricas clave para leerlas de un vistazo.",
+        "example": "El panel de la mañana avisó de una caída repentina de tráfico.",
+        "term": "Panel (dashboard)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-045",
+    "deck": "digital-marketing",
+    "term": "GA4 (Google Analytics 4)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "analytics",
+      "tracking"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Google's analytics platform built around events for tracking sites and apps.",
+        "example": "The team moved its reports to GA4 before the old version shut down."
+      },
+      "ru": {
+        "definition": "Аналитическая платформа Google на основе событий для сайтов и приложений.",
+        "example": "Команда перенесла отчёты в GA4 до отключения старой версии.",
+        "term": "Google Analytics 4 (GA4)"
+      },
+      "ja": {
+        "definition": "イベントを軸に、サイトやアプリを計測するGoogleの解析基盤のこと。",
+        "example": "旧版の終了前に、チームはレポートをGA4へ移した。",
+        "term": "GA4（Googleアナリティクス4）"
+      },
+      "ko": {
+        "definition": "이벤트를 중심으로 사이트와 앱을 추적하는 구글의 분석 플랫폼.",
+        "example": "구버전이 종료되기 전에 팀은 리포트를 GA4로 옮겼다.",
+        "term": "GA4(구글 애널리틱스 4)"
+      },
+      "fr": {
+        "definition": "La plateforme d'analytique de Google, bâtie autour des événements, pour sites et applis.",
+        "example": "L'équipe a migré ses rapports vers GA4 avant l'arrêt de l'ancienne version.",
+        "term": "GA4 (Google Analytics 4)"
+      },
+      "es": {
+        "definition": "Plataforma de analítica de Google basada en eventos para medir sitios y apps.",
+        "example": "El equipo pasó sus informes a GA4 antes de que cerrara la versión antigua.",
+        "term": "GA4 (Google Analytics 4)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-046",
+    "deck": "digital-marketing",
+    "term": "Server-side tracking",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "tracking",
+      "adtech",
+      "privacy"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Sending analytics data from your own server instead of the user's browser.",
+        "example": "Server-side tracking recovered data that ad blockers were dropping."
+      },
+      "ru": {
+        "definition": "Отправка данных аналитики с вашего сервера, а не из браузера пользователя.",
+        "example": "Серверное отслеживание вернуло данные, которые срезали блокировщики.",
+        "term": "Серверное отслеживание"
+      },
+      "ja": {
+        "definition": "ユーザーのブラウザではなく、自社サーバーから解析データを送る方式のこと。",
+        "example": "サーバーサイド計測で、広告ブロッカーに落とされていたデータを取り戻した。",
+        "term": "サーバーサイド計測"
+      },
+      "ko": {
+        "definition": "사용자 브라우저가 아니라 자사 서버에서 분석 데이터를 보내는 것.",
+        "example": "서버 사이드 트래킹으로 광고 차단기가 놓치던 데이터를 되찾았다.",
+        "term": "서버 사이드 트래킹"
+      },
+      "fr": {
+        "definition": "Envoyer les données d'analytique depuis votre propre serveur plutôt que le navigateur.",
+        "example": "Le suivi côté serveur a récupéré des données que les bloqueurs de pub perdaient.",
+        "term": "Suivi côté serveur"
+      },
+      "es": {
+        "definition": "Enviar los datos de analítica desde tu propio servidor en vez del navegador del usuario.",
+        "example": "El seguimiento del lado del servidor recuperó datos que perdían los bloqueadores.",
+        "term": "Seguimiento del lado del servidor"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-047",
+    "deck": "digital-marketing",
+    "term": "Heatmap",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "analytics",
+      "cro",
+      "ux"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A color-coded overlay showing where people click, move, or scroll on a page.",
+        "example": "The heatmap showed nobody scrolled down to the pricing."
+      },
+      "ru": {
+        "definition": "Цветной слой поверх страницы, показывающий клики, движения и прокрутку.",
+        "example": "Тепловая карта показала, что до цен никто не долистывает.",
+        "term": "Тепловая карта"
+      },
+      "ja": {
+        "definition": "ページ内でクリックや移動、スクロールが集まる箇所を色分けで示す重ね表示のこと。",
+        "example": "ヒートマップを見ると、誰も価格欄までスクロールしていなかった。",
+        "term": "ヒートマップ"
+      },
+      "ko": {
+        "definition": "페이지에서 클릭·이동·스크롤이 어디서 일어나는지 색으로 덮어 보여주는 것.",
+        "example": "히트맵을 보니 아무도 가격까지 스크롤해 내려가지 않았다.",
+        "term": "히트맵"
+      },
+      "fr": {
+        "definition": "Un calque coloré montrant où les gens cliquent, se déplacent ou font défiler une page.",
+        "example": "La heatmap a montré que personne ne descendait jusqu'aux tarifs.",
+        "term": "Carte de chaleur (heatmap)"
+      },
+      "es": {
+        "definition": "Capa de colores que muestra dónde la gente hace clic, mueve el ratón o se desplaza en una página.",
+        "example": "El mapa de calor mostró que nadie bajaba hasta los precios.",
+        "term": "Mapa de calor"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-048",
+    "deck": "digital-marketing",
+    "term": "Statistical significance",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "testing",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Confidence that a test result reflects a real effect, not random chance.",
+        "example": "The variant led early, but not yet at statistical significance."
+      },
+      "ru": {
+        "definition": "Уверенность, что результат теста отражает реальный эффект, а не случайность.",
+        "example": "Вариант вырвался вперёд, но пока без статистической значимости.",
+        "term": "Статистическая значимость"
+      },
+      "ja": {
+        "definition": "テスト結果が偶然ではなく本物の効果だと言える確からしさのこと。",
+        "example": "その案は早くから優勢だったが、まだ統計的有意性には届いていない。",
+        "term": "統計的有意性"
+      },
+      "ko": {
+        "definition": "테스트 결과가 우연이 아니라 실제 효과를 반영한다는 확신의 정도.",
+        "example": "변형안이 앞서긴 했지만 아직 통계적 유의성에는 못 미쳤다.",
+        "term": "통계적 유의성"
+      },
+      "fr": {
+        "definition": "La confiance qu'un résultat de test reflète un effet réel, et non le hasard.",
+        "example": "La variante menait tôt, mais pas encore avec une signification statistique.",
+        "term": "Signification statistique"
+      },
+      "es": {
+        "definition": "Confianza en que el resultado de un test refleja un efecto real y no el azar.",
+        "example": "La variante iba por delante pronto, pero aún sin significancia estadística.",
+        "term": "Significancia estadística"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-049",
+    "deck": "digital-marketing",
+    "term": "SEO (Search Engine Optimization)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "seo",
+      "organic"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Improving a site so it ranks higher in unpaid search results.",
+        "example": "Months of SEO finally moved the guide onto page one."
+      },
+      "ru": {
+        "definition": "Улучшение сайта, чтобы он выше стоял в бесплатной поисковой выдаче.",
+        "example": "Месяцы SEO наконец вывели гайд на первую страницу.",
+        "term": "SEO (поисковая оптимизация)"
+      },
+      "ja": {
+        "definition": "自然検索の順位が上がるようにサイトを改善することのこと。",
+        "example": "数か月のSEOで、そのガイドがようやく検索1ページ目に載った。",
+        "term": "SEO（検索エンジン最適化）"
+      },
+      "ko": {
+        "definition": "무료 검색 결과에서 더 높이 노출되도록 사이트를 개선하는 것.",
+        "example": "몇 달간의 SEO 끝에 그 가이드가 마침내 첫 페이지로 올라갔다.",
+        "term": "SEO(검색 엔진 최적화)"
+      },
+      "fr": {
+        "definition": "Améliorer un site pour qu'il se classe plus haut dans les résultats de recherche gratuits.",
+        "example": "Des mois de SEO ont enfin hissé le guide en première page.",
+        "term": "SEO (référencement naturel)"
+      },
+      "es": {
+        "definition": "Mejorar un sitio para que suba en los resultados de búsqueda no pagados.",
+        "example": "Meses de SEO llevaron por fin la guía a la primera página.",
+        "term": "SEO (optimización para buscadores)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-050",
+    "deck": "digital-marketing",
+    "term": "SERP (Search Engine Results Page)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "organic"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The page a search engine returns after someone runs a query.",
+        "example": "Ads and map results pushed the top link far down the SERP."
+      },
+      "ru": {
+        "definition": "Страница, которую поисковик показывает в ответ на запрос.",
+        "example": "Реклама и карты оттеснили верхнюю ссылку далеко вниз по SERP.",
+        "term": "SERP (страница выдачи)"
+      },
+      "ja": {
+        "definition": "検索エンジンがクエリに対して返す、結果一覧のページのこと。",
+        "example": "広告と地図の結果に押され、本命のリンクがSERPのずっと下に沈んだ。",
+        "term": "SERP（検索結果ページ）"
+      },
+      "ko": {
+        "definition": "검색 엔진이 질의에 답해 돌려주는 결과 페이지.",
+        "example": "광고와 지도 결과에 밀려 상위 링크가 SERP 한참 아래로 내려갔다.",
+        "term": "SERP(검색 결과 페이지)"
+      },
+      "fr": {
+        "definition": "La page qu'un moteur de recherche renvoie après qu'une personne a lancé une requête.",
+        "example": "Les annonces et les cartes ont repoussé le lien du haut loin dans la SERP.",
+        "term": "SERP (page de résultats de recherche)"
+      },
+      "es": {
+        "definition": "La página que devuelve un buscador después de que alguien lanza una consulta.",
+        "example": "Los anuncios y el mapa empujaron el primer enlace muy abajo en la SERP.",
+        "term": "SERP (página de resultados del buscador)"
+      }
+    }
+  }
+]

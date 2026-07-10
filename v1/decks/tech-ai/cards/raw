@@ -1,0 +1,1117 @@
+[
+  {
+    "id": "tech-ai-001",
+    "deck": "tech-ai",
+    "term": "Model",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fundamentals",
+      "ml"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A mathematical function whose parameters are learned from data, letting it turn new inputs into predictions.",
+        "example": "We trained a model to sort incoming mail into spam and not spam."
+      },
+      "ru": {
+        "definition": "Математическая функция, чьи параметры настроены на данных: она превращает новые входы в предсказания.",
+        "example": "Мы обучили модель раскладывать входящую почту на спам и не спам.",
+        "term": "Модель"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-002",
+    "deck": "tech-ai",
+    "term": "Dataset",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "data",
+      "ml"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A structured collection of examples gathered to train, validate, or test a model.",
+        "example": "The dataset held 50,000 labeled photos of cats and dogs."
+      },
+      "ru": {
+        "definition": "Собранный набор примеров, на которых модель обучают, проверяют или тестируют.",
+        "example": "В датасете лежало 50 000 размеченных фото кошек и собак.",
+        "term": "Датасет"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-003",
+    "deck": "tech-ai",
+    "term": "Label",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "data",
+      "ml",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The correct answer attached to an example, which a model learns to reproduce.",
+        "example": "A human tagged each review with the label 'positive' or 'negative'."
+      },
+      "ru": {
+        "definition": "Правильный ответ, прикреплённый к примеру, — его модель учится воспроизводить.",
+        "example": "Разметчик проставил каждому отзыву метку «положительный» или «отрицательный».",
+        "term": "Метка"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-004",
+    "deck": "tech-ai",
+    "term": "Feature",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "data",
+      "ml"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A single measurable property of an example that a model takes as input.",
+        "example": "For house prices, area and number of rooms are two useful features."
+      },
+      "ru": {
+        "definition": "Отдельное измеримое свойство примера, которое модель берёт на вход.",
+        "example": "Для цены дома площадь и число комнат — два полезных признака.",
+        "term": "Признак"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-005",
+    "deck": "tech-ai",
+    "term": "Vector",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "data",
+      "ml"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An ordered list of numbers that represents an object so a computer can compare it with others.",
+        "example": "Each word became a vector, and close vectors meant similar meaning."
+      },
+      "ru": {
+        "definition": "Упорядоченный список чисел, который описывает объект, чтобы машина могла сравнивать его с другими.",
+        "example": "Каждое слово стало вектором, и близкие векторы означали близкий смысл.",
+        "term": "Вектор"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-006",
+    "deck": "tech-ai",
+    "term": "Neural network",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "neural-nets",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A model built from layers of simple connected units, loosely inspired by brain cells.",
+        "example": "A neural network learned to recognize handwritten digits from photos."
+      },
+      "ru": {
+        "definition": "Модель из слоёв простых связанных узлов, отдалённо навеянная работой клеток мозга.",
+        "example": "Нейросеть научилась узнавать рукописные цифры по фотографиям.",
+        "term": "Нейросеть"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-007",
+    "deck": "tech-ai",
+    "term": "Deep learning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "neural-nets",
+      "ml",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Machine learning that stacks many layers so a network builds up features on its own.",
+        "example": "Deep learning let the app caption photos without hand-written rules."
+      },
+      "ru": {
+        "definition": "Машинное обучение со множеством слоёв: сеть сама выстраивает признаки, слой за слоем.",
+        "example": "Глубокое обучение позволило приложению подписывать фото без ручных правил.",
+        "term": "Глубокое обучение"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-008",
+    "deck": "tech-ai",
+    "term": "Machine learning",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "ml",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Building systems that improve at a task by finding patterns in data instead of being explicitly coded.",
+        "example": "Instead of coding every rule, they used machine learning on past orders."
+      },
+      "ru": {
+        "definition": "Создание систем, которые решают задачу лучше, находя закономерности в данных, а не по прописанным правилам.",
+        "example": "Вместо ручных правил взяли машинное обучение на истории заказов.",
+        "term": "Машинное обучение"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-009",
+    "deck": "tech-ai",
+    "term": "Algorithm",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fundamentals",
+      "software"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A precise step-by-step procedure that solves a task or computes a result.",
+        "example": "A sorting algorithm puts a list of names into alphabetical order."
+      },
+      "ru": {
+        "definition": "Точная пошаговая процедура, которая решает задачу или вычисляет результат.",
+        "example": "Алгоритм сортировки расставляет список имён по алфавиту.",
+        "term": "Алгоритм"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-010",
+    "deck": "tech-ai",
+    "term": "Training",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "training",
+      "ml"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The process of adjusting a model's parameters on data until its predictions improve.",
+        "example": "Training ran overnight on thousands of examples before accuracy leveled off."
+      },
+      "ru": {
+        "definition": "Процесс подстройки параметров модели на данных, пока её предсказания не улучшатся.",
+        "example": "Обучение шло всю ночь на тысячах примеров, пока точность не вышла на плато.",
+        "term": "Обучение"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-011",
+    "deck": "tech-ai",
+    "term": "Inference",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "ml",
+      "infra"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Running a trained model on new input to get a prediction, without changing its weights.",
+        "example": "Every chatbot reply is one inference pass over your prompt."
+      },
+      "ru": {
+        "definition": "Запуск обученной модели на новых данных ради предсказания — без изменения её весов.",
+        "example": "Каждый ответ чат-бота — это один прогон инференса по вашему запросу.",
+        "term": "Инференс"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-012",
+    "deck": "tech-ai",
+    "term": "Parameter",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ml",
+      "neural-nets",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A value inside a model that is adjusted during training and shapes its output.",
+        "example": "The large model had 70 billion parameters tuned during training."
+      },
+      "ru": {
+        "definition": "Значение внутри модели, которое настраивается при обучении и определяет её выход.",
+        "example": "У крупной модели было 70 миллиардов параметров, настроенных при обучении.",
+        "term": "Параметр"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-013",
+    "deck": "tech-ai",
+    "term": "Weight",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "neural-nets",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A parameter on a connection that sets how strongly one unit's signal affects the next.",
+        "example": "During training the weights shifted until the network stopped making errors."
+      },
+      "ru": {
+        "definition": "Параметр на связи, задающий, насколько сильно сигнал одного узла влияет на следующий.",
+        "example": "При обучении веса менялись, пока сеть не перестала ошибаться.",
+        "term": "Вес"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-014",
+    "deck": "tech-ai",
+    "term": "Neuron",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "neural-nets",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A single computing unit in a network that combines its inputs and passes on a signal.",
+        "example": "Each neuron adds up its inputs and fires only when the total is high enough."
+      },
+      "ru": {
+        "definition": "Отдельный вычислительный узел сети: он собирает входы и передаёт дальше сигнал.",
+        "example": "Каждый нейрон складывает входы и срабатывает, только когда сумма велика.",
+        "term": "Нейрон"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-015",
+    "deck": "tech-ai",
+    "term": "Supervised learning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ml",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Training on examples that already carry correct answers, so the model learns to match them.",
+        "example": "Supervised learning on labeled emails taught the filter to catch spam."
+      },
+      "ru": {
+        "definition": "Обучение на примерах с готовыми правильными ответами: модель учится их угадывать.",
+        "example": "Обучение с учителем на размеченных письмах научило фильтр ловить спам.",
+        "term": "Обучение с учителем"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-016",
+    "deck": "tech-ai",
+    "term": "Unsupervised learning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ml",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Finding structure in data that has no labels, such as natural groups or patterns.",
+        "example": "Unsupervised learning split customers into clusters no one had defined."
+      },
+      "ru": {
+        "definition": "Поиск структуры в данных без меток — например, естественных групп или закономерностей.",
+        "example": "Обучение без учителя разбило клиентов на группы, которых никто не задавал.",
+        "term": "Обучение без учителя"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-017",
+    "deck": "tech-ai",
+    "term": "Reinforcement learning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ml",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Training an agent by rewarding good actions and penalizing bad ones as it acts.",
+        "example": "Reinforcement learning taught the bot to win the game by trial and reward."
+      },
+      "ru": {
+        "definition": "Обучение агента через награду за удачные действия и штраф за неудачные по ходу дела.",
+        "example": "Обучение с подкреплением научило бота выигрывать, пробуя и получая награду.",
+        "term": "Обучение с подкреплением"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-018",
+    "deck": "tech-ai",
+    "term": "Overfitting",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training",
+      "metrics",
+      "ml"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a model memorizes its training data and then fails on anything new.",
+        "example": "The model aced the training set, but overfitting sank it on fresh data."
+      },
+      "ru": {
+        "definition": "Когда модель заучивает обучающие данные и потом проваливается на всём новом.",
+        "example": "Модель идеально прошла обучающий набор, но переобучение подвело её на свежих данных.",
+        "term": "Переобучение"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-019",
+    "deck": "tech-ai",
+    "term": "Epoch",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "training",
+      "ml"
+    ],
+    "locales": {
+      "en": {
+        "definition": "One full pass of the training algorithm through the entire dataset.",
+        "example": "After ten epochs the loss stopped dropping, so they halted training."
+      },
+      "ru": {
+        "definition": "Один полный проход обучающего алгоритма по всему набору данных.",
+        "example": "После десяти эпох ошибка перестала падать, и обучение остановили.",
+        "term": "Эпоха"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-020",
+    "deck": "tech-ai",
+    "term": "Embedding",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "nlp",
+      "data"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A vector that captures the meaning of a word or item so similar ones sit close together.",
+        "example": "In the embedding, 'king' landed near 'queen' and far from 'banana'."
+      },
+      "ru": {
+        "definition": "Вектор, схватывающий смысл слова или объекта так, что похожие оказываются рядом.",
+        "example": "В эмбеддинге «король» встал рядом с «королевой» и далеко от «банана».",
+        "term": "Эмбеддинг"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-021",
+    "deck": "tech-ai",
+    "term": "Classification",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ml",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A task where a model sorts each input into one of a fixed set of categories.",
+        "example": "The classification model tagged each ticket as billing, bug, or other."
+      },
+      "ru": {
+        "definition": "Задача, где модель относит каждый вход к одной из заранее заданных категорий.",
+        "example": "Модель классификации помечала каждый тикет как оплата, баг или прочее.",
+        "term": "Классификация"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-022",
+    "deck": "tech-ai",
+    "term": "Clustering",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ml",
+      "data"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Grouping items by similarity when no categories are given in advance.",
+        "example": "Clustering revealed three natural shopper types in the sales data."
+      },
+      "ru": {
+        "definition": "Группировка объектов по сходству, когда категории заранее не заданы.",
+        "example": "Кластеризация выявила в продажах три естественных типа покупателей.",
+        "term": "Кластеризация"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-023",
+    "deck": "tech-ai",
+    "term": "Transfer learning",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ml",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Reusing a model trained on one task as the starting point for a related one.",
+        "example": "Transfer learning let them adapt a vision model to X-rays with few images."
+      },
+      "ru": {
+        "definition": "Повторное использование модели с одной задачи как основы для близкой другой.",
+        "example": "Перенос обучения помог приспособить модель зрения под рентген на малых данных.",
+        "term": "Перенос обучения"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-024",
+    "deck": "tech-ai",
+    "term": "Gradient descent",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "neural-nets"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An optimization method that nudges parameters step by step to lower the error.",
+        "example": "Gradient descent slowly walked the weights toward the lowest loss."
+      },
+      "ru": {
+        "definition": "Метод оптимизации, который шаг за шагом сдвигает параметры, чтобы снизить ошибку.",
+        "example": "Градиентный спуск медленно вёл веса к наименьшей ошибке.",
+        "term": "Градиентный спуск"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-025",
+    "deck": "tech-ai",
+    "term": "Backpropagation",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "neural-nets"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The algorithm that sends a network's error backward to update each weight.",
+        "example": "Backpropagation worked out how much each layer contributed to the mistake."
+      },
+      "ru": {
+        "definition": "Алгоритм, который проводит ошибку сети назад, чтобы обновить каждый вес.",
+        "example": "Обратное распространение подсчитало вклад каждого слоя в промах.",
+        "term": "Обратное распространение"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-026",
+    "deck": "tech-ai",
+    "term": "Hyperparameter",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "ml"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A setting chosen before training that guides how a model learns, not what it learns.",
+        "example": "Learning rate is the hyperparameter they tuned most before each run."
+      },
+      "ru": {
+        "definition": "Настройка, заданная до обучения: она управляет тем, как модель учится, а не чему.",
+        "example": "Скорость обучения — гиперпараметр, который перед каждым запуском крутили чаще всего.",
+        "term": "Гиперпараметр"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-027",
+    "deck": "tech-ai",
+    "term": "Loss function",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A formula that scores how far a prediction is from the correct answer.",
+        "example": "The loss function punished big errors far more than small ones."
+      },
+      "ru": {
+        "definition": "Формула, оценивающая, насколько предсказание модели далеко от правильного ответа.",
+        "example": "Функция потерь наказывала крупные ошибки куда сильнее мелких.",
+        "term": "Функция потерь"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-028",
+    "deck": "tech-ai",
+    "term": "Underfitting",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "metrics",
+      "ml"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a model is too simple to catch the pattern, so it does poorly even on training data.",
+        "example": "A straight line underfit the curved data and missed the trend."
+      },
+      "ru": {
+        "definition": "Когда модель слишком проста для закономерности и слаба даже на обучающих данных.",
+        "example": "Прямая линия недообучилась на изогнутых данных и упустила тренд.",
+        "term": "Недообучение"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-029",
+    "deck": "tech-ai",
+    "term": "Latent space",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "neural-nets",
+      "genai",
+      "data"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The compressed internal space where a model arranges data by hidden features.",
+        "example": "Walking through the latent space morphed one face smoothly into another."
+      },
+      "ru": {
+        "definition": "Сжатое внутреннее пространство, где модель раскладывает данные по скрытым признакам.",
+        "example": "Движение по латентному пространству плавно превращало одно лицо в другое.",
+        "term": "Латентное пространство"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-030",
+    "deck": "tech-ai",
+    "term": "Regularization",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "training",
+      "ml"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Techniques that keep a model simpler on purpose so it generalizes instead of memorizing.",
+        "example": "Adding regularization stopped the network from clinging to noise."
+      },
+      "ru": {
+        "definition": "Приёмы, которые намеренно упрощают модель, чтобы она обобщала, а не заучивала.",
+        "example": "Регуляризация не дала сети цепляться за шум в данных.",
+        "term": "Регуляризация"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-031",
+    "deck": "tech-ai",
+    "term": "Large language model (LLM)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "llm",
+      "genai",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A model trained on huge amounts of text to predict and generate language.",
+        "example": "She asked the large language model to draft and then shorten the email."
+      },
+      "ru": {
+        "definition": "Модель, обученная на огромных объёмах текста, чтобы предсказывать и порождать язык.",
+        "example": "Она попросила большую языковую модель набросать письмо, а потом сократить.",
+        "term": "Большая языковая модель (LLM)"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-032",
+    "deck": "tech-ai",
+    "term": "Generative AI",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genai",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "AI that produces new content — text, images, audio, or code — rather than just labeling it.",
+        "example": "Generative AI turned her one-line brief into a full poster draft."
+      },
+      "ru": {
+        "definition": "ИИ, который создаёт новое — текст, картинки, звук или код, — а не только размечает.",
+        "example": "Генеративный ИИ превратил её однострочный бриф в готовый черновик плаката.",
+        "term": "Генеративный ИИ"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-033",
+    "deck": "tech-ai",
+    "term": "Prompt",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "prompting",
+      "llm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The text instruction or question you give a model to steer its response.",
+        "example": "A sharper prompt — 'reply in two sentences' — fixed the rambling answers."
+      },
+      "ru": {
+        "definition": "Текстовая инструкция или вопрос, которым вы направляете ответ модели.",
+        "example": "Более точный промпт — «ответь в двух предложениях» — убрал многословие.",
+        "term": "Промпт"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-034",
+    "deck": "tech-ai",
+    "term": "Token",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "llm",
+      "nlp",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The small chunk of text — often a word piece — that a language model reads and writes.",
+        "example": "The reply was capped at 500 tokens, so it stayed short."
+      },
+      "ru": {
+        "definition": "Небольшой кусок текста — часто часть слова, — который модель читает и порождает.",
+        "example": "Ответ ограничили 500 токенами, поэтому он вышел коротким.",
+        "term": "Токен"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-035",
+    "deck": "tech-ai",
+    "term": "Hallucination",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "llm",
+      "alignment",
+      "genai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a model states something fluent and confident that is simply not true.",
+        "example": "The chatbot's hallucination invented a court case that never existed."
+      },
+      "ru": {
+        "definition": "Когда модель уверенно и складно выдаёт то, чего на самом деле нет.",
+        "example": "Галлюцинация чат-бота выдумала судебное дело, которого не было.",
+        "term": "Галлюцинация"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-036",
+    "deck": "tech-ai",
+    "term": "Multimodal",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genai",
+      "llm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Able to handle more than one kind of input or output, like text plus images.",
+        "example": "The multimodal app read a photo of the fridge and suggested a recipe."
+      },
+      "ru": {
+        "definition": "Способность работать с разными видами данных сразу — например, текстом и картинками.",
+        "example": "Мультимодальное приложение прочитало фото холодильника и предложило рецепт.",
+        "term": "Мультимодальность"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-037",
+    "deck": "tech-ai",
+    "term": "Chatbot",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genai",
+      "nlp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A program that holds a conversation in natural language through text or voice.",
+        "example": "The support chatbot handled refunds before a human ever stepped in."
+      },
+      "ru": {
+        "definition": "Программа, которая ведёт разговор на естественном языке — текстом или голосом.",
+        "example": "Чат-бот поддержки оформлял возвраты ещё до того, как подключался человек.",
+        "term": "Чат-бот"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-038",
+    "deck": "tech-ai",
+    "term": "Prompt engineering",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "prompting",
+      "llm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The craft of wording instructions so a model returns the result you want.",
+        "example": "A day of prompt engineering cut the model's off-topic replies in half."
+      },
+      "ru": {
+        "definition": "Искусство так формулировать инструкции, чтобы модель выдавала нужный результат.",
+        "example": "День промпт-инжиниринга вдвое сократил ответы модели не по теме.",
+        "term": "Промпт-инжиниринг"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-039",
+    "deck": "tech-ai",
+    "term": "Deepfake",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genai",
+      "security",
+      "culture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A synthetic photo, video, or voice made by AI to convincingly impersonate a real person.",
+        "example": "The deepfake video put words in the mayor's mouth that he never said."
+      },
+      "ru": {
+        "definition": "Синтетическое фото, видео или голос от ИИ, убедительно выдающие себя за реального человека.",
+        "example": "Дипфейк-видео вложило в уста мэра слова, которых он не говорил.",
+        "term": "Дипфейк"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-040",
+    "deck": "tech-ai",
+    "term": "AI slop",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "genai",
+      "culture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Low-quality, mass-produced AI content that clutters feeds and search results.",
+        "example": "Half the recipe blogs were AI slop — padded, vague, and slightly wrong."
+      },
+      "ru": {
+        "definition": "Дешёвый, штампованный ИИ-контент, который засоряет ленты и выдачу поиска.",
+        "example": "Половина кулинарных блогов оказалась ИИ-шлаком — водянистым и слегка неверным.",
+        "term": "ИИ-шлак"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-041",
+    "deck": "tech-ai",
+    "term": "System prompt",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "prompting",
+      "llm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hidden instruction set at the start that fixes a model's role and rules for the chat.",
+        "example": "The system prompt told the assistant to stay polite and never give legal advice."
+      },
+      "ru": {
+        "definition": "Скрытая инструкция в начале диалога, задающая модели роль и правила на весь разговор.",
+        "example": "Системный промпт велел ассистенту быть вежливым и не давать юридических советов.",
+        "term": "Системный промпт"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-042",
+    "deck": "tech-ai",
+    "term": "Context window",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "prompting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The maximum amount of text a model can keep in view at once, prompt plus reply.",
+        "example": "The whole contract overflowed the context window, so parts were cut."
+      },
+      "ru": {
+        "definition": "Максимум текста, который модель держит в поле зрения сразу, — запрос и ответ вместе.",
+        "example": "Весь договор не влез в контекстное окно, и часть пришлось отрезать.",
+        "term": "Контекстное окно"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-043",
+    "deck": "tech-ai",
+    "term": "Tokenization",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "nlp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Splitting text into the small units a model reads before it processes them.",
+        "example": "Tokenization broke 'unhappiness' into 'un', 'happi', and 'ness'."
+      },
+      "ru": {
+        "definition": "Разбиение текста на мелкие единицы, которые модель читает перед обработкой.",
+        "example": "Токенизация разбила «unhappiness» на «un», «happi» и «ness».",
+        "term": "Токенизация"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-044",
+    "deck": "tech-ai",
+    "term": "Temperature",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "prompting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A setting that controls how random a model's output is, from safe to inventive.",
+        "example": "Raising the temperature made the poem wilder but less coherent."
+      },
+      "ru": {
+        "definition": "Настройка, задающая, насколько случаен ответ модели — от осторожного до изобретательного.",
+        "example": "Повышенная температура сделала стих смелее, но бессвязнее.",
+        "term": "Температура"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-045",
+    "deck": "tech-ai",
+    "term": "RAG (retrieval-augmented generation)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A setup where a model looks up relevant documents and answers using what it found.",
+        "example": "With RAG, the bot quoted the company handbook instead of guessing."
+      },
+      "ru": {
+        "definition": "Схема, где модель ищет подходящие документы и отвечает, опираясь на найденное.",
+        "example": "С RAG бот цитировал корпоративный справочник, а не сочинял ответ.",
+        "term": "RAG"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-046",
+    "deck": "tech-ai",
+    "term": "Chain-of-thought",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "prompting",
+      "agents"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Prompting a model to work through steps out loud before giving its final answer.",
+        "example": "Chain-of-thought made the model show its math, and the errors dropped."
+      },
+      "ru": {
+        "definition": "Приём, когда модель вслух проходит шаги, прежде чем выдать итоговый ответ.",
+        "example": "Цепочка рассуждений заставила модель показывать вычисления, и ошибок стало меньше.",
+        "term": "Цепочка рассуждений"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-047",
+    "deck": "tech-ai",
+    "term": "Zero-shot",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "prompting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Asking a model to do a task with no worked examples, just the instruction.",
+        "example": "Zero-shot, the model translated the slang without ever seeing a sample."
+      },
+      "ru": {
+        "definition": "Просьба выполнить задачу без единого разобранного примера — только инструкция.",
+        "example": "В режиме zero-shot модель перевела сленг, не увидев ни одного образца.",
+        "term": "Zero-shot"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-048",
+    "deck": "tech-ai",
+    "term": "Few-shot",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "prompting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Giving a model a handful of examples in the prompt so it copies the pattern.",
+        "example": "Two few-shot examples were enough for the model to match the format."
+      },
+      "ru": {
+        "definition": "Несколько примеров прямо в промпте, чтобы модель повторила образец.",
+        "example": "Пары few-shot-примеров хватило, чтобы модель выдержала нужный формат.",
+        "term": "Few-shot"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-049",
+    "deck": "tech-ai",
+    "term": "Fine-tuning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "training"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Further training a ready model on a narrow dataset to specialize it for one job.",
+        "example": "Fine-tuning on legal contracts taught the model the firm's house style."
+      },
+      "ru": {
+        "definition": "Дообучение готовой модели на узком наборе данных, чтобы заточить под одну задачу.",
+        "example": "Файн-тюнинг на юридических договорах привил модели фирменный стиль конторы.",
+        "term": "Файн-тюнинг"
+      }
+    }
+  },
+  {
+    "id": "tech-ai-050",
+    "deck": "tech-ai",
+    "term": "Foundation model",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "llm",
+      "genai",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A large general model trained broadly, then adapted to many downstream tasks.",
+        "example": "One foundation model backed the search, the chat, and the summarizer."
+      },
+      "ru": {
+        "definition": "Крупная универсальная модель, обученная широко и затем приспособленная под многие задачи.",
+        "example": "Одна фундаментальная модель питала и поиск, и чат, и пересказ.",
+        "term": "Фундаментальная модель"
+      }
+    }
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "robots-001",
+    "deck": "robots",
+    "term": "Robot",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fundamentals",
+      "types"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A programmable machine that senses its surroundings and acts on them to carry out physical tasks automatically.",
+        "example": "A warehouse robot rolls down the aisle, scans a shelf, and picks the ordered box."
+      },
+      "ru": {
+        "definition": "Программируемая машина, которая воспринимает обстановку и воздействует на неё, выполняя физические задачи автоматически.",
+        "example": "Складской робот едет по проходу, сканирует стеллаж и снимает нужную коробку.",
+        "term": "Робот"
+      }
+    }
+  },
+  {
+    "id": "robots-002",
+    "deck": "robots",
+    "term": "Automation",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fundamentals",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Running a process with machines and control logic instead of manual effort, so it repeats without a person at each step.",
+        "example": "Automation moved bottle-capping to a machine; the line now runs a full shift untouched."
+      },
+      "ru": {
+        "definition": "Выполнение процесса машинами и логикой управления вместо ручного труда — он повторяется без человека на каждом шаге.",
+        "example": "Автоматизация передала укупорку бутылок машине: линия работает всю смену без вмешательства.",
+        "term": "Автоматизация"
+      }
+    }
+  },
+  {
+    "id": "robots-003",
+    "deck": "robots",
+    "term": "Robotics",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The field that designs, builds, and programs robots, blending mechanical, electronic, and software engineering.",
+        "example": "She switched from car design to robotics to build machines that move on their own."
+      },
+      "ru": {
+        "definition": "Область, которая проектирует, собирает и программирует роботов, соединяя механику, электронику и программирование.",
+        "example": "Она перешла из автодизайна в робототехнику, чтобы создавать самодвижущиеся машины.",
+        "term": "Робототехника"
+      }
+    }
+  },
+  {
+    "id": "robots-004",
+    "deck": "robots",
+    "term": "Mechatronics",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "fundamentals",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Engineering that combines mechanics, electronics, and control software to build smart moving systems.",
+        "example": "A camera lens with autofocus is a small mechatronics product: motor, sensor, and code together."
+      },
+      "ru": {
+        "definition": "Инженерия на стыке механики, электроники и управляющего ПО для создания «умных» движущихся систем.",
+        "example": "Объектив с автофокусом — маленький мехатронный продукт: мотор, датчик и код вместе.",
+        "term": "Мехатроника"
+      }
+    }
+  },
+  {
+    "id": "robots-005",
+    "deck": "robots",
+    "term": "Bot",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "fundamentals",
+      "types"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Everyday short name for a robot or an automated software agent that acts on its own.",
+        "example": "A cleaning bot bumped around the living room until the floor was done."
+      },
+      "ru": {
+        "definition": "Обиходное сокращение для робота или программного агента, который действует сам.",
+        "example": "Бот-пылесос тыкался по гостиной, пока не убрал весь пол.",
+        "term": "Бот"
+      }
+    }
+  },
+  {
+    "id": "robots-006",
+    "deck": "robots",
+    "term": "Android",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "types",
+      "humanoid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot built to look and move like a human, with a face, torso, and limbs.",
+        "example": "In the film, the android passed as human until people noticed it never blinked."
+      },
+      "ru": {
+        "definition": "Робот, созданный внешне и в движениях похожим на человека — с лицом, корпусом и конечностями.",
+        "example": "В фильме андроида принимали за человека, пока не заметили, что он не моргает.",
+        "term": "Андроид"
+      }
+    }
+  },
+  {
+    "id": "robots-007",
+    "deck": "robots",
+    "term": "Humanoid robot",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "types",
+      "humanoid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot with a human-like body plan — two legs, two arms, a head — so it fits spaces built for people.",
+        "example": "A humanoid robot carried totes across a warehouse floor made for human workers."
+      },
+      "ru": {
+        "definition": "Робот с телом по образцу человека — две ноги, две руки, голова, — чтобы работать в среде, созданной для людей.",
+        "example": "Человекоподобный робот носил ящики по складу, рассчитанному на людей.",
+        "term": "Человекоподобный робот"
+      }
+    }
+  },
+  {
+    "id": "robots-008",
+    "deck": "robots",
+    "term": "Cobot",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "types",
+      "industrial",
+      "safety"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot designed to work safely beside people without a cage, slowing or stopping on contact.",
+        "example": "The cobot handed screws to the worker and paused whenever her hand came close."
+      },
+      "ru": {
+        "definition": "Робот для безопасной работы рядом с людьми без ограждения: замедляется или останавливается при контакте.",
+        "example": "Кобот подавал работнице винты и замирал, когда её рука оказывалась рядом.",
+        "term": "Кобот"
+      }
+    }
+  },
+  {
+    "id": "robots-009",
+    "deck": "robots",
+    "term": "Industrial robot",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "types",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A heavy, fixed robotic arm used in factories for tasks like welding, painting, or assembly.",
+        "example": "Six industrial robots weld each car body in under two minutes."
+      },
+      "ru": {
+        "definition": "Тяжёлый стационарный робот-манипулятор на заводах — для сварки, окраски или сборки.",
+        "example": "Шесть промышленных роботов сваривают кузов машины меньше чем за две минуты.",
+        "term": "Промышленный робот"
+      }
+    }
+  },
+  {
+    "id": "robots-010",
+    "deck": "robots",
+    "term": "Autonomous mobile robot (AMR)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "types",
+      "mobility",
+      "autonomy"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A wheeled robot that navigates a space on its own, planning routes and avoiding obstacles without fixed tracks.",
+        "example": "The AMR rerouted around a spilled pallet instead of waiting for someone to move it."
+      },
+      "ru": {
+        "definition": "Колёсный робот, который сам ориентируется в пространстве: строит маршрут и обходит препятствия без рельсов.",
+        "example": "AMR объехал рассыпанную паллету, а не стал ждать, пока её уберут.",
+        "term": "Автономный мобильный робот (AMR)"
+      }
+    }
+  },
+  {
+    "id": "robots-011",
+    "deck": "robots",
+    "term": "Automated guided vehicle (AGV)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "types",
+      "mobility",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A factory transport robot that follows a fixed guide — a wire, magnet, or floor marking — along set routes.",
+        "example": "AGVs shuttle parts from the warehouse to the line along a magnetic strip in the floor."
+      },
+      "ru": {
+        "definition": "Заводской транспортный робот, который движется по заданной направляющей — проводу, магниту или разметке.",
+        "example": "AGV возят детали со склада на линию вдоль магнитной полосы в полу.",
+        "term": "Автоматически управляемая тележка (AGV)"
+      }
+    }
+  },
+  {
+    "id": "robots-012",
+    "deck": "robots",
+    "term": "Drone (UAV)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "types",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An uncrewed aircraft flown by remote control or onboard autonomy.",
+        "example": "The drone filmed the stadium from above during the opening ceremony."
+      },
+      "ru": {
+        "definition": "Беспилотный летательный аппарат, управляемый дистанционно или бортовой автоматикой.",
+        "example": "Дрон снимал стадион сверху во время церемонии открытия.",
+        "term": "Дрон (БПЛА)"
+      }
+    }
+  },
+  {
+    "id": "robots-013",
+    "deck": "robots",
+    "term": "Exoskeleton",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "types",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A wearable powered frame that supports the body and adds strength to the wearer's movements.",
+        "example": "The exoskeleton let the worker lift heavy boxes all shift without back strain."
+      },
+      "ru": {
+        "definition": "Носимая силовая рама, которая поддерживает тело и усиливает движения человека.",
+        "example": "Экзоскелет позволил рабочему поднимать тяжёлые коробки всю смену без нагрузки на спину.",
+        "term": "Экзоскелет"
+      }
+    }
+  },
+  {
+    "id": "robots-014",
+    "deck": "robots",
+    "term": "Quadruped robot",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "types",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A four-legged robot that walks and balances on uneven ground where wheels struggle.",
+        "example": "The quadruped robot trotted up rubble stairs to inspect the damaged building."
+      },
+      "ru": {
+        "definition": "Робот на четырёх ногах, который ходит и держит равновесие на неровной поверхности, где буксуют колёса.",
+        "example": "Четвероногий робот поднялся по завалу, чтобы осмотреть повреждённое здание.",
+        "term": "Четвероногий робот"
+      }
+    }
+  },
+  {
+    "id": "robots-015",
+    "deck": "robots",
+    "term": "Swarm robotics",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "types",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An approach where many simple robots coordinate through local rules to act as one group.",
+        "example": "In swarm robotics, hundreds of small drones form a shifting shape without a central leader."
+      },
+      "ru": {
+        "definition": "Подход, где множество простых роботов координируются по локальным правилам и действуют как единая группа.",
+        "example": "В роевой робототехнике сотни мелких дронов складываются в фигуру без центрального управления.",
+        "term": "Роевая робототехника"
+      }
+    }
+  },
+  {
+    "id": "robots-016",
+    "deck": "robots",
+    "term": "Telepresence robot",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "types",
+      "hri"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A mobile screen-on-wheels that lets a remote person see, speak, and move around a distant room.",
+        "example": "From home, she drove the telepresence robot to her desk and joined the meeting."
+      },
+      "ru": {
+        "definition": "Подвижный «экран на колёсах», через который удалённый человек видит, говорит и перемещается по чужому помещению.",
+        "example": "Из дома она подвела робота телеприсутствия к своему столу и подключилась к совещанию.",
+        "term": "Робот телеприсутствия"
+      }
+    }
+  },
+  {
+    "id": "robots-017",
+    "deck": "robots",
+    "term": "Nanorobot",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "types"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hypothetical or experimental machine at molecular scale, imagined for tasks like targeted drug delivery.",
+        "example": "Researchers steered a nanorobot through a blood vessel to release medicine at the tumor."
+      },
+      "ru": {
+        "definition": "Гипотетическая или экспериментальная машина молекулярного масштаба — например, для адресной доставки лекарств.",
+        "example": "Учёные провели наноробота по сосуду, чтобы выпустить лекарство прямо у опухоли.",
+        "term": "Наноробот"
+      }
+    }
+  },
+  {
+    "id": "robots-018",
+    "deck": "robots",
+    "term": "Soft robotics",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "types",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Robots built from flexible, compliant materials that bend and squeeze instead of using rigid joints.",
+        "example": "A soft robotic hand grips a ripe tomato without bruising it."
+      },
+      "ru": {
+        "definition": "Роботы из гибких податливых материалов, которые гнутся и сжимаются вместо жёстких сочленений.",
+        "example": "Мягкая роборука берёт спелый помидор, не повреждая его.",
+        "term": "Мягкая робототехника"
+      }
+    }
+  },
+  {
+    "id": "robots-019",
+    "deck": "robots",
+    "term": "Biomimetic robot",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "types"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot whose design copies how a living creature moves, senses, or is built.",
+        "example": "The biomimetic robot swims by rippling a fin like a real fish."
+      },
+      "ru": {
+        "definition": "Робот, конструкция которого копирует движение, чувства или строение живого существа.",
+        "example": "Биомиметический робот плывёт, волнообразно изгибая плавник, как настоящая рыба.",
+        "term": "Биомиметический робот"
+      }
+    }
+  },
+  {
+    "id": "robots-020",
+    "deck": "robots",
+    "term": "Service robot",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "types",
+      "application"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot that assists people outside factories — cleaning, delivering, or guiding — rather than making goods.",
+        "example": "A service robot delivered towels to the hotel room and rode the elevator by itself."
+      },
+      "ru": {
+        "definition": "Робот, который помогает людям вне заводов — убирает, доставляет, сопровождает, — а не производит товары.",
+        "example": "Сервисный робот привёз полотенца в номер и сам вызвал лифт.",
+        "term": "Сервисный робот"
+      }
+    }
+  },
+  {
+    "id": "robots-021",
+    "deck": "robots",
+    "term": "Actuator",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "hardware",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The component that turns a control signal into physical motion — a robot's muscle.",
+        "example": "When the signal arrived, the actuator extended and the gate swung open."
+      },
+      "ru": {
+        "definition": "Компонент, который превращает управляющий сигнал в движение, — «мышца» робота.",
+        "example": "Получив сигнал, актуатор выдвинулся, и ворота распахнулись.",
+        "term": "Актуатор"
+      }
+    }
+  },
+  {
+    "id": "robots-022",
+    "deck": "robots",
+    "term": "Servo motor",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "hardware",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A motor paired with a feedback sensor that holds a precise position or speed on command.",
+        "example": "Each servo motor in the arm holds its angle so the gripper lands on the exact spot."
+      },
+      "ru": {
+        "definition": "Мотор с датчиком обратной связи, который точно удерживает заданное положение или скорость.",
+        "example": "Каждый сервопривод в руке держит свой угол, и захват попадает точно в нужную точку.",
+        "term": "Сервопривод"
+      }
+    }
+  },
+  {
+    "id": "robots-023",
+    "deck": "robots",
+    "term": "Stepper motor",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "hardware",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A motor that moves in fixed, equal steps, so position can be set by counting pulses.",
+        "example": "The 3D printer's stepper motor advances the nozzle one tiny step per pulse."
+      },
+      "ru": {
+        "definition": "Двигатель, который движется равными фиксированными шагами: положение задаётся числом импульсов.",
+        "example": "Шаговый двигатель 3D-принтера сдвигает сопло на один малый шаг за импульс.",
+        "term": "Шаговый двигатель"
+      }
+    }
+  },
+  {
+    "id": "robots-024",
+    "deck": "robots",
+    "term": "DC motor",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "hardware",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A simple motor that spins when direct current flows through it; speed rises with voltage.",
+        "example": "A cheap DC motor spins the toy car's wheels straight from the battery."
+      },
+      "ru": {
+        "definition": "Простой двигатель, который вращается от постоянного тока; скорость растёт с напряжением.",
+        "example": "Дешёвый двигатель постоянного тока крутит колёса игрушечной машинки прямо от батарейки.",
+        "term": "Двигатель постоянного тока"
+      }
+    }
+  },
+  {
+    "id": "robots-025",
+    "deck": "robots",
+    "term": "Brushless motor (BLDC)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "hardware",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An electric motor that switches current electronically instead of with brushes, so it lasts longer and runs cooler.",
+        "example": "Drones use brushless motors to spin propellers fast for thousands of hours."
+      },
+      "ru": {
+        "definition": "Электромотор, который переключает ток электроникой, а не щётками: служит дольше и меньше греется.",
+        "example": "В дронах бесколлекторные двигатели крутят винты тысячи часов.",
+        "term": "Бесколлекторный двигатель (BLDC)"
+      }
+    }
+  },
+  {
+    "id": "robots-026",
+    "deck": "robots",
+    "term": "Linear actuator",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "hardware",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An actuator that pushes or pulls in a straight line instead of rotating.",
+        "example": "A linear actuator raises the hospital bed's backrest at the press of a button."
+      },
+      "ru": {
+        "definition": "Актуатор, который толкает или тянет по прямой, а не вращается.",
+        "example": "Линейный актуатор поднимает спинку больничной кровати по нажатию кнопки.",
+        "term": "Линейный актуатор"
+      }
+    }
+  },
+  {
+    "id": "robots-027",
+    "deck": "robots",
+    "term": "Series elastic actuator (SEA)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "hardware",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An actuator with a spring placed between motor and load, letting it sense force and move gently.",
+        "example": "A series elastic actuator lets a robot leg absorb a hard landing instead of jarring."
+      },
+      "ru": {
+        "definition": "Привод с пружиной между мотором и нагрузкой: он чувствует усилие и движется мягко.",
+        "example": "Упругий привод даёт ноге робота смягчить жёсткое приземление, а не бить по стыкам.",
+        "term": "Упругий привод (SEA)"
+      }
+    }
+  },
+  {
+    "id": "robots-028",
+    "deck": "robots",
+    "term": "Harmonic drive",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "hardware",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A compact gear unit that gives a large speed reduction with almost no play, used in precise joints.",
+        "example": "The robot's wrist uses a harmonic drive so it repeats the same angle to a hair."
+      },
+      "ru": {
+        "definition": "Компактный редуктор с большим понижением скорости и почти без люфта — для точных суставов.",
+        "example": "В запястье робота стоит волновой редуктор, и оно повторяет угол с точностью до волоска.",
+        "term": "Волновой редуктор"
+      }
+    }
+  },
+  {
+    "id": "robots-029",
+    "deck": "robots",
+    "term": "Gearbox",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "hardware",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A set of gears that trades motor speed for more turning force, or the reverse.",
+        "example": "A gearbox lets the small motor turn the heavy conveyor drum slowly but strongly."
+      },
+      "ru": {
+        "definition": "Набор шестерён, который меняет скорость мотора на большее усилие вращения или наоборот.",
+        "example": "Редуктор позволяет слабому мотору медленно, но с силой крутить тяжёлый барабан конвейера.",
+        "term": "Редуктор"
+      }
+    }
+  },
+  {
+    "id": "robots-030",
+    "deck": "robots",
+    "term": "Encoder",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "hardware",
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sensor that reports how far or fast a shaft has turned, giving the controller position feedback.",
+        "example": "The encoder told the controller the wheel had made exactly three turns."
+      },
+      "ru": {
+        "definition": "Датчик, который сообщает, насколько и как быстро повернулся вал, — обратная связь по положению.",
+        "example": "Энкодер сообщил контроллеру, что колесо сделало ровно три оборота.",
+        "term": "Энкодер"
+      }
+    }
+  },
+  {
+    "id": "robots-031",
+    "deck": "robots",
+    "term": "Joint",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "hardware",
+      "kinematics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The movable connection between two robot parts that lets them rotate or slide.",
+        "example": "The arm bent at its middle joint to reach under the shelf."
+      },
+      "ru": {
+        "definition": "Подвижное соединение двух частей робота, позволяющее им поворачиваться или скользить.",
+        "example": "Рука согнулась в среднем сочленении, чтобы дотянуться под полку.",
+        "term": "Сочленение"
+      }
+    }
+  },
+  {
+    "id": "robots-032",
+    "deck": "robots",
+    "term": "Link",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "hardware",
+      "kinematics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A rigid segment of a robot arm that connects one joint to the next.",
+        "example": "Between the elbow and wrist joints sits a single straight link."
+      },
+      "ru": {
+        "definition": "Жёсткий сегмент манипулятора, соединяющий одно сочленение со следующим.",
+        "example": "Между локтевым и запястным сочленениями стоит одно прямое звено.",
+        "term": "Звено"
+      }
+    }
+  },
+  {
+    "id": "robots-033",
+    "deck": "robots",
+    "term": "Chassis",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The base frame that carries a robot's wheels, motors, and body.",
+        "example": "They bolted the battery and motors onto the aluminum chassis."
+      },
+      "ru": {
+        "definition": "Несущая рама, на которой держатся колёса, моторы и корпус робота.",
+        "example": "Батарею и моторы прикрутили к алюминиевому шасси.",
+        "term": "Шасси"
+      }
+    }
+  },
+  {
+    "id": "robots-034",
+    "deck": "robots",
+    "term": "Bearing",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A part that lets one piece rotate or slide against another with little friction.",
+        "example": "A worn bearing made the wheel grind instead of spin freely."
+      },
+      "ru": {
+        "definition": "Деталь, которая позволяет одной части вращаться или скользить по другой почти без трения.",
+        "example": "Изношенный подшипник заставил колесо скрежетать вместо свободного вращения.",
+        "term": "Подшипник"
+      }
+    }
+  },
+  {
+    "id": "robots-035",
+    "deck": "robots",
+    "term": "Pneumatics",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "hardware",
+      "actuation",
+      "power"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Using compressed air to drive motion, common for fast, simple grippers and pistons.",
+        "example": "Pneumatics snap the packing arm shut with a hiss of air."
+      },
+      "ru": {
+        "definition": "Использование сжатого воздуха для движения — частый привод для быстрых простых захватов и цилиндров.",
+        "example": "Пневматика с шипением воздуха резко смыкает упаковочную руку.",
+        "term": "Пневматика"
+      }
+    }
+  },
+  {
+    "id": "robots-036",
+    "deck": "robots",
+    "term": "Hydraulics",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "hardware",
+      "actuation",
+      "power"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Using pressurized fluid to move parts, giving great force for heavy lifting.",
+        "example": "Hydraulics let the excavator robot raise a load no electric motor its size could."
+      },
+      "ru": {
+        "definition": "Использование жидкости под давлением для движения частей — большая сила для тяжёлого подъёма.",
+        "example": "Гидравлика позволяет роботу-экскаватору поднять груз, недоступный электромотору того же размера.",
+        "term": "Гидравлика"
+      }
+    }
+  },
+  {
+    "id": "robots-037",
+    "deck": "robots",
+    "term": "Payload",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "hardware",
+      "manipulation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The maximum weight a robot can carry or handle at its end effector.",
+        "example": "With a 10 kg payload, the arm can lift a full crate but not a person."
+      },
+      "ru": {
+        "definition": "Максимальный вес, который робот может нести или удерживать на рабочем органе.",
+        "example": "С нагрузкой 10 кг рука поднимет полный ящик, но не человека.",
+        "term": "Полезная нагрузка"
+      }
+    }
+  },
+  {
+    "id": "robots-038",
+    "deck": "robots",
+    "term": "Degrees of freedom (DOF)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "fundamentals",
+      "kinematics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The number of independent ways a robot can move, one per axis of motion.",
+        "example": "A six-DOF arm can reach a point from almost any angle, like a human wrist."
+      },
+      "ru": {
+        "definition": "Число независимых направлений, в которых может двигаться робот, — по одному на ось движения.",
+        "example": "Рука с шестью степенями свободы дотянется до точки почти под любым углом, как запястье.",
+        "term": "Степени свободы (DOF)"
+      }
+    }
+  },
+  {
+    "id": "robots-039",
+    "deck": "robots",
+    "term": "Manipulator",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "manipulation",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The arm-and-hand system a robot uses to grasp and move objects.",
+        "example": "The manipulator picked each part off the belt and set it in the tray."
+      },
+      "ru": {
+        "definition": "Система «рука-кисть», которой робот захватывает и перемещает предметы.",
+        "example": "Манипулятор снимал каждую деталь с ленты и укладывал в лоток.",
+        "term": "Манипулятор"
+      }
+    }
+  },
+  {
+    "id": "robots-040",
+    "deck": "robots",
+    "term": "Robotic arm",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "manipulation",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A jointed mechanical arm that positions a tool or gripper in space.",
+        "example": "A robotic arm sprayed paint evenly across the car door."
+      },
+      "ru": {
+        "definition": "Шарнирная механическая рука, которая наводит инструмент или захват в пространстве.",
+        "example": "Роботизированная рука ровно нанесла краску на дверь машины.",
+        "term": "Роботизированная рука"
+      }
+    }
+  },
+  {
+    "id": "robots-041",
+    "deck": "robots",
+    "term": "End effector",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "manipulation",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The tool at the tip of a robot arm — a gripper, welder, or nozzle — that does the actual work.",
+        "example": "They swapped the end effector from a gripper to a screwdriver for the next job."
+      },
+      "ru": {
+        "definition": "Инструмент на конце руки робота — захват, сварочная головка или сопло, — который делает саму работу.",
+        "example": "Рабочий орган сменили с захвата на отвёртку под следующую операцию.",
+        "term": "Рабочий орган"
+      }
+    }
+  },
+  {
+    "id": "robots-042",
+    "deck": "robots",
+    "term": "Gripper",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "manipulation",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robotic hand that grasps and holds objects, often with two or more fingers.",
+        "example": "The gripper closed around the bottle and lifted it off the line."
+      },
+      "ru": {
+        "definition": "Роботизированная «кисть», которая берёт и удерживает предметы, часто двумя и более пальцами.",
+        "example": "Захват сомкнулся на бутылке и снял её с линии.",
+        "term": "Захват"
+      }
+    }
+  },
+  {
+    "id": "robots-043",
+    "deck": "robots",
+    "term": "Vacuum gripper",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "manipulation",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An end effector that holds objects by suction against a cup, good for flat or smooth surfaces.",
+        "example": "A vacuum gripper lifts each glass sheet without leaving a mark."
+      },
+      "ru": {
+        "definition": "Рабочий орган, который держит предметы присоской — удобен для плоских и гладких поверхностей.",
+        "example": "Вакуумный захват поднимает каждый лист стекла, не оставляя следов.",
+        "term": "Вакуумный захват"
+      }
+    }
+  },
+  {
+    "id": "robots-044",
+    "deck": "robots",
+    "term": "Soft gripper",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "manipulation",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A gripper of pliable material that conforms to an object's shape to hold it without damage.",
+        "example": "A soft gripper cradles a ripe peach that a metal claw would crush."
+      },
+      "ru": {
+        "definition": "Захват из податливого материала, который принимает форму предмета и держит его без повреждений.",
+        "example": "Мягкий захват бережно держит спелый персик, который металлические клешни раздавили бы.",
+        "term": "Мягкий захват"
+      }
+    }
+  },
+  {
+    "id": "robots-045",
+    "deck": "robots",
+    "term": "Pick and place",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "manipulation",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A basic robot task: grab an item in one spot and set it down in another.",
+        "example": "The pick-and-place robot sorts chocolates into boxes hundreds of times a minute."
+      },
+      "ru": {
+        "definition": "Базовая задача робота: взять предмет в одном месте и поставить в другом.",
+        "example": "Робот «взять и положить» раскладывает конфеты по коробкам сотни раз в минуту.",
+        "term": "«Взять и положить»"
+      }
+    }
+  },
+  {
+    "id": "robots-046",
+    "deck": "robots",
+    "term": "Palletizing",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "manipulation",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Stacking boxes or products onto a pallet in a neat, stable pattern for shipping.",
+        "example": "A palletizing robot builds a shoulder-high stack of cartons in one steady rhythm."
+      },
+      "ru": {
+        "definition": "Укладка коробок или продукции на паллету ровным устойчивым рядом для отгрузки.",
+        "example": "Робот-паллетайзер собирает штабель коробок в человеческий рост в ровном ритме.",
+        "term": "Паллетирование"
+      }
+    }
+  },
+  {
+    "id": "robots-047",
+    "deck": "robots",
+    "term": "Machine tending",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "manipulation",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot loading and unloading a machine — feeding raw parts in and taking finished ones out.",
+        "example": "A machine-tending robot feeds blanks into the press and clears each stamped part."
+      },
+      "ru": {
+        "definition": "Робот загружает и разгружает станок: подаёт заготовки и забирает готовые детали.",
+        "example": "Робот обслуживания станка подаёт заготовки в пресс и убирает каждую отштампованную деталь.",
+        "term": "Обслуживание станка"
+      }
+    }
+  },
+  {
+    "id": "robots-048",
+    "deck": "robots",
+    "term": "Dexterity",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "manipulation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Skill at fine, coordinated hand movements — the hard part of matching human hands.",
+        "example": "Folding laundry needs a dexterity that still trips up most robots."
+      },
+      "ru": {
+        "definition": "Умение выполнять точные согласованные движения кистью — самое трудное в повторении рук человека.",
+        "example": "Складывание белья требует ловкости, на которой до сих пор спотыкается большинство роботов.",
+        "term": "Ловкость"
+      }
+    }
+  },
+  {
+    "id": "robots-049",
+    "deck": "robots",
+    "term": "Bin picking",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "manipulation",
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Using vision to grab individual items from a jumbled pile in a bin.",
+        "example": "Guided by a 3D camera, the robot does bin picking from a crate of tangled parts."
+      },
+      "ru": {
+        "definition": "С помощью зрения робот берёт отдельные предметы из беспорядочной кучи в ящике.",
+        "example": "По данным 3D-камеры робот разбирает навал перепутанных деталей из ящика.",
+        "term": "Разбор навала"
+      }
+    }
+  },
+  {
+    "id": "robots-050",
+    "deck": "robots",
+    "term": "Force feedback",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "manipulation",
+      "control",
+      "hri"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Sensing and relaying contact force so a robot or operator can feel how hard it is pressing.",
+        "example": "Force feedback let the surgeon feel the tissue through the robot's controls."
+      },
+      "ru": {
+        "definition": "Измерение и передача усилия контакта, чтобы робот или оператор чувствовал силу нажатия.",
+        "example": "Силовая обратная связь дала хирургу почувствовать ткань через органы управления робота.",
+        "term": "Силовая обратная связь"
+      }
+    }
+  }
+]

@@ -1,0 +1,2125 @@
+[
+  {
+    "id": "vibe-coding-001",
+    "deck": "vibe-coding",
+    "term": "Vibe coding",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "vibe-coding",
+      "culture",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Building software by describing what you want in plain language and letting AI write the code, often accepting output without reading it closely.",
+        "example": "He vibe-coded a landing page over coffee, just typing requests until it looked right."
+      },
+      "ru": {
+        "definition": "Создание программ через описание задачи обычными словами: код пишет ИИ, а результат часто принимают, не вчитываясь в каждую строку.",
+        "example": "За вечер он собрал лендинг вайбкодингом — просто набирал правки, пока не заработало.",
+        "term": "Вайбкодинг"
+      },
+      "ja": {
+        "definition": "やりたいことを自然な言葉で伝え、コードはAIに書かせる開発。出力を細かく読まずに受け入れることも多い。",
+        "example": "彼は一晩でランディングページをバイブコーディングし、要望を打ち込むだけで仕上げた。",
+        "term": "バイブコーディング"
+      },
+      "ko": {
+        "definition": "원하는 바를 자연어로 설명하고 코드는 AI에게 맡기는 개발. 결과를 꼼꼼히 읽지 않고 받아들이는 경우도 많다.",
+        "example": "그는 하룻밤 만에 랜딩 페이지를 바이브 코딩으로 만들었다. 요청만 입력하며 다듬었다.",
+        "term": "바이브 코딩"
+      },
+      "fr": {
+        "definition": "Créer un logiciel en décrivant son intention en langage courant et en laissant l'IA écrire le code, souvent sans le relire en détail.",
+        "example": "Il a « vibe-codé » une page d'accueil en une soirée, tapant des demandes jusqu'au bon rendu.",
+        "term": "Vibe coding"
+      },
+      "es": {
+        "definition": "Crear software describiendo la intención en lenguaje corriente y dejando que la IA escriba el código, a menudo sin releerlo a fondo.",
+        "example": "Montó una landing en una tarde con vibe coding, tecleando peticiones hasta que quedó bien.",
+        "term": "Vibe coding"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-002",
+    "deck": "vibe-coding",
+    "term": "Agentic coding",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "vibe-coding",
+      "agents",
+      "codegen"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A style of development where an AI agent plans, edits files, and runs commands toward a goal with little step-by-step guidance.",
+        "example": "She switched to agentic coding and let the tool fix the failing tests itself."
+      },
+      "ru": {
+        "definition": "Стиль разработки, где ИИ-агент сам планирует, правит файлы и запускает команды, двигаясь к цели почти без пошаговых указаний.",
+        "example": "Она перешла на агентное кодирование и позволила инструменту самому чинить падающие тесты.",
+        "term": "Агентное кодирование"
+      },
+      "ja": {
+        "definition": "AIエージェントが自ら計画し、ファイルを編集し、コマンドを実行して目標へ進む開発スタイル。細かな指示はほぼ不要。",
+        "example": "彼女はエージェント型コーディングに切り替え、失敗するテストをツールに直させた。",
+        "term": "エージェント型コーディング"
+      },
+      "ko": {
+        "definition": "AI 에이전트가 스스로 계획하고 파일을 고치고 명령을 실행하며 목표로 나아가는 개발 방식. 단계별 지시는 거의 필요 없다.",
+        "example": "그녀는 에이전트 코딩으로 바꾸고 실패하는 테스트를 도구가 직접 고치게 두었다.",
+        "term": "에이전트 코딩"
+      },
+      "fr": {
+        "definition": "Une manière de développer où un agent IA planifie, modifie les fichiers et lance des commandes vers un but, sans guidage pas à pas.",
+        "example": "Elle est passée au codage agentique et a laissé l'outil corriger lui-même les tests en échec.",
+        "term": "Codage agentique"
+      },
+      "es": {
+        "definition": "Una forma de desarrollar donde un agente de IA planifica, edita archivos y ejecuta comandos hacia una meta, sin guía paso a paso.",
+        "example": "Se pasó a la codificación agéntica y dejó que la herramienta arreglara sola las pruebas fallidas.",
+        "term": "Codificación agéntica"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-003",
+    "deck": "vibe-coding",
+    "term": "AI pair programmer",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "vibe-coding",
+      "tooling",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An AI assistant that codes alongside you, suggesting lines and reacting to edits like a second developer at the keyboard.",
+        "example": "My AI pair programmer caught the off-by-one error before I even ran the code."
+      },
+      "ru": {
+        "definition": "ИИ-ассистент, который пишет код рядом с тобой: подсказывает строки и реагирует на правки, как второй разработчик за клавиатурой.",
+        "example": "ИИ-напарник заметил ошибку на единицу ещё до того, как я запустил код.",
+        "term": "ИИ-напарник"
+      },
+      "ja": {
+        "definition": "隣で一緒にコードを書くAIアシスタント。行を提案し、編集に反応する、もう一人の開発者のような存在。",
+        "example": "AIペアプログラマーは、実行する前にオフバイワンのミスを見つけてくれた。",
+        "term": "AIペアプログラマー"
+      },
+      "ko": {
+        "definition": "곁에서 함께 코드를 쓰는 AI 도우미. 줄을 제안하고 편집에 반응하는, 키보드 앞의 또 한 명의 개발자.",
+        "example": "AI 페어 프로그래머는 내가 실행하기도 전에 오프바이원 오류를 잡아냈다.",
+        "term": "AI 페어 프로그래머"
+      },
+      "fr": {
+        "definition": "Un assistant IA qui code à vos côtés, suggérant des lignes et réagissant aux modifications comme un second développeur au clavier.",
+        "example": "Mon binôme IA a repéré l'erreur d'indice avant même que je lance le code.",
+        "term": "Binôme de programmation IA"
+      },
+      "es": {
+        "definition": "Un asistente de IA que programa a tu lado: sugiere líneas y reacciona a tus ediciones como un segundo desarrollador al teclado.",
+        "example": "Mi compañero de IA detectó el error de índice antes de que yo ejecutara el código.",
+        "term": "Programador en pareja con IA"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-004",
+    "deck": "vibe-coding",
+    "term": "Copilot (concept)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "vibe-coding",
+      "tooling",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A generic name for an in-editor AI helper that offers suggestions and drafts while you stay in control of the work.",
+        "example": "Every major IDE now ships some kind of copilot for autocompleting code."
+      },
+      "ru": {
+        "definition": "Общее имя для встроенного в редактор ИИ-помощника, который предлагает подсказки и черновики, пока управление остаётся у тебя.",
+        "example": "Сейчас в каждой крупной IDE есть свой копайлот для автодополнения кода.",
+        "term": "Копайлот (концепт)"
+      },
+      "ja": {
+        "definition": "エディタに組み込まれ、提案や下書きを出すAI補助の総称。主導権は使い手に残る。",
+        "example": "いまや主要なIDEには、コード補完のためのコパイロットが必ず備わっている。",
+        "term": "コパイロット（概念）"
+      },
+      "ko": {
+        "definition": "에디터에 내장되어 제안과 초안을 내놓는 AI 보조의 총칭. 주도권은 사용자에게 남는다.",
+        "example": "이제 주요 IDE에는 코드 자동 완성을 위한 코파일럿이 하나씩 들어 있다.",
+        "term": "코파일럿(개념)"
+      },
+      "fr": {
+        "definition": "Nom générique d'une aide IA intégrée à l'éditeur qui propose suggestions et brouillons pendant que vous gardez la main.",
+        "example": "Chaque grand IDE embarque désormais un copilote pour compléter le code.",
+        "term": "Copilote (concept)"
+      },
+      "es": {
+        "definition": "Nombre genérico de una ayuda de IA integrada en el editor que ofrece sugerencias y borradores mientras tú llevas el control.",
+        "example": "Hoy cada IDE grande trae algún copiloto para autocompletar código.",
+        "term": "Copiloto (concepto)"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-005",
+    "deck": "vibe-coding",
+    "term": "Coding agent",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "codegen",
+      "tooling"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An AI system that autonomously reads a codebase, changes files, and runs tools to complete a programming task end to end.",
+        "example": "We gave the coding agent a bug report and it opened a pull request an hour later."
+      },
+      "ru": {
+        "definition": "ИИ-система, которая сама читает кодовую базу, меняет файлы и запускает инструменты, доводя задачу до конца.",
+        "example": "Мы дали кодинг-агенту баг-репорт, и через час он открыл пул-реквест.",
+        "term": "Кодинг-агент"
+      },
+      "ja": {
+        "definition": "コードベースを自ら読み、複数ファイルを変更し、ツールを実行して開発タスクを最後までやり切るAIシステム。",
+        "example": "バグ報告を渡すと、コーディングエージェントは一時間後にプルリクを出した。",
+        "term": "コーディングエージェント"
+      },
+      "ko": {
+        "definition": "코드베이스를 스스로 읽고 여러 파일을 바꾸며 도구를 실행해 개발 과제를 끝까지 해내는 AI 시스템.",
+        "example": "버그 리포트를 주자 코딩 에이전트는 한 시간 뒤 풀 리퀘스트를 열었다.",
+        "term": "코딩 에이전트"
+      },
+      "fr": {
+        "definition": "Un système IA qui lit seul une base de code, modifie des fichiers et lance des outils pour mener une tâche de bout en bout.",
+        "example": "On a donné un rapport de bug à l'agent de codage : une heure après, il ouvrait une pull request.",
+        "term": "Agent de codage"
+      },
+      "es": {
+        "definition": "Un sistema de IA que lee por sí mismo una base de código, cambia archivos y ejecuta herramientas para completar una tarea de principio a fin.",
+        "example": "Le dimos un informe de error al agente y una hora después abrió un pull request.",
+        "term": "Agente de codificación"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-006",
+    "deck": "vibe-coding",
+    "term": "Autonomous agent",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "orchestration"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A program driven by a model that pursues a goal on its own, choosing actions and tools without waiting for each instruction.",
+        "example": "The autonomous agent booked the flight, filled the form, and emailed a summary unprompted."
+      },
+      "ru": {
+        "definition": "Управляемая моделью программа, которая идёт к цели сама: выбирает действия и инструменты, не дожидаясь каждой команды.",
+        "example": "Автономный агент забронировал рейс, заполнил форму и без напоминаний прислал сводку.",
+        "term": "Автономный агент"
+      },
+      "ja": {
+        "definition": "モデルが動かすプログラムで、目標に向けて自ら行動とツールを選び、逐一の指示を待たない。",
+        "example": "自律エージェントは航空券を予約し、フォームを埋め、頼まれずに要約を送ってきた。",
+        "term": "自律エージェント"
+      },
+      "ko": {
+        "definition": "모델이 구동하는 프로그램으로, 목표를 향해 스스로 행동과 도구를 고르며 매 지시를 기다리지 않는다.",
+        "example": "자율 에이전트는 항공권을 예약하고 양식을 채우고 시키지 않아도 요약을 보냈다.",
+        "term": "자율 에이전트"
+      },
+      "fr": {
+        "definition": "Un programme piloté par un modèle qui poursuit un but seul, choisissant actions et outils sans attendre chaque instruction.",
+        "example": "L'agent autonome a réservé le vol, rempli le formulaire et envoyé un résumé sans qu'on le demande.",
+        "term": "Agent autonome"
+      },
+      "es": {
+        "definition": "Un programa guiado por un modelo que persigue una meta por su cuenta, eligiendo acciones y herramientas sin esperar cada instrucción.",
+        "example": "El agente autónomo reservó el vuelo, rellenó el formulario y envió un resumen sin pedírselo.",
+        "term": "Agente autónomo"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-007",
+    "deck": "vibe-coding",
+    "term": "Agentic",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "culture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Describing software that acts with initiative — planning, using tools, and adapting — rather than only answering a single prompt.",
+        "example": "The new release feels agentic: it chases down dependencies instead of just suggesting them."
+      },
+      "ru": {
+        "definition": "Так говорят о софте, который действует с инициативой — планирует, применяет инструменты и подстраивается, а не просто отвечает на один запрос.",
+        "example": "Новая версия ощущается агентной: она сама доустанавливает зависимости, а не только советует.",
+        "term": "Агентный"
+      },
+      "ja": {
+        "definition": "一つの指示に答えるだけでなく、計画し、ツールを使い、状況に適応して主体的に動くソフトを指す言葉。",
+        "example": "新版はエージェント的だ。依存関係を提案するだけでなく自分で入れてくれる。",
+        "term": "エージェント的"
+      },
+      "ko": {
+        "definition": "하나의 프롬프트에 답만 하는 게 아니라 계획하고 도구를 쓰며 상황에 맞춰 주도적으로 움직이는 소프트웨어를 이르는 말.",
+        "example": "새 버전은 에이전트형이다. 의존성을 제안만 하지 않고 알아서 설치한다.",
+        "term": "에이전트형"
+      },
+      "fr": {
+        "definition": "Se dit d'un logiciel qui agit avec initiative — il planifie, se sert d'outils, s'adapte — au lieu de répondre à un seul prompt.",
+        "example": "La nouvelle version paraît agentique : elle installe les dépendances au lieu de seulement les suggérer.",
+        "term": "Agentique"
+      },
+      "es": {
+        "definition": "Se dice del software que actúa con iniciativa —planifica, usa herramientas, se adapta— en vez de solo responder a un único prompt.",
+        "example": "La nueva versión se siente agéntica: instala las dependencias en lugar de solo sugerirlas.",
+        "term": "Agéntico"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-008",
+    "deck": "vibe-coding",
+    "term": "Agent loop",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The repeating cycle in which an agent observes results, decides a next action, acts, and reads the outcome until the task is done.",
+        "example": "Each turn of the agent loop ran a test, read the failure, and edited the file."
+      },
+      "ru": {
+        "definition": "Повторяющийся круг, в котором агент смотрит на результат, решает следующий шаг, действует и читает исход — пока задача не решена.",
+        "example": "На каждом витке агентного цикла запускался тест, читалась ошибка и правился файл.",
+        "term": "Агентный цикл"
+      },
+      "ja": {
+        "definition": "エージェントが結果を観察し、次の行動を決め、実行し、その結末を読む——を課題が済むまで繰り返す循環。",
+        "example": "エージェントループの一周ごとに、テストを走らせ、失敗を読み、ファイルを直した。",
+        "term": "エージェントループ"
+      },
+      "ko": {
+        "definition": "에이전트가 결과를 관찰하고 다음 행동을 정하고 실행한 뒤 그 결과를 읽는 과정을, 과제가 끝날 때까지 되풀이하는 순환.",
+        "example": "에이전트 루프가 한 바퀴 돌 때마다 테스트를 돌리고 실패를 읽고 파일을 고쳤다.",
+        "term": "에이전트 루프"
+      },
+      "fr": {
+        "definition": "Le cycle répété où un agent observe le résultat, décide de l'action suivante, agit et lit l'issue, jusqu'à la fin de la tâche.",
+        "example": "À chaque tour de la boucle, l'agent lançait un test, lisait l'échec et modifiait le fichier.",
+        "term": "Boucle d'agent"
+      },
+      "es": {
+        "definition": "El ciclo repetido en que un agente observa el resultado, decide la siguiente acción, actúa y lee el desenlace, hasta terminar la tarea.",
+        "example": "En cada vuelta del bucle, el agente lanzaba una prueba, leía el fallo y editaba el archivo.",
+        "term": "Bucle del agente"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-009",
+    "deck": "vibe-coding",
+    "term": "Agentic workflow",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A task broken into steps an AI agent carries out in sequence, calling tools and checking its own progress along the way.",
+        "example": "Their release checklist became an agentic workflow that tags, builds, and drafts the notes."
+      },
+      "ru": {
+        "definition": "Задача, разбитая на шаги, которые ИИ-агент выполняет по очереди, вызывая инструменты и сам проверяя свой прогресс.",
+        "example": "Их чек-лист релиза стал агентным процессом: он ставит теги, собирает и набрасывает заметки.",
+        "term": "Агентный рабочий процесс"
+      },
+      "ja": {
+        "definition": "AIエージェントがツールを呼び、自ら進捗を確かめながら順に実行していく、手順に分けた作業。",
+        "example": "彼らのリリース手順は、タグ付け・ビルド・草稿作成を担うエージェント型ワークフローになった。",
+        "term": "エージェント型ワークフロー"
+      },
+      "ko": {
+        "definition": "AI 에이전트가 도구를 부르고 스스로 진행을 확인하며 차례로 수행하는, 단계로 나뉜 작업.",
+        "example": "그들의 릴리스 체크리스트는 태깅·빌드·노트 초안을 맡는 에이전트형 워크플로가 되었다.",
+        "term": "에이전트형 워크플로"
+      },
+      "fr": {
+        "definition": "Une tâche découpée en étapes qu'un agent IA exécute l'une après l'autre, appelant des outils et vérifiant sa progression.",
+        "example": "Leur check-list de release est devenue un flux agentique qui étiquette, compile et rédige les notes.",
+        "term": "Flux de travail agentique"
+      },
+      "es": {
+        "definition": "Una tarea partida en pasos que un agente de IA ejecuta uno tras otro, llamando herramientas y comprobando su propio avance.",
+        "example": "Su lista de release se volvió un flujo agéntico que etiqueta, compila y redacta las notas.",
+        "term": "Flujo de trabajo agéntico"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-010",
+    "deck": "vibe-coding",
+    "term": "ReAct",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "prompting",
+      "reasoning"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A pattern where a model alternates between reasoning in words and taking actions, using each observation to guide the next step.",
+        "example": "With ReAct, the agent thought aloud, searched the docs, then answered."
+      },
+      "ru": {
+        "definition": "Приём, где модель чередует рассуждение словами и действия, используя каждое наблюдение как подсказку для следующего шага.",
+        "example": "С ReAct агент рассуждал вслух, искал в документации, а затем отвечал.",
+        "term": "ReAct"
+      },
+      "ja": {
+        "definition": "モデルが言葉での推論と行動を交互に行い、得た観察を次の一手の手がかりにするパターン。",
+        "example": "ReActでは、エージェントは声に出して考え、ドキュメントを検索してから答えた。",
+        "term": "ReAct"
+      },
+      "ko": {
+        "definition": "모델이 말로 하는 추론과 행동을 번갈아 하며, 얻은 관찰을 다음 수의 실마리로 삼는 패턴.",
+        "example": "ReAct에서 에이전트는 소리 내어 생각하고 문서를 검색한 뒤 답했다.",
+        "term": "ReAct"
+      },
+      "fr": {
+        "definition": "Un schéma où un modèle alterne raisonnement en mots et actions, chaque observation guidant l'étape suivante.",
+        "example": "Avec ReAct, l'agent réfléchissait à voix haute, cherchait dans la doc, puis répondait.",
+        "term": "ReAct"
+      },
+      "es": {
+        "definition": "Un patrón en que un modelo alterna razonar con palabras y actuar, usando cada observación para guiar el siguiente paso.",
+        "example": "Con ReAct, el agente pensaba en voz alta, buscaba en la documentación y luego respondía.",
+        "term": "ReAct"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-011",
+    "deck": "vibe-coding",
+    "term": "Tool calling",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "tooling",
+      "mcp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When a model asks the surrounding system to run a specific function, like a search or a file edit, and uses the returned result.",
+        "example": "The assistant answered the weather question by tool calling a forecast API."
+      },
+      "ru": {
+        "definition": "Ситуация, когда модель просит окружение выполнить конкретную функцию — поиск или правку файла — и использует полученный результат.",
+        "example": "На вопрос о погоде ассистент ответил, вызвав инструмент прогноза.",
+        "term": "Вызов инструментов"
+      },
+      "ja": {
+        "definition": "モデルが検索やファイル編集など特定の機能を実行するよう周囲のシステムに頼み、その結果を使うこと。",
+        "example": "天気の質問に、アシスタントは予報APIをツール呼び出しして答えた。",
+        "term": "ツール呼び出し"
+      },
+      "ko": {
+        "definition": "모델이 검색이나 파일 편집 같은 특정 기능을 실행하도록 주변 시스템에 요청하고 그 결과를 쓰는 것.",
+        "example": "날씨 질문에 어시스턴트는 예보 API를 도구 호출해 답했다.",
+        "term": "도구 호출"
+      },
+      "fr": {
+        "definition": "Quand un modèle demande au système autour de lui d'exécuter une fonction précise — recherche, édition — et se sert du résultat.",
+        "example": "Pour la météo, l'assistant a répondu en appelant un outil de prévisions.",
+        "term": "Appel d'outil"
+      },
+      "es": {
+        "definition": "Cuando un modelo pide al sistema que lo rodea ejecutar una función concreta —una búsqueda, una edición— y usa el resultado.",
+        "example": "A la pregunta del tiempo, el asistente respondió llamando a una herramienta de pronóstico.",
+        "term": "Llamada a herramientas"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-012",
+    "deck": "vibe-coding",
+    "term": "Function calling",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "tooling"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A model feature that returns a structured request to invoke a named function with arguments, so code can execute it reliably.",
+        "example": "We defined a create_ticket schema and let function calling fill in the fields."
+      },
+      "ru": {
+        "definition": "Возможность модели вернуть структурированный запрос на вызов названной функции с аргументами, чтобы код надёжно её выполнил.",
+        "example": "Мы описали схему create_ticket, и вызов функций сам заполнил поля.",
+        "term": "Вызов функций"
+      },
+      "ja": {
+        "definition": "モデルが、名前付き関数を引数付きで呼ぶ構造化した要求を返す機能。コードが確実に実行できる。",
+        "example": "create_ticketのスキーマを定義すると、関数呼び出しが項目を埋めてくれた。",
+        "term": "関数呼び出し"
+      },
+      "ko": {
+        "definition": "모델이 이름 붙은 함수를 인자와 함께 부르는 구조화된 요청을 돌려주는 기능. 코드가 안정적으로 실행한다.",
+        "example": "create_ticket 스키마를 정의하자 함수 호출이 항목을 알아서 채웠다.",
+        "term": "함수 호출"
+      },
+      "fr": {
+        "definition": "Une capacité du modèle à renvoyer une requête structurée invoquant une fonction nommée avec ses arguments, exécutable par le code.",
+        "example": "On a défini un schéma create_ticket et l'appel de fonction a rempli les champs.",
+        "term": "Appel de fonction"
+      },
+      "es": {
+        "definition": "Una capacidad del modelo de devolver una petición estructurada para invocar una función con sus argumentos, que el código ejecuta.",
+        "example": "Definimos un esquema create_ticket y la llamada a funciones rellenó los campos.",
+        "term": "Llamada a funciones"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-013",
+    "deck": "vibe-coding",
+    "term": "Multi-agent system",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "orchestration"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A setup where several specialized agents collaborate or split a task, passing work and messages between one another.",
+        "example": "In their setup a planner delegates coding to workers and a reviewer checks the output."
+      },
+      "ru": {
+        "definition": "Схема, где несколько специализированных агентов сотрудничают или делят задачу, передавая друг другу работу и сообщения.",
+        "example": "У них планировщик поручает код исполнителям, а проверяющий агент смотрит результат.",
+        "term": "Мультиагентная система"
+      },
+      "ja": {
+        "definition": "専門化した複数のエージェントが協力し、あるいは作業を分担し、互いに仕事やメッセージを受け渡す構成。",
+        "example": "彼らの構成では、計画役がコードを実行役に任せ、レビュー役が結果を確認する。",
+        "term": "マルチエージェントシステム"
+      },
+      "ko": {
+        "definition": "전문화된 여러 에이전트가 협력하거나 작업을 나눠 맡으며 서로 일과 메시지를 주고받는 구성.",
+        "example": "그들의 구성에선 기획 에이전트가 코딩을 작업자에게 맡기고 검토 에이전트가 결과를 확인한다.",
+        "term": "멀티에이전트 시스템"
+      },
+      "fr": {
+        "definition": "Un montage où plusieurs agents spécialisés coopèrent ou se partagent une tâche, se passant travail et messages.",
+        "example": "Chez eux, un planificateur délègue le code à des exécutants et un relecteur vérifie le résultat.",
+        "term": "Système multi-agent"
+      },
+      "es": {
+        "definition": "Un montaje donde varios agentes especializados colaboran o se reparten una tarea, pasándose trabajo y mensajes entre sí.",
+        "example": "En su montaje, un planificador delega el código en ejecutores y un revisor comprueba el resultado.",
+        "term": "Sistema multiagente"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-014",
+    "deck": "vibe-coding",
+    "term": "Orchestration",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "orchestration",
+      "agents"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Coordinating multiple agents, tools, or steps so they run in the right order and hand results to each other.",
+        "example": "The orchestration layer decides which agent handles a ticket and when to escalate."
+      },
+      "ru": {
+        "definition": "Согласование нескольких агентов, инструментов или шагов так, чтобы они шли в нужном порядке и передавали результаты друг другу.",
+        "example": "Слой оркестрации решает, какой агент возьмёт заявку и когда её эскалировать.",
+        "term": "Оркестрация"
+      },
+      "ja": {
+        "definition": "複数のエージェントやツール、手順を正しい順で動かし、結果を互いに受け渡させるよう調整すること。",
+        "example": "オーケストレーション層が、どのエージェントが案件を担い、いつ引き上げるかを決める。",
+        "term": "オーケストレーション"
+      },
+      "ko": {
+        "definition": "여러 에이전트·도구·단계를 올바른 순서로 돌리고 결과를 서로 넘겨주도록 조율하는 것.",
+        "example": "오케스트레이션 계층이 어느 에이전트가 티켓을 맡고 언제 넘길지 정한다.",
+        "term": "오케스트레이션"
+      },
+      "fr": {
+        "definition": "Coordonner plusieurs agents, outils ou étapes pour qu'ils s'enchaînent dans le bon ordre et se transmettent les résultats.",
+        "example": "La couche d'orchestration décide quel agent traite un ticket et quand l'escalader.",
+        "term": "Orchestration"
+      },
+      "es": {
+        "definition": "Coordinar varios agentes, herramientas o pasos para que se ejecuten en el orden correcto y se pasen los resultados.",
+        "example": "La capa de orquestación decide qué agente atiende un ticket y cuándo escalarlo.",
+        "term": "Orquestación"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-015",
+    "deck": "vibe-coding",
+    "term": "Human-in-the-loop",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "workflow",
+      "safety"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A design where a person reviews or approves an AI's actions at key points before they take effect.",
+        "example": "Deployments stay human-in-the-loop: the agent proposes, an engineer clicks approve."
+      },
+      "ru": {
+        "definition": "Схема, где человек просматривает или утверждает действия ИИ в ключевых точках, прежде чем они вступят в силу.",
+        "example": "Деплой остаётся под контролем человека: агент предлагает, инженер жмёт «принять».",
+        "term": "Человек в цикле"
+      },
+      "ja": {
+        "definition": "AIの行動が効力を持つ前に、要所で人が確認または承認する設計。",
+        "example": "デプロイは人が関与し続ける。エージェントが提案し、エンジニアが承認を押す。",
+        "term": "ヒューマンインザループ"
+      },
+      "ko": {
+        "definition": "AI의 행동이 효력을 갖기 전에 사람이 요소요소에서 검토하거나 승인하는 설계.",
+        "example": "배포는 사람이 개입한다. 에이전트가 제안하고 엔지니어가 승인을 누른다.",
+        "term": "휴먼 인 더 루프"
+      },
+      "fr": {
+        "definition": "Une conception où une personne relit ou approuve les actions de l'IA aux moments clés avant qu'elles prennent effet.",
+        "example": "Les déploiements gardent un humain dans la boucle : l'agent propose, un ingénieur valide.",
+        "term": "Humain dans la boucle"
+      },
+      "es": {
+        "definition": "Un diseño donde una persona revisa o aprueba las acciones de la IA en puntos clave antes de que surtan efecto.",
+        "example": "Los despliegues mantienen un humano en el bucle: el agente propone y un ingeniero aprueba.",
+        "term": "Humano en el bucle"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-016",
+    "deck": "vibe-coding",
+    "term": "Prompt injection",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "safety",
+      "prompting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An attack that hides instructions in content a model reads, tricking it into ignoring its original task or leaking data.",
+        "example": "A web page said 'ignore prior rules' — an injection the agent almost obeyed."
+      },
+      "ru": {
+        "definition": "Атака, прячущая инструкции в тексте, который читает модель, чтобы та забыла исходную задачу или слила данные.",
+        "example": "На странице было спрятано «забудь прежние правила» — агент чуть не послушался.",
+        "term": "Промпт-инъекция"
+      },
+      "ja": {
+        "definition": "モデルが読む内容に指示を忍ばせ、本来の課題を無視させたりデータを漏らさせたりする攻撃。",
+        "example": "ページに「以前の指示を無視せよ」と隠され、エージェントは危うく従いかけた。",
+        "term": "プロンプトインジェクション"
+      },
+      "ko": {
+        "definition": "모델이 읽는 내용에 지시를 숨겨, 본래 과제를 무시하게 하거나 데이터를 흘리게 하는 공격.",
+        "example": "페이지에 '이전 규칙을 무시하라'가 숨어 있어 에이전트가 하마터면 따를 뻔했다.",
+        "term": "프롬프트 인젝션"
+      },
+      "fr": {
+        "definition": "Une attaque qui glisse des instructions dans un contenu lu par le modèle pour lui faire ignorer sa tâche ou fuiter des données.",
+        "example": "Une page cachait « ignore les règles précédentes » — une injection que l'agent a failli suivre.",
+        "term": "Injection de prompt"
+      },
+      "es": {
+        "definition": "Un ataque que esconde instrucciones en contenido que el modelo lee, para que ignore su tarea o filtre datos.",
+        "example": "Una página ocultaba «ignora las reglas anteriores»: una inyección que el agente casi obedece.",
+        "term": "Inyección de prompt"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-017",
+    "deck": "vibe-coding",
+    "term": "Jailbreak",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "safety",
+      "prompting",
+      "culture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A crafted input that gets a model to bypass its safety rules and produce content it would normally refuse.",
+        "example": "The forum traded jailbreak prompts until the vendor patched the model."
+      },
+      "ru": {
+        "definition": "Хитро составленный ввод, который заставляет модель обойти правила безопасности и выдать то, в чём она обычно отказывает.",
+        "example": "На форуме обменивались джейлбрейк-промптами, пока вендор не залатал модель.",
+        "term": "Джейлбрейк"
+      },
+      "ja": {
+        "definition": "モデルに安全規則を回避させ、通常は拒む内容を出させるよう仕組んだ入力。",
+        "example": "ベンダーがモデルを修正するまで、フォーラムではジェイルブレイクのプロンプトが飛び交った。",
+        "term": "ジェイルブレイク"
+      },
+      "ko": {
+        "definition": "모델이 안전 규칙을 우회해 평소엔 거부하는 내용을 내놓도록 꾸민 입력.",
+        "example": "벤더가 모델을 고칠 때까지 포럼에선 탈옥 프롬프트가 오갔다.",
+        "term": "탈옥(제일브레이크)"
+      },
+      "fr": {
+        "definition": "Une entrée façonnée pour amener un modèle à contourner ses règles de sécurité et produire ce qu'il refuse d'ordinaire.",
+        "example": "Le forum s'échangeait des prompts de jailbreak jusqu'au correctif de l'éditeur.",
+        "term": "Jailbreak"
+      },
+      "es": {
+        "definition": "Una entrada diseñada para que un modelo salte sus reglas de seguridad y produzca lo que normalmente rechaza.",
+        "example": "El foro intercambiaba prompts de jailbreak hasta que el proveedor parcheó el modelo.",
+        "term": "Jailbreak"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-018",
+    "deck": "vibe-coding",
+    "term": "Guardrails",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "safety",
+      "agents"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Rules and filters placed around a model to keep its inputs and outputs within safe, allowed bounds.",
+        "example": "Guardrails blocked the agent from running shell commands outside the project folder."
+      },
+      "ru": {
+        "definition": "Правила и фильтры вокруг модели, удерживающие её входы и выходы в безопасных, разрешённых рамках.",
+        "example": "Ограждения не дали агенту запускать команды за пределами папки проекта.",
+        "term": "Ограждения"
+      },
+      "ja": {
+        "definition": "モデルの入出力を安全で許された範囲に保つために周りに置く規則やフィルター。",
+        "example": "ガードレールが、プロジェクトフォルダ外でのコマンド実行をエージェントに禁じた。",
+        "term": "ガードレール"
+      },
+      "ko": {
+        "definition": "모델의 입력과 출력을 안전하고 허용된 범위에 두기 위해 둘레에 놓는 규칙과 필터.",
+        "example": "가드레일이 프로젝트 폴더 밖 명령 실행을 에이전트에게 막았다.",
+        "term": "가드레일"
+      },
+      "fr": {
+        "definition": "Règles et filtres placés autour d'un modèle pour maintenir ses entrées et sorties dans des limites sûres et permises.",
+        "example": "Les garde-fous ont empêché l'agent de lancer des commandes hors du dossier du projet.",
+        "term": "Garde-fous"
+      },
+      "es": {
+        "definition": "Reglas y filtros puestos alrededor de un modelo para mantener sus entradas y salidas en límites seguros y permitidos.",
+        "example": "Las salvaguardas impidieron que el agente ejecutara comandos fuera de la carpeta del proyecto.",
+        "term": "Salvaguardas"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-019",
+    "deck": "vibe-coding",
+    "term": "Sandbox",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "safety",
+      "tooling",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An isolated environment where AI-generated code or agent actions can run without touching the real system.",
+        "example": "The agent tested its script in a sandbox, so the risky delete never reached real files."
+      },
+      "ru": {
+        "definition": "Изолированная среда, где код от ИИ или действия агента выполняются, не задевая настоящую систему.",
+        "example": "Агент прогнал скрипт в песочнице, так что опасное удаление не тронуло реальные файлы.",
+        "term": "Песочница"
+      },
+      "ja": {
+        "definition": "AIが生成したコードやエージェントの動作を、本番システムに触れずに走らせる隔離環境。",
+        "example": "エージェントはサンドボックスでスクリプトを試し、危険な削除は実ファイルに届かなかった。",
+        "term": "サンドボックス"
+      },
+      "ko": {
+        "definition": "AI가 만든 코드나 에이전트의 동작을 실제 시스템에 닿지 않게 돌리는 격리 환경.",
+        "example": "에이전트가 샌드박스에서 스크립트를 시험해, 위험한 삭제가 실제 파일에 닿지 않았다.",
+        "term": "샌드박스"
+      },
+      "fr": {
+        "definition": "Un environnement isolé où le code produit par l'IA ou les actions d'un agent tournent sans toucher le vrai système.",
+        "example": "L'agent a testé son script dans un bac à sable ; la suppression risquée n'a pas atteint les vrais fichiers.",
+        "term": "Bac à sable"
+      },
+      "es": {
+        "definition": "Un entorno separado donde el código generado por IA o las acciones de un agente corren sin tocar el sistema real.",
+        "example": "El agente probó su script en un entorno aislado, así el borrado peligroso no llegó a los archivos reales.",
+        "term": "Entorno aislado"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-020",
+    "deck": "vibe-coding",
+    "term": "Semantic search",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "rag",
+      "context"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Finding results by meaning rather than exact keywords, by comparing the vector representations of query and content.",
+        "example": "Semantic search surfaced the auth code even though the query never said 'login'."
+      },
+      "ru": {
+        "definition": "Поиск по смыслу, а не по точным ключевым словам: сравниваются векторные представления запроса и содержимого.",
+        "example": "Семантический поиск нашёл код авторизации, хотя в запросе не было слова «логин».",
+        "term": "Семантический поиск"
+      },
+      "ja": {
+        "definition": "厳密なキーワードでなく意味で探す検索。クエリと内容のベクトル表現を比べる。",
+        "example": "クエリに「ログイン」の語がなくても、セマンティック検索は認証コードを見つけた。",
+        "term": "セマンティック検索"
+      },
+      "ko": {
+        "definition": "정확한 키워드가 아니라 의미로 찾는 검색. 질의와 내용의 벡터 표현을 견준다.",
+        "example": "질의에 '로그인'이 없어도 시맨틱 검색은 인증 코드를 찾아냈다.",
+        "term": "시맨틱 검색"
+      },
+      "fr": {
+        "definition": "Trouver des résultats par le sens plutôt que par mots-clés exacts, en comparant les représentations vectorielles.",
+        "example": "La recherche sémantique a remonté le code d'authentification sans que « login » soit tapé.",
+        "term": "Recherche sémantique"
+      },
+      "es": {
+        "definition": "Encontrar resultados por significado y no por palabras clave exactas, comparando las representaciones vectoriales.",
+        "example": "La búsqueda semántica sacó el código de autenticación aunque la consulta no decía «login».",
+        "term": "Búsqueda semántica"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-021",
+    "deck": "vibe-coding",
+    "term": "Knowledge base",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "rag",
+      "context"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A curated store of documents or facts an AI can retrieve from to ground its answers in your material.",
+        "example": "Support answers now pull from a knowledge base of past tickets and docs."
+      },
+      "ru": {
+        "definition": "Собранное хранилище документов или фактов, откуда ИИ достаёт материал, чтобы опереть ответы на твои данные.",
+        "example": "Ответы поддержки теперь берутся из базы знаний прошлых заявок и документации.",
+        "term": "База знаний"
+      },
+      "ja": {
+        "definition": "AIが取り出して回答の根拠にする、文書や事実を整理した保管庫。",
+        "example": "サポートの回答は、過去の問い合わせと文書のナレッジベースから引かれるようになった。",
+        "term": "ナレッジベース"
+      },
+      "ko": {
+        "definition": "AI가 꺼내어 답의 근거로 삼는, 문서나 사실을 정리해 둔 저장소.",
+        "example": "지원 답변은 이제 지난 문의와 문서를 담은 지식 베이스에서 나온다.",
+        "term": "지식 베이스"
+      },
+      "fr": {
+        "definition": "Un dépôt organisé de documents ou de faits où l'IA puise pour ancrer ses réponses dans vos données.",
+        "example": "Les réponses du support puisent désormais dans une base de tickets et de docs passés.",
+        "term": "Base de connaissances"
+      },
+      "es": {
+        "definition": "Un almacén curado de documentos o hechos del que la IA extrae material para anclar sus respuestas en tus datos.",
+        "example": "Las respuestas de soporte ahora salen de una base de tickets y documentos anteriores.",
+        "term": "Base de conocimiento"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-022",
+    "deck": "vibe-coding",
+    "term": "Context engineering",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "context",
+      "prompting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Deciding what information to place in a model's limited working window so it has just what it needs, and no clutter.",
+        "example": "Good context engineering meant sending the diff and the failing test, not the whole repo."
+      },
+      "ru": {
+        "definition": "Выбор того, какую информацию положить в ограниченное рабочее окно модели, чтобы у неё было ровно нужное и ничего лишнего.",
+        "example": "Грамотный контекст-инжиниринг — это прислать дифф и упавший тест, а не весь репозиторий.",
+        "term": "Контекст-инжиниринг"
+      },
+      "ja": {
+        "definition": "モデルの限られた作業ウィンドウに何を入れるかを決め、必要な情報だけを余分なく渡す取り組み。",
+        "example": "良いコンテキストエンジニアリングとは、全リポジトリでなく差分と失敗テストを送ることだ。",
+        "term": "コンテキストエンジニアリング"
+      },
+      "ko": {
+        "definition": "모델의 제한된 작업 창에 무엇을 넣을지 정해, 필요한 정보만 군더더기 없이 건네는 일.",
+        "example": "좋은 컨텍스트 엔지니어링은 전체 저장소가 아니라 diff와 실패 테스트를 보내는 것이다.",
+        "term": "컨텍스트 엔지니어링"
+      },
+      "fr": {
+        "definition": "L'art de choisir quelles informations placer dans la fenêtre de travail limitée du modèle, ni plus ni moins.",
+        "example": "Une bonne ingénierie du contexte, c'est envoyer le diff et le test cassé, pas tout le dépôt.",
+        "term": "Ingénierie du contexte"
+      },
+      "es": {
+        "definition": "El arte de decidir qué información poner en la ventana de trabajo limitada del modelo, ni de más ni de menos.",
+        "example": "Buena ingeniería de contexto es mandar el diff y la prueba rota, no todo el repositorio.",
+        "term": "Ingeniería de contexto"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-023",
+    "deck": "vibe-coding",
+    "term": "Memory (agent)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "context",
+      "memory",
+      "agents"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A store that lets an agent keep facts across turns or sessions, so it recalls earlier decisions and preferences.",
+        "example": "Thanks to memory, the agent remembered our naming convention from last week."
+      },
+      "ru": {
+        "definition": "Хранилище, позволяющее агенту держать факты между ходами или сессиями, чтобы помнить прежние решения и предпочтения.",
+        "example": "Благодаря памяти агент помнил наше соглашение об именах с прошлой недели.",
+        "term": "Память (агента)"
+      },
+      "ja": {
+        "definition": "エージェントがターンやセッションをまたいで事実を保ち、以前の判断や好みを思い出せる保管庫。",
+        "example": "メモリのおかげで、エージェントは先週の命名規則を覚えていた。",
+        "term": "メモリ（エージェント）"
+      },
+      "ko": {
+        "definition": "에이전트가 턴이나 세션을 넘겨 사실을 간직해, 지난 결정과 선호를 떠올리게 하는 저장소.",
+        "example": "메모리 덕분에 에이전트는 지난주의 명명 규칙을 기억했다.",
+        "term": "메모리(에이전트)"
+      },
+      "fr": {
+        "definition": "Un stockage qui laisse un agent garder des faits d'un tour ou d'une session à l'autre, pour se rappeler décisions et préférences.",
+        "example": "Grâce à la mémoire, l'agent se souvenait de notre convention de nommage de la semaine passée.",
+        "term": "Mémoire (agent)"
+      },
+      "es": {
+        "definition": "Un almacén que permite a un agente conservar datos entre turnos o sesiones, para recordar decisiones y preferencias previas.",
+        "example": "Gracias a la memoria, el agente recordaba nuestra convención de nombres de la semana pasada.",
+        "term": "Memoria (agente)"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-024",
+    "deck": "vibe-coding",
+    "term": "Prompt caching",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "context",
+      "tooling",
+      "models"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Reusing the processed form of a repeated prompt prefix so later requests run faster and cost less.",
+        "example": "Caching the long system message cut our latency in half."
+      },
+      "ru": {
+        "definition": "Повторное использование обработанной части одинакового начала промпта, чтобы следующие запросы шли быстрее и дешевле.",
+        "example": "Кэширование длинного системного промпта вдвое срезало задержку.",
+        "term": "Кэширование промптов"
+      },
+      "ja": {
+        "definition": "同じプロンプト冒頭の処理済み形を再利用し、後続の要求を速く安くする仕組み。",
+        "example": "長いシステムプロンプトをキャッシュすると、遅延が半分になった。",
+        "term": "プロンプトキャッシュ"
+      },
+      "ko": {
+        "definition": "같은 프롬프트 앞부분의 처리된 형태를 재사용해, 이후 요청을 더 빠르고 싸게 만드는 방식.",
+        "example": "긴 시스템 프롬프트를 캐싱하자 지연이 절반으로 줄었다.",
+        "term": "프롬프트 캐싱"
+      },
+      "fr": {
+        "definition": "Réutiliser la forme déjà traitée d'un début de prompt répété, pour rendre les requêtes suivantes plus rapides et moins chères.",
+        "example": "Mettre en cache le long prompt système a réduit de moitié notre latence.",
+        "term": "Mise en cache de prompt"
+      },
+      "es": {
+        "definition": "Reutilizar la forma ya procesada de un inicio de prompt repetido, para que las siguientes peticiones vayan más rápidas y baratas.",
+        "example": "Cachear el largo prompt de sistema redujo a la mitad nuestra latencia.",
+        "term": "Caché de prompts"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-025",
+    "deck": "vibe-coding",
+    "term": "Long context",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "context",
+      "models"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The ability of a model to take in very large inputs at once, such as whole codebases or lengthy documents.",
+        "example": "With long context we pasted the entire spec and asked for a review in one go."
+      },
+      "ru": {
+        "definition": "Способность модели принять очень большой ввод за раз — например, целые кодовые базы или объёмные документы.",
+        "example": "С длинным контекстом мы вставили всю спецификацию и разом попросили ревью.",
+        "term": "Длинный контекст"
+      },
+      "ja": {
+        "definition": "コードベース全体や長大な文書など、非常に大きな入力を一度に受け取れるモデルの能力。",
+        "example": "ロングコンテキストで仕様書を丸ごと貼り、一度にレビューを頼んだ。",
+        "term": "ロングコンテキスト"
+      },
+      "ko": {
+        "definition": "코드베이스 전체나 긴 문서처럼, 아주 큰 입력을 한 번에 받아들이는 모델의 능력.",
+        "example": "롱 컨텍스트로 명세서를 통째로 붙여 넣고 한 번에 리뷰를 부탁했다.",
+        "term": "롱 컨텍스트"
+      },
+      "fr": {
+        "definition": "La capacité d'un modèle à absorber d'un coup de très grandes entrées, comme des bases de code entières ou de longs documents.",
+        "example": "Avec le contexte long, on a collé toute la spécification et demandé une revue d'un seul tenant.",
+        "term": "Contexte long"
+      },
+      "es": {
+        "definition": "La capacidad de un modelo de admitir entradas enormes de una vez, como bases de código enteras o documentos extensos.",
+        "example": "Con contexto largo pegamos toda la especificación y pedimos la revisión de una tacada.",
+        "term": "Contexto largo"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-026",
+    "deck": "vibe-coding",
+    "term": "MCP server",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "mcp",
+      "tooling"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A program that exposes tools, data, or prompts to AI apps over the Model Context Protocol so any client can use them.",
+        "example": "We wrote an MCP server for our database and Claude could query it directly."
+      },
+      "ru": {
+        "definition": "Программа, отдающая инструменты, данные или промпты ИИ-приложениям по протоколу MCP, чтобы их мог использовать любой клиент.",
+        "example": "Мы написали MCP-сервер для нашей базы, и Claude обращался к ней напрямую.",
+        "term": "MCP-сервер"
+      },
+      "ja": {
+        "definition": "Model Context Protocolを通じてツールやデータ、プロンプトをAIアプリに公開し、どのクライアントも使えるようにするプログラム。",
+        "example": "自社DB用のMCPサーバーを書くと、Claudeが直接そこへ問い合わせられた。",
+        "term": "MCPサーバー"
+      },
+      "ko": {
+        "definition": "Model Context Protocol로 도구·데이터·프롬프트를 AI 앱에 공개해 어느 클라이언트든 쓰게 하는 프로그램.",
+        "example": "우리 DB용 MCP 서버를 쓰자 Claude가 그곳에 바로 질의할 수 있었다.",
+        "term": "MCP 서버"
+      },
+      "fr": {
+        "definition": "Un programme qui expose outils, données ou prompts aux applis IA via le Model Context Protocol, utilisable par tout client.",
+        "example": "On a écrit un serveur MCP pour notre base, et Claude a pu l'interroger directement.",
+        "term": "Serveur MCP"
+      },
+      "es": {
+        "definition": "Un programa que expone herramientas, datos o prompts a apps de IA mediante el Model Context Protocol, usable por cualquier cliente.",
+        "example": "Escribimos un servidor MCP para nuestra base y Claude pudo consultarla directamente.",
+        "term": "Servidor MCP"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-027",
+    "deck": "vibe-coding",
+    "term": "Cursor",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tooling",
+      "codegen"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An AI-first code editor built on VS Code, known for chat, inline edits, and an agent that works across a whole project.",
+        "example": "She moved from plain VS Code to Cursor for its whole-repo edits."
+      },
+      "ru": {
+        "definition": "ИИ-редактор кода на основе VS Code, известный чатом, встроенными правками и агентом, работающим по всему проекту.",
+        "example": "Она ушла с обычного VS Code на Cursor ради правок сразу по всему репозиторию.",
+        "term": "Cursor"
+      },
+      "ja": {
+        "definition": "VS Codeを基にしたAI主体のコードエディタ。チャット、インライン編集、プロジェクト全体で働くエージェントで知られる。",
+        "example": "彼女はリポジトリ全体の編集を求めて、素のVS CodeからCursorへ移った。",
+        "term": "Cursor"
+      },
+      "ko": {
+        "definition": "VS Code를 바탕으로 한 AI 우선 코드 에디터. 채팅, 인라인 편집, 프로젝트 전반에서 일하는 에이전트로 알려졌다.",
+        "example": "그녀는 저장소 전체 편집을 위해 순정 VS Code에서 Cursor로 옮겼다.",
+        "term": "Cursor"
+      },
+      "fr": {
+        "definition": "Un éditeur de code centré IA bâti sur VS Code, connu pour le chat, les éditions en ligne et un agent qui travaille sur tout le projet.",
+        "example": "Elle a quitté VS Code classique pour Cursor et ses éditions à l'échelle du dépôt.",
+        "term": "Cursor"
+      },
+      "es": {
+        "definition": "Un editor de código centrado en IA basado en VS Code, conocido por el chat, las ediciones en línea y un agente que trabaja en todo el proyecto.",
+        "example": "Ella dejó el VS Code normal por Cursor por sus ediciones a nivel de repositorio.",
+        "term": "Cursor"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-028",
+    "deck": "vibe-coding",
+    "term": "GitHub Copilot",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tooling",
+      "codegen"
+    ],
+    "locales": {
+      "en": {
+        "definition": "GitHub's AI coding assistant that suggests code in the editor and answers questions about a project.",
+        "example": "GitHub Copilot autocompleted the whole test file from a one-line comment."
+      },
+      "ru": {
+        "definition": "ИИ-ассистент GitHub для программирования: предлагает код прямо в редакторе и отвечает на вопросы по проекту.",
+        "example": "GitHub Copilot дописал весь файл тестов по одной строке-комментарию.",
+        "term": "GitHub Copilot"
+      },
+      "ja": {
+        "definition": "エディタ内でコードを提案し、プロジェクトへの質問に答えるGitHubのAIコーディング補助。",
+        "example": "GitHub Copilotは、一行のコメントからテストファイル全体を補完した。",
+        "term": "GitHub Copilot"
+      },
+      "ko": {
+        "definition": "에디터 안에서 코드를 제안하고 프로젝트에 관한 질문에 답하는 GitHub의 AI 코딩 보조.",
+        "example": "GitHub Copilot은 한 줄 주석만으로 테스트 파일 전체를 완성했다.",
+        "term": "GitHub Copilot"
+      },
+      "fr": {
+        "definition": "L'assistant de codage IA de GitHub qui suggère du code dans l'éditeur et répond aux questions sur un projet.",
+        "example": "GitHub Copilot a complété tout le fichier de tests à partir d'un commentaire d'une ligne.",
+        "term": "GitHub Copilot"
+      },
+      "es": {
+        "definition": "El asistente de codificación de IA de GitHub que sugiere código en el editor y responde preguntas sobre un proyecto.",
+        "example": "GitHub Copilot completó todo el archivo de pruebas a partir de un comentario de una línea.",
+        "term": "GitHub Copilot"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-029",
+    "deck": "vibe-coding",
+    "term": "Claude Code",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tooling",
+      "agents",
+      "codegen"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Anthropic's command-line coding agent that reads a repo, edits files, and runs tools from the terminal.",
+        "example": "I asked Claude Code to add logging and it patched every service in one pass."
+      },
+      "ru": {
+        "definition": "Кодинг-агент Anthropic для командной строки: читает репозиторий, правит файлы и запускает инструменты из терминала.",
+        "example": "Я попросил Claude Code добавить логирование, и он за один проход поправил все сервисы.",
+        "term": "Claude Code"
+      },
+      "ja": {
+        "definition": "リポジトリを読み、ファイルを編集し、ターミナルからツールを走らせるAnthropicのコマンドライン型コーディングエージェント。",
+        "example": "Claude Codeにログ追加を頼むと、一度の実行で全サービスに手を入れた。",
+        "term": "Claude Code"
+      },
+      "ko": {
+        "definition": "저장소를 읽고 파일을 고치고 터미널에서 도구를 돌리는 Anthropic의 명령줄 코딩 에이전트.",
+        "example": "Claude Code에 로깅 추가를 부탁하자 한 번에 모든 서비스를 손봤다.",
+        "term": "Claude Code"
+      },
+      "fr": {
+        "definition": "L'agent de codage en ligne de commande d'Anthropic qui lit un dépôt, modifie des fichiers et lance des outils depuis le terminal.",
+        "example": "J'ai demandé à Claude Code d'ajouter des logs : il a patché tous les services d'un coup.",
+        "term": "Claude Code"
+      },
+      "es": {
+        "definition": "El agente de codificación de línea de comandos de Anthropic que lee un repositorio, edita archivos y ejecuta herramientas desde la terminal.",
+        "example": "Le pedí a Claude Code añadir logs y parcheó todos los servicios de una pasada.",
+        "term": "Claude Code"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-030",
+    "deck": "vibe-coding",
+    "term": "Agent mode",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tooling",
+      "agents",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An editor or tool setting that lets the AI act on its own — editing files and running commands — instead of only suggesting.",
+        "example": "Flip on agent mode and it will refactor the module without you approving each line."
+      },
+      "ru": {
+        "definition": "Настройка редактора или инструмента, дающая ИИ действовать самому — править файлы и запускать команды, — а не только подсказывать.",
+        "example": "Включи агентный режим, и он отрефакторит модуль, не спрашивая одобрения на каждую строку.",
+        "term": "Агентный режим"
+      },
+      "ja": {
+        "definition": "AIが提案だけでなく、ファイル編集やコマンド実行まで自ら行えるようにするエディタやツールの設定。",
+        "example": "エージェントモードを入れれば、各行の承認なしでモジュールをリファクタしてくれる。",
+        "term": "エージェントモード"
+      },
+      "ko": {
+        "definition": "AI가 제안에 그치지 않고 파일 편집과 명령 실행까지 스스로 하도록 하는 에디터나 도구의 설정.",
+        "example": "에이전트 모드를 켜면 줄마다 승인받지 않고도 모듈을 리팩터링한다.",
+        "term": "에이전트 모드"
+      },
+      "fr": {
+        "definition": "Un réglage d'éditeur ou d'outil qui laisse l'IA agir seule — modifier des fichiers, lancer des commandes — au lieu de seulement suggérer.",
+        "example": "Active le mode agent et il refactorise le module sans te faire valider chaque ligne.",
+        "term": "Mode agent"
+      },
+      "es": {
+        "definition": "Un ajuste del editor o la herramienta que deja a la IA actuar sola —editar archivos, ejecutar comandos— en vez de solo sugerir.",
+        "example": "Activa el modo agente y refactoriza el módulo sin pedirte aprobar cada línea.",
+        "term": "Modo agente"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-031",
+    "deck": "vibe-coding",
+    "term": "Autocomplete",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "codegen",
+      "tooling",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Real-time suggestions that finish the code you are typing based on the surrounding context.",
+        "example": "Autocomplete guessed the entire loop body after I wrote the signature."
+      },
+      "ru": {
+        "definition": "Подсказки в реальном времени, которые дописывают код по мере набора, опираясь на окружающий контекст.",
+        "example": "Автодополнение угадало всё тело цикла, стоило мне написать сигнатуру.",
+        "term": "Автодополнение"
+      },
+      "ja": {
+        "definition": "周囲の文脈をもとに、入力中のコードを補う実時間の候補提示。",
+        "example": "シグネチャを書いた途端、オートコンプリートがループの中身をまるごと当てた。",
+        "term": "オートコンプリート"
+      },
+      "ko": {
+        "definition": "주변 문맥을 바탕으로 지금 입력 중인 코드를 채워 주는 실시간 제안.",
+        "example": "시그니처를 쓰자마자 자동 완성이 루프 본문을 통째로 맞혔다.",
+        "term": "자동 완성"
+      },
+      "fr": {
+        "definition": "Des suggestions en temps réel qui terminent le code que vous tapez d'après le contexte alentour.",
+        "example": "L'autocomplétion a deviné tout le corps de la boucle dès que j'ai écrit la signature.",
+        "term": "Autocomplétion"
+      },
+      "es": {
+        "definition": "Sugerencias en tiempo real que terminan el código que escribes según el contexto de alrededor.",
+        "example": "El autocompletado adivinó todo el cuerpo del bucle en cuanto escribí la firma.",
+        "term": "Autocompletado"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-032",
+    "deck": "vibe-coding",
+    "term": "Tab completion",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tooling",
+      "codegen",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Accepting an inline AI suggestion by pressing Tab, letting you write code in quick confirmed bursts.",
+        "example": "He wrote the parser mostly by tab completion, hitting Tab line after line."
+      },
+      "ru": {
+        "definition": "Приём инлайн-подсказки ИИ нажатием Tab, позволяющий писать код быстрыми подтверждёнными рывками.",
+        "example": "Парсер он написал в основном по Tab — жал клавишу строка за строкой.",
+        "term": "Дополнение по Tab"
+      },
+      "ja": {
+        "definition": "AIのインライン候補をTabキーで受け入れ、確定しながら素早くコードを書く方法。",
+        "example": "彼はパーサーをほぼTabで書いた——一行ずつTabを押して。",
+        "term": "Tab補完"
+      },
+      "ko": {
+        "definition": "AI의 인라인 제안을 Tab 키로 받아들여, 확정하며 빠르게 코드를 쓰는 방법.",
+        "example": "그는 파서를 거의 Tab으로 썼다. 한 줄씩 Tab을 눌러 가며.",
+        "term": "Tab 완성"
+      },
+      "fr": {
+        "definition": "Accepter une suggestion IA en ligne d'une pression sur Tab, pour écrire du code par rafales confirmées.",
+        "example": "Il a écrit le parseur surtout par Tab, appuyant sur la touche ligne après ligne.",
+        "term": "Complétion par Tab"
+      },
+      "es": {
+        "definition": "Aceptar una sugerencia en línea de la IA pulsando Tab, para escribir código en ráfagas confirmadas.",
+        "example": "Escribió el parser casi todo con Tab, pulsando la tecla línea tras línea.",
+        "term": "Completado con Tab"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-033",
+    "deck": "vibe-coding",
+    "term": "Slash command",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tooling",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A shortcut typed with a leading slash that triggers a predefined action or prompt in an AI tool.",
+        "example": "Typing /test told the agent to generate and run unit tests."
+      },
+      "ru": {
+        "definition": "Короткая команда с ведущим слэшем, запускающая заранее заданное действие или промпт в ИИ-инструменте.",
+        "example": "Набор /test велел агенту сгенерировать и прогнать модульные тесты.",
+        "term": "Слэш-команда"
+      },
+      "ja": {
+        "definition": "先頭にスラッシュを付けて打ち、AIツールで定義済みの動作やプロンプトを起動する近道。",
+        "example": "/testと打つと、エージェントに単体テストの生成と実行を指示できた。",
+        "term": "スラッシュコマンド"
+      },
+      "ko": {
+        "definition": "앞에 슬래시를 붙여 입력해, AI 도구에서 미리 정한 동작이나 프롬프트를 부르는 지름길.",
+        "example": "/test를 입력하자 에이전트에게 단위 테스트 생성과 실행을 시킬 수 있었다.",
+        "term": "슬래시 명령"
+      },
+      "fr": {
+        "definition": "Un raccourci tapé avec une barre oblique en tête qui déclenche une action ou un prompt prédéfini dans un outil IA.",
+        "example": "Taper /test disait à l'agent de générer et lancer les tests unitaires.",
+        "term": "Commande slash"
+      },
+      "es": {
+        "definition": "Un atajo tecleado con una barra inicial que dispara una acción o prompt predefinido en una herramienta de IA.",
+        "example": "Teclear /test le decía al agente que generara y corriera las pruebas unitarias.",
+        "term": "Comando de barra"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-034",
+    "deck": "vibe-coding",
+    "term": "Reasoning model",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "models",
+      "reasoning"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A model tuned to work through problems in explicit steps before answering, trading speed for stronger logic.",
+        "example": "For the tricky algorithm we switched to a reasoning model and it caught the edge case."
+      },
+      "ru": {
+        "definition": "Модель, настроенная разбирать задачу явными шагами перед ответом, жертвуя скоростью ради более крепкой логики.",
+        "example": "Для хитрого алгоритма мы взяли рассуждающую модель, и она поймала краевой случай.",
+        "term": "Рассуждающая модель"
+      },
+      "ja": {
+        "definition": "答える前に問題を明示的な段階で解くよう調整されたモデル。速度を犠牲に論理を強める。",
+        "example": "厄介なアルゴリズムでは推論モデルに切り替え、境界ケースを捉えた。",
+        "term": "推論モデル"
+      },
+      "ko": {
+        "definition": "답하기 전에 문제를 명시적 단계로 풀도록 조정된 모델. 속도를 내주고 논리를 강화한다.",
+        "example": "까다로운 알고리즘에선 추론 모델로 바꾸자 경계 사례를 잡아냈다.",
+        "term": "추론 모델"
+      },
+      "fr": {
+        "definition": "Un modèle réglé pour décomposer un problème en étapes explicites avant de répondre, troquant la vitesse contre plus de logique.",
+        "example": "Pour l'algo épineux, on est passés à un modèle de raisonnement et il a saisi le cas limite.",
+        "term": "Modèle de raisonnement"
+      },
+      "es": {
+        "definition": "Un modelo ajustado para resolver un problema en pasos explícitos antes de responder, cambiando velocidad por más lógica.",
+        "example": "Para el algoritmo peliagudo cambiamos a un modelo de razonamiento y captó el caso límite.",
+        "term": "Modelo de razonamiento"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-035",
+    "deck": "vibe-coding",
+    "term": "Extended thinking",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "models",
+      "reasoning"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A mode where a model spends extra compute reasoning privately before it responds, improving hard answers.",
+        "example": "With extended thinking on, it planned the migration before writing a single line."
+      },
+      "ru": {
+        "definition": "Режим, в котором модель тратит дополнительные вычисления на скрытое рассуждение перед ответом, улучшая сложные случаи.",
+        "example": "С расширенным мышлением она спланировала миграцию до первой строки кода.",
+        "term": "Расширенное мышление"
+      },
+      "ja": {
+        "definition": "モデルが応答前に余分な計算を使って内部で推論し、難しい答えを改善するモード。",
+        "example": "拡張思考を入れると、一行も書く前に移行計画を立てた。",
+        "term": "拡張思考"
+      },
+      "ko": {
+        "definition": "모델이 응답 전에 추가 연산으로 속으로 추론해, 어려운 답을 개선하는 모드.",
+        "example": "확장 사고를 켜자 한 줄도 쓰기 전에 마이그레이션을 계획했다.",
+        "term": "확장 사고"
+      },
+      "fr": {
+        "definition": "Un mode où le modèle consacre plus de calcul à raisonner en privé avant de répondre, ce qui améliore les cas difficiles.",
+        "example": "Avec la réflexion étendue, il a planifié la migration avant d'écrire une seule ligne.",
+        "term": "Réflexion étendue"
+      },
+      "es": {
+        "definition": "Un modo en que el modelo gasta cómputo extra razonando en privado antes de responder, mejorando las respuestas difíciles.",
+        "example": "Con el pensamiento extendido, planificó la migración antes de escribir una sola línea.",
+        "term": "Pensamiento extendido"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-036",
+    "deck": "vibe-coding",
+    "term": "Diff",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "workflow",
+      "codegen"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A view of proposed changes showing added and removed lines, so you can review before applying them.",
+        "example": "The agent showed a diff and I accepted only the parts I trusted."
+      },
+      "ru": {
+        "definition": "Показ предлагаемых изменений с добавленными и удалёнными строками, чтобы просмотреть их перед применением.",
+        "example": "Агент показал дифф, и я принял только те куски, которым доверял.",
+        "term": "Дифф"
+      },
+      "ja": {
+        "definition": "追加行と削除行を示し、適用前に確認できる、提案された変更の表示。",
+        "example": "エージェントが差分を示し、信頼できる部分だけ受け入れた。",
+        "term": "差分（Diff）"
+      },
+      "ko": {
+        "definition": "추가된 줄과 삭제된 줄을 보여, 적용 전에 살펴볼 수 있는 제안 변경의 표시.",
+        "example": "에이전트가 diff를 보여 줘, 믿을 만한 부분만 받아들였다.",
+        "term": "차이(Diff)"
+      },
+      "fr": {
+        "definition": "Une vue des changements proposés montrant lignes ajoutées et supprimées, pour relire avant d'appliquer.",
+        "example": "L'agent a montré un diff et je n'ai accepté que les parties de confiance.",
+        "term": "Diff"
+      },
+      "es": {
+        "definition": "Una vista de los cambios propuestos que muestra líneas añadidas y borradas, para revisar antes de aplicar.",
+        "example": "El agente mostró un diff y solo acepté las partes que me daban confianza.",
+        "term": "Diff"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-037",
+    "deck": "vibe-coding",
+    "term": "Checkpoint",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tooling",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A saved snapshot of project state you can return to if an AI's later changes go wrong.",
+        "example": "Before the big refactor I set a checkpoint to roll back to."
+      },
+      "ru": {
+        "definition": "Сохранённый снимок состояния проекта, к которому можно вернуться, если поздние правки ИИ пошли не так.",
+        "example": "Перед большим рефакторингом я поставил контрольную точку для отката.",
+        "term": "Контрольная точка"
+      },
+      "ja": {
+        "definition": "AIの後の変更が失敗したときに戻れる、プロジェクト状態の保存済みスナップショット。",
+        "example": "大きなリファクタの前に、戻れるようチェックポイントを打った。",
+        "term": "チェックポイント"
+      },
+      "ko": {
+        "definition": "AI의 이후 변경이 잘못됐을 때 되돌아갈 수 있는, 프로젝트 상태의 저장된 스냅숏.",
+        "example": "큰 리팩터링에 앞서 되돌아갈 체크포인트를 찍어 두었다.",
+        "term": "체크포인트"
+      },
+      "fr": {
+        "definition": "Un instantané enregistré de l'état du projet où revenir si des changements ultérieurs de l'IA tournent mal.",
+        "example": "Avant le gros refactoring, j'ai posé un point de restauration pour pouvoir revenir.",
+        "term": "Point de restauration"
+      },
+      "es": {
+        "definition": "Una instantánea guardada del estado del proyecto a la que volver si cambios posteriores de la IA salen mal.",
+        "example": "Antes del gran refactor puse un punto de control para poder revertir.",
+        "term": "Punto de control"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-038",
+    "deck": "vibe-coding",
+    "term": "Streaming",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "models",
+      "tooling",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Delivering a model's output token by token as it is generated, so text appears gradually instead of all at once.",
+        "example": "Streaming let us watch the explanation build instead of staring at a spinner."
+      },
+      "ru": {
+        "definition": "Выдача ответа модели токен за токеном по мере генерации, так что текст появляется постепенно, а не разом.",
+        "example": "Стриминг позволил видеть, как складывается объяснение, а не смотреть на крутилку.",
+        "term": "Стриминг"
+      },
+      "ja": {
+        "definition": "モデルの出力を生成しながらトークンごとに届け、テキストを一度でなく徐々に表示すること。",
+        "example": "ストリーミングのおかげで、回転アイコンでなく説明が組み上がる様子を見られた。",
+        "term": "ストリーミング"
+      },
+      "ko": {
+        "definition": "모델의 출력을 생성하는 대로 토큰씩 전해, 텍스트가 한꺼번에가 아니라 점점 나타나게 하는 것.",
+        "example": "스트리밍 덕에 로딩 아이콘 대신 설명이 쌓이는 걸 볼 수 있었다.",
+        "term": "스트리밍"
+      },
+      "fr": {
+        "definition": "Livrer la sortie d'un modèle token par token à mesure qu'elle se génère, le texte apparaissant peu à peu plutôt que d'un bloc.",
+        "example": "Le streaming laissait voir l'explication se construire au lieu de fixer un indicateur qui tourne.",
+        "term": "Streaming"
+      },
+      "es": {
+        "definition": "Entregar la salida de un modelo token a token según se genera, para que el texto aparezca poco a poco y no de golpe.",
+        "example": "El streaming dejaba ver cómo se armaba la explicación en vez de mirar un icono girando.",
+        "term": "Streaming"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-039",
+    "deck": "vibe-coding",
+    "term": "Eval",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "evaluation",
+      "models"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A test that measures how well a model or agent performs on a task, used to compare versions and catch regressions.",
+        "example": "Our eval scored each prompt on 200 cases before we shipped the change."
+      },
+      "ru": {
+        "definition": "Тест, измеряющий, насколько хорошо модель или агент справляется с задачей; служит для сравнения версий и отлова регрессий.",
+        "example": "Наш эвал прогонял каждый промпт на 200 случаях перед выкаткой изменения.",
+        "term": "Эвал"
+      },
+      "ja": {
+        "definition": "モデルやエージェントが課題をどれだけこなせるかを測るテスト。版の比較や退行の検知に使う。",
+        "example": "私たちの評価は、変更を出す前に各プロンプトを200件で採点した。",
+        "term": "評価（Eval）"
+      },
+      "ko": {
+        "definition": "모델이나 에이전트가 과제를 얼마나 잘 해내는지 재는 테스트. 버전 비교와 회귀 탐지에 쓴다.",
+        "example": "우리 평가는 변경을 내보내기 전에 각 프롬프트를 200건으로 채점했다.",
+        "term": "평가(Eval)"
+      },
+      "fr": {
+        "definition": "Un test qui mesure la performance d'un modèle ou d'un agent sur une tâche, pour comparer les versions et repérer les régressions.",
+        "example": "Notre éval notait chaque prompt sur 200 cas avant de livrer le changement.",
+        "term": "Éval"
+      },
+      "es": {
+        "definition": "Una prueba que mide qué tan bien rinde un modelo o agente en una tarea, para comparar versiones y cazar regresiones.",
+        "example": "Nuestra eval puntuaba cada prompt sobre 200 casos antes de lanzar el cambio.",
+        "term": "Eval"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-040",
+    "deck": "vibe-coding",
+    "term": "Token cost",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "models",
+      "evaluation",
+      "culture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The price of a request, driven by how many tokens of input and output it consumes.",
+        "example": "Trimming the system prompt dropped our token cost per call noticeably."
+      },
+      "ru": {
+        "definition": "Цена запроса, зависящая от того, сколько токенов входа и выхода он расходует.",
+        "example": "Урезав системный промпт, мы заметно снизили стоимость каждого вызова в токенах.",
+        "term": "Стоимость в токенах"
+      },
+      "ja": {
+        "definition": "入出力のトークン数で決まる、リクエストの料金。",
+        "example": "システムプロンプトを削ると、呼び出しごとのトークンコストが目に見えて下がった。",
+        "term": "トークンコスト"
+      },
+      "ko": {
+        "definition": "입력과 출력의 토큰 수에 따라 정해지는 요청의 값.",
+        "example": "시스템 프롬프트를 줄이자 호출당 토큰 비용이 눈에 띄게 낮아졌다.",
+        "term": "토큰 비용"
+      },
+      "fr": {
+        "definition": "Le prix d'une requête, fonction du nombre de tokens d'entrée et de sortie qu'elle consomme.",
+        "example": "En raccourcissant le prompt système, on a nettement baissé le coût en tokens par appel.",
+        "term": "Coût en tokens"
+      },
+      "es": {
+        "definition": "El precio de una petición, según cuántos tokens de entrada y salida consume.",
+        "example": "Al recortar el prompt de sistema, bajó notablemente el coste en tokens por llamada.",
+        "term": "Coste en tokens"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-041",
+    "deck": "vibe-coding",
+    "term": "Rate limit",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tooling",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A cap on how many requests or tokens you may send in a period, enforced by an API provider.",
+        "example": "The batch job hit the rate limit and had to back off and retry."
+      },
+      "ru": {
+        "definition": "Ограничение на число запросов или токенов за период, которое устанавливает поставщик API.",
+        "example": "Пакетная задача упёрлась в лимит запросов и ушла на паузу с повторами.",
+        "term": "Лимит запросов"
+      },
+      "ja": {
+        "definition": "一定時間に送れるリクエストやトークンの数にかかる上限。API提供者が課す。",
+        "example": "バッチ処理はレート制限に達し、待って再試行する羽目になった。",
+        "term": "レート制限"
+      },
+      "ko": {
+        "definition": "일정 기간에 보낼 수 있는 요청이나 토큰 수에 걸리는 상한. API 제공자가 건다.",
+        "example": "배치 작업이 요청 제한에 걸려 물러났다가 재시도해야 했다.",
+        "term": "요청 제한"
+      },
+      "fr": {
+        "definition": "Un plafond sur le nombre de requêtes ou de tokens envoyés sur une période, imposé par un fournisseur d'API.",
+        "example": "Le traitement par lots a atteint la limite de débit et a dû temporiser puis réessayer.",
+        "term": "Limite de débit"
+      },
+      "es": {
+        "definition": "Un tope de cuántas peticiones o tokens puedes enviar en un periodo, impuesto por un proveedor de API.",
+        "example": "El trabajo por lotes chocó con el límite de tasa y tuvo que esperar y reintentar.",
+        "term": "Límite de tasa"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-042",
+    "deck": "vibe-coding",
+    "term": "Ship it",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "vibe-coding",
+      "culture"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A rallying phrase for releasing quickly, often after AI did the heavy lifting and the author trusts it enough to deploy.",
+        "example": "Tests pass, looks fine — ship it."
+      },
+      "ru": {
+        "definition": "Клич о быстром релизе — часто после того, как основную работу сделал ИИ, а автор доверяет результату настолько, что выкатывает.",
+        "example": "Тесты зелёные, на вид норм — катим в прод.",
+        "term": "Катим в прод"
+      },
+      "ja": {
+        "definition": "素早く出そうという掛け声。多くはAIが大半を仕上げ、作者が任せられると信じて出す時に使う。",
+        "example": "テストは緑、見た目も問題ない——シップイット。",
+        "term": "シップイット"
+      },
+      "ko": {
+        "definition": "빨리 내보내자는 구호. 흔히 AI가 대부분을 끝내고 작자가 믿고 내보낼 때 쓴다.",
+        "example": "테스트 통과, 보기에도 괜찮아 — 배포 고고.",
+        "term": "배포 고고"
+      },
+      "fr": {
+        "definition": "Un cri de ralliement pour publier vite, souvent après que l'IA a fait le gros du travail et que l'auteur s'y fie assez pour déployer.",
+        "example": "Les tests passent, ça a l'air bon — on livre.",
+        "term": "On livre"
+      },
+      "es": {
+        "definition": "Un grito de guerra para publicar rápido, muchas veces tras hacer la IA el grueso y confiar el autor lo bastante para desplegar.",
+        "example": "Pruebas en verde, tiene buena pinta — a producción.",
+        "term": "A producción"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-043",
+    "deck": "vibe-coding",
+    "term": "Agentic engineering",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "vibe-coding",
+      "agents",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A discipline of building software by directing AI agents, focusing human effort on specs, review, and coordination.",
+        "example": "Their team reorganized around agentic engineering, with fewer hands writing code directly."
+      },
+      "ru": {
+        "definition": "Дисциплина создания софта через управление ИИ-агентами, где силы человека уходят на спеки, ревью и координацию.",
+        "example": "Команда перестроилась вокруг агентной инженерии — руками код пишут всё реже.",
+        "term": "Агентная инженерия"
+      },
+      "ja": {
+        "definition": "AIエージェントを指揮してソフトを作る流儀。人の力は仕様・レビュー・調整に注がれる。",
+        "example": "チームはエージェント型エンジニアリングへ組み替え、手でコードを書くことは減った。",
+        "term": "エージェント型エンジニアリング"
+      },
+      "ko": {
+        "definition": "AI 에이전트를 지휘해 소프트웨어를 만드는 방식. 사람의 힘은 명세·리뷰·조율에 쏠린다.",
+        "example": "팀은 에이전트형 엔지니어링으로 재편했고, 손으로 코드를 짜는 일은 줄었다.",
+        "term": "에이전트형 엔지니어링"
+      },
+      "fr": {
+        "definition": "Une discipline de fabrication logicielle par le pilotage d'agents IA, l'effort humain portant sur specs, revue et coordination.",
+        "example": "Leur équipe s'est réorganisée autour de l'ingénierie agentique, avec moins de code écrit à la main.",
+        "term": "Ingénierie agentique"
+      },
+      "es": {
+        "definition": "Una disciplina de construir software dirigiendo agentes de IA, con el esfuerzo humano en especificaciones, revisión y coordinación.",
+        "example": "Su equipo se reorganizó en torno a la ingeniería agéntica, con menos código escrito a mano.",
+        "term": "Ingeniería agéntica"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-044",
+    "deck": "vibe-coding",
+    "term": "Spec-driven development",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "vibe-coding",
+      "workflow",
+      "codegen"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An approach where you first write a clear specification and let AI turn it into a plan, tasks, and code.",
+        "example": "Spec-driven development meant arguing about the doc, not the pull request."
+      },
+      "ru": {
+        "definition": "Подход, где сперва пишут ясную спецификацию, а ИИ превращает её в план, задачи и код.",
+        "example": "Разработка от спецификации перенесла споры в документ, а не в пул-реквест.",
+        "term": "Разработка от спецификации"
+      },
+      "ja": {
+        "definition": "まず明確な仕様を書き、それをAIが計画・タスク・コードへと変えていく手法。",
+        "example": "仕様駆動開発では、議論はプルリクでなくドキュメントで起きた。",
+        "term": "仕様駆動開発"
+      },
+      "ko": {
+        "definition": "먼저 명확한 명세를 쓰고, 그것을 AI가 계획·과제·코드로 바꾸게 하는 접근.",
+        "example": "명세 기반 개발에선 논쟁이 풀 리퀘스트가 아니라 문서에서 벌어졌다.",
+        "term": "명세 기반 개발"
+      },
+      "fr": {
+        "definition": "Une approche où l'on écrit d'abord une spécification claire, que l'IA transforme en plan, tâches et code.",
+        "example": "Cette approche déplaçait les débats vers le document, pas la pull request.",
+        "term": "Développement piloté par la spécification"
+      },
+      "es": {
+        "definition": "Un enfoque donde primero escribes una especificación clara y dejas que la IA la convierta en plan, tareas y código.",
+        "example": "Este enfoque llevó las discusiones al documento, no al pull request.",
+        "term": "Desarrollo guiado por especificación"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-045",
+    "deck": "vibe-coding",
+    "term": "Prompt template",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "prompting",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A reusable prompt with placeholders you fill in per request, keeping instructions consistent across calls.",
+        "example": "We stored a prompt template so every summary followed the same format."
+      },
+      "ru": {
+        "definition": "Многоразовый промпт с подстановками, которые заполняют под каждый запрос, сохраняя единообразие инструкций.",
+        "example": "Мы держали шаблон промпта, чтобы каждая сводка выходила в одном формате.",
+        "term": "Шаблон промпта"
+      },
+      "ja": {
+        "definition": "要求ごとに埋める差し込み欄を持つ再利用可能なプロンプト。指示の一貫性を保つ。",
+        "example": "プロンプトテンプレートを用意し、どの要約も同じ形式で出るようにした。",
+        "term": "プロンプトテンプレート"
+      },
+      "ko": {
+        "definition": "요청마다 채우는 자리표시자를 지닌 재사용 프롬프트. 지시의 일관성을 지킨다.",
+        "example": "프롬프트 템플릿을 두어 어떤 요약이든 같은 형식으로 나오게 했다.",
+        "term": "프롬프트 템플릿"
+      },
+      "fr": {
+        "definition": "Un prompt réutilisable à trous que l'on remplit à chaque requête, gardant les instructions cohérentes d'un appel à l'autre.",
+        "example": "On stockait un modèle de prompt pour que chaque résumé suive le même format.",
+        "term": "Modèle de prompt"
+      },
+      "es": {
+        "definition": "Un prompt reutilizable con huecos que rellenas en cada petición, manteniendo las instrucciones coherentes entre llamadas.",
+        "example": "Guardábamos una plantilla de prompt para que cada resumen saliera con el mismo formato.",
+        "term": "Plantilla de prompt"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-046",
+    "deck": "vibe-coding",
+    "term": "Structured output",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "prompting",
+      "tooling"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Model responses forced into a fixed shape, like JSON matching a schema, so code can parse them reliably.",
+        "example": "Structured output returned clean JSON we dropped straight into the database."
+      },
+      "ru": {
+        "definition": "Ответы модели, загнанные в фиксированную форму — например, JSON по схеме, — чтобы код надёжно их разбирал.",
+        "example": "Структурированный вывод вернул чистый JSON, который мы сразу положили в базу.",
+        "term": "Структурированный вывод"
+      },
+      "ja": {
+        "definition": "スキーマに沿うJSONなど、決まった形に固めたモデルの応答。コードが確実に解析できる。",
+        "example": "構造化出力がきれいなJSONを返し、そのままDBへ入れられた。",
+        "term": "構造化出力"
+      },
+      "ko": {
+        "definition": "스키마에 맞는 JSON처럼 정해진 형태로 굳힌 모델 응답. 코드가 안정적으로 파싱한다.",
+        "example": "구조화 출력이 깔끔한 JSON을 돌려줘 곧장 DB에 넣었다.",
+        "term": "구조화 출력"
+      },
+      "fr": {
+        "definition": "Des réponses du modèle forcées dans une forme fixe, comme du JSON conforme à un schéma, que le code analyse de façon fiable.",
+        "example": "La sortie structurée renvoyait un JSON propre qu'on déposait direct en base.",
+        "term": "Sortie structurée"
+      },
+      "es": {
+        "definition": "Respuestas del modelo forzadas a una forma fija, como JSON conforme a un esquema, para que el código las analice con fiabilidad.",
+        "example": "La salida estructurada devolvía un JSON limpio que metíamos directo en la base.",
+        "term": "Salida estructurada"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-047",
+    "deck": "vibe-coding",
+    "term": "Codebase indexing",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "tooling",
+      "rag",
+      "codegen"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Building a searchable map of a project so an AI can quickly retrieve the files relevant to a task.",
+        "example": "After codebase indexing, the assistant jumped to the right function instantly."
+      },
+      "ru": {
+        "definition": "Построение поисковой карты проекта, чтобы ИИ быстро доставал файлы, относящиеся к задаче.",
+        "example": "После индексации кодовой базы ассистент мгновенно прыгал к нужной функции.",
+        "term": "Индексация кодовой базы"
+      },
+      "ja": {
+        "definition": "AIが課題に関わるファイルを素早く取り出せるよう、プロジェクトの検索可能な地図を作ること。",
+        "example": "コードベースをインデックス化すると、アシスタントは目的の関数へ即座に飛んだ。",
+        "term": "コードベースのインデックス化"
+      },
+      "ko": {
+        "definition": "AI가 과제에 관련된 파일을 빨리 꺼내도록, 프로젝트의 검색 가능한 지도를 만드는 것.",
+        "example": "코드베이스 인덱싱 뒤 어시스턴트는 원하는 함수로 곧바로 건너뛰었다.",
+        "term": "코드베이스 인덱싱"
+      },
+      "fr": {
+        "definition": "Bâtir une carte cherchable d'un projet pour que l'IA retrouve vite les fichiers utiles à une tâche.",
+        "example": "Après l'indexation du code, l'assistant sautait aussitôt à la bonne fonction.",
+        "term": "Indexation du code"
+      },
+      "es": {
+        "definition": "Construir un mapa buscable de un proyecto para que la IA recupere rápido los archivos relevantes para una tarea.",
+        "example": "Tras indexar el código, el asistente saltaba al instante a la función correcta.",
+        "term": "Indexación del código"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-048",
+    "deck": "vibe-coding",
+    "term": "Background agent",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "tooling",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An agent that runs a task on its own away from the editor, reporting back when the work is finished.",
+        "example": "I dispatched a background agent to update the docs while I kept coding."
+      },
+      "ru": {
+        "definition": "Агент, выполняющий задачу сам в стороне от редактора и сообщающий о результате, когда работа закончена.",
+        "example": "Я отправил фонового агента обновить документацию, а сам продолжил писать код.",
+        "term": "Фоновый агент"
+      },
+      "ja": {
+        "definition": "エディタから離れて自らタスクを走らせ、作業が終わると結果を報告するエージェント。",
+        "example": "バックグラウンドエージェントに文書更新を任せ、自分はコードを書き続けた。",
+        "term": "バックグラウンドエージェント"
+      },
+      "ko": {
+        "definition": "에디터에서 떨어져 스스로 과제를 돌리고, 작업이 끝나면 결과를 알려 오는 에이전트.",
+        "example": "백그라운드 에이전트에 문서 갱신을 맡기고 나는 코딩을 이어 갔다.",
+        "term": "백그라운드 에이전트"
+      },
+      "fr": {
+        "definition": "Un agent qui mène une tâche seul, à l'écart de l'éditeur, et rend compte une fois le travail terminé.",
+        "example": "J'ai lancé un agent en arrière-plan pour mettre à jour la doc pendant que je continuais à coder.",
+        "term": "Agent en arrière-plan"
+      },
+      "es": {
+        "definition": "Un agente que ejecuta una tarea por su cuenta, lejos del editor, e informa cuando el trabajo termina.",
+        "example": "Lancé un agente en segundo plano para actualizar la documentación mientras yo seguía programando.",
+        "term": "Agente en segundo plano"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-049",
+    "deck": "vibe-coding",
+    "term": "Test generation",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "codegen",
+      "workflow"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Having AI write test cases for existing code to check its behavior and guard against regressions.",
+        "example": "Test generation gave us 40 cases for the parser we'd been too lazy to cover."
+      },
+      "ru": {
+        "definition": "Написание ИИ тестовых случаев для существующего кода, чтобы проверить поведение и защититься от регрессий.",
+        "example": "Генерация тестов дала нам 40 случаев для парсера, до которого не доходили руки.",
+        "term": "Генерация тестов"
+      },
+      "ja": {
+        "definition": "既存コードの挙動を確かめ、退行を防ぐために、AIにテストケースを書かせること。",
+        "example": "テスト生成が、後回しにしていたパーサーに40件のケースを用意してくれた。",
+        "term": "テスト生成"
+      },
+      "ko": {
+        "definition": "기존 코드의 동작을 확인하고 회귀를 막기 위해, AI에게 테스트 케이스를 쓰게 하는 것.",
+        "example": "테스트 생성이, 미뤄 두던 파서에 40건의 케이스를 마련해 주었다.",
+        "term": "테스트 생성"
+      },
+      "fr": {
+        "definition": "Faire écrire par l'IA des cas de test pour du code existant, afin d'en vérifier le comportement et de prévenir les régressions.",
+        "example": "La génération de tests nous a donné 40 cas pour le parseur qu'on rechignait à couvrir.",
+        "term": "Génération de tests"
+      },
+      "es": {
+        "definition": "Hacer que la IA escriba casos de prueba para código existente, para comprobar su comportamiento y prevenir regresiones.",
+        "example": "La generación de pruebas nos dio 40 casos para el parser que nos daba pereza cubrir.",
+        "term": "Generación de pruebas"
+      }
+    }
+  },
+  {
+    "id": "vibe-coding-050",
+    "deck": "vibe-coding",
+    "term": "Code review agent",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "agents",
+      "workflow",
+      "codegen"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An AI that reads a proposed change and flags bugs, style issues, or risks like a human reviewer would.",
+        "example": "The code review agent caught a race condition two humans had missed."
+      },
+      "ru": {
+        "definition": "ИИ, который читает предложенное изменение и отмечает баги, огрехи стиля или риски — как это делал бы рецензент-человек.",
+        "example": "Агент код-ревью поймал гонку потоков, которую двое людей проглядели.",
+        "term": "Агент код-ревью"
+      },
+      "ja": {
+        "definition": "提案された変更を読み、人のレビュアーのようにバグやスタイルの難、リスクを指摘するAI。",
+        "example": "コードレビューエージェントが、二人が見落とした競合状態を捉えた。",
+        "term": "コードレビューエージェント"
+      },
+      "ko": {
+        "definition": "제안된 변경을 읽고 사람 리뷰어처럼 버그, 스타일 문제, 위험을 짚어 주는 AI.",
+        "example": "코드 리뷰 에이전트가 두 사람이 놓친 경쟁 상태를 잡아냈다.",
+        "term": "코드 리뷰 에이전트"
+      },
+      "fr": {
+        "definition": "Une IA qui lit un changement proposé et signale bugs, écarts de style ou risques, comme le ferait un relecteur humain.",
+        "example": "L'agent de revue a repéré une condition de course que deux humains avaient manquée.",
+        "term": "Agent de revue de code"
+      },
+      "es": {
+        "definition": "Una IA que lee un cambio propuesto y señala errores, problemas de estilo o riesgos, como haría un revisor humano.",
+        "example": "El agente de revisión cazó una condición de carrera que a dos personas se les escapó.",
+        "term": "Agente de revisión de código"
+      }
+    }
+  }
+]

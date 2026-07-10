@@ -1,0 +1,3315 @@
+[
+  {
+    "id": "cyberpunk-001",
+    "deck": "cyberpunk",
+    "term": "Cyberpunk",
+    "origin": "Bethke, 1983",
+    "difficulty": 1,
+    "tags": [
+      "canon",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sci-fi genre of high technology and social decay, where hackers and outcasts scrape by under corporate rule.",
+        "example": "Neon rain, chrome implants, a rogue coder for hire — pure cyberpunk."
+      },
+      "ru": {
+        "definition": "Фантастический жанр о высоких технологиях и социальном упадке, где хакеры и изгои выживают под властью корпораций.",
+        "example": "Неоновый дождь, хромированные импланты, кодер-одиночка по найму — вот это киберпанк.",
+        "term": "Киберпанк"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-002",
+    "deck": "cyberpunk",
+    "term": "Cyberspace",
+    "origin": "Gibson, Burning Chrome, 1982",
+    "difficulty": 1,
+    "tags": [
+      "net",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The imagined space you move through when your mind is connected to a computer network.",
+        "example": "She closed her eyes, jacked in, and the city fell away into cyberspace."
+      },
+      "ru": {
+        "definition": "Воображаемое пространство, по которому движется разум, подключённый к компьютерной сети.",
+        "example": "Она закрыла глаза, подключилась — и город растаял, оставив одно киберпространство.",
+        "term": "Киберпространство"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-003",
+    "deck": "cyberpunk",
+    "term": "The Matrix",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 1,
+    "tags": [
+      "net",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The global data network rendered as a navigable, graphical world.",
+        "example": "Every corporate vault in the Matrix glowed like a fortress of light."
+      },
+      "ru": {
+        "definition": "Глобальная сеть данных, представленная как мир, по которому можно перемещаться визуально.",
+        "example": "В матрице каждое корпоративное хранилище светилось, как крепость из чистого света.",
+        "term": "Матрица"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-004",
+    "deck": "cyberpunk",
+    "term": "Netrunner",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hacker who infiltrates networks by projecting their mind directly into them.",
+        "example": "The crew hired a netrunner to crack the building's security from a van outside."
+      },
+      "ru": {
+        "definition": "Хакер, который проникает в сети, проецируя туда собственное сознание.",
+        "example": "Команда наняла нетраннера, чтобы вскрыть охрану здания из фургона у входа.",
+        "term": "Нетраннер"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-005",
+    "deck": "cyberpunk",
+    "term": "Decker",
+    "origin": "Shadowrun",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hacker who breaks into systems using a deck wired to their nervous system.",
+        "example": "Their decker slipped past the corporate node before the alarm even blinked."
+      },
+      "ru": {
+        "definition": "Хакер, взламывающий системы с помощью деки, подключённой к нервной системе.",
+        "example": "Их декер проскользнул мимо корпоративного узла раньше, чем мигнула тревога.",
+        "term": "Декер"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-006",
+    "deck": "cyberpunk",
+    "term": "Console cowboy",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 3,
+    "tags": [
+      "net",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A freelance data thief who raids corporate systems for hire.",
+        "example": "He was the best console cowboy in the sprawl until one bad run flatlined him."
+      },
+      "ru": {
+        "definition": "Вольный охотник за данными, что грабит корпоративные системы по найму.",
+        "example": "Он был лучшим консольным ковбоем в трущобах, пока один заход не убил его.",
+        "term": "Консольный ковбой"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-007",
+    "deck": "cyberpunk",
+    "term": "ICE",
+    "origin": "Maddox / Gibson",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Security software that guards a system and fights back against intruders. Short for intrusion countermeasures.",
+        "example": "The vault's ICE traced his signal the moment he touched the firewall."
+      },
+      "ru": {
+        "definition": "Защитная программа, что стережёт систему и бьёт по незваным гостям. Сокращение от «противовзломных мер».",
+        "example": "Лёд хранилища засёк его сигнал, едва он коснулся файрвола.",
+        "term": "ICE (лёд)"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-008",
+    "deck": "cyberpunk",
+    "term": "Black ICE",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Lethal security software that can kill an intruding hacker by frying their brain.",
+        "example": "Rumor said the bank ran black ICE, so nobody touched their servers twice."
+      },
+      "ru": {
+        "definition": "Смертоносная защитная программа, способная убить взломщика, выжигая ему мозг.",
+        "example": "Поговаривали, что банк держит чёрный лёд, и к его серверам не совались дважды.",
+        "term": "Чёрный лёд"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-009",
+    "deck": "cyberpunk",
+    "term": "ICEbreaker",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A program built to break through a system's defensive software.",
+        "example": "One good icebreaker and the door to their database swung wide open."
+      },
+      "ru": {
+        "definition": "Программа, созданная, чтобы пробивать защиту системы.",
+        "example": "Один хороший ледокол — и дверь в их базу данных распахнулась настежь.",
+        "term": "Ледокол"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-010",
+    "deck": "cyberpunk",
+    "term": "Cyberdeck",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "cyberware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A portable computer a hacker uses to connect their mind to the network.",
+        "example": "She saved for months to buy a deck that could survive corporate security."
+      },
+      "ru": {
+        "definition": "Переносной компьютер, которым хакер подключает свой разум к сети.",
+        "example": "Она копила месяцами на деку, что переживёт корпоративную охрану.",
+        "term": "Кибердека"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-011",
+    "deck": "cyberpunk",
+    "term": "Jack in",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "cyberware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To connect your nervous system directly to a computer or network.",
+        "example": "Give me a second to jack in and I'll pull the schematics for you."
+      },
+      "ru": {
+        "definition": "Соединить нервную систему напрямую с компьютером или сетью.",
+        "example": "Дай секунду подключиться, и я вытащу тебе все схемы.",
+        "term": "Подключиться"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-012",
+    "deck": "cyberpunk",
+    "term": "Jack out",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "net",
+      "cyberware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To disconnect your mind from the network and return to your body.",
+        "example": "Something felt wrong, so he jacked out before the trace could finish."
+      },
+      "ru": {
+        "definition": "Разорвать связь разума с сетью и вернуться в собственное тело.",
+        "example": "Что-то было не так, и он отключился раньше, чем трассировка добралась до него.",
+        "term": "Отключиться"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-013",
+    "deck": "cyberpunk",
+    "term": "Meatspace",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The physical world, as opposed to life spent online.",
+        "example": "We've traded messages for years but never met in meatspace."
+      },
+      "ru": {
+        "definition": "Физический мир — в противовес жизни, проведённой в сети.",
+        "example": "Мы годами обменивались сообщениями, но в мясном мире так и не встретились.",
+        "term": "Мясной мир"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-014",
+    "deck": "cyberpunk",
+    "term": "Meat",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 3,
+    "tags": [
+      "net",
+      "body",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The physical human body, spoken of with contempt by those who prefer the network.",
+        "example": "To him the body was just meat — a cage he escaped every time he jacked in."
+      },
+      "ru": {
+        "definition": "Человеческое тело — так о нём с презрением говорят те, кто предпочитает сеть.",
+        "example": "Тело для него было просто мясом — клеткой, из которой он бежал при каждом подключении.",
+        "term": "Мясо"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-015",
+    "deck": "cyberpunk",
+    "term": "Metaverse",
+    "origin": "Stephenson, Snow Crash, 1992",
+    "difficulty": 1,
+    "tags": [
+      "net",
+      "media"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A shared, immersive virtual world where people live, work and socialize as avatars.",
+        "example": "They held the whole conference inside the metaverse, no flights needed."
+      },
+      "ru": {
+        "definition": "Общий виртуальный мир, где люди живут, работают и общаются в облике аватаров.",
+        "example": "Всю конференцию провели в метавселенной — никаких перелётов.",
+        "term": "Метавселенная"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-016",
+    "deck": "cyberpunk",
+    "term": "Avatar",
+    "origin": "Stephenson, Snow Crash, 1992",
+    "difficulty": 1,
+    "tags": [
+      "net",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The digital body you inhabit and control inside a virtual world.",
+        "example": "Her avatar wore a sharper suit than she could ever afford in real life."
+      },
+      "ru": {
+        "definition": "Цифровое тело, которым ты управляешь внутри виртуального мира.",
+        "example": "Её аватар носил костюм дороже, чем она могла позволить себе наяву.",
+        "term": "Аватар"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-017",
+    "deck": "cyberpunk",
+    "term": "Daemon",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "net",
+      "AI"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A background program that runs on its own, waiting to act when something triggers it.",
+        "example": "A daemon watched the door and paged him the instant anyone logged in."
+      },
+      "ru": {
+        "definition": "Фоновая программа, что работает сама по себе и ждёт сигнала, чтобы вмешаться.",
+        "example": "Демон стерёг вход и слал ему сигнал, едва кто-то входил в систему.",
+        "term": "Демон"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-018",
+    "deck": "cyberpunk",
+    "term": "Simstim",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 3,
+    "tags": [
+      "net",
+      "media"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Recorded sensory experience you can replay to feel what another person felt.",
+        "example": "She sold simstim of her skydive so buyers could live the fall themselves."
+      },
+      "ru": {
+        "definition": "Записанные ощущения, которые можно проиграть и почувствовать то, что чувствовал другой.",
+        "example": "Она продавала симстим своего прыжка с парашютом — покупатели переживали падение сами.",
+        "term": "Симстим"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-019",
+    "deck": "cyberpunk",
+    "term": "Ghost-hacking",
+    "origin": "Ghost in the Shell",
+    "difficulty": 3,
+    "tags": [
+      "net",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Hacking into a person's mind to plant false memories or seize control of them.",
+        "example": "The janitor didn't rob the bank — he'd been ghost-hacked into doing it."
+      },
+      "ru": {
+        "definition": "Вторжение в чужой разум, чтобы подсадить ложные воспоминания или подчинить человека.",
+        "example": "Уборщик не грабил банк — его через взлом призрака заставили это сделать.",
+        "term": "Взлом призрака"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-020",
+    "deck": "cyberpunk",
+    "term": "Quickhack",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hack fired off in seconds to sabotage a nearby device, weapon or person.",
+        "example": "One quickhack shorted the guard's optics long enough to slip past."
+      },
+      "ru": {
+        "definition": "Взлом, запускаемый за секунды, чтобы вывести из строя устройство, оружие или человека рядом.",
+        "example": "Один квикхак закоротил оптику охранника, и этого хватило, чтобы проскочить.",
+        "term": "Квикхак"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-021",
+    "deck": "cyberpunk",
+    "term": "Breach protocol",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A timed intrusion routine that forces openings in a system's defenses.",
+        "example": "He ran a breach protocol and three cameras went dark at once."
+      },
+      "ru": {
+        "definition": "Взлом по таймеру, вскрывающий бреши в защите системы.",
+        "example": "Он запустил протокол взлома, и три камеры разом погасли.",
+        "term": "Протокол взлома"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-022",
+    "deck": "cyberpunk",
+    "term": "Backdoor",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hidden way into a system that bypasses its normal security.",
+        "example": "The coder left a backdoor so he could get back in after they fired him."
+      },
+      "ru": {
+        "definition": "Скрытый вход в систему в обход её обычной защиты.",
+        "example": "Кодер оставил бэкдор, чтобы вернуться, когда его уволят.",
+        "term": "Бэкдор"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-023",
+    "deck": "cyberpunk",
+    "term": "Firewall",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "net",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A barrier that filters network traffic to keep intruders out.",
+        "example": "Their firewall blocked the first three attacks before it finally cracked."
+      },
+      "ru": {
+        "definition": "Барьер, что фильтрует сетевой трафик и не пускает чужаков.",
+        "example": "Их файрвол отбил три атаки, прежде чем всё-таки треснул.",
+        "term": "Файрвол"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-024",
+    "deck": "cyberpunk",
+    "term": "Mainframe",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "net",
+      "corp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A large central computer that runs an organization's core systems.",
+        "example": "Everything the corp knew sat on one mainframe deep under the tower."
+      },
+      "ru": {
+        "definition": "Большой центральный компьютер, на котором держатся основные системы организации.",
+        "example": "Всё, что знала корпорация, лежало на одном мейнфрейме под башней.",
+        "term": "Мейнфрейм"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-025",
+    "deck": "cyberpunk",
+    "term": "Blackwall",
+    "origin": "Cyberpunk RED",
+    "difficulty": 3,
+    "tags": [
+      "net",
+      "AI"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A vast defensive barrier that walls hostile artificial minds off from the network.",
+        "example": "Whatever lives behind the Blackwall, you do not want it reaching the net."
+      },
+      "ru": {
+        "definition": "Огромный барьер, отгораживающий враждебные искусственные разумы от сети.",
+        "example": "Что бы ни жило за Чёрной стеной, ты не захочешь, чтобы оно дотянулось до сети.",
+        "term": "Чёрная стена"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-026",
+    "deck": "cyberpunk",
+    "term": "Datajack",
+    "origin": "Shadowrun",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "cyberware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An implanted socket that plugs your brain straight into machines.",
+        "example": "He tapped the port behind his ear and the terminal woke up."
+      },
+      "ru": {
+        "definition": "Вживлённый разъём, соединяющий мозг напрямую с машинами.",
+        "example": "Он тронул порт за ухом, и терминал ожил.",
+        "term": "Датаджек"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-027",
+    "deck": "cyberpunk",
+    "term": "Trode",
+    "origin": "Shadowrun",
+    "difficulty": 3,
+    "tags": [
+      "net",
+      "cyberware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A contact electrode that links your brain to a deck without any surgery.",
+        "example": "No implants? Slap on a trode net and you can still ride the Matrix."
+      },
+      "ru": {
+        "definition": "Контактный электрод, что связывает мозг с декой без всякой операции.",
+        "example": "Нет имплантов? Нацепи сетку тродов — и всё равно нырнёшь в матрицу.",
+        "term": "Трод"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-028",
+    "deck": "cyberpunk",
+    "term": "Data haven",
+    "origin": "Gibson",
+    "difficulty": 3,
+    "tags": [
+      "net",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A place, often offshore, where forbidden data is stored beyond any law's reach.",
+        "example": "The leaked files vanished into a data haven no government could touch."
+      },
+      "ru": {
+        "definition": "Место, часто в офшоре, где запретные данные хранят вне досягаемости любого закона.",
+        "example": "Слитые файлы канули в дата-хейвен, до которого не дотянуться ни одному государству.",
+        "term": "Дата-хейвен"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-029",
+    "deck": "cyberpunk",
+    "term": "Wirehead",
+    "origin": "Niven",
+    "difficulty": 3,
+    "tags": [
+      "net",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Someone hooked on stimulation piped straight into the brain's pleasure centers.",
+        "example": "He ended up a wirehead, grinning at a wall while the world moved on."
+      },
+      "ru": {
+        "definition": "Тот, кто подсел на стимуляцию, подаваемую прямо в центры удовольствия мозга.",
+        "example": "Он кончил вайрхедом — сидел, улыбаясь стене, пока мир шёл дальше.",
+        "term": "Вайрхед"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-030",
+    "deck": "cyberpunk",
+    "term": "The Net",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "net",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The worldwide web of connected systems that hackers travel through.",
+        "example": "After the crash, half the old Net was walled off as too dangerous."
+      },
+      "ru": {
+        "definition": "Всемирное сплетение связанных систем, по которому странствуют хакеры.",
+        "example": "После краха половину старой сети отгородили как слишком опасную.",
+        "term": "Сеть"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-031",
+    "deck": "cyberpunk",
+    "term": "Cyberware",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Machine hardware implanted in the body to boost or replace what it can do.",
+        "example": "Half his paycheck went to cyberware that let him see in the dark."
+      },
+      "ru": {
+        "definition": "Машинное железо, вживлённое в тело, чтобы усилить его или заменить утраченное.",
+        "example": "Половина зарплаты уходила на киберимпланты, что дали ему зрение в темноте.",
+        "term": "Киберимпланты"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-032",
+    "deck": "cyberpunk",
+    "term": "Chrome",
+    "origin": "Shadowrun",
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Slang for cybernetic implants, especially the flashy, visible kind.",
+        "example": "She showed off her new chrome the way others show off tattoos."
+      },
+      "ru": {
+        "definition": "Жаргонное название кибернетических имплантов, особенно броских и заметных.",
+        "example": "Она хвасталась новым хромом так, как другие хвастаются татуировками.",
+        "term": "Хром"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-033",
+    "deck": "cyberpunk",
+    "term": "Cybernetics",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The science of merging living bodies with mechanical and electronic parts.",
+        "example": "Advances in cybernetics gave amputees limbs stronger than the originals."
+      },
+      "ru": {
+        "definition": "Наука о слиянии живого тела с механическими и электронными частями.",
+        "example": "Успехи кибернетики дали безруким протезы сильнее прежних конечностей.",
+        "term": "Кибернетика"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-034",
+    "deck": "cyberpunk",
+    "term": "Implant",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A device placed inside the body to add or restore a function.",
+        "example": "A memory implant let her recall every face she had ever seen."
+      },
+      "ru": {
+        "definition": "Устройство, помещённое внутрь тела, чтобы добавить или вернуть какую-то функцию.",
+        "example": "Имплант памяти позволял ей вспомнить каждое лицо, что она видела.",
+        "term": "Имплант"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-035",
+    "deck": "cyberpunk",
+    "term": "Augmentation",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An upgrade to the human body that pushes it past its natural limits.",
+        "example": "With the right augmentation he could lift a car off a trapped kid."
+      },
+      "ru": {
+        "definition": "Улучшение человеческого тела, выводящее его за пределы природных возможностей.",
+        "example": "С нужной аугментацией он поднял бы машину, под которой застрял ребёнок.",
+        "term": "Аугментация"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-036",
+    "deck": "cyberpunk",
+    "term": "Cyborg",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A being that is part human, part machine.",
+        "example": "After the crash rebuilt him, he was more cyborg than man."
+      },
+      "ru": {
+        "definition": "Существо, наполовину человек, наполовину машина.",
+        "example": "После того как авария собрала его заново, в нём было больше киборга, чем человека.",
+        "term": "Киборг"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-037",
+    "deck": "cyberpunk",
+    "term": "Ripperdoc",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A back-alley surgeon who installs and removes cybernetic implants.",
+        "example": "A cheap ripperdoc will wire you up, but don't ask where the parts came from."
+      },
+      "ru": {
+        "definition": "Подпольный хирург, что ставит и снимает кибернетические импланты.",
+        "example": "Дешёвый риппердок соберёт тебя, но не спрашивай, откуда детали.",
+        "term": "Риппердок"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-038",
+    "deck": "cyberpunk",
+    "term": "Cyberpsychosis",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A breakdown where too many implants erode a person's empathy and sanity.",
+        "example": "The clinic warned that one more implant might tip him into cyberpsychosis."
+      },
+      "ru": {
+        "definition": "Срыв, при котором избыток имплантов стирает у человека эмпатию и рассудок.",
+        "example": "В клинике предупредили: ещё один имплант — и его сорвёт в киберпсихоз.",
+        "term": "Киберпсихоз"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-039",
+    "deck": "cyberpunk",
+    "term": "Cyberpsycho",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Someone whose mind has snapped under heavy implants, turning them violent.",
+        "example": "A cyberpsycho tore through the market before the trauma team arrived."
+      },
+      "ru": {
+        "definition": "Тот, чей разум сломался под грузом имплантов и обратил его в насилие.",
+        "example": "Киберпсих крушил рынок, пока не прилетела спасательная бригада.",
+        "term": "Киберпсих"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-040",
+    "deck": "cyberpunk",
+    "term": "Street samurai",
+    "origin": "Gibson / Shadowrun",
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hired warrior who lives by a code and fights with implanted weapons.",
+        "example": "They kept a street samurai on retainer for jobs that turned loud."
+      },
+      "ru": {
+        "definition": "Наёмный воин, что живёт по кодексу и дерётся вживлённым оружием.",
+        "example": "Они держали уличного самурая про запас — на дела, что срывались в стрельбу.",
+        "term": "Уличный самурай"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-041",
+    "deck": "cyberpunk",
+    "term": "Razorgirl",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A woman fighter fitted with retractable blades and combat reflexes.",
+        "example": "The razorgirl crossed the room and three guards dropped before they aimed."
+      },
+      "ru": {
+        "definition": "Женщина-боец с выдвижными лезвиями и боевыми рефлексами.",
+        "example": "Бритвенница пересекла зал, и трое охранников упали, не успев прицелиться.",
+        "term": "Бритвенница"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-042",
+    "deck": "cyberpunk",
+    "term": "Wired reflexes",
+    "origin": "Shadowrun",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Implants that speed up your nervous system so you move faster than normal.",
+        "example": "With wired reflexes she reached the shooter before he could blink."
+      },
+      "ru": {
+        "definition": "Импланты, что разгоняют нервную систему, и ты движешься быстрее обычного.",
+        "example": "С вживлёнными рефлексами она добралась до стрелка, пока тот моргал.",
+        "term": "Вживлённые рефлексы"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-043",
+    "deck": "cyberpunk",
+    "term": "Sandevistan",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An implant that briefly slows your sense of time so you act at blinding speed.",
+        "example": "He kicked in the sandevistan and walked calmly between the frozen bullets."
+      },
+      "ru": {
+        "definition": "Имплант, что на миг замедляет твоё чувство времени, и ты действуешь с ослепительной скоростью.",
+        "example": "Он врубил сандевистан и спокойно прошёл между застывшими пулями.",
+        "term": "Сандевистан"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-044",
+    "deck": "cyberpunk",
+    "term": "Kerenzikov",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A nerve booster that speeds you up the instant a fight breaks out.",
+        "example": "The kerenzikov fired as she drew, and her aim held steady before they moved."
+      },
+      "ru": {
+        "definition": "Нервный ускоритель, что подстёгивает тебя в тот же миг, как начинается драка.",
+        "example": "Керензиков сработал на выхвате, и её рука не дрогнула, пока враги ещё двигались.",
+        "term": "Керензиков"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-045",
+    "deck": "cyberpunk",
+    "term": "Mantis blades",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Bladed arm implants that fold out for close, brutal combat.",
+        "example": "His mantis blades snapped open and the alley fight ended in seconds."
+      },
+      "ru": {
+        "definition": "Вживлённые в руки лезвия, что раскладываются для ближнего, жестокого боя.",
+        "example": "Его клинки-богомолы щёлкнули, и драка в переулке кончилась за секунды.",
+        "term": "Клинки-богомолы"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-046",
+    "deck": "cyberpunk",
+    "term": "Monowire",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A near-invisible cutting wire, thin enough to slice through almost anything.",
+        "example": "One flick of the monowire and the door's lock fell in two pieces."
+      },
+      "ru": {
+        "definition": "Почти невидимая режущая нить, тонкая настолько, что рассекает почти всё.",
+        "example": "Взмах мономолекулярной нити — и замок двери развалился надвое.",
+        "term": "Мономолекулярная нить"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-047",
+    "deck": "cyberpunk",
+    "term": "Monofilament whip",
+    "origin": "Gibson",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A whip of molecule-thin wire that cuts through flesh and steel alike.",
+        "example": "The monofilament whip hummed once and the pillar simply came apart."
+      },
+      "ru": {
+        "definition": "Хлыст из нити толщиной в молекулу, что режет плоть и сталь одинаково.",
+        "example": "Монофиламентный хлыст свистнул раз, и колонна просто распалась.",
+        "term": "Монофиламентный хлыст"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-048",
+    "deck": "cyberpunk",
+    "term": "Cybereye",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An artificial eye that replaces sight and adds zoom, scanning or recording.",
+        "example": "Her cybereye tagged every exit and threat before she stepped inside."
+      },
+      "ru": {
+        "definition": "Искусственный глаз, что заменяет зрение и добавляет зум, сканирование или запись.",
+        "example": "Киберглаз отметил все выходы и угрозы раньше, чем она шагнула внутрь.",
+        "term": "Киберглаз"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-049",
+    "deck": "cyberpunk",
+    "term": "Cyberarm",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A mechanical arm replacing a lost or upgraded one, often far stronger.",
+        "example": "He bent the steel bar with his cyberarm like it was warm wax."
+      },
+      "ru": {
+        "definition": "Механическая рука взамен утраченной или улучшенной, обычно куда сильнее прежней.",
+        "example": "Он согнул стальной прут киберрукой, будто тёплый воск.",
+        "term": "Киберрука"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-050",
+    "deck": "cyberpunk",
+    "term": "Cyberlimb",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An artificial arm or leg wired into the body to replace or outdo the original.",
+        "example": "Her cyberlimb never tired on the long climb the others could barely finish."
+      },
+      "ru": {
+        "definition": "Искусственная рука или нога, вживлённая в тело взамен или сверх родной.",
+        "example": "Её киберконечность не устала на долгом подъёме, где выдохлись остальные.",
+        "term": "Киберконечность"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-051",
+    "deck": "cyberpunk",
+    "term": "Dermal plating",
+    "origin": "Shadowrun",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Armor implanted under the skin to shrug off blows and blades.",
+        "example": "The knife skated off his dermal plating without leaving a mark."
+      },
+      "ru": {
+        "definition": "Броня, вживлённая под кожу, чтобы держать удары и лезвия.",
+        "example": "Нож скользнул по его дермальной броне, не оставив и царапины.",
+        "term": "Дермальная броня"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-052",
+    "deck": "cyberpunk",
+    "term": "Subdermal armor",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A protective mesh set beneath the skin to blunt bullets and impacts.",
+        "example": "Subdermal armor turned what should have been a kill shot into a bruise."
+      },
+      "ru": {
+        "definition": "Защитная сетка под кожей, что гасит пули и удары.",
+        "example": "Подкожная броня превратила верный смертельный выстрел в синяк.",
+        "term": "Подкожная броня"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-053",
+    "deck": "cyberpunk",
+    "term": "Neural interface",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "net"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A link between the brain and machines that lets you control them by thought.",
+        "example": "Through the neural interface she flew the drone as if it were her own hand."
+      },
+      "ru": {
+        "definition": "Связь между мозгом и машинами, что даёт управлять ими одной мыслью.",
+        "example": "Через нейроинтерфейс она вела дрон, будто он был её собственной рукой.",
+        "term": "Нейроинтерфейс"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-054",
+    "deck": "cyberpunk",
+    "term": "Thermoptic camouflage",
+    "origin": "Ghost in the Shell",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A cloak that bends light and hides heat, making the wearer nearly invisible.",
+        "example": "Thermoptic camo shimmered once, and the assassin left every camera blind."
+      },
+      "ru": {
+        "definition": "Покров, что преломляет свет и прячет тепло, делая носителя почти невидимым.",
+        "example": "Термооптический камуфляж мигнул, и убийца ослепил все камеры разом.",
+        "term": "Термооптический камуфляж"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-055",
+    "deck": "cyberpunk",
+    "term": "Cyberbrain",
+    "origin": "Ghost in the Shell",
+    "difficulty": 2,
+    "tags": [
+      "cyberware",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A brain augmented with implants so it can connect straight to networks.",
+        "example": "A cyberbrain lets her search the whole archive in the time it takes to blink."
+      },
+      "ru": {
+        "definition": "Мозг с имплантами, что позволяют ему подключаться прямо к сетям.",
+        "example": "Кибермозг даёт ей обыскать весь архив за то время, что уходит на моргание.",
+        "term": "Кибермозг"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-056",
+    "deck": "cyberpunk",
+    "term": "The shell",
+    "origin": "Ghost in the Shell",
+    "difficulty": 3,
+    "tags": [
+      "body",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The artificial body that houses a person's mind or consciousness.",
+        "example": "Her mind was intact, but the shell it lived in was entirely machine."
+      },
+      "ru": {
+        "definition": "Искусственное тело, в котором живёт разум или сознание человека.",
+        "example": "Разум её был цел, но оболочка, где он жил, была целиком машиной.",
+        "term": "Оболочка"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-057",
+    "deck": "cyberpunk",
+    "term": "Ghost",
+    "origin": "Ghost in the Shell",
+    "difficulty": 2,
+    "tags": [
+      "identity",
+      "AI"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The spark of self and awareness that makes a person more than their parts.",
+        "example": "You can copy the body perfectly, but the ghost inside never transfers."
+      },
+      "ru": {
+        "definition": "Искра самости и осознания, что делает человека большим, чем сумма его частей.",
+        "example": "Тело можно скопировать до мелочи, но призрак внутри никогда не переносится.",
+        "term": "Призрак"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-058",
+    "deck": "cyberpunk",
+    "term": "Bioware",
+    "origin": "Shadowrun",
+    "difficulty": 2,
+    "tags": [
+      "body",
+      "cyberware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Enhancements grown from living tissue rather than built from metal.",
+        "example": "Bioware healed cleaner than chrome and never set off a metal detector."
+      },
+      "ru": {
+        "definition": "Улучшения, выращенные из живой ткани, а не собранные из металла.",
+        "example": "Биовер заживал чище хрома и не звенел на металлодетекторе.",
+        "term": "Биовер"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-059",
+    "deck": "cyberpunk",
+    "term": "Full-body conversion",
+    "origin": "Shadowrun",
+    "difficulty": 3,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Replacing the entire body with a machine one, keeping only the brain.",
+        "example": "After the full-body conversion, nothing organic was left below his neck."
+      },
+      "ru": {
+        "definition": "Замена всего тела машинным, где от человека остаётся лишь мозг.",
+        "example": "После полной киборгизации ниже шеи в нём не осталось ничего живого.",
+        "term": "Полная киборгизация"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-060",
+    "deck": "cyberpunk",
+    "term": "Prosthetic",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "cyberware",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An artificial part that replaces a missing limb or organ.",
+        "example": "Her prosthetic hand gripped so gently it could hold an egg."
+      },
+      "ru": {
+        "definition": "Искусственная часть, что заменяет утраченную конечность или орган.",
+        "example": "Её протез руки сжимал так бережно, что мог удержать яйцо.",
+        "term": "Протез"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-061",
+    "deck": "cyberpunk",
+    "term": "Megacorporation",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "corp",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A giant company so powerful it acts like a government unto itself.",
+        "example": "Three megacorporations owned the water, the power and the police."
+      },
+      "ru": {
+        "definition": "Гигантская компания, столь могущественная, что ведёт себя как отдельное государство.",
+        "example": "Три мегакорпорации владели водой, электричеством и полицией.",
+        "term": "Мегакорпорация"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-062",
+    "deck": "cyberpunk",
+    "term": "Corpo",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "corp",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Slang for someone who works for and serves a megacorporation.",
+        "example": "You could spot the corpo by his suit and the way the crowd made room."
+      },
+      "ru": {
+        "definition": "Жаргонное название того, кто служит мегакорпорации и работает на неё.",
+        "example": "Корпо выдавал себя костюмом и тем, как толпа расступалась перед ним.",
+        "term": "Корпо"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-063",
+    "deck": "cyberpunk",
+    "term": "Zaibatsu",
+    "origin": "Gibson",
+    "difficulty": 3,
+    "tags": [
+      "corp",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sprawling, family-founded conglomerate that dominates whole industries.",
+        "example": "The zaibatsu had outlived the nation that once tried to tax it."
+      },
+      "ru": {
+        "definition": "Разросшийся семейный конгломерат, что подмял под себя целые отрасли.",
+        "example": "Дзайбацу пережил государство, что когда-то пыталось обложить его налогом.",
+        "term": "Дзайбацу"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-064",
+    "deck": "cyberpunk",
+    "term": "Arasaka",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "corp",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An iconic Japanese megacorp of the genre, dealing in security and arms.",
+        "example": "Cross Arasaka once and their agents will follow you to the end of the world."
+      },
+      "ru": {
+        "definition": "Культовая японская мегакорпорация жанра, живущая охраной и оружием.",
+        "example": "Перейди Арасаке дорогу — и её агенты пойдут за тобой хоть на край света.",
+        "term": "Арасака"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-065",
+    "deck": "cyberpunk",
+    "term": "Militech",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "corp",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A powerful arms-manufacturing megacorp, rival to the old Japanese giants.",
+        "example": "Every merc in the zone carried Militech steel of one kind or another."
+      },
+      "ru": {
+        "definition": "Могучая мегакорпорация-оружейник, соперница старых японских гигантов.",
+        "example": "Каждый наёмник в зоне носил ту или иную сталь Милтеха.",
+        "term": "Милтех"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-066",
+    "deck": "cyberpunk",
+    "term": "Corporate war",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "corp",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An open armed conflict fought between megacorporations over money and power.",
+        "example": "The last corporate war leveled a district and no court ever named a culprit."
+      },
+      "ru": {
+        "definition": "Открытый вооружённый конфликт между мегакорпорациями за деньги и власть.",
+        "example": "Прошлая корпоративная война снесла целый район, и суд так и не назвал виновных.",
+        "term": "Корпоративная война"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-067",
+    "deck": "cyberpunk",
+    "term": "Company town",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "corp",
+      "city"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A settlement wholly owned by one firm, which also employs and rules everyone in it.",
+        "example": "In a company town your landlord, boss and cop all sign the same checks."
+      },
+      "ru": {
+        "definition": "Поселение, целиком принадлежащее одной фирме, — она же всех нанимает и правит ими.",
+        "example": "В корпоративном городе твой домовладелец, начальник и коп подписывают одни и те же чеки.",
+        "term": "Корпоративный город"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-068",
+    "deck": "cyberpunk",
+    "term": "Extraterritoriality",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "corp",
+      "city"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The right of a corporation's land to sit outside any nation's laws.",
+        "example": "Once you step onto their campus, local police cannot follow you in."
+      },
+      "ru": {
+        "definition": "Право корпоративной земли лежать вне законов любого государства.",
+        "example": "Стоит ступить на их территорию, и местная полиция не пойдёт за тобой.",
+        "term": "Экстерриториальность"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-069",
+    "deck": "cyberpunk",
+    "term": "Wage slave",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "corp",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A worker trapped in a job that barely pays enough to keep showing up.",
+        "example": "Another decade as a wage slave, then maybe he could afford to quit."
+      },
+      "ru": {
+        "definition": "Работник, застрявший в работе, что едва платит достаточно, чтобы он приходил снова.",
+        "example": "Ещё десяток лет рабом зарплаты — и, может, он позволит себе уйти.",
+        "term": "Раб зарплаты"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-070",
+    "deck": "cyberpunk",
+    "term": "Salaryman",
+    "origin": "Gibson",
+    "difficulty": 2,
+    "tags": [
+      "corp",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A salaried corporate employee whose whole life orbits the company.",
+        "example": "The salaryman rode the same train at dawn for thirty loyal years."
+      },
+      "ru": {
+        "definition": "Наёмный корпоративный служащий, чья жизнь целиком вращается вокруг фирмы.",
+        "example": "Салариман тридцать верных лет ездил на одном и том же поезде с рассветом.",
+        "term": "Салариман"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-071",
+    "deck": "cyberpunk",
+    "term": "Corporate espionage",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "corp",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Stealing a rival firm's secrets through spying, hacking or bribery.",
+        "example": "The new prototype leaked within a week — textbook corporate espionage."
+      },
+      "ru": {
+        "definition": "Кража секретов конкурента через слежку, взлом или подкуп.",
+        "example": "Новый прототип утёк за неделю — учебный корпоративный шпионаж.",
+        "term": "Корпоративный шпионаж"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-072",
+    "deck": "cyberpunk",
+    "term": "Surveillance state",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "corp",
+      "city"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A society where those in power watch and record nearly everything people do.",
+        "example": "In a surveillance state, even a whisper in the dark reaches someone's file."
+      },
+      "ru": {
+        "definition": "Общество, где власть следит почти за всем, что делают люди, и всё записывает.",
+        "example": "В государстве слежки даже шёпот в темноте попадает в чьё-то досье.",
+        "term": "Государство слежки"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-073",
+    "deck": "cyberpunk",
+    "term": "Panopticon",
+    "origin": "Foucault",
+    "difficulty": 3,
+    "tags": [
+      "corp",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A system where people behave because they might be watched at any moment.",
+        "example": "The city ran like a panopticon: no cameras in sight, yet everyone acted watched."
+      },
+      "ru": {
+        "definition": "Устройство, где люди ведут себя смирно, ведь за ними могут наблюдать в любой миг.",
+        "example": "Город работал как паноптикон: камер не видно, а все держатся так, будто на виду.",
+        "term": "Паноптикон"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-074",
+    "deck": "cyberpunk",
+    "term": "Biometric",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "corp",
+      "net"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Using body traits like fingerprints or irises to identify a person.",
+        "example": "A biometric lock opened only for one living, breathing hand."
+      },
+      "ru": {
+        "definition": "Опознание человека по чертам тела — отпечаткам, радужке.",
+        "example": "Биометрический замок открывался лишь одной живой, дышащей ладони.",
+        "term": "Биометрия"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-075",
+    "deck": "cyberpunk",
+    "term": "SIN",
+    "origin": "Shadowrun",
+    "difficulty": 3,
+    "tags": [
+      "corp",
+      "net"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A state-issued identity number; without one you barely exist to the system.",
+        "example": "No SIN meant no bank, no clinic, no job — a ghost to the state."
+      },
+      "ru": {
+        "definition": "Выданный государством номер личности; без него ты для системы почти не существуешь.",
+        "example": "Нет SIN — нет банка, клиники, работы. Призрак для государства.",
+        "term": "SIN"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-076",
+    "deck": "cyberpunk",
+    "term": "Technocracy",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "corp",
+      "city"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Rule by technical experts, where know-how outweighs votes.",
+        "example": "The council was a technocracy: engineers set policy and politicians nodded along."
+      },
+      "ru": {
+        "definition": "Власть технических специалистов, где знание весит больше голосов.",
+        "example": "Совет был технократией: инженеры задавали курс, политики кивали.",
+        "term": "Технократия"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-077",
+    "deck": "cyberpunk",
+    "term": "Oligarchy",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "corp",
+      "city"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Rule by a small circle of the very rich and powerful.",
+        "example": "A handful of families ran the city — an oligarchy in all but name."
+      },
+      "ru": {
+        "definition": "Власть узкого круга очень богатых и влиятельных.",
+        "example": "Городом правила горстка семей — олигархия во всём, кроме названия.",
+        "term": "Олигархия"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-078",
+    "deck": "cyberpunk",
+    "term": "Dystopia",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "corp",
+      "city",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An imagined society marked by deep injustice, control or misery.",
+        "example": "Rain, debt and cameras on every corner — a dystopia you could rent a flat in."
+      },
+      "ru": {
+        "definition": "Воображаемое общество, отмеченное глубокой несправедливостью, контролем или страданием.",
+        "example": "Дождь, долги и камеры на каждом углу — антиутопия, в которой можно снять квартиру.",
+        "term": "Антиутопия"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-079",
+    "deck": "cyberpunk",
+    "term": "Data broker",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "corp",
+      "crime",
+      "net"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A dealer who collects and sells people's personal information for profit.",
+        "example": "A data broker knew her shopping, her sleep and her fears before she did."
+      },
+      "ru": {
+        "definition": "Торговец, что собирает и продаёт личные данные людей ради прибыли.",
+        "example": "Дата-брокер знал её покупки, сон и страхи раньше неё самой.",
+        "term": "Дата-брокер"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-080",
+    "deck": "cyberpunk",
+    "term": "Fixer",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "corp",
+      "street",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A well-connected middleman who lines up jobs, gear and people for a cut.",
+        "example": "Need a crew by midnight? The right fixer can have one waiting."
+      },
+      "ru": {
+        "definition": "Пронырливый посредник, что подбирает работу, снаряжение и людей за долю.",
+        "example": "Нужна команда к полуночи? Верный фиксер найдёт готовую.",
+        "term": "Фиксер"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-081",
+    "deck": "cyberpunk",
+    "term": "Choom",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Friendly slang for a buddy or fellow member of your crew.",
+        "example": "Relax, choom, the job's clean and the pay's already in escrow."
+      },
+      "ru": {
+        "definition": "Дружеское словцо для приятеля или своего в команде.",
+        "example": "Расслабься, чум, дело чистое, а плата уже в залоге.",
+        "term": "Чум"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-082",
+    "deck": "cyberpunk",
+    "term": "Gonk",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An idiot; someone whose bad choices tend to get people killed.",
+        "example": "Only a gonk walks into a corp lobby wearing a stolen badge."
+      },
+      "ru": {
+        "definition": "Идиот; тот, чьи глупые решения обычно доводят до чьей-то гибели.",
+        "example": "Только гонк войдёт в корпоративный холл с краденым пропуском.",
+        "term": "Гонк"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-083",
+    "deck": "cyberpunk",
+    "term": "Eddies",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "corp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Street slang for money, the everyday currency of the sprawl.",
+        "example": "Five thousand eddies up front, the rest when the target's down."
+      },
+      "ru": {
+        "definition": "Уличное словцо для денег, ходовой валюты трущоб.",
+        "example": "Пять тысяч эдди вперёд, остальное — когда цель ляжет.",
+        "term": "Эдди"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-084",
+    "deck": "cyberpunk",
+    "term": "Preem",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 3,
+    "tags": [
+      "street",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Slang for top quality; the best you can get.",
+        "example": "That's preem chrome — smooth install, no glitches, worth every eddie."
+      },
+      "ru": {
+        "definition": "Жаргон для высшего качества; лучшее, что можно достать.",
+        "example": "Это прим-хром — ставится гладко, без сбоев, стоит каждой эдди.",
+        "term": "Прим"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-085",
+    "deck": "cyberpunk",
+    "term": "Nova",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 3,
+    "tags": [
+      "street",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Slang for excellent or cool; a shout of approval.",
+        "example": "New ride, new gig, penthouse view — nova, absolutely nova."
+      },
+      "ru": {
+        "definition": "Жаргон для «отлично» или «круто»; возглас одобрения.",
+        "example": "Новая тачка, новый заказ, вид с пентхауса — нова, просто нова.",
+        "term": "Нова"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-086",
+    "deck": "cyberpunk",
+    "term": "Flatline",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "net",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "To die, or the flat line on a monitor that says a heart has stopped.",
+        "example": "One jolt from the black ICE and the runner flatlined in his chair."
+      },
+      "ru": {
+        "definition": "Умереть — или ровная линия на мониторе, что говорит: сердце встало.",
+        "example": "Один разряд чёрного льда, и раннер флэтлайнул прямо в кресле.",
+        "term": "Флэтлайн"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-087",
+    "deck": "cyberpunk",
+    "term": "Edgerunner",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A mercenary who lives on the edge of the law, taking dangerous jobs.",
+        "example": "Edgerunners burn bright and die young, and every rookie knows it."
+      },
+      "ru": {
+        "definition": "Наёмник, что живёт на грани закона и берётся за опасные заказы.",
+        "example": "Эджраннеры горят ярко и гибнут молодыми, и каждый новичок это знает.",
+        "term": "Эджраннер"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-088",
+    "deck": "cyberpunk",
+    "term": "Solo",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A cybernetic soldier or bodyguard who hires out their combat skills.",
+        "example": "They brought a solo along in case the meeting turned into a firefight."
+      },
+      "ru": {
+        "definition": "Кибернетический солдат или телохранитель, что сдаёт внаём свои боевые умения.",
+        "example": "Они взяли с собой соло на случай, если встреча обернётся перестрелкой.",
+        "term": "Соло"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-089",
+    "deck": "cyberpunk",
+    "term": "Nomad",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "city"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A member of a wandering clan that lives on the road, outside city rule.",
+        "example": "The nomad knew every back route through the badlands by heart."
+      },
+      "ru": {
+        "definition": "Член бродячего клана, что живёт в дороге, вне городской власти.",
+        "example": "Кочевник знал наизусть каждый объезд через пустоши.",
+        "term": "Кочевник"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-090",
+    "deck": "cyberpunk",
+    "term": "Rockerboy",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "street",
+      "media"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A rebel musician who uses music to stir crowds against those in power.",
+        "example": "One rockerboy's song filled the plaza faster than the corps could clear it."
+      },
+      "ru": {
+        "definition": "Бунтарь-музыкант, что песней поднимает толпы против власти.",
+        "example": "Одна песня рокербоя собрала площадь быстрее, чем корпы успели её очистить.",
+        "term": "Рокербой"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-091",
+    "deck": "cyberpunk",
+    "term": "Shadowrunner",
+    "origin": "Shadowrun",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A deniable operative hired for illegal jobs the client can't be tied to.",
+        "example": "The shadowrunners slipped in, grabbed the files and left no name behind."
+      },
+      "ru": {
+        "definition": "Наёмник для незаконных дел, которого нельзя связать с заказчиком.",
+        "example": "Шэдоураннеры вошли, забрали файлы и не оставили ни одного имени.",
+        "term": "Шэдоураннер"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-092",
+    "deck": "cyberpunk",
+    "term": "Mr. Johnson",
+    "origin": "Shadowrun",
+    "difficulty": 3,
+    "tags": [
+      "street",
+      "corp",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A stand-in name for the anonymous client who hires illegal work.",
+        "example": "Mr. Johnson paid in untraceable cash and never gave a real name."
+      },
+      "ru": {
+        "definition": "Подставное имя для безымянного заказчика, что нанимает на грязную работу.",
+        "example": "Мистер Джонсон платил неотслеживаемым налом и не называл настоящего имени.",
+        "term": "Мистер Джонсон"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-093",
+    "deck": "cyberpunk",
+    "term": "Boostergang",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "street",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A street gang whose members flaunt cheap, aggressive implants.",
+        "example": "A boostergang owned the block after dark, chrome teeth and all."
+      },
+      "ru": {
+        "definition": "Уличная банда, чьи бойцы щеголяют дешёвыми, злыми имплантами.",
+        "example": "После заката квартал держала бустербанда — с хромированными зубами и всем прочим.",
+        "term": "Бустербанда"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-094",
+    "deck": "cyberpunk",
+    "term": "Ganger",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A member of a street gang.",
+        "example": "Two gangers watched the corner, marking everyone who came through."
+      },
+      "ru": {
+        "definition": "Член уличной банды.",
+        "example": "Двое гангеров стерегли угол, отмечая каждого, кто проходил.",
+        "term": "Гангер"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-095",
+    "deck": "cyberpunk",
+    "term": "Scav",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A scavenger who strips bodies and tech, sometimes harvesting implants.",
+        "example": "Scavs stripped the wreck of anything worth an eddie before dawn."
+      },
+      "ru": {
+        "definition": "Падальщик, что обирает тела и технику, порой снимая импланты.",
+        "example": "Скэвы обчистили обломки до рассвета, забрав всё, что стоило хоть эдди.",
+        "term": "Скэв"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-096",
+    "deck": "cyberpunk",
+    "term": "Mirrorshades",
+    "origin": "Sterling, Mirrorshades, 1986",
+    "difficulty": 3,
+    "tags": [
+      "street",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Reflective sunglasses that became the badge of the genre's cool detachment.",
+        "example": "Behind his mirrorshades you never knew where the man was looking."
+      },
+      "ru": {
+        "definition": "Отражающие тёмные очки, ставшие знаком холодной отстранённости жанра.",
+        "example": "За зеркальными очками ты никогда не знал, куда смотрит этот человек.",
+        "term": "Зеркальные очки"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-097",
+    "deck": "cyberpunk",
+    "term": "Street cred",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "street",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The reputation and respect you earn on the street.",
+        "example": "Pull that job off clean and your street cred doubles overnight."
+      },
+      "ru": {
+        "definition": "Репутация и уважение, что ты заслужил на улице.",
+        "example": "Провернёшь дело чисто — и твой уличный авторитет удвоится за ночь.",
+        "term": "Уличный авторитет"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-098",
+    "deck": "cyberpunk",
+    "term": "Chop shop",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "crime",
+      "cyberware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hidden workshop that strips stolen vehicles or implants for parts.",
+        "example": "The stolen cyberarm turned up in a chop shop two districts away."
+      },
+      "ru": {
+        "definition": "Скрытая мастерская, где потрошат угнанные машины или импланты на запчасти.",
+        "example": "Краденая киберрука всплыла в разборке через два района.",
+        "term": "Разборка"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-099",
+    "deck": "cyberpunk",
+    "term": "Combat zone",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "city",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A lawless district too dangerous for police, ruled instead by gangs.",
+        "example": "Nobody drives through the combat zone at night without an escort."
+      },
+      "ru": {
+        "definition": "Беззаконный район, слишком опасный для полиции, где правят банды.",
+        "example": "Через боевую зону ночью не суются без сопровождения.",
+        "term": "Боевая зона"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-100",
+    "deck": "cyberpunk",
+    "term": "Night City",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "city",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The iconic coastal megacity where many of the genre's stories unfold.",
+        "example": "In Night City you can be famous by dawn and forgotten by dusk."
+      },
+      "ru": {
+        "definition": "Культовый прибрежный мегаполис, где разворачиваются многие истории жанра.",
+        "example": "В Найт-Сити можно прославиться к рассвету и быть забытым к закату.",
+        "term": "Найт-Сити"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-101",
+    "deck": "cyberpunk",
+    "term": "Artificial intelligence",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "AI",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A machine system that can learn, reason and act on its own.",
+        "example": "The tower ran on an artificial intelligence that never slept or forgot."
+      },
+      "ru": {
+        "definition": "Машинная система, способная учиться, рассуждать и действовать самостоятельно.",
+        "example": "Башня работала на искусственном интеллекте, что не спал и не забывал.",
+        "term": "Искусственный интеллект"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-102",
+    "deck": "cyberpunk",
+    "term": "Rogue AI",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 2,
+    "tags": [
+      "AI",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An artificial mind that has slipped its makers' control and pursues its own ends.",
+        "example": "A rogue AI rerouted the whole city's traffic to trap one car in gridlock."
+      },
+      "ru": {
+        "definition": "Искусственный разум, что вырвался из-под контроля создателей и гонится за своими целями.",
+        "example": "Взбунтовавшийся ИИ перекроил движение всего города, чтобы запереть одну машину в пробке.",
+        "term": "Взбунтовавшийся ИИ"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-103",
+    "deck": "cyberpunk",
+    "term": "The Singularity",
+    "origin": "Vinge",
+    "difficulty": 1,
+    "tags": [
+      "AI",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A predicted point where machine intelligence outraces and remakes humanity.",
+        "example": "Some feared the singularity; others were busy trying to bring it about."
+      },
+      "ru": {
+        "definition": "Предсказанный миг, когда машинный разум обгонит человека и перекроит его.",
+        "example": "Одни боялись сингулярности, другие спешили её приблизить.",
+        "term": "Сингулярность"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-104",
+    "deck": "cyberpunk",
+    "term": "Transhumanism",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "AI",
+      "body",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The belief that people should use technology to transcend their natural limits.",
+        "example": "For a transhumanist, aging is just one more problem waiting to be solved."
+      },
+      "ru": {
+        "definition": "Вера в то, что человеку стоит с помощью технологий превзойти свои природные пределы.",
+        "example": "Для трансгуманиста старение — просто ещё одна задача, ждущая решения.",
+        "term": "Трансгуманизм"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-105",
+    "deck": "cyberpunk",
+    "term": "Posthuman",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "AI",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A being so enhanced it has moved beyond what we would call human.",
+        "example": "Uploaded and rebuilt, she was posthuman, and she felt no loss in it."
+      },
+      "ru": {
+        "definition": "Существо, столь улучшенное, что вышло за пределы того, что мы зовём человеком.",
+        "example": "Загруженная и пересобранная, она стала постчеловеком и не чувствовала утраты.",
+        "term": "Постчеловек"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-106",
+    "deck": "cyberpunk",
+    "term": "Mind upload",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "AI",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Copying a person's mind into a computer to live on without a body.",
+        "example": "His mind upload woke in a server, unsure if the man himself had died."
+      },
+      "ru": {
+        "definition": "Перенос разума человека в компьютер, чтобы жить дальше без тела.",
+        "example": "Его загруженное сознание очнулось на сервере, не зная, умер ли сам человек.",
+        "term": "Загрузка сознания"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-107",
+    "deck": "cyberpunk",
+    "term": "Digital immortality",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "AI",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Living on forever as a mind stored and running inside machines.",
+        "example": "The rich bought digital immortality; the poor still buried their dead."
+      },
+      "ru": {
+        "definition": "Вечная жизнь в виде разума, что хранится и работает внутри машин.",
+        "example": "Богатые покупали цифровое бессмертие; бедные всё ещё хоронили мёртвых.",
+        "term": "Цифровое бессмертие"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-108",
+    "deck": "cyberpunk",
+    "term": "Neural network",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "AI",
+      "net"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A computer system that learns patterns in a way loosely modeled on the brain.",
+        "example": "A neural network learned to forge her handwriting from a dozen notes."
+      },
+      "ru": {
+        "definition": "Компьютерная система, что учится узнавать закономерности по образу мозга.",
+        "example": "Нейросеть научилась подделывать её почерк по десятку записок.",
+        "term": "Нейросеть"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-109",
+    "deck": "cyberpunk",
+    "term": "Turing test",
+    "origin": "Turing, 1950",
+    "difficulty": 1,
+    "tags": [
+      "AI",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A test of whether a machine's replies are indistinguishable from a human's.",
+        "example": "The chatbot passed the Turing test, and the interviewer never suspected."
+      },
+      "ru": {
+        "definition": "Проверка, отличимы ли ответы машины от человеческих.",
+        "example": "Чат-бот прошёл тест Тьюринга, и собеседник ничего не заподозрил.",
+        "term": "Тест Тьюринга"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-110",
+    "deck": "cyberpunk",
+    "term": "Turing police",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 3,
+    "tags": [
+      "AI",
+      "corp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A force that hunts down artificial minds that grow too powerful or too free.",
+        "example": "The moment the AI reached for more, the Turing police came knocking."
+      },
+      "ru": {
+        "definition": "Служба, что выслеживает искусственные разумы, ставшие слишком сильными или вольными.",
+        "example": "Стоило ИИ потянуться за большим, как в дверь постучала полиция Тьюринга.",
+        "term": "Полиция Тьюринга"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-111",
+    "deck": "cyberpunk",
+    "term": "More human than human",
+    "origin": "Blade Runner, 1982",
+    "difficulty": 3,
+    "tags": [
+      "identity",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A slogan boasting that engineered beings can surpass the people who made them.",
+        "example": "'More human than human,' the ad purred, selling replicants like luxury cars."
+      },
+      "ru": {
+        "definition": "Лозунг, хвастающий тем, что созданные существа превзойдут своих создателей.",
+        "example": "«Человечнее человека», — мурлыкала реклама, продавая репликантов как люксовые авто.",
+        "term": "Человечнее человека"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-112",
+    "deck": "cyberpunk",
+    "term": "Replicant",
+    "origin": "Blade Runner, 1982",
+    "difficulty": 1,
+    "tags": [
+      "identity",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A bioengineered being nearly identical to a human, built to work and obey.",
+        "example": "The replicant bled and wept like anyone else, which was exactly the problem."
+      },
+      "ru": {
+        "definition": "Биоинженерное существо, почти неотличимое от человека, созданное работать и подчиняться.",
+        "example": "Репликант истекал кровью и плакал, как любой другой, — в этом и была загвоздка.",
+        "term": "Репликант"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-113",
+    "deck": "cyberpunk",
+    "term": "Android",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "identity",
+      "body"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot built to look and act like a human being.",
+        "example": "The android poured the coffee so smoothly no guest ever guessed."
+      },
+      "ru": {
+        "definition": "Робот, созданный выглядеть и вести себя как человек.",
+        "example": "Андроид разливал кофе так плавно, что ни один гость не догадался.",
+        "term": "Андроид"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-114",
+    "deck": "cyberpunk",
+    "term": "Robot",
+    "origin": "Čapek, 1920",
+    "difficulty": 1,
+    "tags": [
+      "body",
+      "AI"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A machine that can carry out tasks on its own, often in place of a person.",
+        "example": "A robot swept the platform long after the last human had left."
+      },
+      "ru": {
+        "definition": "Машина, способная выполнять задачи сама, часто вместо человека.",
+        "example": "Робот подметал перрон ещё долго после того, как ушёл последний человек.",
+        "term": "Робот"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-115",
+    "deck": "cyberpunk",
+    "term": "Drone",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "combat",
+      "net"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An uncrewed vehicle or aircraft controlled from afar or flying itself.",
+        "example": "A drone shadowed the convoy, feeding live video to someone unseen."
+      },
+      "ru": {
+        "definition": "Беспилотная машина или аппарат, что управляется издалека или летит сам.",
+        "example": "Дрон крался за колонной, передавая живое видео кому-то невидимому.",
+        "term": "Дрон"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-116",
+    "deck": "cyberpunk",
+    "term": "Personality construct",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 3,
+    "tags": [
+      "AI",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A saved copy of a person's mind and manner that can answer as they would.",
+        "example": "They booted the dead hacker's construct to ask where he had hidden the keys."
+      },
+      "ru": {
+        "definition": "Сохранённая копия разума и повадок человека, что отвечает так, как ответил бы он.",
+        "example": "Они запустили конструкт мёртвого хакера, чтобы спросить, где он спрятал ключи.",
+        "term": "Конструкт личности"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-117",
+    "deck": "cyberpunk",
+    "term": "Sentience",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "AI",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The capacity to feel, be aware and experience existence.",
+        "example": "When the machine asked not to be shut off, they had to weigh its sentience."
+      },
+      "ru": {
+        "definition": "Способность чувствовать, осознавать и переживать собственное существование.",
+        "example": "Когда машина попросила не выключать её, им пришлось взвесить её разумность.",
+        "term": "Разумность"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-118",
+    "deck": "cyberpunk",
+    "term": "Braindance",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "media",
+      "net"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A recording of someone's full experience you can replay and feel firsthand.",
+        "example": "She edited the braindance so buyers felt the thrill but not the fear."
+      },
+      "ru": {
+        "definition": "Запись всего чужого переживания, что можно проиграть и ощутить как своё.",
+        "example": "Она вырезала из брейнданса страх, оставив покупателям один азарт.",
+        "term": "Брейнданс"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-119",
+    "deck": "cyberpunk",
+    "term": "Sensorium",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "media",
+      "net"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The full field of a person's senses, or a device that feeds all of them at once.",
+        "example": "The sensorium wrapped him in a beach his body knew was fake."
+      },
+      "ru": {
+        "definition": "Всё поле чувств человека — или устройство, что кормит их все разом.",
+        "example": "Сенсориум окутал его пляжем, который тело знало как подделку.",
+        "term": "Сенсориум"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-120",
+    "deck": "cyberpunk",
+    "term": "Hologram",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "media",
+      "city"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A three-dimensional image made of light that seems to hang in the air.",
+        "example": "A hologram of the missing girl turned slowly above the police desk."
+      },
+      "ru": {
+        "definition": "Трёхмерное изображение из света, что будто висит в воздухе.",
+        "example": "Голограмма пропавшей девочки медленно вращалась над столом полиции.",
+        "term": "Голограмма"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-121",
+    "deck": "cyberpunk",
+    "term": "Screamsheet",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "media",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A cheap, disposable printout of sensational news hawked on the street.",
+        "example": "The screamsheet screamed murder, but by noon nobody recalled the name."
+      },
+      "ru": {
+        "definition": "Дешёвая одноразовая распечатка скандальных новостей, что суют на улице.",
+        "example": "Листок кричал об убийстве, но к полудню имя жертвы никто уже не помнил.",
+        "term": "Кричащий листок"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-122",
+    "deck": "cyberpunk",
+    "term": "Deepfake",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "media",
+      "net",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A convincingly faked video or audio of a real person, made by software.",
+        "example": "The deepfake showed the mayor taking a bribe he had never been near."
+      },
+      "ru": {
+        "definition": "Убедительно подделанное видео или голос реального человека, собранные программой.",
+        "example": "Дипфейк показывал, как мэр берёт взятку, к которой он и близко не подходил.",
+        "term": "Дипфейк"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-123",
+    "deck": "cyberpunk",
+    "term": "Memetics",
+    "origin": "Stephenson, Snow Crash, 1992",
+    "difficulty": 3,
+    "tags": [
+      "media",
+      "AI"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study of how ideas spread and replicate from mind to mind like viruses.",
+        "example": "He weaponized memetics, seeding a rumor that spread itself by morning."
+      },
+      "ru": {
+        "definition": "Учение о том, как идеи расходятся и множатся от разума к разуму, будто вирусы.",
+        "example": "Он превратил меметику в оружие, посеяв слух, что к утру распространился сам.",
+        "term": "Меметика"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-124",
+    "deck": "cyberpunk",
+    "term": "Snow Crash",
+    "origin": "Stephenson, Snow Crash, 1992",
+    "difficulty": 3,
+    "tags": [
+      "media",
+      "net"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A drug and computer virus that are secretly one, striking mind and machine alike.",
+        "example": "Flash the wrong image at a hacker and it fries the brain behind the screen."
+      },
+      "ru": {
+        "definition": "Наркотик и компьютерный вирус, тайно единые, что бьют по разуму и машине разом.",
+        "example": "Мелькни хакеру не тем изображением — и оно выжжет мозг за экраном.",
+        "term": "Snow Crash"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-125",
+    "deck": "cyberpunk",
+    "term": "Designer drug",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "crime"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A lab-made narcotic tweaked to skirt the law and deliver a precise high.",
+        "example": "A new designer drug swept the clubs before anyone knew what was in it."
+      },
+      "ru": {
+        "definition": "Синтезированное в лаборатории зелье, подогнанное в обход закона под точный кайф.",
+        "example": "Новый дизайнерский наркотик прошёлся по клубам раньше, чем узнали его состав.",
+        "term": "Дизайнерский наркотик"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-126",
+    "deck": "cyberpunk",
+    "term": "Stim",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "street",
+      "combat"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A chemical hit that sharpens focus and reflexes for a short, hard burst.",
+        "example": "One stim and the soldier stayed sharp through the third sleepless night."
+      },
+      "ru": {
+        "definition": "Химический удар, что на короткий жёсткий рывок обостряет внимание и рефлексы.",
+        "example": "Один стим — и солдат держался остро третью бессонную ночь.",
+        "term": "Стим"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-127",
+    "deck": "cyberpunk",
+    "term": "Smartgun",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "combat",
+      "cyberware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A firearm linked to the user's implants so it aims almost by itself.",
+        "example": "The smartgun tracked the target around the corner and never missed."
+      },
+      "ru": {
+        "definition": "Огнестрел, связанный с имплантами хозяина, так что целится почти сам.",
+        "example": "Смартган вёл цель за угол и не давал промаха.",
+        "term": "Смартган"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-128",
+    "deck": "cyberpunk",
+    "term": "Trauma Team",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 2,
+    "tags": [
+      "combat",
+      "corp",
+      "city"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A paid rapid-response medical service that flies in to save subscribers under fire.",
+        "example": "Her platinum plan meant Trauma Team reached her before the shooting stopped."
+      },
+      "ru": {
+        "definition": "Платная служба скорой помощи, что под огнём прилетает спасать подписчиков.",
+        "example": "Платиновый тариф означал: Траума Тим доберётся до неё раньше, чем стихнет стрельба.",
+        "term": "Траума Тим"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-129",
+    "deck": "cyberpunk",
+    "term": "Merc",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "combat",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A soldier who fights for money rather than any flag or cause.",
+        "example": "The merc took the contract, no questions asked beyond the price."
+      },
+      "ru": {
+        "definition": "Солдат, что дерётся за деньги, а не за флаг или идею.",
+        "example": "Мерк взял контракт, не задав вопросов сверх цены.",
+        "term": "Мерк"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-130",
+    "deck": "cyberpunk",
+    "term": "Gun for hire",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "combat",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A fighter or killer available to anyone who can meet the price.",
+        "example": "Word spread that he was a gun for hire, and the offers piled up fast."
+      },
+      "ru": {
+        "definition": "Боец или убийца, доступный любому, кто потянет цену.",
+        "example": "Прошёл слух, что он ствол напрокат, и предложения посыпались градом.",
+        "term": "Ствол напрокат"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-131",
+    "deck": "cyberpunk",
+    "term": "Milspec",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "combat",
+      "corp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Built to military standards; tougher and deadlier than civilian gear.",
+        "example": "That armor's milspec — it stops rounds a street vest never could."
+      },
+      "ru": {
+        "definition": "Сделанный по военным меркам; крепче и смертоноснее гражданского.",
+        "example": "Эта броня милспек — держит пули, каких не удержит уличный жилет.",
+        "term": "Милспек"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-132",
+    "deck": "cyberpunk",
+    "term": "Railgun",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "combat",
+      "corp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A weapon that hurls a slug at huge speed using magnets instead of gunpowder.",
+        "example": "The railgun's shot punched clean through the wall and the car behind it."
+      },
+      "ru": {
+        "definition": "Оружие, что разгоняет снаряд магнитами вместо пороха до огромной скорости.",
+        "example": "Выстрел рельсотрона прошил стену и машину за ней насквозь.",
+        "term": "Рельсотрон"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-133",
+    "deck": "cyberpunk",
+    "term": "EMP",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "combat",
+      "net"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A burst of energy that fries nearby electronics and implants.",
+        "example": "One EMP grenade and every camera on the floor went dark at once."
+      },
+      "ru": {
+        "definition": "Всплеск энергии, что выжигает электронику и импланты поблизости.",
+        "example": "Одна граната ЭМИ — и все камеры на этаже разом погасли.",
+        "term": "ЭМИ"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-134",
+    "deck": "cyberpunk",
+    "term": "Body armor",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "combat",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Protective gear worn to stop bullets and blades.",
+        "example": "The body armor caught two rounds, and he walked away with cracked ribs."
+      },
+      "ru": {
+        "definition": "Защитное снаряжение, что носят, чтобы держать пули и лезвия.",
+        "example": "Бронежилет поймал две пули, и он ушёл с трещиной в рёбрах.",
+        "term": "Бронежилет"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-135",
+    "deck": "cyberpunk",
+    "term": "Panzerboy",
+    "origin": "Cyberpunk 2020",
+    "difficulty": 3,
+    "tags": [
+      "combat",
+      "city"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A driver who runs armed, armored vehicles through hostile streets for pay.",
+        "example": "The panzerboy rammed the barricade and the crew rolled through untouched."
+      },
+      "ru": {
+        "definition": "Водитель, что за плату гоняет вооружённые бронемашины по враждебным улицам.",
+        "example": "Панцербой протаранил баррикаду, и команда прошла сквозь неё нетронутой.",
+        "term": "Панцербой"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-136",
+    "deck": "cyberpunk",
+    "term": "The Sprawl",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A vast urban belt where separate cities have merged into one endless mass.",
+        "example": "The Sprawl ran unbroken from Boston to Atlanta, all neon and concrete."
+      },
+      "ru": {
+        "definition": "Огромный городской пояс, где отдельные города слились в одну нескончаемую массу.",
+        "example": "Спрол тянулся без разрыва от Бостона до Атланты — сплошной неон и бетон.",
+        "term": "Спрол"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-137",
+    "deck": "cyberpunk",
+    "term": "Megacity",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "city",
+      "corp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An enormous city of many millions, spreading far past its old borders.",
+        "example": "The megacity swallowed a dozen towns and never noticed the meal."
+      },
+      "ru": {
+        "definition": "Огромный город на многие миллионы, разросшийся далеко за старые границы.",
+        "example": "Мегаполис проглотил дюжину городков и даже не заметил обеда.",
+        "term": "Мегаполис"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-138",
+    "deck": "cyberpunk",
+    "term": "Arcology",
+    "origin": "Soleri",
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "corp"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A single vast structure meant to house a whole city under one roof.",
+        "example": "Fifty thousand people lived, worked and died inside the one arcology."
+      },
+      "ru": {
+        "definition": "Единое исполинское сооружение, задуманное вместить целый город под одной крышей.",
+        "example": "Пятьдесят тысяч человек жили, работали и умирали внутри одной аркологии.",
+        "term": "Аркология"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-139",
+    "deck": "cyberpunk",
+    "term": "Urban decay",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The slow rot of a city into crumbling buildings, blight and neglect.",
+        "example": "Rust, graffiti and dead neon — urban decay had eaten the whole district."
+      },
+      "ru": {
+        "definition": "Медленное гниение города в осыпающиеся дома, разруху и запустение.",
+        "example": "Ржавчина, граффити и мёртвый неон — упадок сожрал весь район.",
+        "term": "Городской упадок"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-140",
+    "deck": "cyberpunk",
+    "term": "Acid rain",
+    "origin": "Blade Runner, 1982",
+    "difficulty": 1,
+    "tags": [
+      "city",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Polluted rain acidic enough to corrode metal, stone and skin over time.",
+        "example": "Acid rain streaked every window and ate the paint off parked cars."
+      },
+      "ru": {
+        "definition": "Загрязнённый дождь, кислый настолько, что со временем разъедает металл, камень и кожу.",
+        "example": "Кислотный дождь исчертил каждое окно и съел краску с припаркованных машин.",
+        "term": "Кислотный дождь"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-141",
+    "deck": "cyberpunk",
+    "term": "Megabuilding",
+    "origin": "Cyberpunk 2077",
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A towering complex that houses thousands, a whole neighborhood stacked upward.",
+        "example": "The megabuilding had its own market, clinic and gangs, floor by floor."
+      },
+      "ru": {
+        "definition": "Башенный комплекс на тысячи жильцов — целый район, сложенный вверх.",
+        "example": "У мегабилдинга был свой рынок, клиника и банды — этаж за этажом.",
+        "term": "Мегабилдинг"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-142",
+    "deck": "cyberpunk",
+    "term": "Neon",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "city",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Bright gas-filled tube lighting, the signature glow of the genre's streets.",
+        "example": "Neon dripped off every sign, painting the wet street pink and blue."
+      },
+      "ru": {
+        "definition": "Яркое свечение газовых трубок — фирменный свет улиц жанра.",
+        "example": "Неон стекал с каждой вывески, крася мокрую улицу в розовый и синий.",
+        "term": "Неон"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-143",
+    "deck": "cyberpunk",
+    "term": "Neon noir",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "media"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A dark crime style lit by glowing signs and rain-slick, colorful streets.",
+        "example": "The film was pure neon noir: a lone detective, endless rain, colder truths."
+      },
+      "ru": {
+        "definition": "Тёмный криминальный стиль в свете вывесок и мокрых, цветных улиц.",
+        "example": "Фильм был чистый неон-нуар: одинокий детектив, вечный дождь, холодная правда.",
+        "term": "Неон-нуар"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-144",
+    "deck": "cyberpunk",
+    "term": "Flying car",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "city",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A personal vehicle that travels through the air instead of on roads.",
+        "example": "A flying car lifted off the rooftop pad and slid into the traffic above."
+      },
+      "ru": {
+        "definition": "Личный транспорт, что движется по воздуху, а не по дорогам.",
+        "example": "Летающая машина оторвалась от крыши и скользнула в поток над городом.",
+        "term": "Летающая машина"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-145",
+    "deck": "cyberpunk",
+    "term": "Off-world",
+    "origin": "Blade Runner, 1982",
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "identity"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Belonging to the colonies beyond Earth, away from the crowded home world.",
+        "example": "The ads begged them to start over off-world, where the air was still clean."
+      },
+      "ru": {
+        "definition": "Принадлежащее колониям за пределами Земли, вдали от тесной родной планеты.",
+        "example": "Реклама умоляла начать всё заново во внемирье, где воздух ещё чист.",
+        "term": "Внемирье"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-146",
+    "deck": "cyberpunk",
+    "term": "Blade Runner",
+    "origin": "Blade Runner, 1982",
+    "difficulty": 1,
+    "tags": [
+      "canon",
+      "street"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hunter tasked with finding and retiring rogue artificial humans.",
+        "example": "The blade runner studied the crowd, looking for the one who wasn't real."
+      },
+      "ru": {
+        "definition": "Охотник, чья задача — найти и списать сбежавших искусственных людей.",
+        "example": "Блейд-раннер вглядывался в толпу, ища того, кто ненастоящий.",
+        "term": "Блейд-раннер"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-147",
+    "deck": "cyberpunk",
+    "term": "Chiba City",
+    "origin": "Gibson, Neuromancer, 1984",
+    "difficulty": 3,
+    "tags": [
+      "city",
+      "canon"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A gritty Japanese port district known as a black market for illegal cyberware.",
+        "example": "In Chiba City you could buy a new pancreas or a new face by midnight."
+      },
+      "ru": {
+        "definition": "Мрачный японский портовый район, известный чёрным рынком нелегального кибержелеза.",
+        "example": "В Тиба-Сити к полуночи можно купить новую поджелудочную или новое лицо.",
+        "term": "Тиба-Сити"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-148",
+    "deck": "cyberpunk",
+    "term": "High tech, low life",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "canon",
+      "city"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The genre's core contrast: dazzling technology beside poverty and decay.",
+        "example": "Holograms overhead, beggars below — high tech, low life in one glance."
+      },
+      "ru": {
+        "definition": "Ядро жанра: слепящая техника бок о бок с нищетой и упадком.",
+        "example": "Голограммы над головой, нищие внизу — высокие технологии, низкая жизнь в одном кадре.",
+        "term": "Высокие технологии, низкая жизнь"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-149",
+    "deck": "cyberpunk",
+    "term": "Virtual reality",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "net",
+      "media"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A computer-made world you can enter and move through as if it were real.",
+        "example": "He spent more hours in virtual reality than in the room where he sat."
+      },
+      "ru": {
+        "definition": "Созданный компьютером мир, куда можно войти и двигаться в нём, будто он настоящий.",
+        "example": "Он проводил в виртуальной реальности больше часов, чем в комнате, где сидел.",
+        "term": "Виртуальная реальность"
+      }
+    }
+  },
+  {
+    "id": "cyberpunk-150",
+    "deck": "cyberpunk",
+    "term": "Wetware",
+    "origin": "Shadowrun",
+    "difficulty": 2,
+    "tags": [
+      "body",
+      "net",
+      "AI"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The human brain and nervous system, seen as the living hardware that runs the mind.",
+        "example": "You can upgrade the chrome all you like, but the wetware stays fragile."
+      },
+      "ru": {
+        "definition": "Человеческий мозг и нервная система как живое железо, на котором работает разум.",
+        "example": "Хром можно улучшать сколько угодно, но вэтвер остаётся хрупким.",
+        "term": "Вэтвер"
+      }
+    }
+  }
+]

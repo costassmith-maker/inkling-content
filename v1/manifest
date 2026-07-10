@@ -122,10 +122,82 @@
         "fr": "Espace",
         "es": "Espacio"
       },
-      "count": 6
+      "count": 150
+    },
+    {
+      "id": "digital-marketing",
+      "title": {
+        "en": "Digital Marketing",
+        "ru": "Цифровой маркетинг",
+        "ja": "デジタルマーケティング",
+        "ko": "디지털 마케팅",
+        "fr": "Marketing digital",
+        "es": "Marketing digital"
+      },
+      "count": 50
+    },
+    {
+      "id": "robots",
+      "title": {
+        "en": "Robots & Automation",
+        "ru": "Роботы и автоматизация",
+        "ja": "ロボットと自動化",
+        "ko": "로봇과 자동화",
+        "fr": "Robots et automatisation",
+        "es": "Robots y automatización"
+      },
+      "count": 50
+    },
+    {
+      "id": "cyberpunk",
+      "title": {
+        "en": "Cyberpunk",
+        "ru": "Киберпанк",
+        "ja": "サイバーパンク",
+        "ko": "사이버펑크",
+        "fr": "Cyberpunk",
+        "es": "Cyberpunk"
+      },
+      "count": 150
+    },
+    {
+      "id": "vibe-coding",
+      "title": {
+        "en": "Vibe Coding & AI Agents",
+        "ru": "Вайбкодинг и ИИ-агенты",
+        "ja": "バイブコーディングとAIエージェント",
+        "ko": "바이브 코딩과 AI 에이전트",
+        "fr": "Vibe coding et agents IA",
+        "es": "Vibe coding y agentes de IA"
+      },
+      "count": 50
+    },
+    {
+      "id": "longevity",
+      "title": {
+        "en": "Longevity",
+        "ru": "Долголетие",
+        "ja": "長寿",
+        "ko": "장수",
+        "fr": "Longévité",
+        "es": "Longevidad"
+      },
+      "count": 150
+    },
+    {
+      "id": "tech-ai",
+      "title": {
+        "en": "Tech & AI",
+        "ru": "Технологии и ИИ",
+        "ja": "テックとAI",
+        "ko": "테크와 AI",
+        "fr": "Tech et IA",
+        "es": "Tech e IA"
+      },
+      "count": 50
     }
   ],
-  "total_cards": 1119,
-  "content_version": "846ddbf3083cbf58",
-  "generated_at": "2026-07-09T04:33:57.267460+00:00"
+  "total_cards": 1763,
+  "content_version": "f4f33713818361da",
+  "generated_at": "2026-07-10T06:08:40.188231+00:00"
 }
