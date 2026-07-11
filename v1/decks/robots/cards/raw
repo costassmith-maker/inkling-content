@@ -1098,5 +1098,1092 @@
         "term": "Силовая обратная связь"
       }
     }
+  },
+  {
+    "id": "robots-051",
+    "deck": "robots",
+    "term": "Torque",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "actuation",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The twisting force a motor delivers to turn a shaft, measured in newton-metres.",
+        "example": "The screwdriver bit stalls when the bolt's resistance exceeds the motor's torque."
+      },
+      "ru": {
+        "definition": "Вращающее усилие, которое мотор передаёт на вал, — измеряется в ньютон-метрах.",
+        "example": "Отвёрточная насадка встаёт, когда сопротивление болта превышает крутящий момент мотора.",
+        "term": "Крутящий момент"
+      }
+    }
+  },
+  {
+    "id": "robots-052",
+    "deck": "robots",
+    "term": "Battery",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "power",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A rechargeable store of electrical energy that powers a mobile robot away from any cord.",
+        "example": "The delivery robot returns to its dock to recharge when the battery drops below a tenth."
+      },
+      "ru": {
+        "definition": "Перезаряжаемый накопитель электроэнергии, который питает мобильного робота вдали от розетки.",
+        "example": "Робот-курьер возвращается на док-станцию заряжаться, когда заряд падает ниже десятой части.",
+        "term": "Аккумулятор"
+      }
+    }
+  },
+  {
+    "id": "robots-053",
+    "deck": "robots",
+    "term": "Tether",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "power",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A physical power-and-data cable that limits a robot's range but removes any limit on its endurance.",
+        "example": "The deep-sea robot stays on a tether so it never runs out of power on a long dive."
+      },
+      "ru": {
+        "definition": "Физический кабель питания и связи: ограничивает радиус хода, зато снимает предел автономности.",
+        "example": "Глубоководный робот идёт на привязи, чтобы не остаться без питания в долгом погружении.",
+        "term": "Привязь"
+      }
+    }
+  },
+  {
+    "id": "robots-054",
+    "deck": "robots",
+    "term": "Gravity compensation",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "control",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Control that offsets a robot's own weight so its arm holds a pose instead of sagging down.",
+        "example": "With gravity compensation on, the arm floats where you leave it and can be guided by hand."
+      },
+      "ru": {
+        "definition": "Управление, которое гасит собственный вес механизма, чтобы рука держала позу и не проседала.",
+        "example": "С компенсацией силы тяжести руку можно отпустить в любой точке и вести её ладонью.",
+        "term": "Компенсация силы тяжести"
+      }
+    }
+  },
+  {
+    "id": "robots-055",
+    "deck": "robots",
+    "term": "Sensor",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "sensing",
+      "hardware"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A device that measures something in the world — light, distance, force — and reports it as a signal.",
+        "example": "A contact sensor tells the vacuum it has hit a wall and needs to turn."
+      },
+      "ru": {
+        "definition": "Устройство, которое измеряет что-то во внешней среде — свет, расстояние, силу — и выдаёт сигнал.",
+        "example": "Контактный датчик сообщает пылесосу, что тот упёрся в стену и пора поворачивать.",
+        "term": "Датчик"
+      }
+    }
+  },
+  {
+    "id": "robots-056",
+    "deck": "robots",
+    "term": "LiDAR",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sensor that sweeps laser pulses to measure distances and build a 3D map of its surroundings.",
+        "example": "The self-driving car's LiDAR paints a spinning point map of every curb and pedestrian."
+      },
+      "ru": {
+        "definition": "Датчик, который сканирует лазерными импульсами и по дальностям строит трёхмерную карту окружения.",
+        "example": "Лидар беспилотного авто строит вращающуюся карту точек, где виден каждый бордюр и пешеход.",
+        "term": "Лидар (LiDAR)"
+      }
+    }
+  },
+  {
+    "id": "robots-057",
+    "deck": "robots",
+    "term": "Ultrasonic sensor",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sensor that gauges distance by timing the echo of a high-pitched sound off a surface.",
+        "example": "An ultrasonic sensor stops the robot a hand's width before it touches the wall."
+      },
+      "ru": {
+        "definition": "Датчик, который измеряет расстояние по времени возврата эха высокочастотного звука от поверхности.",
+        "example": "Ультразвуковой датчик останавливает робота за ладонь до касания стены.",
+        "term": "Ультразвуковой датчик"
+      }
+    }
+  },
+  {
+    "id": "robots-058",
+    "deck": "robots",
+    "term": "Infrared sensor",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sensor that detects heat or reflected light just past the red edge of vision to spot nearby objects.",
+        "example": "An infrared sensor catches the black tape line so the robot follows the track."
+      },
+      "ru": {
+        "definition": "Датчик, который улавливает тепло или отражённый свет за красной границей зрения, замечая рядом предметы.",
+        "example": "Инфракрасный датчик ловит чёрную линию из ленты, и робот едет по трассе.",
+        "term": "Инфракрасный датчик"
+      }
+    }
+  },
+  {
+    "id": "robots-059",
+    "deck": "robots",
+    "term": "Proximity sensor",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sensor that signals when an object comes within a set distance, without ever touching it.",
+        "example": "A proximity sensor wakes the hand dryer the moment palms slide underneath."
+      },
+      "ru": {
+        "definition": "Датчик, который срабатывает, когда предмет входит в заданную близость, не касаясь его.",
+        "example": "Датчик приближения включает сушилку для рук, едва под неё заводят ладони.",
+        "term": "Датчик приближения"
+      }
+    }
+  },
+  {
+    "id": "robots-060",
+    "deck": "robots",
+    "term": "Computer vision",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "sensing",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Teaching machines to interpret images and video — recognizing objects, faces, or motion.",
+        "example": "Computer vision lets the sorting robot tell a ripe apple from a bruised one."
+      },
+      "ru": {
+        "definition": "Обучение машин понимать изображения и видео — узнавать предметы, лица или движение.",
+        "example": "Компьютерное зрение помогает сортировочному роботу отличить спелое яблоко от помятого.",
+        "term": "Компьютерное зрение"
+      }
+    }
+  },
+  {
+    "id": "robots-061",
+    "deck": "robots",
+    "term": "Machine vision",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Camera-based inspection on a production line that checks parts for defects at speed.",
+        "example": "Machine vision flags any bottle whose cap sits crooked and kicks it off the belt."
+      },
+      "ru": {
+        "definition": "Контроль на производственной линии по камере: на скорости проверяет детали на дефекты.",
+        "example": "Машинное зрение помечает бутылку с криво сидящей крышкой и сбрасывает её с ленты.",
+        "term": "Машинное зрение"
+      }
+    }
+  },
+  {
+    "id": "robots-062",
+    "deck": "robots",
+    "term": "Depth camera (RGB-D)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A camera that captures both color and the distance to each pixel, giving a 3D view of a scene.",
+        "example": "A depth camera shows the robot exactly how far the mug sits from its gripper."
+      },
+      "ru": {
+        "definition": "Камера, которая снимает и цвет, и расстояние до каждого пикселя, давая трёхмерный вид сцены.",
+        "example": "Камера глубины показывает роботу, на каком расстоянии от захвата стоит кружка.",
+        "term": "Камера глубины (RGB-D)"
+      }
+    }
+  },
+  {
+    "id": "robots-063",
+    "deck": "robots",
+    "term": "Stereo vision",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Judging distance by comparing two offset camera views, the way two eyes gauge depth.",
+        "example": "Using stereo vision, the drone reads how far the branch is and slips past it."
+      },
+      "ru": {
+        "definition": "Оценка расстояния по сравнению двух смещённых видов камеры — как глубину оценивают два глаза.",
+        "example": "По стереозрению дрон понимает, далеко ли ветка, и проскальзывает мимо.",
+        "term": "Стереозрение"
+      }
+    }
+  },
+  {
+    "id": "robots-064",
+    "deck": "robots",
+    "term": "Inertial measurement unit (IMU)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A small module of gyroscopes and accelerometers that tracks a robot's tilt and motion.",
+        "example": "The drone's IMU senses a sudden tip and the rotors correct before it rolls."
+      },
+      "ru": {
+        "definition": "Небольшой модуль из гироскопов и акселерометров, отслеживающий наклон и движение робота.",
+        "example": "IMU дрона чувствует резкий крен, и винты выправляют его прежде, чем он опрокинется.",
+        "term": "Инерциальный измерительный модуль (IMU)"
+      }
+    }
+  },
+  {
+    "id": "robots-065",
+    "deck": "robots",
+    "term": "Gyroscope",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sensor that measures rotation and helps a robot tell which way it is turning.",
+        "example": "The gyroscope tells the self-balancing scooter the instant it starts to tip."
+      },
+      "ru": {
+        "definition": "Датчик, который измеряет вращение и помогает роботу понимать, куда он поворачивает.",
+        "example": "Гироскоп улавливает миг, когда самобалансирующий самокат начинает крениться.",
+        "term": "Гироскоп"
+      }
+    }
+  },
+  {
+    "id": "robots-066",
+    "deck": "robots",
+    "term": "Accelerometer",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sensor that measures changes in speed, picking up motion, vibration, and which way is down.",
+        "example": "An accelerometer notices the robot was bumped and pauses until it settles."
+      },
+      "ru": {
+        "definition": "Датчик, который измеряет изменения скорости — улавливает движение, вибрацию и где низ.",
+        "example": "Акселерометр замечает, что робота толкнули, и ставит его на паузу до успокоения.",
+        "term": "Акселерометр"
+      }
+    }
+  },
+  {
+    "id": "robots-067",
+    "deck": "robots",
+    "term": "Force-torque sensor",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "sensing",
+      "manipulation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A wrist sensor that measures push and twist in every direction during contact.",
+        "example": "A force-torque sensor lets the arm feel the peg touch the hole and ease it in."
+      },
+      "ru": {
+        "definition": "Датчик в запястье, который измеряет нажатие и скручивание по всем осям при контакте.",
+        "example": "Датчик силы и момента даёт руке почувствовать касание штифта об отверстие и завести его.",
+        "term": "Датчик силы и момента"
+      }
+    }
+  },
+  {
+    "id": "robots-068",
+    "deck": "robots",
+    "term": "Tactile sensor",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing",
+      "manipulation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A skin-like sensor that reports touch and pressure across a gripper's contact surface.",
+        "example": "Tactile sensors let the hand feel a grape start to slip and grip a touch harder."
+      },
+      "ru": {
+        "definition": "Кожеподобный датчик, который сообщает о касании и давлении по поверхности захвата.",
+        "example": "Тактильные датчики дают кисти почувствовать, что виноградина скользит, и сжать чуть сильнее.",
+        "term": "Тактильный датчик"
+      }
+    }
+  },
+  {
+    "id": "robots-069",
+    "deck": "robots",
+    "term": "Odometry",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Estimating how far a robot has travelled by counting its wheel or joint movement.",
+        "example": "Odometry says the cart has rolled two metres, though it drifts a bit on slick tile."
+      },
+      "ru": {
+        "definition": "Оценка пройденного роботом расстояния по числу оборотов колёс или движений суставов.",
+        "example": "Одометрия говорит, что тележка проехала два метра, хотя на скользкой плитке слегка врёт.",
+        "term": "Одометрия"
+      }
+    }
+  },
+  {
+    "id": "robots-070",
+    "deck": "robots",
+    "term": "Sensor fusion",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Combining readings from several sensors into one estimate more reliable than any alone.",
+        "example": "Sensor fusion blends camera and radar so fog can't blind the car."
+      },
+      "ru": {
+        "definition": "Объединение показаний нескольких датчиков в одну оценку, надёжнее любого из них по отдельности.",
+        "example": "Слияние данных датчиков сводит камеру и радар, чтобы туман не ослепил машину.",
+        "term": "Слияние данных датчиков"
+      }
+    }
+  },
+  {
+    "id": "robots-071",
+    "deck": "robots",
+    "term": "Point cloud",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A set of 3D points a scanner returns that together trace the shape of a scene or object.",
+        "example": "The LiDAR's point cloud outlines the room's walls, furniture, and every doorway."
+      },
+      "ru": {
+        "definition": "Набор трёхмерных точек от сканера, которые вместе очерчивают форму сцены или предмета.",
+        "example": "Облако точек от лидара обрисовывает стены комнаты, мебель и каждый дверной проём.",
+        "term": "Облако точек"
+      }
+    }
+  },
+  {
+    "id": "robots-072",
+    "deck": "robots",
+    "term": "Object detection",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "sensing",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Finding and labeling items in an image and marking where each one sits in the frame.",
+        "example": "Object detection boxes every parcel on the belt so the arm knows what to grab."
+      },
+      "ru": {
+        "definition": "Поиск и разметка предметов на изображении с указанием, где каждый находится в кадре.",
+        "example": "Обнаружение объектов обводит каждую посылку на ленте, и рука знает, что брать.",
+        "term": "Обнаружение объектов"
+      }
+    }
+  },
+  {
+    "id": "robots-073",
+    "deck": "robots",
+    "term": "Perception",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "sensing",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot's overall sense of its surroundings, built by turning raw sensor data into meaning.",
+        "example": "Good perception lets the robot tell a shadow on the floor from a real step down."
+      },
+      "ru": {
+        "definition": "Общее понимание роботом обстановки, собранное превращением сырых данных датчиков в смысл.",
+        "example": "Хорошее восприятие помогает роботу отличить тень на полу от настоящей ступеньки вниз.",
+        "term": "Восприятие"
+      }
+    }
+  },
+  {
+    "id": "robots-074",
+    "deck": "robots",
+    "term": "SLAM",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "autonomy",
+      "sensing",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Building a map of an unknown space while tracking your own place on it at the same time.",
+        "example": "Running SLAM, the vacuum maps the flat on its first pass and never re-explores a room."
+      },
+      "ru": {
+        "definition": "Построение карты незнакомого пространства с одновременным отслеживанием своего места на ней.",
+        "example": "С SLAM пылесос за первый проход строит карту квартиры и не обходит комнаты заново.",
+        "term": "SLAM"
+      }
+    }
+  },
+  {
+    "id": "robots-075",
+    "deck": "robots",
+    "term": "Localization",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "autonomy",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot working out where it stands on a known map from what its sensors currently see.",
+        "example": "Localization matches the LiDAR scan to the store map and places the robot in aisle four."
+      },
+      "ru": {
+        "definition": "Определение роботом своего места на известной карте по тому, что сейчас видят датчики.",
+        "example": "Локализация сверяет скан лидара с картой магазина и ставит робота в четвёртый проход.",
+        "term": "Локализация"
+      }
+    }
+  },
+  {
+    "id": "robots-076",
+    "deck": "robots",
+    "term": "Mapping",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "autonomy",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Recording the layout of a space — walls, obstacles, open paths — as a map a robot can use.",
+        "example": "On its first run the robot drives every hallway, mapping the office floor as it goes."
+      },
+      "ru": {
+        "definition": "Запись планировки пространства — стен, препятствий, свободных путей — в карту для робота.",
+        "example": "В первый заезд робот объезжает все коридоры, картируя этаж офиса по ходу.",
+        "term": "Картирование"
+      }
+    }
+  },
+  {
+    "id": "robots-077",
+    "deck": "robots",
+    "term": "Path planning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "autonomy",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Working out a route from start to goal that avoids obstacles before the robot sets off.",
+        "example": "Path planning picks the clear aisle to the dock instead of one blocked by pallets."
+      },
+      "ru": {
+        "definition": "Расчёт маршрута от старта к цели в обход препятствий ещё до того, как робот тронется.",
+        "example": "Планирование пути выбирает свободный проход к доку вместо загороженного паллетами.",
+        "term": "Планирование пути"
+      }
+    }
+  },
+  {
+    "id": "robots-078",
+    "deck": "robots",
+    "term": "Motion planning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "autonomy",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Plotting how a robot's joints carry it along a route without collisions or awkward poses.",
+        "example": "Motion planning bends the arm around the fixture to reach the bolt without a clash."
+      },
+      "ru": {
+        "definition": "Расчёт того, как суставы проведут робота по маршруту без столкновений и неудобных поз.",
+        "example": "Планирование движения обводит руку вокруг оснастки, чтобы дотянуться до болта без удара.",
+        "term": "Планирование движения"
+      }
+    }
+  },
+  {
+    "id": "robots-079",
+    "deck": "robots",
+    "term": "Obstacle avoidance",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "autonomy",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Sensing things in the way and steering around them instead of stopping or hitting them.",
+        "example": "Obstacle avoidance swings the robot around a stray box and back onto its route."
+      },
+      "ru": {
+        "definition": "Замечать то, что стоит на пути, и объезжать это, а не тормозить или врезаться.",
+        "example": "Обход препятствий уводит робота вокруг брошенной коробки и возвращает на маршрут.",
+        "term": "Обход препятствий"
+      }
+    }
+  },
+  {
+    "id": "robots-080",
+    "deck": "robots",
+    "term": "Navigation",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "autonomy",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Getting a robot from where it is to where it needs to be, deciding the way as it moves.",
+        "example": "Navigation guides the hospital robot from the pharmacy to a ward two floors up."
+      },
+      "ru": {
+        "definition": "Проводить робота оттуда, где он есть, туда, где нужно, выбирая путь по ходу движения.",
+        "example": "Навигация ведёт больничного робота из аптеки в палату двумя этажами выше.",
+        "term": "Навигация"
+      }
+    }
+  },
+  {
+    "id": "robots-081",
+    "deck": "robots",
+    "term": "Waypoint",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "autonomy",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A marked coordinate along a route that a robot aims for on the way to its final goal.",
+        "example": "The drone hits each waypoint in turn, circling the field before it lands back home."
+      },
+      "ru": {
+        "definition": "Отмеченная координата на маршруте, к которой робот стремится по пути к конечной цели.",
+        "example": "Дрон проходит путевые точки по очереди, облетая поле, и садится обратно на базу.",
+        "term": "Путевая точка"
+      }
+    }
+  },
+  {
+    "id": "robots-082",
+    "deck": "robots",
+    "term": "Autonomy",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "autonomy",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How much a machine can act and decide on its own, with no person steering each move.",
+        "example": "Higher autonomy lets the tractor plough the field all day with no one in the cab."
+      },
+      "ru": {
+        "definition": "Мера того, насколько машина действует и решает сама, без человека за каждым шагом.",
+        "example": "Высокая автономность позволяет трактору пахать поле весь день без человека в кабине.",
+        "term": "Автономность"
+      }
+    }
+  },
+  {
+    "id": "robots-083",
+    "deck": "robots",
+    "term": "Teleoperation",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "control",
+      "hri"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A person driving a robot from a distance, its movements mirroring the human's in real time.",
+        "example": "Through teleoperation an expert guides the bomb-disposal robot from a safe van."
+      },
+      "ru": {
+        "definition": "Человек ведёт робота на расстоянии, и тот в реальном времени повторяет его движения.",
+        "example": "Через телеуправление специалист ведёт сапёрного робота из безопасного фургона.",
+        "term": "Телеуправление"
+      }
+    }
+  },
+  {
+    "id": "robots-084",
+    "deck": "robots",
+    "term": "Locomotion",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "mobility",
+      "humanoid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The way a robot moves its whole body through space — walking, rolling, crawling, or flying.",
+        "example": "The robot switches its locomotion from wheels to legs when the path turns to stairs."
+      },
+      "ru": {
+        "definition": "Способ, которым робот перемещает всё тело в пространстве, — шагом, качением, ползком или полётом.",
+        "example": "Робот меняет локомоцию с колёс на ноги, когда путь превращается в лестницу.",
+        "term": "Локомоция"
+      }
+    }
+  },
+  {
+    "id": "robots-085",
+    "deck": "robots",
+    "term": "Gait",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "mobility",
+      "humanoid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The repeating pattern of leg movements a walking robot uses to stay balanced and move.",
+        "example": "On ice the robot shifts to a slow, wide gait so it doesn't slip."
+      },
+      "ru": {
+        "definition": "Повторяющийся рисунок движений ног, которым шагающий робот держит равновесие и идёт.",
+        "example": "На льду робот переходит на медленную широкую походку, чтобы не поскользнуться.",
+        "term": "Походка"
+      }
+    }
+  },
+  {
+    "id": "robots-086",
+    "deck": "robots",
+    "term": "Bipedal",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "mobility",
+      "humanoid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Walking upright on two legs — the balance-heavy way humans and some robots get around.",
+        "example": "A bipedal robot climbs the same stairs people use instead of needing a ramp."
+      },
+      "ru": {
+        "definition": "Прямохождение на двух ногах — требующий баланса способ передвижения людей и части роботов.",
+        "example": "Робот на двух ногах поднимается по обычной лестнице, а не требует пандуса.",
+        "term": "Двуногая ходьба"
+      }
+    }
+  },
+  {
+    "id": "robots-087",
+    "deck": "robots",
+    "term": "Holonomic drive",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "mobility",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A drive that can move in any direction and turn at once, without first facing that way.",
+        "example": "On a holonomic drive the robot slides straight sideways into the narrow slot."
+      },
+      "ru": {
+        "definition": "Привод, способный ехать в любую сторону и поворачивать сразу, не разворачиваясь к цели.",
+        "example": "На голономном приводе робот вдвигается прямо вбок в узкую щель.",
+        "term": "Голономный привод"
+      }
+    }
+  },
+  {
+    "id": "robots-088",
+    "deck": "robots",
+    "term": "Differential drive",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "mobility",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Steering by running two side wheels at different speeds, turning toward the slower one.",
+        "example": "With differential drive the robot spins in place by driving its wheels opposite ways."
+      },
+      "ru": {
+        "definition": "Поворот за счёт разной скорости двух боковых колёс — машина уходит к более медленному.",
+        "example": "На дифференциальном приводе робот крутится на месте, вращая колёса в разные стороны.",
+        "term": "Дифференциальный привод"
+      }
+    }
+  },
+  {
+    "id": "robots-089",
+    "deck": "robots",
+    "term": "Dead reckoning",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "autonomy",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Estimating position from known speed and heading over time, with no outside reference.",
+        "example": "In the tunnel with no GPS, the robot keeps its place by dead reckoning until it exits."
+      },
+      "ru": {
+        "definition": "Оценка положения по известной скорости и курсу за время — без каких-либо внешних ориентиров.",
+        "example": "В тоннеле без GPS робот держит место счислением пути, пока не выедет наружу.",
+        "term": "Счисление пути"
+      }
+    }
+  },
+  {
+    "id": "robots-090",
+    "deck": "robots",
+    "term": "Geofencing",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "autonomy",
+      "safety"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Drawing a virtual boundary a robot may not cross, enforced by its own navigation.",
+        "example": "Geofencing keeps the mower on the lawn and stops it at the edge of the flowerbed."
+      },
+      "ru": {
+        "definition": "Виртуальная граница, которую роботу нельзя пересекать, — её держит собственная навигация.",
+        "example": "Геозонирование удерживает газонокосилку на лужайке и стопорит у края клумбы.",
+        "term": "Геозонирование"
+      }
+    }
+  },
+  {
+    "id": "robots-091",
+    "deck": "robots",
+    "term": "Control system",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "control",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The part of a robot that reads goals and sensors and decides what the actuators should do.",
+        "example": "The control system nudges the motors dozens of times a second to hold the drone steady."
+      },
+      "ru": {
+        "definition": "Часть робота, которая по целям и показаниям датчиков решает, что должны делать приводы.",
+        "example": "Система управления подправляет моторы десятки раз в секунду, удерживая дрон ровно.",
+        "term": "Система управления"
+      }
+    }
+  },
+  {
+    "id": "robots-092",
+    "deck": "robots",
+    "term": "Feedback loop",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A cycle where a system measures its result and adjusts its next action to close the gap.",
+        "example": "A feedback loop trims the heater whenever the reading drifts from the set temperature."
+      },
+      "ru": {
+        "definition": "Цикл, в котором система измеряет результат и правит следующее действие, устраняя расхождение.",
+        "example": "Замкнутый контур подстраивает нагреватель, едва показание уходит от заданной температуры.",
+        "term": "Замкнутый контур"
+      }
+    }
+  },
+  {
+    "id": "robots-093",
+    "deck": "robots",
+    "term": "Open-loop control",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Running an action on a preset command without checking the actual result along the way.",
+        "example": "A microwave runs open-loop — it heats for the set time, not up to a measured temperature."
+      },
+      "ru": {
+        "definition": "Выполнение действия по заранее заданной команде без проверки фактического результата.",
+        "example": "Микроволновка греет разомкнуто: заданное время, а не до измеренной температуры.",
+        "term": "Разомкнутое управление"
+      }
+    }
+  },
+  {
+    "id": "robots-094",
+    "deck": "robots",
+    "term": "PID controller",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A common controller that corrects error from its size, its buildup, and its rate of change.",
+        "example": "A PID controller holds the drone at altitude, easing off as it nears the target height."
+      },
+      "ru": {
+        "definition": "Распространённый регулятор, правящий ошибку по её величине, накоплению и скорости изменения.",
+        "example": "ПИД-регулятор держит дрон на высоте, сбавляя тягу у самой цели.",
+        "term": "ПИД-регулятор"
+      }
+    }
+  },
+  {
+    "id": "robots-095",
+    "deck": "robots",
+    "term": "Kinematics",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kinematics",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study of how a robot's parts move — positions, angles, speeds — apart from the forces.",
+        "example": "Kinematics tells you where the gripper ends up when each joint turns to a given angle."
+      },
+      "ru": {
+        "definition": "Изучение того, как движутся части робота — положения, углы, скорости — в отрыве от сил.",
+        "example": "Кинематика говорит, где окажется захват, когда каждый сустав повернётся на заданный угол.",
+        "term": "Кинематика"
+      }
+    }
+  },
+  {
+    "id": "robots-096",
+    "deck": "robots",
+    "term": "Forward kinematics",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "kinematics",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Computing where the hand ends up from the angle set at each joint along the arm.",
+        "example": "Forward kinematics turns the six joint angles into the exact tip position in space."
+      },
+      "ru": {
+        "definition": "Расчёт того, где окажется кисть, по заданному углу каждого сустава руки.",
+        "example": "Прямая кинематика превращает шесть углов суставов в точное положение кончика в пространстве.",
+        "term": "Прямая кинематика"
+      }
+    }
+  },
+  {
+    "id": "robots-097",
+    "deck": "robots",
+    "term": "Inverse kinematics",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kinematics",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Working out the joint angles needed to place the hand at a chosen point in space.",
+        "example": "Inverse kinematics finds the angles that put the gripper right on the doorknob."
+      },
+      "ru": {
+        "definition": "Расчёт углов суставов, нужных, чтобы поставить кисть в выбранную точку пространства.",
+        "example": "Обратная кинематика находит углы, при которых захват встаёт точно на дверную ручку.",
+        "term": "Обратная кинематика"
+      }
+    }
+  },
+  {
+    "id": "robots-098",
+    "deck": "robots",
+    "term": "Dynamics",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "kinematics",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How forces, masses, and torques produce a robot's motion, not just the geometry of it.",
+        "example": "Dynamics explains why a fast-swinging arm overshoots unless the motor eases it in."
+      },
+      "ru": {
+        "definition": "Как силы, массы и моменты порождают движение робота, а не только его геометрия.",
+        "example": "Динамика объясняет, почему быстро махнувшая рука проскакивает цель без притормаживания.",
+        "term": "Динамика"
+      }
+    }
+  },
+  {
+    "id": "robots-099",
+    "deck": "robots",
+    "term": "Trajectory",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "control",
+      "kinematics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The full path a robot part follows through space over time, with its speed at each point.",
+        "example": "The welder follows a smooth trajectory along the seam so the bead stays even."
+      },
+      "ru": {
+        "definition": "Полный путь части робота в пространстве во времени, со скоростью в каждой точке.",
+        "example": "Сварочная головка идёт плавной траекторией по шву, и валик остаётся ровным.",
+        "term": "Траектория"
+      }
+    }
+  },
+  {
+    "id": "robots-100",
+    "deck": "robots",
+    "term": "Setpoint",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The target value a control system tries to reach and hold, such as a speed or an angle.",
+        "example": "Raise the setpoint to 60 °C and the controller drives the heater until the tank matches."
+      },
+      "ru": {
+        "definition": "Целевое значение, которое система управления стремится достичь и удержать, — скорость или угол.",
+        "example": "Поднимите уставку до 60 °C, и регулятор гонит нагрев, пока бак не достигнет её.",
+        "term": "Уставка"
+      }
+    }
   }
 ]

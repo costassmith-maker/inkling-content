@@ -10,6 +10,102 @@
   ],
   "decks": [
     {
+      "id": "tech-ai",
+      "title": {
+        "en": "Tech & AI",
+        "ru": "Технологии и ИИ",
+        "ja": "テックとAI",
+        "ko": "테크와 AI",
+        "fr": "Tech et IA",
+        "es": "Tech e IA"
+      },
+      "count": 150
+    },
+    {
+      "id": "digital-marketing",
+      "title": {
+        "en": "Digital Marketing",
+        "ru": "Цифровой маркетинг",
+        "ja": "デジタルマーケティング",
+        "ko": "디지털 마케팅",
+        "fr": "Marketing digital",
+        "es": "Marketing digital"
+      },
+      "count": 100
+    },
+    {
+      "id": "space",
+      "title": {
+        "en": "Space",
+        "ru": "Космос",
+        "ja": "宇宙",
+        "ko": "우주",
+        "fr": "Espace",
+        "es": "Espacio"
+      },
+      "count": 150
+    },
+    {
+      "id": "robots",
+      "title": {
+        "en": "Robots & Automation",
+        "ru": "Роботы и автоматизация",
+        "ja": "ロボットと自動化",
+        "ko": "로봇과 자동화",
+        "fr": "Robots et automatisation",
+        "es": "Robots y automatización"
+      },
+      "count": 100
+    },
+    {
+      "id": "cyberpunk",
+      "title": {
+        "en": "Cyberpunk",
+        "ru": "Киберпанк",
+        "ja": "サイバーパンク",
+        "ko": "사이버펑크",
+        "fr": "Cyberpunk",
+        "es": "Cyberpunk"
+      },
+      "count": 150
+    },
+    {
+      "id": "gen-z",
+      "title": {
+        "en": "Gen Z Slang",
+        "ru": "Сленг поколения Z",
+        "ja": "Z世代スラング",
+        "ko": "Z세대 슬랭",
+        "fr": "Argot de la génération Z",
+        "es": "Argot de la generación Z"
+      },
+      "count": 150
+    },
+    {
+      "id": "vibe-coding",
+      "title": {
+        "en": "Vibe Coding & AI Agents",
+        "ru": "Вайбкодинг и ИИ-агенты",
+        "ja": "バイブコーディングとAIエージェント",
+        "ko": "바이브 코딩과 AI 에이전트",
+        "fr": "Vibe coding et agents IA",
+        "es": "Vibe coding y agentes de IA"
+      },
+      "count": 150
+    },
+    {
+      "id": "longevity",
+      "title": {
+        "en": "Longevity",
+        "ru": "Долголетие",
+        "ja": "長寿",
+        "ko": "장수",
+        "fr": "Longévité",
+        "es": "Longevidad"
+      },
+      "count": 150
+    },
+    {
       "id": "ai-ml",
       "title": {
         "en": "Tech & AI",
@@ -19,7 +115,8 @@
         "fr": "Tech et IA",
         "es": "Tech e IA"
       },
-      "count": 101
+      "count": 101,
+      "hidden": true
     },
     {
       "id": "tech-jargon",
@@ -32,8 +129,7 @@
         "es": "Tech e IA"
       },
       "count": 100,
-      "hidden": true,
-      "groupedInto": "ai-ml"
+      "hidden": true
     },
     {
       "id": "internet-slang",
@@ -58,7 +154,8 @@
         "fr": "Mots intraduisibles",
         "es": "Palabras intraducibles"
       },
-      "count": 199
+      "count": 199,
+      "hidden": true
     },
     {
       "id": "loanwords",
@@ -71,8 +168,7 @@
         "es": "Préstamos cotidianos"
       },
       "count": 101,
-      "hidden": true,
-      "mergedInto": "untranslatable"
+      "hidden": true
     },
     {
       "id": "linguistics",
@@ -110,94 +206,11 @@
         "fr": "Mot du jour",
         "es": "Palabra del día"
       },
-      "count": 312
-    },
-    {
-      "id": "space",
-      "title": {
-        "en": "Space",
-        "ru": "Космос",
-        "ja": "宇宙",
-        "ko": "우주",
-        "fr": "Espace",
-        "es": "Espacio"
-      },
-      "count": 150
-    },
-    {
-      "id": "digital-marketing",
-      "title": {
-        "en": "Digital Marketing",
-        "ru": "Цифровой маркетинг",
-        "ja": "デジタルマーケティング",
-        "ko": "디지털 마케팅",
-        "fr": "Marketing digital",
-        "es": "Marketing digital"
-      },
-      "count": 50
-    },
-    {
-      "id": "robots",
-      "title": {
-        "en": "Robots & Automation",
-        "ru": "Роботы и автоматизация",
-        "ja": "ロボットと自動化",
-        "ko": "로봇과 자동화",
-        "fr": "Robots et automatisation",
-        "es": "Robots y automatización"
-      },
-      "count": 50
-    },
-    {
-      "id": "cyberpunk",
-      "title": {
-        "en": "Cyberpunk",
-        "ru": "Киберпанк",
-        "ja": "サイバーパンク",
-        "ko": "사이버펑크",
-        "fr": "Cyberpunk",
-        "es": "Cyberpunk"
-      },
-      "count": 150
-    },
-    {
-      "id": "vibe-coding",
-      "title": {
-        "en": "Vibe Coding & AI Agents",
-        "ru": "Вайбкодинг и ИИ-агенты",
-        "ja": "バイブコーディングとAIエージェント",
-        "ko": "바이브 코딩과 AI 에이전트",
-        "fr": "Vibe coding et agents IA",
-        "es": "Vibe coding y agentes de IA"
-      },
-      "count": 50
-    },
-    {
-      "id": "longevity",
-      "title": {
-        "en": "Longevity",
-        "ru": "Долголетие",
-        "ja": "長寿",
-        "ko": "장수",
-        "fr": "Longévité",
-        "es": "Longevidad"
-      },
-      "count": 150
-    },
-    {
-      "id": "tech-ai",
-      "title": {
-        "en": "Tech & AI",
-        "ru": "Технологии и ИИ",
-        "ja": "テックとAI",
-        "ko": "테크와 AI",
-        "fr": "Tech et IA",
-        "es": "Tech e IA"
-      },
-      "count": 50
+      "count": 312,
+      "hidden": true
     }
   ],
-  "total_cards": 1763,
-  "content_version": "f4f33713818361da",
-  "generated_at": "2026-07-10T06:08:40.188231+00:00"
+  "total_cards": 2213,
+  "content_version": "582f38b4edd8ff4b",
+  "generated_at": "2026-07-11T05:30:19.224159+00:00"
 }

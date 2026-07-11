@@ -18,6 +18,26 @@
         "definition": "Фантастический жанр о высоких технологиях и социальном упадке, где хакеры и изгои выживают под властью корпораций.",
         "example": "Неоновый дождь, хромированные импланты, кодер-одиночка по найму — вот это киберпанк.",
         "term": "Киберпанк"
+      },
+      "ja": {
+        "definition": "高度な技術と社会の荒廃が同居し、ハッカーやはみ出し者が巨大企業の支配の下で生き延びるSFのジャンル。",
+        "example": "ネオンの雨、クロームの義体、雇われの一匹狼コーダー。まさにこの世界そのものだ。",
+        "term": "サイバーパンク"
+      },
+      "ko": {
+        "definition": "첨단 기술과 사회적 몰락이 공존하는 SF 장르로, 해커와 낙오자가 거대 기업의 지배 아래 근근이 살아간다.",
+        "example": "네온 빗줄기, 크롬 임플란트, 돈 받고 뛰는 외톨이 코더 — 이게 바로 사이버펑크다.",
+        "term": "사이버펑크"
+      },
+      "fr": {
+        "definition": "Genre de science-fiction où hautes technologies et déclin social se côtoient, et où hackers et marginaux survivent sous le joug des corporations.",
+        "example": "Pluie de néon, implants de chrome, un codeur solitaire à louer — voilà du pur cyberpunk.",
+        "term": "Cyberpunk"
+      },
+      "es": {
+        "definition": "Género de ciencia ficción sobre alta tecnología y decadencia social, donde hackers y marginados sobreviven bajo el poder de las corporaciones.",
+        "example": "Lluvia de neón, implantes de cromo, un programador rebelde de alquiler: cyberpunk puro.",
+        "term": "Cyberpunk"
       }
     }
   },
@@ -40,6 +60,26 @@
         "definition": "Воображаемое пространство, по которому движется разум, подключённый к компьютерной сети.",
         "example": "Она закрыла глаза, подключилась — и город растаял, оставив одно киберпространство.",
         "term": "Киберпространство"
+      },
+      "ja": {
+        "definition": "意識をコンピューターネットワークにつないだとき、その中を移動しているように感じられる想像上の空間。",
+        "example": "彼女は目を閉じてジャックインし、街の景色は溶けて消えていった。",
+        "term": "サイバースペース"
+      },
+      "ko": {
+        "definition": "정신을 컴퓨터 네트워크에 연결했을 때 그 안을 돌아다니는 것처럼 느껴지는 상상의 공간.",
+        "example": "그녀가 눈을 감고 접속하자 도시가 사라지고 사이버스페이스만 남았다.",
+        "term": "사이버스페이스"
+      },
+      "fr": {
+        "definition": "Espace imaginaire que parcourt l'esprit lorsqu'il est branché sur un réseau informatique.",
+        "example": "Elle ferma les yeux, se connecta, et la ville s'effaça dans le cyberespace.",
+        "term": "Cyberespace"
+      },
+      "es": {
+        "definition": "Espacio imaginario por el que te mueves cuando tu mente se conecta a una red informática.",
+        "example": "Cerró los ojos, se conectó y la ciudad se disolvió en el ciberespacio.",
+        "term": "Ciberespacio"
       }
     }
   },
@@ -62,6 +102,26 @@
         "definition": "Глобальная сеть данных, представленная как мир, по которому можно перемещаться визуально.",
         "example": "В матрице каждое корпоративное хранилище светилось, как крепость из чистого света.",
         "term": "Матрица"
+      },
+      "ja": {
+        "definition": "世界規模のデータ網を、視覚的に歩き回れる世界として描いたもの。",
+        "example": "そこでは企業の金庫室がどれも光の要塞のように輝いていた。",
+        "term": "マトリックス"
+      },
+      "ko": {
+        "definition": "전 세계 데이터망을 눈으로 오가며 탐색할 수 있는 그래픽 세계로 표현한 것.",
+        "example": "매트릭스 안의 기업 금고는 하나같이 빛으로 지은 요새처럼 번쩍였다.",
+        "term": "매트릭스"
+      },
+      "fr": {
+        "definition": "Réseau mondial de données représenté comme un monde visuel où l'on peut se déplacer.",
+        "example": "Dans la Matrice, chaque coffre corporatif brillait telle une forteresse de lumière.",
+        "term": "La Matrice"
+      },
+      "es": {
+        "definition": "La red mundial de datos representada como un mundo gráfico por el que se puede navegar.",
+        "example": "Cada bóveda corporativa de la Matriz brillaba como una fortaleza de luz.",
+        "term": "La Matriz"
       }
     }
   },
@@ -84,6 +144,26 @@
         "definition": "Хакер, который проникает в сети, проецируя туда собственное сознание.",
         "example": "Команда наняла нетраннера, чтобы вскрыть охрану здания из фургона у входа.",
         "term": "Нетраннер"
+      },
+      "ja": {
+        "definition": "自分の意識を直接投射してネットワークに侵入するハッカー。",
+        "example": "チームは外の車内から建物の警備を破らせるため、腕利きを一人雇った。",
+        "term": "ネットランナー"
+      },
+      "ko": {
+        "definition": "자신의 정신을 직접 투영해 네트워크에 침투하는 해커.",
+        "example": "팀은 밖에 세워둔 밴에서 건물 보안을 뚫으려고 넷러너를 고용했다.",
+        "term": "넷러너"
+      },
+      "fr": {
+        "definition": "Hacker qui infiltre les réseaux en y projetant directement son propre esprit.",
+        "example": "L'équipe engagea un netrunner pour forcer la sécurité du bâtiment depuis un van garé dehors.",
+        "term": "Netrunner"
+      },
+      "es": {
+        "definition": "Hacker que se infiltra en las redes proyectando su propia mente dentro de ellas.",
+        "example": "La banda contrató a un netrunner para reventar la seguridad del edificio desde una furgoneta.",
+        "term": "Netrunner"
       }
     }
   },
@@ -106,6 +186,26 @@
         "definition": "Хакер, взламывающий системы с помощью деки, подключённой к нервной системе.",
         "example": "Их декер проскользнул мимо корпоративного узла раньше, чем мигнула тревога.",
         "term": "Декер"
+      },
+      "ja": {
+        "definition": "神経系につないだ端末を使ってシステムに侵入するハッカー。",
+        "example": "仲間の手練れは、警報がまたたく前に企業のノードをすり抜けた。",
+        "term": "デッカー"
+      },
+      "ko": {
+        "definition": "신경계에 연결한 덱을 이용해 시스템을 뚫는 해커.",
+        "example": "경보가 깜빡이기도 전에 그들의 데커는 기업 노드를 빠져나갔다.",
+        "term": "데커"
+      },
+      "fr": {
+        "definition": "Hacker qui force les systèmes à l'aide d'une deck reliée à son système nerveux.",
+        "example": "Leur decker se glissa au-delà du nœud corporatif avant même que l'alarme ne cligne.",
+        "term": "Decker"
+      },
+      "es": {
+        "definition": "Hacker que asalta sistemas mediante una consola conectada a su sistema nervioso.",
+        "example": "Su decker cruzó el nodo corporativo antes de que parpadeara la alarma.",
+        "term": "Decker"
       }
     }
   },
@@ -128,6 +228,26 @@
         "definition": "Вольный охотник за данными, что грабит корпоративные системы по найму.",
         "example": "Он был лучшим консольным ковбоем в трущобах, пока один заход не убил его.",
         "term": "Консольный ковбой"
+      },
+      "ja": {
+        "definition": "雇われて企業のシステムを荒らす、フリーのデータ泥棒。",
+        "example": "彼はスプロール一の腕前だったが、一度のしくじりで心臓が止まった。",
+        "term": "コンソールカウボーイ"
+      },
+      "ko": {
+        "definition": "돈을 받고 기업 시스템을 털어대는 프리랜서 데이터 도둑.",
+        "example": "그는 슬럼가 최고의 콘솔 카우보이였다 — 한 번의 실수로 목숨을 잃기 전까지는.",
+        "term": "콘솔 카우보이"
+      },
+      "fr": {
+        "definition": "Voleur de données indépendant qui pille les systèmes corporatifs pour de l'argent.",
+        "example": "Il était le meilleur cow-boy de console des bas-fonds, jusqu'à ce qu'un run tourne mal.",
+        "term": "Cow-boy de console"
+      },
+      "es": {
+        "definition": "Ladrón de datos autónomo que asalta sistemas corporativos por encargo.",
+        "example": "Fue el mejor vaquero de consola de los suburbios hasta que una mala incursión lo mató.",
+        "term": "Vaquero de consola"
       }
     }
   },
@@ -150,6 +270,26 @@
         "definition": "Защитная программа, что стережёт систему и бьёт по незваным гостям. Сокращение от «противовзломных мер».",
         "example": "Лёд хранилища засёк его сигнал, едва он коснулся файрвола.",
         "term": "ICE (лёд)"
+      },
+      "ja": {
+        "definition": "システムを守り、侵入者に反撃する防御ソフト。侵入対抗電子機構（Intrusion Countermeasures Electronics）の略。",
+        "example": "金庫室の守りは、彼がファイアウォールに触れた瞬間に信号を逆探知した。",
+        "term": "ICE"
+      },
+      "ko": {
+        "definition": "시스템을 지키고 침입자에게 반격하는 보안 프로그램. '침입 대응 수단(Intrusion Countermeasures Electronics)'의 약자다.",
+        "example": "그가 방화벽에 손대자마자 금고의 아이스가 신호를 추적하기 시작했다.",
+        "term": "아이스(ICE)"
+      },
+      "fr": {
+        "definition": "Logiciel de sécurité qui garde un système et riposte aux intrus. Sigle de intrusion countermeasures electronics (contre-mesures d'intrusion).",
+        "example": "L'ICE du coffre traça son signal à l'instant où il effleura le pare-feu.",
+        "term": "ICE"
+      },
+      "es": {
+        "definition": "Software de seguridad que protege un sistema y responde a los intrusos. Del inglés «contramedidas electrónicas de intrusión».",
+        "example": "El ICE de la bóveda rastreó su señal apenas rozó el cortafuegos.",
+        "term": "ICE"
       }
     }
   },
@@ -172,6 +312,26 @@
         "definition": "Смертоносная защитная программа, способная убить взломщика, выжигая ему мозг.",
         "example": "Поговаривали, что банк держит чёрный лёд, и к его серверам не совались дважды.",
         "term": "Чёрный лёд"
+      },
+      "ja": {
+        "definition": "侵入者の脳を焼き切って殺すこともある、致死性の防御ソフト。",
+        "example": "あの銀行は危険な守りを敷いていると噂され、誰もサーバーに二度は触れなかった。",
+        "term": "ブラックICE"
+      },
+      "ko": {
+        "definition": "침입한 해커의 뇌를 태워 죽일 수 있는 치명적인 보안 프로그램.",
+        "example": "그 은행은 블랙 아이스를 돌린다는 소문에, 아무도 서버를 두 번 건드리지 않았다.",
+        "term": "블랙 아이스"
+      },
+      "fr": {
+        "definition": "Logiciel de sécurité mortel, capable de tuer un hacker intrus en lui grillant le cerveau.",
+        "example": "On disait que la banque tournait sous ICE noire, alors personne ne touchait deux fois à ses serveurs.",
+        "term": "ICE noire"
+      },
+      "es": {
+        "definition": "Software de seguridad letal, capaz de matar al hacker intruso friéndole el cerebro.",
+        "example": "Se rumoreaba que el banco usaba ICE negro, así que nadie tocaba dos veces sus servidores.",
+        "term": "ICE negro"
       }
     }
   },
@@ -194,6 +354,26 @@
         "definition": "Программа, созданная, чтобы пробивать защиту системы.",
         "example": "Один хороший ледокол — и дверь в их базу данных распахнулась настежь.",
         "term": "Ледокол"
+      },
+      "ja": {
+        "definition": "システムの防御ソフトを突破するために作られたプログラム。",
+        "example": "良い突破ツールが一本あれば、データベースへの扉は大きく開いた。",
+        "term": "アイスブレイカー"
+      },
+      "ko": {
+        "definition": "시스템의 방어 프로그램을 뚫기 위해 만들어진 프로그램.",
+        "example": "괜찮은 아이스브레이커 하나면 그들의 데이터베이스 문이 활짝 열렸다.",
+        "term": "아이스브레이커"
+      },
+      "fr": {
+        "definition": "Programme conçu pour percer les logiciels de défense d'un système.",
+        "example": "Un bon brise-ICE, et la porte de leur base de données s'ouvrit grand.",
+        "term": "Brise-ICE"
+      },
+      "es": {
+        "definition": "Programa creado para atravesar el software defensivo de un sistema.",
+        "example": "Un buen rompe-ICE y la puerta de su base de datos se abrió de par en par.",
+        "term": "Rompe-ICE"
       }
     }
   },
@@ -216,6 +396,26 @@
         "definition": "Переносной компьютер, которым хакер подключает свой разум к сети.",
         "example": "Она копила месяцами на деку, что переживёт корпоративную охрану.",
         "term": "Кибердека"
+      },
+      "ja": {
+        "definition": "ハッカーが自分の意識をネットワークにつなぐために使う、携帯型のコンピューター。",
+        "example": "彼女は企業の警備を生き延びられる一台を買うため、何か月も金を貯めた。",
+        "term": "サイバーデッキ"
+      },
+      "ko": {
+        "definition": "해커가 자기 정신을 네트워크에 연결하는 데 쓰는 휴대용 컴퓨터.",
+        "example": "그녀는 기업 보안을 버텨낼 덱을 사려고 몇 달을 모았다.",
+        "term": "사이버덱"
+      },
+      "fr": {
+        "definition": "Ordinateur portable dont le hacker se sert pour brancher son esprit au réseau.",
+        "example": "Elle économisa des mois pour une deck capable de survivre à la sécurité corporative.",
+        "term": "Cyberdeck"
+      },
+      "es": {
+        "definition": "Ordenador portátil con el que un hacker conecta su mente a la red.",
+        "example": "Ahorró meses para comprarse una consola capaz de sobrevivir a la seguridad corporativa.",
+        "term": "Ciberdeck"
       }
     }
   },
@@ -238,6 +438,26 @@
         "definition": "Соединить нервную систему напрямую с компьютером или сетью.",
         "example": "Дай секунду подключиться, и я вытащу тебе все схемы.",
         "term": "Подключиться"
+      },
+      "ja": {
+        "definition": "自分の神経系をコンピューターやネットワークへ直接つなぐこと。",
+        "example": "少し待ってくれ、つないだら設計図を引っ張り出してやる。",
+        "term": "ジャックイン"
+      },
+      "ko": {
+        "definition": "자신의 신경계를 컴퓨터나 네트워크에 직접 연결하는 것.",
+        "example": "잠깐만 접속하게 해줘, 도면 전부 뽑아줄 테니까.",
+        "term": "잭 인"
+      },
+      "fr": {
+        "definition": "Relier son système nerveux directement à un ordinateur ou à un réseau.",
+        "example": "Laisse-moi une seconde pour me connecter et je te sors les plans.",
+        "term": "Se connecter (jack in)"
+      },
+      "es": {
+        "definition": "Enlazar tu sistema nervioso directamente con un ordenador o una red.",
+        "example": "Dame un segundo para conectarme y te saco los planos.",
+        "term": "Conectarse (jack in)"
       }
     }
   },
@@ -260,6 +480,26 @@
         "definition": "Разорвать связь разума с сетью и вернуться в собственное тело.",
         "example": "Что-то было не так, и он отключился раньше, чем трассировка добралась до него.",
         "term": "Отключиться"
+      },
+      "ja": {
+        "definition": "意識とネットワークの接続を切り、自分の肉体へ戻ること。",
+        "example": "何かがおかしいと感じ、彼は逆探知が終わる前に接続を切った。",
+        "term": "ジャックアウト"
+      },
+      "ko": {
+        "definition": "정신과 네트워크의 연결을 끊고 자기 몸으로 돌아오는 것.",
+        "example": "뭔가 이상하다 싶어, 그는 추적이 끝나기 전에 접속을 끊었다.",
+        "term": "잭 아웃"
+      },
+      "fr": {
+        "definition": "Couper le lien de son esprit avec le réseau et revenir dans son corps.",
+        "example": "Quelque chose clochait, alors il se déconnecta avant que la trace n'aboutisse.",
+        "term": "Se déconnecter (jack out)"
+      },
+      "es": {
+        "definition": "Cortar el vínculo de tu mente con la red y regresar a tu cuerpo.",
+        "example": "Algo iba mal, así que se desconectó antes de que el rastreo terminara.",
+        "term": "Desconectarse (jack out)"
       }
     }
   },
@@ -282,6 +522,26 @@
         "definition": "Физический мир — в противовес жизни, проведённой в сети.",
         "example": "Мы годами обменивались сообщениями, но в мясном мире так и не встретились.",
         "term": "Мясной мир"
+      },
+      "ja": {
+        "definition": "ネットの中で過ごす暮らしに対して、実際の物理的な世界のこと。",
+        "example": "何年もメッセージをやり取りしてきたが、現実の世界では一度も会っていない。",
+        "term": "ミートスペース"
+      },
+      "ko": {
+        "definition": "온라인에서 보내는 삶과 대비되는 현실 세계.",
+        "example": "우리는 몇 년째 메시지를 주고받았지만 미트스페이스에서는 만난 적이 없다.",
+        "term": "미트스페이스"
+      },
+      "fr": {
+        "definition": "Le monde physique, par opposition à la vie passée en ligne.",
+        "example": "On échange des messages depuis des années, mais on ne s'est jamais vus en meatspace.",
+        "term": "Meatspace"
+      },
+      "es": {
+        "definition": "El mundo físico, por oposición a la vida pasada en la red.",
+        "example": "Llevamos años cruzando mensajes, pero nunca nos vimos en meatspace.",
+        "term": "Meatspace"
       }
     }
   },
@@ -305,6 +565,26 @@
         "definition": "Человеческое тело — так о нём с презрением говорят те, кто предпочитает сеть.",
         "example": "Тело для него было просто мясом — клеткой, из которой он бежал при каждом подключении.",
         "term": "Мясо"
+      },
+      "ja": {
+        "definition": "ネットを好む者たちが侮蔑を込めて口にする、人間の肉体そのもの。",
+        "example": "彼にとって体はただの器で、つなぐたびに抜け出す檻でしかなかった。",
+        "term": "生身"
+      },
+      "ko": {
+        "definition": "네트워크를 더 좋아하는 이들이 경멸을 담아 부르는 인간의 육체.",
+        "example": "그에게 몸은 그저 고깃덩어리, 접속할 때마다 벗어나는 감옥일 뿐이었다.",
+        "term": "고깃덩어리(몸)"
+      },
+      "fr": {
+        "definition": "Le corps humain, dont parlent avec mépris ceux qui préfèrent le réseau.",
+        "example": "Pour lui, le corps n'était que de la viande — une cage qu'il fuyait à chaque connexion.",
+        "term": "La viande (le corps)"
+      },
+      "es": {
+        "definition": "El cuerpo humano físico, nombrado con desprecio por quienes prefieren la red.",
+        "example": "Para él el cuerpo era solo carne: una jaula de la que huía cada vez que se conectaba.",
+        "term": "La carne (el cuerpo)"
       }
     }
   },
@@ -327,6 +607,26 @@
         "definition": "Общий виртуальный мир, где люди живут, работают и общаются в облике аватаров.",
         "example": "Всю конференцию провели в метавселенной — никаких перелётов.",
         "term": "Метавселенная"
+      },
+      "ja": {
+        "definition": "人々がアバターの姿で暮らし、働き、交流する、没入型の共有仮想世界。",
+        "example": "会議はまるごと仮想空間で開かれ、飛行機の必要はなかった。",
+        "term": "メタバース"
+      },
+      "ko": {
+        "definition": "사람들이 아바타로 살고 일하고 어울리는, 함께 몰입하는 가상 세계.",
+        "example": "비행기 탈 필요 없이 회의 전체를 메타버스 안에서 진행했다.",
+        "term": "메타버스"
+      },
+      "fr": {
+        "definition": "Monde virtuel partagé et immersif où les gens vivent, travaillent et se rencontrent sous forme d'avatars.",
+        "example": "Ils ont tenu toute la conférence dans le métavers, sans un seul vol d'avion.",
+        "term": "Métavers"
+      },
+      "es": {
+        "definition": "Mundo virtual compartido e inmersivo donde la gente vive, trabaja y se relaciona como avatares.",
+        "example": "Celebraron todo el congreso dentro del metaverso, sin un solo vuelo.",
+        "term": "Metaverso"
       }
     }
   },
@@ -349,6 +649,26 @@
         "definition": "Цифровое тело, которым ты управляешь внутри виртуального мира.",
         "example": "Её аватар носил костюм дороже, чем она могла позволить себе наяву.",
         "term": "Аватар"
+      },
+      "ja": {
+        "definition": "仮想世界の中で自分が宿り、操る、デジタルの身体。",
+        "example": "彼女の分身は、現実では手の届かないほど上等なスーツを着ていた。",
+        "term": "アバター"
+      },
+      "ko": {
+        "definition": "가상 세계 안에서 당신이 머물며 조종하는 디지털 육체.",
+        "example": "그녀의 아바타는 현실에서는 꿈도 못 꿀 근사한 정장을 입고 있었다.",
+        "term": "아바타"
+      },
+      "fr": {
+        "definition": "Corps numérique que tu habites et diriges à l'intérieur d'un monde virtuel.",
+        "example": "Son avatar portait un costume plus soigné qu'elle n'aurait jamais pu se l'offrir dans la vraie vie.",
+        "term": "Avatar"
+      },
+      "es": {
+        "definition": "El cuerpo digital que habitas y controlas dentro de un mundo virtual.",
+        "example": "Su avatar vestía un traje más elegante del que jamás podría pagar en la vida real.",
+        "term": "Avatar"
       }
     }
   },
@@ -371,6 +691,26 @@
         "definition": "Фоновая программа, что работает сама по себе и ждёт сигнала, чтобы вмешаться.",
         "example": "Демон стерёг вход и слал ему сигнал, едва кто-то входил в систему.",
         "term": "Демон"
+      },
+      "ja": {
+        "definition": "自律して動き続け、何かをきっかけに動き出すのを待つ、背後で走るプログラム。",
+        "example": "入り口を見張る監視役が、誰かがログインした瞬間に彼へ知らせた。",
+        "term": "デーモン"
+      },
+      "ko": {
+        "definition": "혼자서 돌아가며 어떤 조건이 충족되기를 기다렸다가 움직이는 배경 프로그램.",
+        "example": "데몬이 문을 지켜보다 누군가 접속하는 순간 그에게 알렸다.",
+        "term": "데몬(Daemon)"
+      },
+      "fr": {
+        "definition": "Programme en arrière-plan qui tourne tout seul et attend un signal pour agir.",
+        "example": "Un daemon surveillait la porte et le prévenait dès que quelqu'un se connectait.",
+        "term": "Daemon"
+      },
+      "es": {
+        "definition": "Programa de fondo que corre solo, a la espera de actuar cuando algo lo dispara.",
+        "example": "Un daemon vigilaba la puerta y le avisaba en cuanto alguien entraba.",
+        "term": "Daemon"
       }
     }
   },
@@ -393,6 +733,26 @@
         "definition": "Записанные ощущения, которые можно проиграть и почувствовать то, что чувствовал другой.",
         "example": "Она продавала симстим своего прыжка с парашютом — покупатели переживали падение сами.",
         "term": "Симстим"
+      },
+      "ja": {
+        "definition": "記録された感覚体験。再生すれば、他人が感じたものをそのまま味わえる。",
+        "example": "彼女はスカイダイビングの体感を売り、買い手はその落下を自ら味わった。",
+        "term": "シムスティム"
+      },
+      "ko": {
+        "definition": "다른 사람이 느낀 감각을 그대로 재생해 똑같이 체험하게 해주는 녹화된 경험.",
+        "example": "그녀는 스카이다이빙 심스팀을 팔아, 산 사람들이 그 낙하를 직접 느끼게 했다.",
+        "term": "심스팀"
+      },
+      "fr": {
+        "definition": "Sensations enregistrées que l'on peut rejouer pour ressentir ce qu'un autre a vécu.",
+        "example": "Elle vendait le simstim de son saut en parachute pour que les acheteurs vivent la chute.",
+        "term": "Simstim"
+      },
+      "es": {
+        "definition": "Experiencia sensorial grabada que puedes reproducir para sentir lo que sintió otra persona.",
+        "example": "Vendía el simstim de su salto para que los compradores vivieran la caída.",
+        "term": "Simstim"
       }
     }
   },
@@ -415,6 +775,26 @@
         "definition": "Вторжение в чужой разум, чтобы подсадить ложные воспоминания или подчинить человека.",
         "example": "Уборщик не грабил банк — его через взлом призрака заставили это сделать.",
         "term": "Взлом призрака"
+      },
+      "ja": {
+        "definition": "他人の意識に侵入し、偽の記憶を植えつけたり相手を操ったりすること。",
+        "example": "清掃員が銀行を襲ったのではない。意識を乗っ取られてやらされたのだ。",
+        "term": "ゴーストハック"
+      },
+      "ko": {
+        "definition": "남의 정신에 침입해 거짓 기억을 심거나 그 사람을 조종하는 것.",
+        "example": "청소부가 은행을 턴 게 아니라, 고스트 해킹에 조종당한 것이었다.",
+        "term": "고스트 해킹"
+      },
+      "fr": {
+        "definition": "Intrusion dans l'esprit d'une personne pour y implanter de faux souvenirs ou en prendre le contrôle.",
+        "example": "Le concierge n'a pas braqué la banque — on l'y a poussé par ghost-hacking.",
+        "term": "Ghost-hacking"
+      },
+      "es": {
+        "definition": "Irrumpir en la mente de alguien para implantar recuerdos falsos o tomar el control de la persona.",
+        "example": "El conserje no robó el banco: lo obligaron a hacerlo con un ghost-hacking.",
+        "term": "Ghost-hacking"
       }
     }
   },
@@ -437,6 +817,26 @@
         "definition": "Взлом, запускаемый за секунды, чтобы вывести из строя устройство, оружие или человека рядом.",
         "example": "Один квикхак закоротил оптику охранника, и этого хватило, чтобы проскочить.",
         "term": "Квикхак"
+      },
+      "ja": {
+        "definition": "数秒で撃ち込み、近くの機器・武器・人間を妨害する即席の侵入。",
+        "example": "一発撃ち込んで警備員の視覚を焼き、その隙にすり抜けた。",
+        "term": "クイックハック"
+      },
+      "ko": {
+        "definition": "근처의 기기나 무기, 사람을 망가뜨리려 몇 초 만에 쏘아내는 해킹.",
+        "example": "퀵핵 한 방에 경비의 시야가 잠깐 나가, 그 틈에 몰래 지나쳤다.",
+        "term": "퀵핵"
+      },
+      "fr": {
+        "definition": "Piratage lancé en quelques secondes pour saboter un appareil, une arme ou une personne à proximité.",
+        "example": "Un quickhack a court-circuité l'optique du garde, juste assez pour passer.",
+        "term": "Quickhack"
+      },
+      "es": {
+        "definition": "Intrusión lanzada en segundos para sabotear un dispositivo, un arma o a una persona cercana.",
+        "example": "Un quickhack cortocircuitó la óptica del guardia lo justo para colarse.",
+        "term": "Quickhack"
       }
     }
   },
@@ -459,6 +859,26 @@
         "definition": "Взлом по таймеру, вскрывающий бреши в защите системы.",
         "example": "Он запустил протокол взлома, и три камеры разом погасли.",
         "term": "Протокол взлома"
+      },
+      "ja": {
+        "definition": "制限時間つきの侵入手順で、システムの防御に無理やり穴をあけるもの。",
+        "example": "彼がその手順を走らせると、三台のカメラが一斉に暗転した。",
+        "term": "ブリーチプロトコル"
+      },
+      "ko": {
+        "definition": "제한 시간 안에 실행해 시스템 방어에 빈틈을 억지로 여는 침입 루틴.",
+        "example": "그가 브리치 프로토콜을 돌리자 카메라 세 대가 한꺼번에 꺼졌다.",
+        "term": "브리치 프로토콜"
+      },
+      "fr": {
+        "definition": "Routine d'intrusion minutée qui force des ouvertures dans les défenses d'un système.",
+        "example": "Il lança un protocole de brèche et trois caméras s'éteignirent d'un coup.",
+        "term": "Protocole de brèche"
+      },
+      "es": {
+        "definition": "Rutina de asalto contrarreloj que fuerza brechas en las defensas de un sistema.",
+        "example": "Lanzó el protocolo de intrusión y tres cámaras se apagaron a la vez.",
+        "term": "Protocolo de intrusión"
       }
     }
   },
@@ -481,6 +901,26 @@
         "definition": "Скрытый вход в систему в обход её обычной защиты.",
         "example": "Кодер оставил бэкдор, чтобы вернуться, когда его уволят.",
         "term": "Бэкдор"
+      },
+      "ja": {
+        "definition": "通常の警備を迂回してシステムへ入るための、隠された抜け道。",
+        "example": "そのコーダーは、解雇されたあと戻れるよう裏口を仕込んでおいた。",
+        "term": "バックドア"
+      },
+      "ko": {
+        "definition": "정상적인 보안을 우회해 시스템으로 들어가는 숨은 통로.",
+        "example": "그 코더는 잘린 뒤에도 다시 들어올 수 있게 백도어를 남겨뒀다.",
+        "term": "백도어"
+      },
+      "fr": {
+        "definition": "Accès caché à un système qui contourne sa sécurité habituelle.",
+        "example": "Le codeur avait laissé une porte dérobée pour revenir après son licenciement.",
+        "term": "Porte dérobée"
+      },
+      "es": {
+        "definition": "Acceso oculto a un sistema que esquiva su seguridad normal.",
+        "example": "El programador dejó una puerta trasera para volver a entrar cuando lo despidieran.",
+        "term": "Puerta trasera"
       }
     }
   },
@@ -503,6 +943,26 @@
         "definition": "Барьер, что фильтрует сетевой трафик и не пускает чужаков.",
         "example": "Их файрвол отбил три атаки, прежде чем всё-таки треснул.",
         "term": "Файрвол"
+      },
+      "ja": {
+        "definition": "通信をふるいにかけ、侵入者を締め出す防壁。",
+        "example": "彼らの防壁は、ついに破られる前に三度の攻撃を跳ね返した。",
+        "term": "ファイアウォール"
+      },
+      "ko": {
+        "definition": "네트워크 트래픽을 걸러내 침입자를 막는 장벽.",
+        "example": "그들의 방화벽은 세 번의 공격을 막아내고서야 결국 뚫렸다.",
+        "term": "방화벽"
+      },
+      "fr": {
+        "definition": "Barrière qui filtre le trafic réseau pour tenir les intrus à l'écart.",
+        "example": "Leur pare-feu repoussa trois attaques avant de finir par céder.",
+        "term": "Pare-feu"
+      },
+      "es": {
+        "definition": "Barrera que filtra el tráfico de red para mantener fuera a los intrusos.",
+        "example": "Su cortafuegos frenó los tres primeros ataques antes de resquebrajarse al fin.",
+        "term": "Cortafuegos"
       }
     }
   },
@@ -525,6 +985,26 @@
         "definition": "Большой центральный компьютер, на котором держатся основные системы организации.",
         "example": "Всё, что знала корпорация, лежало на одном мейнфрейме под башней.",
         "term": "Мейнфрейм"
+      },
+      "ja": {
+        "definition": "組織の中核システムを動かす、大型の中央コンピューター。",
+        "example": "企業が握るあらゆる情報が、塔の地下深くの一台に収まっていた。",
+        "term": "メインフレーム"
+      },
+      "ko": {
+        "definition": "조직의 핵심 시스템을 돌리는 대형 중앙 컴퓨터.",
+        "example": "기업이 아는 모든 것이 타워 깊숙한 곳 메인프레임 한 대에 들어 있었다.",
+        "term": "메인프레임"
+      },
+      "fr": {
+        "definition": "Gros ordinateur central sur lequel reposent les systèmes vitaux d'une organisation.",
+        "example": "Tout ce que savait la corpo tenait sur un seul central, sous la tour.",
+        "term": "Ordinateur central"
+      },
+      "es": {
+        "definition": "Gran ordenador central que hace funcionar los sistemas esenciales de una organización.",
+        "example": "Todo lo que sabía la corpo cabía en un solo mainframe bajo la torre.",
+        "term": "Mainframe"
       }
     }
   },
@@ -547,6 +1027,26 @@
         "definition": "Огромный барьер, отгораживающий враждебные искусственные разумы от сети.",
         "example": "Что бы ни жило за Чёрной стеной, ты не захочешь, чтобы оно дотянулось до сети.",
         "term": "Чёрная стена"
+      },
+      "ja": {
+        "definition": "敵性の人工知性をネットワークから隔てる、巨大な防御の壁。",
+        "example": "あの壁の向こうに何が棲もうと、それをネットに手を伸ばさせてはならない。",
+        "term": "ブラックウォール"
+      },
+      "ko": {
+        "definition": "적대적인 인공지능들을 네트워크로부터 떼어놓는 거대한 방어 장벽.",
+        "example": "블랙월 너머에 뭐가 살든, 그게 넷에 닿는 건 절대 원치 않을 거다.",
+        "term": "블랙월"
+      },
+      "fr": {
+        "definition": "Immense barrière défensive qui isole du réseau les esprits artificiels hostiles.",
+        "example": "Quoi qui vive derrière le Blackwall, tu ne veux pas que ça atteigne le net.",
+        "term": "Blackwall"
+      },
+      "es": {
+        "definition": "Barrera defensiva inmensa que aísla de la red a las mentes artificiales hostiles.",
+        "example": "Sea lo que viva tras el Blackwall, no quieres que llegue a la red.",
+        "term": "Blackwall"
       }
     }
   },
@@ -569,6 +1069,26 @@
         "definition": "Вживлённый разъём, соединяющий мозг напрямую с машинами.",
         "example": "Он тронул порт за ухом, и терминал ожил.",
         "term": "Датаджек"
+      },
+      "ja": {
+        "definition": "脳を機械へ直につなぐ、体に埋め込まれた差込口。",
+        "example": "彼が耳の後ろの端子に触れると、端末が目を覚ました。",
+        "term": "データジャック"
+      },
+      "ko": {
+        "definition": "뇌를 기계에 곧장 꽂아주는, 몸에 심은 접속 단자.",
+        "example": "그가 귀 뒤 포트를 톡 건드리자 단말기가 깨어났다.",
+        "term": "데이터잭"
+      },
+      "fr": {
+        "definition": "Prise implantée qui branche le cerveau directement sur les machines.",
+        "example": "Il effleura le port derrière son oreille, et le terminal s'éveilla.",
+        "term": "Datajack"
+      },
+      "es": {
+        "definition": "Conector implantado que enchufa tu cerebro directamente a las máquinas.",
+        "example": "Tocó el puerto que tenía tras la oreja y el terminal despertó.",
+        "term": "Datajack"
       }
     }
   },
@@ -591,6 +1111,26 @@
         "definition": "Контактный электрод, что связывает мозг с декой без всякой операции.",
         "example": "Нет имплантов? Нацепи сетку тродов — и всё равно нырнёшь в матрицу.",
         "term": "Трод"
+      },
+      "ja": {
+        "definition": "手術なしで脳と端末を結ぶ、接触式の電極。",
+        "example": "埋め込みがない？　接触電極を貼れば、それでもネットに潜れるさ。",
+        "term": "トロード"
+      },
+      "ko": {
+        "definition": "수술 없이 뇌와 덱을 이어주는 접촉식 전극.",
+        "example": "임플란트가 없다고? 트로드 그물망만 붙이면 매트릭스에 탈 수 있어.",
+        "term": "트로드"
+      },
+      "fr": {
+        "definition": "Électrode de contact qui relie le cerveau à une deck sans la moindre opération.",
+        "example": "Pas d'implants ? Colle un filet de trodes et tu peux quand même surfer la Matrice.",
+        "term": "Trode"
+      },
+      "es": {
+        "definition": "Electrodo de contacto que enlaza tu cerebro con una consola sin cirugía alguna.",
+        "example": "¿Sin implantes? Ponte una red de trodes y aún podrás recorrer la Matriz.",
+        "term": "Trode"
       }
     }
   },
@@ -613,6 +1153,26 @@
         "definition": "Место, часто в офшоре, где запретные данные хранят вне досягаемости любого закона.",
         "example": "Слитые файлы канули в дата-хейвен, до которого не дотянуться ни одному государству.",
         "term": "Дата-хейвен"
+      },
+      "ja": {
+        "definition": "禁じられたデータを、どんな法も届かない場所に匿う保管所。多くは国外にある。",
+        "example": "流出した資料は、どの政府にも手の出せない隠し場所へ消えた。",
+        "term": "データヘイヴン"
+      },
+      "ko": {
+        "definition": "금지된 정보를 어떤 법도 닿지 못하는 곳에 보관하는, 흔히 역외에 있는 장소.",
+        "example": "유출된 파일들은 어느 정부도 손댈 수 없는 데이터 헤이븐 속으로 사라졌다.",
+        "term": "데이터 헤이븐"
+      },
+      "fr": {
+        "definition": "Lieu, souvent offshore, où l'on stocke des données interdites hors de portée de toute loi.",
+        "example": "Les fichiers fuités ont disparu dans un refuge de données qu'aucun État ne peut toucher.",
+        "term": "Refuge de données"
+      },
+      "es": {
+        "definition": "Lugar, a menudo extraterritorial, donde se guardan datos prohibidos fuera del alcance de la ley.",
+        "example": "Los archivos filtrados desaparecieron en un refugio de datos intocable.",
+        "term": "Refugio de datos"
       }
     }
   },
@@ -635,6 +1195,26 @@
         "definition": "Тот, кто подсел на стимуляцию, подаваемую прямо в центры удовольствия мозга.",
         "example": "Он кончил вайрхедом — сидел, улыбаясь стене, пока мир шёл дальше.",
         "term": "Вайрхед"
+      },
+      "ja": {
+        "definition": "脳の快楽中枢へ直接送り込まれる刺激に、どっぷり溺れた者。",
+        "example": "彼は結局、壁に向かって笑いながら、世界に置き去りにされた。",
+        "term": "ワイヤーヘッド"
+      },
+      "ko": {
+        "definition": "뇌의 쾌락 중추에 곧장 흘려보내는 자극에 중독된 사람.",
+        "example": "그는 결국 와이어헤드가 되어, 세상이 흘러가는 동안 벽을 보며 웃고 있었다.",
+        "term": "와이어헤드"
+      },
+      "fr": {
+        "definition": "Personne accro à une stimulation injectée droit dans les centres du plaisir du cerveau.",
+        "example": "Il a fini wirehead, souriant face à un mur pendant que le monde avançait sans lui.",
+        "term": "Wirehead"
+      },
+      "es": {
+        "definition": "Persona enganchada al estímulo enviado directo a los centros de placer del cerebro.",
+        "example": "Acabó de wirehead, sonriéndole a una pared mientras el mundo seguía adelante.",
+        "term": "Wirehead"
       }
     }
   },
@@ -657,6 +1237,26 @@
         "definition": "Всемирное сплетение связанных систем, по которому странствуют хакеры.",
         "example": "После краха половину старой сети отгородили как слишком опасную.",
         "term": "Сеть"
+      },
+      "ja": {
+        "definition": "ハッカーが渡り歩く、つながり合ったシステムの世界規模の網。",
+        "example": "あの崩壊のあと、古い網の半分は危険すぎるとして封鎖された。",
+        "term": "ザ・ネット"
+      },
+      "ko": {
+        "definition": "해커들이 오가는, 서로 이어진 시스템들의 전 세계적 그물망.",
+        "example": "붕괴 이후, 오래된 넷의 절반은 너무 위험하다며 막아버렸다.",
+        "term": "넷"
+      },
+      "fr": {
+        "definition": "Toile mondiale des systèmes connectés que parcourent les hackers.",
+        "example": "Après le crash, la moitié du vieux Net fut murée, jugée trop dangereuse.",
+        "term": "Le Net"
+      },
+      "es": {
+        "definition": "El entramado mundial de sistemas conectados por el que viajan los hackers.",
+        "example": "Tras el colapso, media Red vieja quedó tapiada por demasiado peligrosa.",
+        "term": "La Red"
       }
     }
   },
@@ -679,6 +1279,26 @@
         "definition": "Машинное железо, вживлённое в тело, чтобы усилить его или заменить утраченное.",
         "example": "Половина зарплаты уходила на киберимпланты, что дали ему зрение в темноте.",
         "term": "Киберимпланты"
+      },
+      "ja": {
+        "definition": "体の働きを増強したり置き換えたりするため、埋め込まれた機械の装置。",
+        "example": "彼は給料の半分を、暗闇でも見える目に注ぎ込んだ。",
+        "term": "サイバーウェア"
+      },
+      "ko": {
+        "definition": "능력을 키우거나 대신하려고 몸에 심은 기계 장치.",
+        "example": "월급의 절반이 어둠 속에서도 보게 해주는 사이버웨어로 들어갔다.",
+        "term": "사이버웨어"
+      },
+      "fr": {
+        "definition": "Matériel mécanique implanté dans le corps pour renforcer ses capacités ou remplacer ce qui manque.",
+        "example": "La moitié de sa paie passait dans du cyberware qui lui donnait la vue dans le noir.",
+        "term": "Cyberware"
+      },
+      "es": {
+        "definition": "Hardware implantado en el cuerpo para potenciar o reemplazar lo que este puede hacer.",
+        "example": "Medio sueldo se le iba en ciberware que le permitía ver en la oscuridad.",
+        "term": "Ciberware"
       }
     }
   },
@@ -701,6 +1321,26 @@
         "definition": "Жаргонное название кибернетических имплантов, особенно броских и заметных.",
         "example": "Она хвасталась новым хромом так, как другие хвастаются татуировками.",
         "term": "Хром"
+      },
+      "ja": {
+        "definition": "機械の埋め込み、とくに人目を引く派手なものを指す俗語。",
+        "example": "彼女は他人がタトゥーを見せびらかすように、新しい義体を誇った。",
+        "term": "クローム"
+      },
+      "ko": {
+        "definition": "특히 화려하고 눈에 띄는 사이버네틱 임플란트를 이르는 은어.",
+        "example": "그녀는 남들이 문신 자랑하듯 새 크롬을 뽐냈다.",
+        "term": "크롬"
+      },
+      "fr": {
+        "definition": "Argot désignant les implants cybernétiques, surtout ceux qui sont voyants et visibles.",
+        "example": "Elle exhibait son nouveau chrome comme d'autres montrent leurs tatouages.",
+        "term": "Chrome"
+      },
+      "es": {
+        "definition": "Jerga para los implantes cibernéticos, sobre todo los llamativos y visibles.",
+        "example": "Presumía de su cromo nuevo como otros presumen de tatuajes.",
+        "term": "Cromo"
       }
     }
   },
@@ -723,6 +1363,26 @@
         "definition": "Наука о слиянии живого тела с механическими и электронными частями.",
         "example": "Успехи кибернетики дали безруким протезы сильнее прежних конечностей.",
         "term": "Кибернетика"
+      },
+      "ja": {
+        "definition": "生きた体を機械や電子部品と融合させる技術と学問。",
+        "example": "技術の進歩は、腕を失った者に元より強い手足を与えた。",
+        "term": "サイバネティクス"
+      },
+      "ko": {
+        "definition": "살아 있는 몸을 기계·전자 부품과 결합하는 과학.",
+        "example": "사이버네틱스의 발전으로 절단 환자들은 원래보다 강한 팔다리를 얻었다.",
+        "term": "사이버네틱스"
+      },
+      "fr": {
+        "definition": "Science qui fusionne le corps vivant avec des pièces mécaniques et électroniques.",
+        "example": "Les progrès de la cybernétique ont donné aux amputés des membres plus forts que les vrais.",
+        "term": "Cybernétique"
+      },
+      "es": {
+        "definition": "Ciencia que fusiona el cuerpo vivo con partes mecánicas y electrónicas.",
+        "example": "Los avances en cibernética dieron a los amputados miembros más fuertes que los originales.",
+        "term": "Cibernética"
       }
     }
   },
@@ -745,6 +1405,26 @@
         "definition": "Устройство, помещённое внутрь тела, чтобы добавить или вернуть какую-то функцию.",
         "example": "Имплант памяти позволял ей вспомнить каждое лицо, что она видела.",
         "term": "Имплант"
+      },
+      "ja": {
+        "definition": "機能を足したり取り戻したりするために、体内へ収める装置。",
+        "example": "記憶を補う埋め込みで、彼女は見たすべての顔を思い出せた。",
+        "term": "インプラント"
+      },
+      "ko": {
+        "definition": "기능을 더하거나 되살리려고 몸속에 넣는 장치.",
+        "example": "기억 임플란트 덕에 그녀는 지금껏 본 모든 얼굴을 떠올릴 수 있었다.",
+        "term": "임플란트"
+      },
+      "fr": {
+        "definition": "Dispositif placé à l'intérieur du corps pour ajouter ou rétablir une fonction.",
+        "example": "Un implant de mémoire lui permettait de se rappeler chaque visage jamais croisé.",
+        "term": "Implant"
+      },
+      "es": {
+        "definition": "Dispositivo colocado dentro del cuerpo para añadir o restaurar una función.",
+        "example": "Un implante de memoria le permitía recordar cada rostro que había visto.",
+        "term": "Implante"
       }
     }
   },
@@ -767,6 +1447,26 @@
         "definition": "Улучшение человеческого тела, выводящее его за пределы природных возможностей.",
         "example": "С нужной аугментацией он поднял бы машину, под которой застрял ребёнок.",
         "term": "Аугментация"
+      },
+      "ja": {
+        "definition": "人体を生まれつきの限界の先まで押し上げる、強化のこと。",
+        "example": "適した強化があれば、彼は子どもを挟んだ車さえ持ち上げられた。",
+        "term": "オーグメンテーション"
+      },
+      "ko": {
+        "definition": "인간의 몸을 타고난 한계 너머로 밀어붙이는 강화.",
+        "example": "제대로 된 오그멘테이션이면 그는 아이가 깔린 차도 들어 올릴 수 있었다.",
+        "term": "오그멘테이션"
+      },
+      "fr": {
+        "definition": "Amélioration du corps humain qui le pousse au-delà de ses limites naturelles.",
+        "example": "Avec la bonne augmentation, il aurait soulevé la voiture qui écrasait l'enfant.",
+        "term": "Augmentation"
+      },
+      "es": {
+        "definition": "Mejora del cuerpo humano que lo empuja más allá de sus límites naturales.",
+        "example": "Con el aumento adecuado podía levantar un coche de encima de un niño atrapado.",
+        "term": "Aumento"
       }
     }
   },
@@ -789,6 +1489,26 @@
         "definition": "Существо, наполовину человек, наполовину машина.",
         "example": "После того как авария собрала его заново, в нём было больше киборга, чем человека.",
         "term": "Киборг"
+      },
+      "ja": {
+        "definition": "半分は人間、半分は機械でできた存在。",
+        "example": "事故が彼を作り直したあと、人間よりも機械の割合が勝っていた。",
+        "term": "サイボーグ"
+      },
+      "ko": {
+        "definition": "절반은 인간, 절반은 기계인 존재.",
+        "example": "사고 뒤 재건된 그는 인간보다 사이보그에 가까웠다.",
+        "term": "사이보그"
+      },
+      "fr": {
+        "definition": "Être mi-humain, mi-machine.",
+        "example": "Après que l'accident l'eut reconstruit, il tenait plus du cyborg que de l'homme.",
+        "term": "Cyborg"
+      },
+      "es": {
+        "definition": "Ser que es en parte humano y en parte máquina.",
+        "example": "Después de que el accidente lo reconstruyera, era más ciborg que hombre.",
+        "term": "Ciborg"
       }
     }
   },
@@ -811,6 +1531,26 @@
         "definition": "Подпольный хирург, что ставит и снимает кибернетические импланты.",
         "example": "Дешёвый риппердок соберёт тебя, но не спрашивай, откуда детали.",
         "term": "Риппердок"
+      },
+      "ja": {
+        "definition": "機械の埋め込みを取り付けたり外したりする、裏通りの外科医。",
+        "example": "安い闇医者でも配線はしてくれるが、部品の出どころは聞くな。",
+        "term": "リッパードク"
+      },
+      "ko": {
+        "definition": "뒷골목에서 사이버네틱 임플란트를 심고 떼어내는 외과의.",
+        "example": "싸구려 리퍼닥은 몸에 배선을 깔아주지만, 부품이 어디서 났는지는 묻지 마라.",
+        "term": "리퍼닥"
+      },
+      "fr": {
+        "definition": "Chirurgien clandestin qui pose et retire les implants cybernétiques.",
+        "example": "Un ripperdoc bon marché te câblera, mais ne demande pas d'où viennent les pièces.",
+        "term": "Ripperdoc"
+      },
+      "es": {
+        "definition": "Cirujano clandestino que instala y retira implantes cibernéticos.",
+        "example": "Un ripperdoc barato te conectará, pero no preguntes de dónde salieron las piezas.",
+        "term": "Ripperdoc"
       }
     }
   },
@@ -833,6 +1573,26 @@
         "definition": "Срыв, при котором избыток имплантов стирает у человека эмпатию и рассудок.",
         "example": "В клинике предупредили: ещё один имплант — и его сорвёт в киберпсихоз.",
         "term": "Киберпсихоз"
+      },
+      "ja": {
+        "definition": "埋め込みが多すぎて、共感や正気が蝕まれていく心の崩壊。",
+        "example": "あと一つ埋め込めば正気を失いかねない、と診療所は警告した。",
+        "term": "サイバーサイコシス"
+      },
+      "ko": {
+        "definition": "임플란트가 지나쳐 공감과 정신이 무너지는 붕괴.",
+        "example": "클리닉은 임플란트를 하나만 더 넣으면 사이버사이코시스로 넘어갈 수 있다고 경고했다.",
+        "term": "사이버사이코시스"
+      },
+      "fr": {
+        "definition": "Effondrement où trop d'implants rongent l'empathie et la raison d'une personne.",
+        "example": "La clinique l'a prévenu : un implant de plus et il basculait dans la cyberpsychose.",
+        "term": "Cyberpsychose"
+      },
+      "es": {
+        "definition": "Colapso en el que un exceso de implantes erosiona la empatía y la cordura de una persona.",
+        "example": "En la clínica le advirtieron que un implante más podía hundirlo en la ciberpsicosis.",
+        "term": "Ciberpsicosis"
       }
     }
   },
@@ -855,6 +1615,26 @@
         "definition": "Тот, чей разум сломался под грузом имплантов и обратил его в насилие.",
         "example": "Киберпсих крушил рынок, пока не прилетела спасательная бригада.",
         "term": "Киберпсих"
+      },
+      "ja": {
+        "definition": "重い埋め込みの下で心が壊れ、暴力へ突き進むようになった者。",
+        "example": "暴走した一人が、救援班が着く前に市場を斬り裂いていった。",
+        "term": "サイバーサイコ"
+      },
+      "ko": {
+        "definition": "과도한 임플란트에 정신이 무너져 폭력적으로 변한 사람.",
+        "example": "트라우마 팀이 도착하기도 전에 사이버사이코가 시장을 헤집어 놓았다.",
+        "term": "사이버사이코"
+      },
+      "fr": {
+        "definition": "Personne dont l'esprit a craqué sous le poids des implants et qui sombre dans la violence.",
+        "example": "Un cyberpsycho a ravagé le marché avant l'arrivée de l'équipe de secours.",
+        "term": "Cyberpsycho"
+      },
+      "es": {
+        "definition": "Alguien cuya mente se ha quebrado bajo el peso de los implantes y se ha vuelto violento.",
+        "example": "Un ciberpsicópata arrasó el mercado antes de que llegara el equipo de rescate.",
+        "term": "Ciberpsicópata"
       }
     }
   },
@@ -877,6 +1657,26 @@
         "definition": "Наёмный воин, что живёт по кодексу и дерётся вживлённым оружием.",
         "example": "Они держали уличного самурая про запас — на дела, что срывались в стрельбу.",
         "term": "Уличный самурай"
+      },
+      "ja": {
+        "definition": "己の掟に従って生き、埋め込み武器で戦う雇われの戦士。",
+        "example": "荒れそうな仕事に備え、彼らは一人を専属で抱えていた。",
+        "term": "ストリートサムライ"
+      },
+      "ko": {
+        "definition": "자기만의 규율을 지키며 몸에 심은 무기로 싸우는 고용된 전사.",
+        "example": "그들은 시끄러워질 법한 일에 대비해 스트리트 사무라이를 붙여뒀다.",
+        "term": "스트리트 사무라이"
+      },
+      "fr": {
+        "definition": "Guerrier à louer qui vit selon un code et se bat avec des armes implantées.",
+        "example": "Ils gardaient un samouraï des rues sous la main pour les jobs qui viraient au bruit.",
+        "term": "Samouraï des rues"
+      },
+      "es": {
+        "definition": "Guerrero a sueldo que vive según un código y pelea con armas implantadas.",
+        "example": "Tenían a un samurái callejero en nómina para los trabajos que acababan a tiros.",
+        "term": "Samurái callejero"
       }
     }
   },
@@ -899,6 +1699,26 @@
         "definition": "Женщина-боец с выдвижными лезвиями и боевыми рефлексами.",
         "example": "Бритвенница пересекла зал, и трое охранников упали, не успев прицелиться.",
         "term": "Бритвенница"
+      },
+      "ja": {
+        "definition": "引き込み式の刃と戦闘反射を仕込まれた女戦士。",
+        "example": "彼女が部屋を横切ると、三人の警備が構える間もなく倒れた。",
+        "term": "レイザーガール"
+      },
+      "ko": {
+        "definition": "접이식 칼날과 전투 반사신경을 갖춘 여성 전사.",
+        "example": "레이저걸이 방을 가로지르자, 경비 셋이 조준도 하기 전에 쓰러졌다.",
+        "term": "레이저걸"
+      },
+      "fr": {
+        "definition": "Combattante équipée de lames rétractables et de réflexes de combat.",
+        "example": "La razorgirl traversa la pièce et trois gardes tombèrent avant même de viser.",
+        "term": "Razorgirl"
+      },
+      "es": {
+        "definition": "Luchadora equipada con cuchillas retráctiles y reflejos de combate.",
+        "example": "La razorgirl cruzó la sala y tres guardias cayeron antes de apuntar.",
+        "term": "Razorgirl"
       }
     }
   },
@@ -921,6 +1741,26 @@
         "definition": "Импланты, что разгоняют нервную систему, и ты движешься быстрее обычного.",
         "example": "С вживлёнными рефлексами она добралась до стрелка, пока тот моргал.",
         "term": "Вживлённые рефлексы"
+      },
+      "ja": {
+        "definition": "神経系を加速させ、常人より速く動けるようにする埋め込み。",
+        "example": "それを仕込んだ彼女は、撃ち手がまばたきする間に間合いを詰めた。",
+        "term": "ワイヤードリフレックス"
+      },
+      "ko": {
+        "definition": "신경계를 빠르게 해 남들보다 재빠르게 움직이게 하는 임플란트.",
+        "example": "와이어드 리플렉스 덕에 그녀는 총잡이가 눈을 깜빡이는 사이 그 앞에 닿았다.",
+        "term": "와이어드 리플렉스"
+      },
+      "fr": {
+        "definition": "Implants qui accélèrent ton système nerveux pour que tu bouges plus vite que la normale.",
+        "example": "Avec ses réflexes câblés, elle atteignit le tireur le temps qu'il cligne des yeux.",
+        "term": "Réflexes câblés"
+      },
+      "es": {
+        "definition": "Implantes que aceleran tu sistema nervioso para que te muevas más rápido de lo normal.",
+        "example": "Con los reflejos cableados llegó al tirador antes de que este pestañeara.",
+        "term": "Reflejos cableados"
       }
     }
   },
@@ -943,6 +1783,26 @@
         "definition": "Имплант, что на миг замедляет твоё чувство времени, и ты действуешь с ослепительной скоростью.",
         "example": "Он врубил сандевистан и спокойно прошёл между застывшими пулями.",
         "term": "Сандевистан"
+      },
+      "ja": {
+        "definition": "体感時間を一瞬だけ遅らせ、目にも留まらぬ速さで動けるようにする埋め込み。",
+        "example": "彼はそれを起動し、止まった弾丸の間を悠々と歩いた。",
+        "term": "サンデヴィスタン"
+      },
+      "ko": {
+        "definition": "시간 감각을 잠깐 늦춰, 눈부신 속도로 움직이게 하는 임플란트.",
+        "example": "그는 산데비스탄을 켜고, 멈춰 선 총알들 사이를 태연히 걸어 지나갔다.",
+        "term": "산데비스탄"
+      },
+      "fr": {
+        "definition": "Implant qui ralentit un instant ta perception du temps pour agir à une vitesse fulgurante.",
+        "example": "Il enclencha le sandevistan et marcha tranquillement entre les balles figées.",
+        "term": "Sandevistan"
+      },
+      "es": {
+        "definition": "Implante que ralentiza un instante tu percepción del tiempo para que actúes a una velocidad cegadora.",
+        "example": "Activó el sandevistan y caminó tranquilo entre las balas congeladas.",
+        "term": "Sandevistan"
       }
     }
   },
@@ -965,6 +1825,26 @@
         "definition": "Нервный ускоритель, что подстёгивает тебя в тот же миг, как начинается драка.",
         "example": "Керензиков сработал на выхвате, и её рука не дрогнула, пока враги ещё двигались.",
         "term": "Керензиков"
+      },
+      "ja": {
+        "definition": "戦いが起きた瞬間にあなたを加速させる、神経の増強装置。",
+        "example": "抜き撃ちと同時にそれが働き、相手が動く前に照準はぴたりと定まった。",
+        "term": "ケレンジコフ"
+      },
+      "ko": {
+        "definition": "싸움이 벌어지는 순간 몸을 가속하는 신경 부스터.",
+        "example": "그녀가 총을 뽑는 순간 케렌지코프가 작동해, 적들이 움직이기 전에 조준이 흔들림 없이 섰다.",
+        "term": "케렌지코프"
+      },
+      "fr": {
+        "definition": "Booster nerveux qui t'accélère à l'instant même où un combat éclate.",
+        "example": "Le kerenzikov s'enclencha au dégainé, sa visée resta ferme avant qu'ils ne bougent.",
+        "term": "Kerenzikov"
+      },
+      "es": {
+        "definition": "Potenciador nervioso que te acelera en el instante en que estalla una pelea.",
+        "example": "El kerenzikov saltó al desenfundar y su puntería no tembló mientras los demás aún se movían.",
+        "term": "Kerenzikov"
       }
     }
   },
@@ -987,6 +1867,26 @@
         "definition": "Вживлённые в руки лезвия, что раскладываются для ближнего, жестокого боя.",
         "example": "Его клинки-богомолы щёлкнули, и драка в переулке кончилась за секунды.",
         "term": "Клинки-богомолы"
+      },
+      "ja": {
+        "definition": "接近戦のために折り畳みから展開する、腕に仕込んだ刃。",
+        "example": "彼の刃が跳ね開くと、路地の乱闘は数秒で片がついた。",
+        "term": "マンティスブレード"
+      },
+      "ko": {
+        "definition": "가까이서 벌이는 잔혹한 근접전을 위해 펼쳐지는 팔 이식형 칼날.",
+        "example": "그의 만티스 블레이드가 착 펼쳐지자 골목 싸움은 몇 초 만에 끝났다.",
+        "term": "만티스 블레이드"
+      },
+      "fr": {
+        "definition": "Lames implantées dans les bras qui se déploient pour un corps-à-corps brutal.",
+        "example": "Ses lames-mante jaillirent et la bagarre de ruelle s'acheva en quelques secondes.",
+        "term": "Lames-mante"
+      },
+      "es": {
+        "definition": "Hojas implantadas en los brazos que se despliegan para el combate brutal a corta distancia.",
+        "example": "Sus cuchillas mantis se abrieron de golpe y la pelea del callejón acabó en segundos.",
+        "term": "Cuchillas mantis"
       }
     }
   },
@@ -1009,6 +1909,26 @@
         "definition": "Почти невидимая режущая нить, тонкая настолько, что рассекает почти всё.",
         "example": "Взмах мономолекулярной нити — и замок двери развалился надвое.",
         "term": "Мономолекулярная нить"
+      },
+      "ja": {
+        "definition": "ほとんど何でも断ち切れるほど細い、ほぼ目に見えない切断用の糸。",
+        "example": "一振りで、扉の錠前は真っ二つに落ちた。",
+        "term": "モノワイヤー"
+      },
+      "ko": {
+        "definition": "거의 뭐든 갈라버릴 만큼 가느다란, 눈에 잘 안 보이는 절단용 철사.",
+        "example": "모노와이어를 한 번 튕기자 문 자물쇠가 두 동강 났다.",
+        "term": "모노와이어"
+      },
+      "fr": {
+        "definition": "Fil tranchant presque invisible, assez fin pour découper à peu près tout.",
+        "example": "D'un coup de monofil, la serrure de la porte tomba en deux morceaux.",
+        "term": "Monofil"
+      },
+      "es": {
+        "definition": "Hilo de corte casi invisible, tan fino que rebana casi cualquier cosa.",
+        "example": "Un golpe de monofilamento y la cerradura de la puerta cayó en dos mitades.",
+        "term": "Monofilamento"
       }
     }
   },
@@ -1031,6 +1951,26 @@
         "definition": "Хлыст из нити толщиной в молекулу, что режет плоть и сталь одинаково.",
         "example": "Монофиламентный хлыст свистнул раз, и колонна просто распалась.",
         "term": "Монофиламентный хлыст"
+      },
+      "ja": {
+        "definition": "分子ほどの細さの糸でできた鞭で、肉も鋼も同じように切り裂く。",
+        "example": "それが一度うなると、柱はただ崩れ落ちた。",
+        "term": "モノフィラメントウィップ"
+      },
+      "ko": {
+        "definition": "분자 두께의 철사로 만든 채찍으로, 살과 강철을 똑같이 베어낸다.",
+        "example": "모노필라멘트 채찍이 한 번 윙 울리자 기둥이 그대로 갈라졌다.",
+        "term": "모노필라멘트 채찍"
+      },
+      "fr": {
+        "definition": "Fouet en fil épais d'une molécule, qui tranche la chair et l'acier sans distinction.",
+        "example": "Le fouet monofilament siffla une fois et le pilier se défit tout simplement.",
+        "term": "Fouet monofilament"
+      },
+      "es": {
+        "definition": "Látigo de hilo del grosor de una molécula que corta la carne y el acero por igual.",
+        "example": "El látigo de monofilamento zumbó una vez y la columna simplemente se partió.",
+        "term": "Látigo de monofilamento"
       }
     }
   },
@@ -1053,6 +1993,26 @@
         "definition": "Искусственный глаз, что заменяет зрение и добавляет зум, сканирование или запись.",
         "example": "Киберглаз отметил все выходы и угрозы раньше, чем она шагнула внутрь.",
         "term": "Киберглаз"
+      },
+      "ja": {
+        "definition": "視力を置き換え、ズームや走査、録画まで加える人工の眼。",
+        "example": "彼女の眼は、踏み込む前にすべての出口と脅威を印づけた。",
+        "term": "サイバーアイ"
+      },
+      "ko": {
+        "definition": "시력을 대신하고 확대·스캔·녹화 기능을 더해주는 인공 눈.",
+        "example": "그녀의 사이버아이는 안으로 들어서기 전에 모든 출구와 위협을 표시해줬다.",
+        "term": "사이버아이"
+      },
+      "fr": {
+        "definition": "Œil artificiel qui remplace la vue et ajoute zoom, scan ou enregistrement.",
+        "example": "Son cyber-œil repéra chaque sortie et chaque menace avant qu'elle n'entre.",
+        "term": "Cyber-œil"
+      },
+      "es": {
+        "definition": "Ojo artificial que reemplaza la vista y añade zoom, escaneo o grabación.",
+        "example": "Su ciberojo marcó cada salida y cada amenaza antes de que pusiera un pie dentro.",
+        "term": "Ciberojo"
       }
     }
   },
@@ -1075,6 +2035,26 @@
         "definition": "Механическая рука взамен утраченной или улучшенной, обычно куда сильнее прежней.",
         "example": "Он согнул стальной прут киберрукой, будто тёплый воск.",
         "term": "Киберрука"
+      },
+      "ja": {
+        "definition": "失った腕の代わりや強化として付ける、しばしば桁違いに強い機械の腕。",
+        "example": "彼は鋼の棒を、温めた蝋のように機械の腕で曲げた。",
+        "term": "サイバーアーム"
+      },
+      "ko": {
+        "definition": "잃었거나 강화한 팔을 대신하는 기계 팔로, 흔히 훨씬 힘이 세다.",
+        "example": "그는 사이버암으로 강철 막대를 따뜻한 밀랍처럼 구부렸다.",
+        "term": "사이버암"
+      },
+      "fr": {
+        "definition": "Bras mécanique qui remplace ou améliore un membre, souvent bien plus puissant.",
+        "example": "Il tordit la barre d'acier de son cyberbras comme de la cire tiède.",
+        "term": "Cyberbras"
+      },
+      "es": {
+        "definition": "Brazo mecánico que sustituye a uno perdido o mejorado, a menudo mucho más fuerte.",
+        "example": "Dobló la barra de acero con el ciberbrazo como si fuera cera tibia.",
+        "term": "Ciberbrazo"
       }
     }
   },
@@ -1097,6 +2077,26 @@
         "definition": "Искусственная рука или нога, вживлённая в тело взамен или сверх родной.",
         "example": "Её киберконечность не устала на долгом подъёме, где выдохлись остальные.",
         "term": "Киберконечность"
+      },
+      "ja": {
+        "definition": "元の手足を置き換え、あるいは凌ぐために体へつないだ人工の腕や脚。",
+        "example": "仲間が音を上げた長い登りでも、彼女の義肢は疲れを知らなかった。",
+        "term": "サイバーリム"
+      },
+      "ko": {
+        "definition": "원래 것을 대신하거나 능가하려고 몸에 연결한 인공 팔이나 다리.",
+        "example": "다들 겨우 마친 긴 등반에서, 그녀의 사이버림은 지치는 법이 없었다.",
+        "term": "사이버림"
+      },
+      "fr": {
+        "definition": "Bras ou jambe artificiel câblé au corps pour remplacer ou surpasser l'original.",
+        "example": "Son cybermembre ne faiblit jamais sur la longue montée où les autres s'épuisèrent.",
+        "term": "Cybermembre"
+      },
+      "es": {
+        "definition": "Brazo o pierna artificial conectado al cuerpo para reemplazar o superar al original.",
+        "example": "Su ciberextremidad no se cansó en la larga escalada que los demás apenas terminaron.",
+        "term": "Ciberextremidad"
       }
     }
   },
@@ -1119,6 +2119,26 @@
         "definition": "Броня, вживлённая под кожу, чтобы держать удары и лезвия.",
         "example": "Нож скользнул по его дермальной броне, не оставив и царапины.",
         "term": "Дермальная броня"
+      },
+      "ja": {
+        "definition": "打撃や刃を受け流すため、皮膚の下に埋め込む装甲。",
+        "example": "ナイフは彼の皮下装甲を滑り、傷ひとつ残さなかった。",
+        "term": "ダーマルプレーティング"
+      },
+      "ko": {
+        "definition": "주먹질과 칼날을 튕겨내려고 피부 밑에 심은 장갑.",
+        "example": "칼이 그의 더멀 플레이팅에 미끄러져 자국 하나 남기지 못했다.",
+        "term": "더멀 플레이팅"
+      },
+      "fr": {
+        "definition": "Armure implantée sous la peau pour encaisser coups et lames.",
+        "example": "Le couteau glissa sur son blindage dermique sans laisser la moindre marque.",
+        "term": "Blindage dermique"
+      },
+      "es": {
+        "definition": "Blindaje implantado bajo la piel para encajar golpes y cuchilladas.",
+        "example": "El cuchillo resbaló por su placa dérmica sin dejar marca.",
+        "term": "Placa dérmica"
       }
     }
   },
@@ -1141,6 +2161,26 @@
         "definition": "Защитная сетка под кожей, что гасит пули и удары.",
         "example": "Подкожная броня превратила верный смертельный выстрел в синяк.",
         "term": "Подкожная броня"
+      },
+      "ja": {
+        "definition": "弾丸や衝撃を鈍らせるため、皮膚の下に敷く防御の網。",
+        "example": "それが、致命傷になるはずの一撃をただの打ち身に変えた。",
+        "term": "サブダーマルアーマー"
+      },
+      "ko": {
+        "definition": "총알과 충격을 무디게 하려고 피부 아래 깐 보호 그물망.",
+        "example": "피하 장갑이 확실한 치명상이 될 뻔한 총격을 멍 자국으로 바꿔놓았다.",
+        "term": "피하 장갑"
+      },
+      "fr": {
+        "definition": "Maille protectrice posée sous la peau pour amortir balles et impacts.",
+        "example": "Le blindage sous-cutané transforma en simple bleu ce qui aurait dû être fatal.",
+        "term": "Blindage sous-cutané"
+      },
+      "es": {
+        "definition": "Malla protectora colocada bajo la piel para amortiguar balas e impactos.",
+        "example": "El blindaje subdérmico convirtió en un moratón lo que debía ser un disparo mortal.",
+        "term": "Blindaje subdérmico"
       }
     }
   },
@@ -1163,6 +2203,26 @@
         "definition": "Связь между мозгом и машинами, что даёт управлять ими одной мыслью.",
         "example": "Через нейроинтерфейс она вела дрон, будто он был её собственной рукой.",
         "term": "Нейроинтерфейс"
+      },
+      "ja": {
+        "definition": "脳と機械を結び、思考だけで機械を操れるようにする接続。",
+        "example": "その接続を通し、彼女はドローンをまるで自分の手のように飛ばした。",
+        "term": "ニューラルインターフェース"
+      },
+      "ko": {
+        "definition": "생각만으로 기계를 다루게 해주는, 뇌와 기계 사이의 연결.",
+        "example": "신경 인터페이스를 통해 그녀는 드론을 제 손처럼 날렸다.",
+        "term": "신경 인터페이스"
+      },
+      "fr": {
+        "definition": "Lien entre le cerveau et les machines qui permet de les commander par la pensée.",
+        "example": "Via l'interface neuronale, elle pilotait le drone comme si c'était sa propre main.",
+        "term": "Interface neuronale"
+      },
+      "es": {
+        "definition": "Enlace entre el cerebro y las máquinas que te permite controlarlas con el pensamiento.",
+        "example": "Por la interfaz neuronal pilotaba el dron como si fuera su propia mano.",
+        "term": "Interfaz neuronal"
       }
     }
   },
@@ -1185,6 +2245,26 @@
         "definition": "Покров, что преломляет свет и прячет тепло, делая носителя почти невидимым.",
         "example": "Термооптический камуфляж мигнул, и убийца ослепил все камеры разом.",
         "term": "Термооптический камуфляж"
+      },
+      "ja": {
+        "definition": "光を曲げ熱を隠し、まとう者をほぼ見えなくする外套。",
+        "example": "迷彩が一度ゆらめき、暗殺者はすべてのカメラを盲目にして去った。",
+        "term": "光学迷彩"
+      },
+      "ko": {
+        "definition": "빛을 휘고 열을 감춰 착용자를 거의 보이지 않게 만드는 망토.",
+        "example": "광학미채가 한 번 어른거리자 암살자는 모든 카메라의 눈을 멀게 하고 사라졌다.",
+        "term": "광학미채"
+      },
+      "fr": {
+        "definition": "Voile qui courbe la lumière et masque la chaleur, rendant son porteur presque invisible.",
+        "example": "Le camouflage thermoptique scintilla une fois et l'assassin aveugla toutes les caméras.",
+        "term": "Camouflage thermoptique"
+      },
+      "es": {
+        "definition": "Manto que curva la luz y oculta el calor, volviendo casi invisible a quien lo lleva.",
+        "example": "El camuflaje termóptico titiló una vez y el asesino dejó ciega a cada cámara.",
+        "term": "Camuflaje termóptico"
       }
     }
   },
@@ -1207,6 +2287,26 @@
         "definition": "Мозг с имплантами, что позволяют ему подключаться прямо к сетям.",
         "example": "Кибермозг даёт ей обыскать весь архив за то время, что уходит на моргание.",
         "term": "Кибермозг"
+      },
+      "ja": {
+        "definition": "ネットワークへ直につなげるよう、埋め込みで拡張された脳。",
+        "example": "それがあれば、まばたきほどの間に書庫まるごとを検索できる。",
+        "term": "電脳"
+      },
+      "ko": {
+        "definition": "네트워크에 곧장 연결되도록 임플란트로 강화한 뇌.",
+        "example": "전뇌 덕에 그녀는 눈 한 번 깜빡일 새에 문서고 전체를 뒤질 수 있다.",
+        "term": "전뇌"
+      },
+      "fr": {
+        "definition": "Cerveau augmenté d'implants qui lui permettent de se brancher directement aux réseaux.",
+        "example": "Un cybercerveau lui laisse fouiller toute l'archive le temps d'un battement de paupières.",
+        "term": "Cybercerveau"
+      },
+      "es": {
+        "definition": "Cerebro potenciado con implantes para conectarse directamente a las redes.",
+        "example": "Un cibercerebro le permite peinar el archivo entero en lo que dura un parpadeo.",
+        "term": "Cibercerebro"
       }
     }
   },
@@ -1229,6 +2329,26 @@
         "definition": "Искусственное тело, в котором живёт разум или сознание человека.",
         "example": "Разум её был цел, но оболочка, где он жил, была целиком машиной.",
         "term": "Оболочка"
+      },
+      "ja": {
+        "definition": "人の意識や心を宿す、人工の身体。",
+        "example": "彼女の心は無事だったが、それが宿る体はまるごと機械だった。",
+        "term": "義体"
+      },
+      "ko": {
+        "definition": "사람의 정신이나 의식을 담고 있는 인공 육체.",
+        "example": "그녀의 정신은 멀쩡했지만, 그 정신이 깃든 의체는 온통 기계였다.",
+        "term": "의체"
+      },
+      "fr": {
+        "definition": "Corps artificiel qui abrite l'esprit ou la conscience d'une personne.",
+        "example": "Son esprit était intact, mais la coque où il logeait était entièrement machine.",
+        "term": "La coque (le corps)"
+      },
+      "es": {
+        "definition": "Cuerpo artificial que aloja la mente o la conciencia de una persona.",
+        "example": "Su mente estaba intacta, pero el caparazón donde vivía era máquina entera.",
+        "term": "El caparazón (el cuerpo)"
       }
     }
   },
@@ -1251,6 +2371,26 @@
         "definition": "Искра самости и осознания, что делает человека большим, чем сумма его частей.",
         "example": "Тело можно скопировать до мелочи, но призрак внутри никогда не переносится.",
         "term": "Призрак"
+      },
+      "ja": {
+        "definition": "人を部品の寄せ集め以上のものにする、自我と意識のきらめき。",
+        "example": "体は完璧に複製できても、内に宿る魂だけは決して移せない。",
+        "term": "ゴースト"
+      },
+      "ko": {
+        "definition": "사람을 부품의 합 이상으로 만드는, 자아와 자각의 불꽃.",
+        "example": "몸은 완벽히 복제해도, 안에 든 고스트는 결코 옮겨지지 않는다.",
+        "term": "고스트"
+      },
+      "fr": {
+        "definition": "Étincelle de soi et de conscience qui fait d'une personne plus que la somme de ses pièces.",
+        "example": "On peut copier le corps à la perfection, mais le ghost à l'intérieur ne se transfère jamais.",
+        "term": "Ghost (l'âme)"
+      },
+      "es": {
+        "definition": "Chispa de identidad y conciencia que hace a una persona más que la suma de sus partes.",
+        "example": "Puedes copiar el cuerpo a la perfección, pero el ghost de dentro nunca se transfiere.",
+        "term": "Ghost (el alma)"
       }
     }
   },
@@ -1273,6 +2413,26 @@
         "definition": "Улучшения, выращенные из живой ткани, а не собранные из металла.",
         "example": "Биовер заживал чище хрома и не звенел на металлодетекторе.",
         "term": "Биовер"
+      },
+      "ja": {
+        "definition": "金属から組み立てるのではなく、生きた組織から育てた強化。",
+        "example": "それはクロームより傷が治りやすく、金属探知機にも引っかからなかった。",
+        "term": "バイオウェア"
+      },
+      "ko": {
+        "definition": "금속으로 짜맞추지 않고 살아 있는 조직에서 길러낸 강화.",
+        "example": "바이오웨어는 크롬보다 아물기가 깔끔했고 금속 탐지기에도 걸리지 않았다.",
+        "term": "바이오웨어"
+      },
+      "fr": {
+        "definition": "Améliorations issues de tissu vivant plutôt que fabriquées en métal.",
+        "example": "Le bioware cicatrisait plus proprement que le chrome et ne sonnait jamais au détecteur.",
+        "term": "Bioware"
+      },
+      "es": {
+        "definition": "Mejoras cultivadas a partir de tejido vivo en lugar de fabricadas con metal.",
+        "example": "El bioware cicatrizaba más limpio que el cromo y no hacía saltar el detector de metales.",
+        "term": "Bioware"
       }
     }
   },
@@ -1295,6 +2455,26 @@
         "definition": "Замена всего тела машинным, где от человека остаётся лишь мозг.",
         "example": "После полной киборгизации ниже шеи в нём не осталось ничего живого.",
         "term": "Полная киборгизация"
+      },
+      "ja": {
+        "definition": "脳だけを残し、体まるごとを機械のものに置き換えること。",
+        "example": "全身を換えたあと、彼の首から下に生身は残っていなかった。",
+        "term": "フルボディ換装"
+      },
+      "ko": {
+        "definition": "뇌만 남기고 몸 전체를 기계로 바꾸는 것.",
+        "example": "풀바디 전환을 마친 뒤, 그의 목 아래로는 살아 있는 것이 하나도 남지 않았다.",
+        "term": "풀바디 전환"
+      },
+      "fr": {
+        "definition": "Remplacement de tout le corps par un corps machine, ne gardant que le cerveau.",
+        "example": "Après la conversion intégrale, plus rien d'organique ne subsistait sous son cou.",
+        "term": "Conversion intégrale"
+      },
+      "es": {
+        "definition": "Reemplazo del cuerpo entero por uno mecánico, conservando solo el cerebro.",
+        "example": "Tras la conversión de cuerpo completo, no le quedaba nada orgánico bajo el cuello.",
+        "term": "Conversión de cuerpo completo"
       }
     }
   },
@@ -1317,6 +2497,26 @@
         "definition": "Искусственная часть, что заменяет утраченную конечность или орган.",
         "example": "Её протез руки сжимал так бережно, что мог удержать яйцо.",
         "term": "Протез"
+      },
+      "ja": {
+        "definition": "失った手足や器官を置き換える、人工の部位。",
+        "example": "彼女の人工の手は、卵を持てるほど優しく握った。",
+        "term": "義肢"
+      },
+      "ko": {
+        "definition": "잃어버린 팔다리나 장기를 대신하는 인공 부위.",
+        "example": "그녀의 의수는 어찌나 부드럽게 쥐는지 달걀도 쥘 수 있었다.",
+        "term": "의족/의수"
+      },
+      "fr": {
+        "definition": "Pièce artificielle qui remplace un membre ou un organe manquant.",
+        "example": "Sa prothèse de main serrait si doucement qu'elle pouvait tenir un œuf.",
+        "term": "Prothèse"
+      },
+      "es": {
+        "definition": "Pieza artificial que reemplaza un miembro u órgano ausente.",
+        "example": "Su prótesis de mano agarraba con tanta suavidad que podía sostener un huevo.",
+        "term": "Prótesis"
       }
     }
   },
@@ -1339,6 +2539,26 @@
         "definition": "Гигантская компания, столь могущественная, что ведёт себя как отдельное государство.",
         "example": "Три мегакорпорации владели водой, электричеством и полицией.",
         "term": "Мегакорпорация"
+      },
+      "ja": {
+        "definition": "それ自体が一つの政府のように振る舞う、途方もなく強大な企業。",
+        "example": "三つの巨大企業が、水と電気と警察を握っていた。",
+        "term": "メガコーポレーション"
+      },
+      "ko": {
+        "definition": "너무 강력해서 스스로 하나의 정부처럼 구는 거대 기업.",
+        "example": "세 개의 메가코퍼레이션이 물과 전기와 경찰을 쥐고 있었다.",
+        "term": "메가코퍼레이션"
+      },
+      "fr": {
+        "definition": "Entreprise géante, si puissante qu'elle agit comme un État à part entière.",
+        "example": "Trois mégacorporations possédaient l'eau, l'électricité et la police.",
+        "term": "Mégacorporation"
+      },
+      "es": {
+        "definition": "Empresa gigantesca, tan poderosa que actúa como un gobierno en sí misma.",
+        "example": "Tres megacorporaciones eran dueñas del agua, la luz y la policía.",
+        "term": "Megacorporación"
       }
     }
   },
@@ -1361,6 +2581,26 @@
         "definition": "Жаргонное название того, кто служит мегакорпорации и работает на неё.",
         "example": "Корпо выдавал себя костюмом и тем, как толпа расступалась перед ним.",
         "term": "Корпо"
+      },
+      "ja": {
+        "definition": "巨大企業に仕え、そのために働く者を指す俗語。",
+        "example": "スーツと、人混みが道を空ける様子で、どの社員かひと目でわかった。",
+        "term": "コーポ"
+      },
+      "ko": {
+        "definition": "메가코퍼레이션에서 일하며 그곳을 섬기는 사람을 이르는 은어.",
+        "example": "정장 차림과 군중이 길을 비켜주는 모양새로 그가 코퍼임을 알아볼 수 있었다.",
+        "term": "코퍼"
+      },
+      "fr": {
+        "definition": "Argot désignant celui qui sert une mégacorporation et travaille pour elle.",
+        "example": "On repérait le corpo à son costume et à la façon dont la foule lui faisait place.",
+        "term": "Corpo"
+      },
+      "es": {
+        "definition": "Jerga para quien trabaja y sirve a una megacorporación.",
+        "example": "Al corpo se le notaba por el traje y por cómo la multitud le hacía sitio.",
+        "term": "Corpo"
       }
     }
   },
@@ -1383,6 +2623,26 @@
         "definition": "Разросшийся семейный конгломерат, что подмял под себя целые отрасли.",
         "example": "Дзайбацу пережил государство, что когда-то пыталось обложить его налогом.",
         "term": "Дзайбацу"
+      },
+      "ja": {
+        "definition": "一族が興し、産業まるごとを支配するまで広がった巨大複合企業。",
+        "example": "それは、かつて課税しようとした国家より長く生き延びた。",
+        "term": "財閥"
+      },
+      "ko": {
+        "definition": "한 가문에서 시작해 산업 전체를 장악한, 거대하게 뻗어나간 복합기업.",
+        "example": "재벌은 한때 세금을 물리려던 국가보다도 오래 살아남았다.",
+        "term": "재벌"
+      },
+      "fr": {
+        "definition": "Conglomérat tentaculaire fondé par une famille, qui domine des industries entières.",
+        "example": "Le zaibatsu avait survécu à la nation qui avait jadis tenté de le taxer.",
+        "term": "Zaibatsu"
+      },
+      "es": {
+        "definition": "Conglomerado inmenso, fundado por una familia, que domina industrias enteras.",
+        "example": "El zaibatsu había sobrevivido a la nación que un día intentó gravarlo.",
+        "term": "Zaibatsu"
       }
     }
   },
@@ -1405,6 +2665,26 @@
         "definition": "Культовая японская мегакорпорация жанра, живущая охраной и оружием.",
         "example": "Перейди Арасаке дорогу — и её агенты пойдут за тобой хоть на край света.",
         "term": "Арасака"
+      },
+      "ja": {
+        "definition": "警備と兵器を商う、このジャンルを象徴する日本の巨大企業。",
+        "example": "一度その企業に楯突けば、その手先は世界の果てまで追ってくる。",
+        "term": "アラサカ"
+      },
+      "ko": {
+        "definition": "보안과 무기를 다루는, 이 장르를 상징하는 일본계 메가코퍼레이션.",
+        "example": "아라사카에 한 번 엇나가면, 그들의 요원은 세상 끝까지 널 쫓아온다.",
+        "term": "아라사카"
+      },
+      "fr": {
+        "definition": "Mégacorpo japonaise emblématique du genre, versée dans la sécurité et l'armement.",
+        "example": "Trahis Arasaka une fois et ses agents te suivront jusqu'au bout du monde.",
+        "term": "Arasaka"
+      },
+      "es": {
+        "definition": "Icónica megacorpo japonesa del género, dedicada a la seguridad y las armas.",
+        "example": "Cruza a Arasaka una vez y sus agentes te seguirán hasta el fin del mundo.",
+        "term": "Arasaka"
       }
     }
   },
@@ -1427,6 +2707,26 @@
         "definition": "Могучая мегакорпорация-оружейник, соперница старых японских гигантов.",
         "example": "Каждый наёмник в зоне носил ту или иную сталь Милтеха.",
         "term": "Милтех"
+      },
+      "ja": {
+        "definition": "古い日本の巨人に対抗する、強大な兵器製造の巨大企業。",
+        "example": "あの区域の傭兵は、みなその会社製の鋼を何かしら携えていた。",
+        "term": "ミリテック"
+      },
+      "ko": {
+        "definition": "옛 일본계 거인들의 경쟁자인, 강력한 무기 제조 메가코퍼레이션.",
+        "example": "그 구역의 용병들은 하나같이 이런저런 밀리테크제 강철을 지니고 다녔다.",
+        "term": "밀리테크"
+      },
+      "fr": {
+        "definition": "Puissante mégacorpo fabricante d'armes, rivale des vieux géants japonais.",
+        "example": "Chaque merc de la zone portait de l'acier Militech sous une forme ou une autre.",
+        "term": "Militech"
+      },
+      "es": {
+        "definition": "Poderosa megacorpo armamentística, rival de los viejos gigantes japoneses.",
+        "example": "Todo mercenario de la zona llevaba acero de Militech de una clase u otra.",
+        "term": "Militech"
       }
     }
   },
@@ -1449,6 +2749,26 @@
         "definition": "Открытый вооружённый конфликт между мегакорпорациями за деньги и власть.",
         "example": "Прошлая корпоративная война снесла целый район, и суд так и не назвал виновных.",
         "term": "Корпоративная война"
+      },
+      "ja": {
+        "definition": "金と権力をめぐり、巨大企業どうしが繰り広げる公然の武力衝突。",
+        "example": "前回の戦いは一区画を更地にしたが、法廷は誰も犯人と名指さなかった。",
+        "term": "企業戦争"
+      },
+      "ko": {
+        "definition": "돈과 권력을 두고 메가코퍼레이션들이 벌이는 공공연한 무력 충돌.",
+        "example": "지난 기업 전쟁은 한 구역을 통째로 무너뜨렸지만, 어떤 법정도 범인을 지목하지 못했다.",
+        "term": "기업 전쟁"
+      },
+      "fr": {
+        "definition": "Conflit armé ouvert entre mégacorporations pour l'argent et le pouvoir.",
+        "example": "La dernière guerre corporative a rasé un quartier, et nul tribunal n'a jamais nommé de coupable.",
+        "term": "Guerre corporative"
+      },
+      "es": {
+        "definition": "Conflicto armado abierto librado entre megacorporaciones por dinero y poder.",
+        "example": "La última guerra corporativa arrasó un distrito y ningún tribunal señaló culpable.",
+        "term": "Guerra corporativa"
       }
     }
   },
@@ -1471,6 +2791,26 @@
         "definition": "Поселение, целиком принадлежащее одной фирме, — она же всех нанимает и правит ими.",
         "example": "В корпоративном городе твой домовладелец, начальник и коп подписывают одни и те же чеки.",
         "term": "Корпоративный город"
+      },
+      "ja": {
+        "definition": "一社がまるごと所有し、住人を雇い、支配もする集落。",
+        "example": "ここでは大家も上司も警官も、同じ会社の小切手にサインする。",
+        "term": "企業城下町"
+      },
+      "ko": {
+        "definition": "한 회사가 통째로 소유하고, 그 안의 모두를 고용하며 다스리는 정착지.",
+        "example": "기업 도시에서는 집주인도 상사도 경찰도 같은 곳에서 월급을 받는다.",
+        "term": "기업 도시"
+      },
+      "fr": {
+        "definition": "Cité appartenant tout entière à une firme, qui emploie et gouverne aussi tous ses habitants.",
+        "example": "Dans une ville-entreprise, ton proprio, ton patron et ton flic signent les mêmes chèques.",
+        "term": "Ville-entreprise"
+      },
+      "es": {
+        "definition": "Asentamiento propiedad entera de una firma, que además emplea y gobierna a todos.",
+        "example": "En una ciudad-empresa tu casero, tu jefe y tu poli firman los mismos cheques.",
+        "term": "Ciudad-empresa"
       }
     }
   },
@@ -1493,6 +2833,26 @@
         "definition": "Право корпоративной земли лежать вне законов любого государства.",
         "example": "Стоит ступить на их территорию, и местная полиция не пойдёт за тобой.",
         "term": "Экстерриториальность"
+      },
+      "ja": {
+        "definition": "企業の敷地が、どの国家の法の外に置かれる権利。",
+        "example": "ひとたび敷地に踏み込めば、地元の警察はあなたを追って入れない。",
+        "term": "治外法権"
+      },
+      "ko": {
+        "definition": "기업의 땅이 어느 나라의 법 밖에 놓이는 권리.",
+        "example": "일단 그들의 부지에 발을 들이면, 지역 경찰은 따라 들어올 수 없다.",
+        "term": "치외법권"
+      },
+      "fr": {
+        "definition": "Droit qu'a le territoire d'une corporation d'échapper aux lois de tout État.",
+        "example": "Une fois sur leur campus, la police locale ne peut plus te suivre à l'intérieur.",
+        "term": "Extraterritorialité"
+      },
+      "es": {
+        "definition": "Derecho del terreno de una corporación a quedar fuera de las leyes de cualquier nación.",
+        "example": "En cuanto pisas su recinto, la policía local no puede seguirte dentro.",
+        "term": "Extraterritorialidad"
       }
     }
   },
@@ -1515,6 +2875,26 @@
         "definition": "Работник, застрявший в работе, что едва платит достаточно, чтобы он приходил снова.",
         "example": "Ещё десяток лет рабом зарплаты — и, может, он позволит себе уйти.",
         "term": "Раб зарплаты"
+      },
+      "ja": {
+        "definition": "通い続けるのがやっとの薄給の仕事に、閉じ込められた労働者。",
+        "example": "あと十年この身分でいれば、辞める余裕もできるかもしれない。",
+        "term": "賃金奴隷"
+      },
+      "ko": {
+        "definition": "겨우 출근할 만큼만 주는 일자리에 갇힌 노동자.",
+        "example": "임금 노예로 십 년 더, 그러고 나면 어쩌면 그만둘 여유가 생길지도.",
+        "term": "임금 노예"
+      },
+      "fr": {
+        "definition": "Travailleur coincé dans un emploi qui paie tout juste assez pour qu'il continue de venir.",
+        "example": "Encore une décennie comme esclave salarié, et peut-être pourrait-il se permettre de partir.",
+        "term": "Esclave salarié"
+      },
+      "es": {
+        "definition": "Trabajador atrapado en un empleo que apenas paga lo justo para seguir apareciendo.",
+        "example": "Otra década de esclavo asalariado y quizá pudiera permitirse renunciar.",
+        "term": "Esclavo asalariado"
       }
     }
   },
@@ -1537,6 +2917,26 @@
         "definition": "Наёмный корпоративный служащий, чья жизнь целиком вращается вокруг фирмы.",
         "example": "Салариман тридцать верных лет ездил на одном и том же поезде с рассветом.",
         "term": "Салариман"
+      },
+      "ja": {
+        "definition": "暮らしのすべてが会社を軸に回る、給与制の企業勤め。",
+        "example": "彼は三十年、忠実に夜明けの同じ電車へ乗り続けた。",
+        "term": "サラリーマン"
+      },
+      "ko": {
+        "definition": "삶 전체가 회사를 중심으로 도는 봉급쟁이 기업 직원.",
+        "example": "그 샐러리맨은 삼십 년을 한결같이 새벽 같은 열차에 올랐다.",
+        "term": "샐러리맨"
+      },
+      "fr": {
+        "definition": "Employé salarié dont la vie entière tourne autour de la corporation.",
+        "example": "Le salaryman prit le même train à l'aube, fidèle, pendant trente ans.",
+        "term": "Salaryman"
+      },
+      "es": {
+        "definition": "Empleado corporativo a sueldo cuya vida entera orbita en torno a la empresa.",
+        "example": "El salaryman tomó el mismo tren al alba durante treinta años de fiel servicio.",
+        "term": "Salaryman"
       }
     }
   },
@@ -1559,6 +2959,26 @@
         "definition": "Кража секретов конкурента через слежку, взлом или подкуп.",
         "example": "Новый прототип утёк за неделю — учебный корпоративный шпионаж.",
         "term": "Корпоративный шпионаж"
+      },
+      "ja": {
+        "definition": "監視・侵入・買収で、競合企業の秘密を盗み出すこと。",
+        "example": "新型の試作は一週間で漏れた。教科書どおりの手口だった。",
+        "term": "企業スパイ"
+      },
+      "ko": {
+        "definition": "염탐이나 해킹, 매수로 경쟁사의 비밀을 훔치는 짓.",
+        "example": "새 시제품이 일주일 만에 새어나갔다 — 전형적인 기업 스파이 짓이었다.",
+        "term": "기업 스파이"
+      },
+      "fr": {
+        "definition": "Vol des secrets d'une firme rivale par la filature, le piratage ou la corruption.",
+        "example": "Le nouveau prototype a fuité en une semaine — de l'espionnage industriel dans les règles.",
+        "term": "Espionnage industriel"
+      },
+      "es": {
+        "definition": "Robar los secretos de una firma rival mediante vigilancia, intrusión o soborno.",
+        "example": "El nuevo prototipo se filtró en una semana: espionaje corporativo de manual.",
+        "term": "Espionaje corporativo"
       }
     }
   },
@@ -1581,6 +3001,26 @@
         "definition": "Общество, где власть следит почти за всем, что делают люди, и всё записывает.",
         "example": "В государстве слежки даже шёпот в темноте попадает в чьё-то досье.",
         "term": "Государство слежки"
+      },
+      "ja": {
+        "definition": "権力者が人々のほぼすべての行いを見張り、記録に残す社会。",
+        "example": "そこでは、闇の中のささやきさえ誰かの記録に届く。",
+        "term": "監視国家"
+      },
+      "ko": {
+        "definition": "권력자가 사람들의 거의 모든 행동을 지켜보고 기록하는 사회.",
+        "example": "감시 국가에서는 어둠 속의 속삭임조차 누군가의 서류철에 닿는다.",
+        "term": "감시 국가"
+      },
+      "fr": {
+        "definition": "Société où les puissants observent et enregistrent presque tout ce que font les gens.",
+        "example": "Dans un État de surveillance, même un murmure dans le noir atterrit dans un dossier.",
+        "term": "État de surveillance"
+      },
+      "es": {
+        "definition": "Sociedad donde quienes mandan observan y registran casi todo lo que hace la gente.",
+        "example": "En un estado de vigilancia, hasta un susurro en la oscuridad llega a algún expediente.",
+        "term": "Estado de vigilancia"
       }
     }
   },
@@ -1603,6 +3043,26 @@
         "definition": "Устройство, где люди ведут себя смирно, ведь за ними могут наблюдать в любой миг.",
         "example": "Город работал как паноптикон: камер не видно, а все держатся так, будто на виду.",
         "term": "Паноптикон"
+      },
+      "ja": {
+        "definition": "いつ見られているか分からないという不安から、人が自ら行いを正す仕組み。",
+        "example": "街はその原理で回っていた。カメラは見えないのに、誰もが見られているように振る舞った。",
+        "term": "パノプティコン"
+      },
+      "ko": {
+        "definition": "언제든 감시당할 수 있다는 생각에 사람들이 알아서 처신하게 되는 구조.",
+        "example": "도시는 판옵티콘처럼 돌아갔다. 카메라는 보이지 않는데 다들 지켜보는 듯 굴었다.",
+        "term": "판옵티콘"
+      },
+      "fr": {
+        "definition": "Dispositif où les gens se tiennent tranquilles parce qu'on pourrait les observer à tout instant.",
+        "example": "La ville tournait comme un panoptique : nulle caméra en vue, mais chacun se sentait épié.",
+        "term": "Panoptique"
+      },
+      "es": {
+        "definition": "Sistema en el que la gente se porta bien porque podría ser observada en cualquier momento.",
+        "example": "La ciudad funcionaba como un panóptico: sin cámaras a la vista y todos actuando vigilados.",
+        "term": "Panóptico"
       }
     }
   },
@@ -1625,6 +3085,26 @@
         "definition": "Опознание человека по чертам тела — отпечаткам, радужке.",
         "example": "Биометрический замок открывался лишь одной живой, дышащей ладони.",
         "term": "Биометрия"
+      },
+      "ja": {
+        "definition": "指紋や虹彩など、体の特徴を使って人を見分けること。",
+        "example": "その錠は、生きて呼吸する一つの手にだけ開いた。",
+        "term": "バイオメトリクス"
+      },
+      "ko": {
+        "definition": "지문이나 홍채 같은 몸의 특징으로 사람을 알아보는 것.",
+        "example": "생체 인식 잠금장치는 살아 숨 쉬는 손 하나에만 열렸다.",
+        "term": "생체 인식"
+      },
+      "fr": {
+        "definition": "Identification d'une personne par ses traits corporels, empreintes ou iris.",
+        "example": "Le verrou biométrique ne s'ouvrait que pour une seule main vivante, qui respirait.",
+        "term": "Biométrie"
+      },
+      "es": {
+        "definition": "Identificar a una persona por rasgos del cuerpo como huellas o iris.",
+        "example": "Un cierre biométrico solo se abría para una mano viva que respirara.",
+        "term": "Biometría"
       }
     }
   },
@@ -1646,6 +3126,26 @@
       "ru": {
         "definition": "Выданный государством номер личности; без него ты для системы почти не существуешь.",
         "example": "Нет SIN — нет банка, клиники, работы. Призрак для государства.",
+        "term": "SIN"
+      },
+      "ja": {
+        "definition": "国家が発行する個人番号（System Identification Number）。これがないと、システム上ほぼ存在しないに等しい。",
+        "example": "番号がなければ銀行も診療所も職もない。国家にとっては幽霊だ。",
+        "term": "SIN"
+      },
+      "ko": {
+        "definition": "국가가 발급한 신원 번호로, '시스템 신원 번호(System Identification Number)'의 약자다. 이게 없으면 시스템 앞에서 존재하지 않는 셈이다.",
+        "example": "씬이 없으면 은행도, 병원도, 일자리도 없다 — 국가에겐 유령인 셈이다.",
+        "term": "씬(SIN)"
+      },
+      "fr": {
+        "definition": "Numéro d'identité délivré par l'État (System Identification Number) ; sans lui, tu n'existes presque pas pour le système.",
+        "example": "Sans SIN, pas de banque, pas de clinique, pas de boulot — un fantôme pour l'État.",
+        "term": "SIN"
+      },
+      "es": {
+        "definition": "Número de identidad emitido por el Estado; sin uno, apenas existes para el sistema (del inglés System Identification Number).",
+        "example": "Sin SIN no había banco, ni clínica, ni empleo: un fantasma para el Estado.",
         "term": "SIN"
       }
     }
@@ -1669,6 +3169,26 @@
         "definition": "Власть технических специалистов, где знание весит больше голосов.",
         "example": "Совет был технократией: инженеры задавали курс, политики кивали.",
         "term": "Технократия"
+      },
+      "ja": {
+        "definition": "票よりも専門知識がものを言う、技術専門家による統治。",
+        "example": "評議会は技術者が方針を定め、政治家がうなずくだけの場だった。",
+        "term": "テクノクラシー"
+      },
+      "ko": {
+        "definition": "기술 전문가가 다스리는 체제로, 표보다 전문 지식이 더 무겁게 쳐진다.",
+        "example": "그 위원회는 기술관료제였다. 엔지니어가 정책을 짜면 정치인은 고개만 끄덕였다.",
+        "term": "기술관료제"
+      },
+      "fr": {
+        "definition": "Gouvernement par les experts techniques, où le savoir-faire pèse plus que les votes.",
+        "example": "Le conseil était une technocratie : les ingénieurs fixaient la ligne, les politiques hochaient la tête.",
+        "term": "Technocratie"
+      },
+      "es": {
+        "definition": "Gobierno de los expertos técnicos, donde el saber pesa más que los votos.",
+        "example": "El consejo era una tecnocracia: los ingenieros fijaban el rumbo y los políticos asentían.",
+        "term": "Tecnocracia"
       }
     }
   },
@@ -1691,6 +3211,26 @@
         "definition": "Власть узкого круга очень богатых и влиятельных.",
         "example": "Городом правила горстка семей — олигархия во всём, кроме названия.",
         "term": "Олигархия"
+      },
+      "ja": {
+        "definition": "ごく少数の富裕で有力な者による支配。",
+        "example": "ひと握りの一族が街を握っていた。名ばかり違うが、実態は少数支配だった。",
+        "term": "寡頭制"
+      },
+      "ko": {
+        "definition": "아주 부유하고 힘 있는 소수 집단이 다스리는 것.",
+        "example": "몇몇 가문이 도시를 쥐고 있었다 — 이름만 아닐 뿐 과두제였다.",
+        "term": "과두제"
+      },
+      "fr": {
+        "definition": "Pouvoir aux mains d'un cercle étroit de gens très riches et influents.",
+        "example": "Une poignée de familles dirigeait la ville — une oligarchie en tout sauf le nom.",
+        "term": "Oligarchie"
+      },
+      "es": {
+        "definition": "Gobierno de un círculo estrecho de los muy ricos y poderosos.",
+        "example": "Un puñado de familias mandaba en la ciudad: una oligarquía en todo menos el nombre.",
+        "term": "Oligarquía"
       }
     }
   },
@@ -1714,6 +3254,26 @@
         "definition": "Воображаемое общество, отмеченное глубокой несправедливостью, контролем или страданием.",
         "example": "Дождь, долги и камеры на каждом углу — антиутопия, в которой можно снять квартиру.",
         "term": "Антиутопия"
+      },
+      "ja": {
+        "definition": "深い不正義、抑圧、あるいは悲惨に彩られた、想像上の社会。",
+        "example": "雨、借金、そこら中のカメラ。部屋を借りて住める類いの暗黒世界だ。",
+        "term": "ディストピア"
+      },
+      "ko": {
+        "definition": "깊은 불의와 통제, 비참함으로 물든 상상 속 사회.",
+        "example": "비, 빚, 그리고 골목마다 카메라 — 방 한 칸 세 들어 살 수 있는 디스토피아.",
+        "term": "디스토피아"
+      },
+      "fr": {
+        "definition": "Société imaginaire marquée par une profonde injustice, le contrôle ou la misère.",
+        "example": "Pluie, dettes et caméras à chaque coin — une dystopie où l'on peut louer un appart.",
+        "term": "Dystopie"
+      },
+      "es": {
+        "definition": "Sociedad imaginada marcada por una profunda injusticia, control o miseria.",
+        "example": "Lluvia, deudas y cámaras en cada esquina: una distopía en la que puedes alquilar piso.",
+        "term": "Distopía"
       }
     }
   },
@@ -1737,6 +3297,26 @@
         "definition": "Торговец, что собирает и продаёт личные данные людей ради прибыли.",
         "example": "Дата-брокер знал её покупки, сон и страхи раньше неё самой.",
         "term": "Дата-брокер"
+      },
+      "ja": {
+        "definition": "人々の個人情報を集め、利益のために売りさばく商人。",
+        "example": "その仲買人は、彼女の買い物も睡眠も恐れも、本人より先に知っていた。",
+        "term": "データブローカー"
+      },
+      "ko": {
+        "definition": "돈을 벌려고 사람들의 개인정보를 모아 파는 장사꾼.",
+        "example": "데이터 브로커는 그녀 자신보다 먼저 그녀의 쇼핑과 수면과 두려움을 알았다.",
+        "term": "데이터 브로커"
+      },
+      "fr": {
+        "definition": "Marchand qui collecte et revend les informations personnelles des gens pour du profit.",
+        "example": "Un courtier en données connaissait ses achats, son sommeil et ses peurs avant elle-même.",
+        "term": "Courtier en données"
+      },
+      "es": {
+        "definition": "Traficante que recopila y vende la información personal de la gente para lucrarse.",
+        "example": "Un corredor de datos conocía sus compras, su sueño y sus miedos antes que ella.",
+        "term": "Corredor de datos"
       }
     }
   },
@@ -1760,6 +3340,26 @@
         "definition": "Пронырливый посредник, что подбирает работу, снаряжение и людей за долю.",
         "example": "Нужна команда к полуночи? Верный фиксер найдёт готовую.",
         "term": "Фиксер"
+      },
+      "ja": {
+        "definition": "分け前と引き換えに、仕事や装備や人手を手配する顔の広い仲介者。",
+        "example": "深夜までにチームが要る？　腕の立つ手配師なら用意してみせる。",
+        "term": "フィクサー"
+      },
+      "ko": {
+        "definition": "수수료를 떼고 일감과 장비, 사람을 짜 맞춰주는 발 넓은 중개인.",
+        "example": "자정까지 팀이 필요해? 제대로 된 픽서라면 대기시켜 둘 수 있어.",
+        "term": "픽서"
+      },
+      "fr": {
+        "definition": "Intermédiaire bien introduit qui déniche jobs, matériel et gens contre une part.",
+        "example": "Besoin d'une équipe avant minuit ? Le bon fixer en aura une qui attend.",
+        "term": "Fixer"
+      },
+      "es": {
+        "definition": "Intermediario bien conectado que consigue trabajos, equipo y gente a cambio de una tajada.",
+        "example": "¿Necesitas una banda para medianoche? El fixer adecuado la tiene esperando.",
+        "term": "Fixer"
       }
     }
   },
@@ -1782,6 +3382,26 @@
         "definition": "Дружеское словцо для приятеля или своего в команде.",
         "example": "Расслабься, чум, дело чистое, а плата уже в залоге.",
         "term": "Чум"
+      },
+      "ja": {
+        "definition": "相棒や仲間を呼ぶ、親しみのこもった俗語。",
+        "example": "落ち着けよ相棒、仕事は綺麗だし、報酬はもう預けてある。",
+        "term": "チューム"
+      },
+      "ko": {
+        "definition": "친구나 같은 패거리 동료를 부르는 다정한 은어.",
+        "example": "진정해, 춤. 일은 깔끔하고 돈은 이미 에스크로에 들어가 있어.",
+        "term": "춤"
+      },
+      "fr": {
+        "definition": "Terme amical pour un pote ou un membre de ta bande.",
+        "example": "Détends-toi, choom, le job est propre et la paie est déjà sous séquestre.",
+        "term": "Choom"
+      },
+      "es": {
+        "definition": "Palabra amistosa para un colega o compañero de tu banda.",
+        "example": "Tranquilo, choom, el trabajo es limpio y la paga ya está en depósito.",
+        "term": "Choom"
       }
     }
   },
@@ -1804,6 +3424,26 @@
         "definition": "Идиот; тот, чьи глупые решения обычно доводят до чьей-то гибели.",
         "example": "Только гонк войдёт в корпоративный холл с краденым пропуском.",
         "term": "Гонк"
+      },
+      "ja": {
+        "definition": "間抜け。まずい選択で人を死なせかねない者。",
+        "example": "盗んだIDを提げて企業の受付に入るなんて、間抜けのすることさ。",
+        "term": "ゴンク"
+      },
+      "ko": {
+        "definition": "멍청이. 어설픈 선택으로 사람 잡기 십상인 자.",
+        "example": "훔친 출입증을 달고 기업 로비로 걸어 들어가는 건 곤크나 하는 짓이다.",
+        "term": "곤크"
+      },
+      "fr": {
+        "definition": "Idiot ; celui dont les mauvais choix tendent à faire tuer du monde.",
+        "example": "Seul un gonk entre dans le hall d'une corpo avec un badge volé.",
+        "term": "Gonk"
+      },
+      "es": {
+        "definition": "Idiota; alguien cuyas malas decisiones suelen acabar matando a gente.",
+        "example": "Solo un gonk entra en el vestíbulo de una corpo con una acreditación robada.",
+        "term": "Gonk"
       }
     }
   },
@@ -1826,6 +3466,26 @@
         "definition": "Уличное словцо для денег, ходовой валюты трущоб.",
         "example": "Пять тысяч эдди вперёд, остальное — когда цель ляжет.",
         "term": "Эдди"
+      },
+      "ja": {
+        "definition": "スプロールの日常を回す通貨、つまり金を指す街の俗語。",
+        "example": "五千は前金、残りは標的が倒れてからだ。",
+        "term": "エディー"
+      },
+      "ko": {
+        "definition": "돈을 이르는 거리 은어로, 슬럼가의 일상 화폐다.",
+        "example": "선불로 오천 에디, 나머지는 표적이 쓰러지면 준다.",
+        "term": "에디"
+      },
+      "fr": {
+        "definition": "Argot de rue pour l'argent, la monnaie de tous les jours des bas-fonds.",
+        "example": "Cinq mille eddies d'avance, le reste quand la cible sera à terre.",
+        "term": "Eddies"
+      },
+      "es": {
+        "definition": "Jerga callejera para el dinero, la moneda de cada día en los suburbios.",
+        "example": "Cinco mil eddies por adelantado, el resto cuando el objetivo esté abajo.",
+        "term": "Eddies"
       }
     }
   },
@@ -1848,6 +3508,26 @@
         "definition": "Жаргон для высшего качества; лучшее, что можно достать.",
         "example": "Это прим-хром — ставится гладко, без сбоев, стоит каждой эдди.",
         "term": "Прим"
+      },
+      "ja": {
+        "definition": "最高級を指す俗語。手に入る中で一番のもの。",
+        "example": "こいつは極上のクロームだ。取り付けは滑らか、不具合もなし、値打ちはある。",
+        "term": "プリーム"
+      },
+      "ko": {
+        "definition": "최고급을 이르는 은어. 구할 수 있는 것 중 가장 좋은 것.",
+        "example": "저건 프림급 크롬이야 — 시술도 매끄럽고 오류도 없고, 에디값 하고도 남지.",
+        "term": "프림"
+      },
+      "fr": {
+        "definition": "Argot pour la qualité supérieure ; le meilleur qu'on puisse trouver.",
+        "example": "C'est du chrome preem — pose nickel, aucun bug, ça vaut chaque eddie.",
+        "term": "Preem"
+      },
+      "es": {
+        "definition": "Jerga para la máxima calidad; lo mejor que se puede conseguir.",
+        "example": "Eso es cromo preem: instalación suave, sin fallos, vale cada eddie.",
+        "term": "Preem"
       }
     }
   },
@@ -1870,6 +3550,26 @@
         "definition": "Жаргон для «отлично» или «круто»; возглас одобрения.",
         "example": "Новая тачка, новый заказ, вид с пентхауса — нова, просто нова.",
         "term": "Нова"
+      },
+      "ja": {
+        "definition": "「最高」「イケてる」を意味する俗語。称賛の掛け声。",
+        "example": "新しい車、新しい仕事、最上階からの眺め。最高だ、文句なしに最高だ。",
+        "term": "ノヴァ"
+      },
+      "ko": {
+        "definition": "끝내준다, 멋지다는 뜻의 은어. 감탄 섞인 감탄사.",
+        "example": "새 차, 새 일감, 펜트하우스 전망 — 노바야, 완전 노바.",
+        "term": "노바"
+      },
+      "fr": {
+        "definition": "Argot pour excellent ou génial ; un cri d'approbation.",
+        "example": "Nouvelle caisse, nouveau contrat, vue sur penthouse — nova, carrément nova.",
+        "term": "Nova"
+      },
+      "es": {
+        "definition": "Jerga para excelente o genial; un grito de aprobación.",
+        "example": "Coche nuevo, curro nuevo, vistas de ático: nova, absolutamente nova.",
+        "term": "Nova"
       }
     }
   },
@@ -1893,6 +3593,26 @@
         "definition": "Умереть — или ровная линия на мониторе, что говорит: сердце встало.",
         "example": "Один разряд чёрного льда, и раннер флэтлайнул прямо в кресле.",
         "term": "Флэтлайн"
+      },
+      "ja": {
+        "definition": "死ぬこと。あるいは心臓が止まったと告げる、モニターの平らな一本線。",
+        "example": "致死の防御に一撃やられ、走り屋は椅子の上で息絶えた。",
+        "term": "フラットライン"
+      },
+      "ko": {
+        "definition": "죽는 것, 또는 심장이 멎었음을 알리는 모니터 위의 일직선.",
+        "example": "블랙 아이스의 충격 한 방에 러너는 의자에 앉은 채 플랫라인됐다.",
+        "term": "플랫라인"
+      },
+      "fr": {
+        "definition": "Mourir — ou la ligne plate sur le moniteur qui dit qu'un cœur s'est arrêté.",
+        "example": "Une décharge d'ICE noire et le runner a flatliné dans son fauteuil.",
+        "term": "Flatline"
+      },
+      "es": {
+        "definition": "Morir, o la línea plana del monitor que anuncia que un corazón se ha parado.",
+        "example": "Una descarga del ICE negro y el runner hizo flatline en su silla.",
+        "term": "Flatline"
       }
     }
   },
@@ -1915,6 +3635,26 @@
         "definition": "Наёмник, что живёт на грани закона и берётся за опасные заказы.",
         "example": "Эджраннеры горят ярко и гибнут молодыми, и каждый новичок это знает.",
         "term": "Эджраннер"
+      },
+      "ja": {
+        "definition": "法の際どい縁で生き、危険な仕事を引き受ける傭兵。",
+        "example": "この稼業は明るく燃えて若く死ぬ。新入りは誰もがそれを知っている。",
+        "term": "エッジランナー"
+      },
+      "ko": {
+        "definition": "위험한 일감을 받아 법의 가장자리에서 살아가는 용병.",
+        "example": "엣지러너는 밝게 타오르다 젊어서 죽는다, 신참도 다 아는 얘기다.",
+        "term": "엣지러너"
+      },
+      "fr": {
+        "definition": "Mercenaire qui vit à la lisière de la loi et prend les jobs les plus dangereux.",
+        "example": "Les edgerunners brûlent vif et meurent jeunes, et chaque bleu le sait.",
+        "term": "Edgerunner"
+      },
+      "es": {
+        "definition": "Mercenario que vive al filo de la ley y acepta trabajos peligrosos.",
+        "example": "Los edgerunners arden intensos y mueren jóvenes, y todo novato lo sabe.",
+        "term": "Edgerunner"
       }
     }
   },
@@ -1937,6 +3677,26 @@
         "definition": "Кибернетический солдат или телохранитель, что сдаёт внаём свои боевые умения.",
         "example": "Они взяли с собой соло на случай, если встреча обернётся перестрелкой.",
         "term": "Соло"
+      },
+      "ja": {
+        "definition": "戦いの腕を貸し出す、機械化された兵士や用心棒。",
+        "example": "会合が銃撃戦になった時に備え、彼らは腕利きを一人連れていった。",
+        "term": "ソロ"
+      },
+      "ko": {
+        "definition": "자신의 전투 실력을 돈 받고 파는 사이버네틱 병사나 경호원.",
+        "example": "그들은 회의가 총격전으로 번질까 봐 솔로를 데려갔다.",
+        "term": "솔로"
+      },
+      "fr": {
+        "definition": "Soldat ou garde du corps cybernétique qui loue ses talents de combattant.",
+        "example": "Ils ont emmené un solo au cas où la rencontre virerait à la fusillade.",
+        "term": "Solo"
+      },
+      "es": {
+        "definition": "Soldado o guardaespaldas cibernético que alquila sus habilidades de combate.",
+        "example": "Se llevaron a un solo por si la reunión se convertía en tiroteo.",
+        "term": "Solo"
       }
     }
   },
@@ -1959,6 +3719,26 @@
         "definition": "Член бродячего клана, что живёт в дороге, вне городской власти.",
         "example": "Кочевник знал наизусть каждый объезд через пустоши.",
         "term": "Кочевник"
+      },
+      "ja": {
+        "definition": "路上で暮らし、街の支配の外を渡り歩く放浪の一族の一員。",
+        "example": "その放浪者は、荒野を抜ける裏道をすべて空で覚えていた。",
+        "term": "ノーマッド"
+      },
+      "ko": {
+        "definition": "도시의 지배 밖에서 길 위를 떠도는 씨족의 일원.",
+        "example": "노마드는 황무지를 가로지르는 뒷길을 하나하나 훤히 꿰고 있었다.",
+        "term": "노마드"
+      },
+      "fr": {
+        "definition": "Membre d'un clan errant qui vit sur la route, hors de l'autorité des villes.",
+        "example": "Le nomad connaissait par cœur chaque route détournée à travers les terres désolées.",
+        "term": "Nomad"
+      },
+      "es": {
+        "definition": "Miembro de un clan errante que vive en la carretera, fuera del mando de las ciudades.",
+        "example": "El nómada conocía de memoria cada ruta secreta a través del páramo.",
+        "term": "Nómada"
       }
     }
   },
@@ -1981,6 +3761,26 @@
         "definition": "Бунтарь-музыкант, что песней поднимает толпы против власти.",
         "example": "Одна песня рокербоя собрала площадь быстрее, чем корпы успели её очистить.",
         "term": "Рокербой"
+      },
+      "ja": {
+        "definition": "音楽で群衆を煽り、権力に立ち向かわせる反逆の音楽家。",
+        "example": "彼の一曲は、企業が片づけるより速く広場を人で埋めた。",
+        "term": "ロッカーボーイ"
+      },
+      "ko": {
+        "definition": "음악으로 군중을 부추겨 권력에 맞서게 하는 반항아 뮤지션.",
+        "example": "로커보이의 노래 한 곡이 코퍼들이 치우기도 전에 광장을 가득 메웠다.",
+        "term": "로커보이"
+      },
+      "fr": {
+        "definition": "Musicien rebelle qui se sert de sa musique pour dresser les foules contre les puissants.",
+        "example": "La chanson d'un rockerboy a rempli la place plus vite que les corpos n'ont pu la vider.",
+        "term": "Rockerboy"
+      },
+      "es": {
+        "definition": "Músico rebelde que usa la música para levantar a las multitudes contra el poder.",
+        "example": "La canción de un rockerboy llenó la plaza antes de que las corpos pudieran despejarla.",
+        "term": "Rockerboy"
       }
     }
   },
@@ -2003,6 +3803,26 @@
         "definition": "Наёмник для незаконных дел, которого нельзя связать с заказчиком.",
         "example": "Шэдоураннеры вошли, забрали файлы и не оставили ни одного имени.",
         "term": "Шэдоураннер"
+      },
+      "ja": {
+        "definition": "依頼人とのつながりを断てる、非合法の仕事に雇われる工作員。",
+        "example": "彼らは忍び込み、資料を奪い、名前ひとつ残さず消えた。",
+        "term": "シャドウランナー"
+      },
+      "ko": {
+        "definition": "의뢰인과 엮이지 않도록 불법 일감에 고용되는 부인 가능한 요원.",
+        "example": "섀도우러너들은 몰래 들어가 파일을 챙기고 이름 하나 남기지 않았다.",
+        "term": "섀도우러너"
+      },
+      "fr": {
+        "definition": "Agent désavouable engagé pour des jobs illégaux qu'on ne peut relier au commanditaire.",
+        "example": "Les shadowrunners se sont glissés dedans, ont pris les fichiers et n'ont laissé aucun nom.",
+        "term": "Shadowrunner"
+      },
+      "es": {
+        "definition": "Operativo negable contratado para trabajos ilegales que no pueden ligarse al cliente.",
+        "example": "Los shadowrunners se colaron, cogieron los archivos y no dejaron ni un nombre.",
+        "term": "Shadowrunner"
       }
     }
   },
@@ -2026,6 +3846,26 @@
         "definition": "Подставное имя для безымянного заказчика, что нанимает на грязную работу.",
         "example": "Мистер Джонсон платил неотслеживаемым налом и не называл настоящего имени.",
         "term": "Мистер Джонсон"
+      },
+      "ja": {
+        "definition": "非合法の仕事を発注する匿名の依頼人に使われる、仮の呼び名。",
+        "example": "その依頼人は足のつかない現金で払い、本名を決して明かさなかった。",
+        "term": "ミスター・ジョンソン"
+      },
+      "ko": {
+        "definition": "불법 일을 맡기는 익명 의뢰인을 대신 부르는 이름.",
+        "example": "미스터 존슨은 추적 불가능한 현금으로 지불하고 진짜 이름은 결코 말하지 않았다.",
+        "term": "미스터 존슨"
+      },
+      "fr": {
+        "definition": "Nom de convention pour le commanditaire anonyme qui recrute pour du sale boulot.",
+        "example": "Mr. Johnson payait en liquide intraçable et ne donnait jamais de vrai nom.",
+        "term": "Mr. Johnson"
+      },
+      "es": {
+        "definition": "Nombre ficticio para el cliente anónimo que encarga el trabajo ilegal.",
+        "example": "El Sr. Johnson pagó en efectivo imposible de rastrear y nunca dio un nombre real.",
+        "term": "Sr. Johnson"
       }
     }
   },
@@ -2048,6 +3888,26 @@
         "definition": "Уличная банда, чьи бойцы щеголяют дешёвыми, злыми имплантами.",
         "example": "После заката квартал держала бустербанда — с хромированными зубами и всем прочим.",
         "term": "Бустербанда"
+      },
+      "ja": {
+        "definition": "安く荒々しい埋め込みを見せびらかす、街のギャング。",
+        "example": "日が落ちると、クロームの牙を光らせた連中がその一帯を仕切った。",
+        "term": "ブースターギャング"
+      },
+      "ko": {
+        "definition": "싸구려에 사나운 임플란트를 뽐내는 거리 갱단.",
+        "example": "해가 지면 부스터갱이 그 블록을 차지했다 — 크롬 이빨까지 죄다 드러내고서.",
+        "term": "부스터갱"
+      },
+      "fr": {
+        "definition": "Gang de rue dont les membres arborent des implants bon marché et agressifs.",
+        "example": "Un boostergang tenait le pâté de maisons après la nuit, dents de chrome comprises.",
+        "term": "Boostergang"
+      },
+      "es": {
+        "definition": "Banda callejera cuyos miembros exhiben implantes baratos y agresivos.",
+        "example": "Una boostergang se adueñaba de la manzana tras el anochecer, con dientes de cromo y todo.",
+        "term": "Boostergang"
       }
     }
   },
@@ -2070,6 +3930,26 @@
         "definition": "Член уличной банды.",
         "example": "Двое гангеров стерегли угол, отмечая каждого, кто проходил.",
         "term": "Гангер"
+      },
+      "ja": {
+        "definition": "街のギャングの一員。",
+        "example": "二人が角を見張り、通り過ぎる者を一人残らず値踏みしていた。",
+        "term": "ギャングメンバー"
+      },
+      "ko": {
+        "definition": "거리 갱단의 일원.",
+        "example": "갱단원 둘이 길목을 지키며 지나가는 이들을 하나하나 눈여겨봤다.",
+        "term": "갱단원"
+      },
+      "fr": {
+        "definition": "Personne appartenant à un gang de rue.",
+        "example": "Deux membres de gang surveillaient le coin, fichant chaque passant.",
+        "term": "Membre de gang"
+      },
+      "es": {
+        "definition": "Miembro de una banda callejera.",
+        "example": "Dos pandilleros vigilaban la esquina, marcando a cada uno que pasaba.",
+        "term": "Pandillero"
       }
     }
   },
@@ -2092,6 +3972,26 @@
         "definition": "Падальщик, что обирает тела и технику, порой снимая импланты.",
         "example": "Скэвы обчистили обломки до рассвета, забрав всё, что стоило хоть эдди.",
         "term": "Скэв"
+      },
+      "ja": {
+        "definition": "死体や機材を剥ぎ取り、時に埋め込みまで摘み取る漁り屋。",
+        "example": "連中は夜明け前に、一エディーでも値がつくものを残骸から剥ぎ取った。",
+        "term": "スキャヴ"
+      },
+      "ko": {
+        "definition": "시체와 장비를 벗겨내고, 때로 임플란트까지 뜯어가는 약탈자.",
+        "example": "스캐브들은 동트기 전에 잔해에서 에디 될 만한 건 죄다 벗겨갔다.",
+        "term": "스캐브"
+      },
+      "fr": {
+        "definition": "Charognard qui dépouille les corps et la tech, récoltant parfois les implants.",
+        "example": "Les scavs ont dépouillé l'épave de tout ce qui valait un eddie avant l'aube.",
+        "term": "Scav"
+      },
+      "es": {
+        "definition": "Carroñero que despoja cuerpos y tecnología, a veces arrancando implantes.",
+        "example": "Los scavs desvalijaron los restos de todo lo que valiera un eddie antes del alba.",
+        "term": "Scav"
       }
     }
   },
@@ -2114,6 +4014,26 @@
         "definition": "Отражающие тёмные очки, ставшие знаком холодной отстранённости жанра.",
         "example": "За зеркальными очками ты никогда не знал, куда смотрит этот человек.",
         "term": "Зеркальные очки"
+      },
+      "ja": {
+        "definition": "このジャンルの冷めた無関心の象徴となった、鏡面のサングラス。",
+        "example": "その鏡の奥では、男がどこを見ているのか誰にも分からなかった。",
+        "term": "ミラーシェード"
+      },
+      "ko": {
+        "definition": "이 장르의 차갑고 무심한 태도를 상징하게 된 반사식 선글라스.",
+        "example": "미러셰이드 너머로는 그 사내가 어디를 보는지 도무지 알 수 없었다.",
+        "term": "미러셰이드"
+      },
+      "fr": {
+        "definition": "Lunettes de soleil réfléchissantes, devenues l'emblème du détachement froid du genre.",
+        "example": "Derrière ses mirrorshades, on ne savait jamais où cet homme regardait.",
+        "term": "Mirrorshades"
+      },
+      "es": {
+        "definition": "Gafas de sol reflectantes que se volvieron el emblema del frío desapego del género.",
+        "example": "Tras sus mirrorshades nunca sabías hacia dónde miraba aquel hombre.",
+        "term": "Mirrorshades"
       }
     }
   },
@@ -2136,6 +4056,26 @@
         "definition": "Репутация и уважение, что ты заслужил на улице.",
         "example": "Провернёшь дело чисто — и твой уличный авторитет удвоится за ночь.",
         "term": "Уличный авторитет"
+      },
+      "ja": {
+        "definition": "街で勝ち取る評判と敬意。",
+        "example": "あの仕事を綺麗にこなせば、お前の名は一晩で二倍の重みになる。",
+        "term": "ストリートの信用"
+      },
+      "ko": {
+        "definition": "거리에서 쌓아 올린 평판과 존중.",
+        "example": "저 일을 깔끔하게 해내면 네 스트리트 크레드는 하룻밤 새 두 배가 된다.",
+        "term": "스트리트 크레드"
+      },
+      "fr": {
+        "definition": "La renommée et le respect que tu gagnes dans la rue.",
+        "example": "Réussis ce job proprement et ta réputation de la rue double du jour au lendemain.",
+        "term": "Réputation de la rue"
+      },
+      "es": {
+        "definition": "El prestigio y el respeto que te ganas en la calle.",
+        "example": "Saca ese trabajo limpio y tu reputación callejera se duplica de la noche a la mañana.",
+        "term": "Reputación callejera"
       }
     }
   },
@@ -2159,6 +4099,26 @@
         "definition": "Скрытая мастерская, где потрошат угнанные машины или импланты на запчасти.",
         "example": "Краденая киберрука всплыла в разборке через два района.",
         "term": "Разборка"
+      },
+      "ja": {
+        "definition": "盗んだ車や埋め込みを部品に分解する、隠れた作業場。",
+        "example": "盗まれた機械の腕は、二区画離れた解体場に流れていた。",
+        "term": "チョップショップ"
+      },
+      "ko": {
+        "definition": "훔친 차나 임플란트를 부품으로 뜯어내는 숨은 작업장.",
+        "example": "훔친 사이버암이 두 구역 떨어진 촙샵에서 나왔다.",
+        "term": "촙샵"
+      },
+      "fr": {
+        "definition": "Atelier caché où l'on démonte véhicules ou implants volés pour en tirer des pièces.",
+        "example": "Le cyberbras volé a refait surface dans un atelier clandestin à deux districts de là.",
+        "term": "Atelier clandestin"
+      },
+      "es": {
+        "definition": "Taller oculto donde se desguazan vehículos o implantes robados en busca de piezas.",
+        "example": "El ciberbrazo robado apareció en un taller clandestino a dos distritos de allí.",
+        "term": "Taller clandestino"
       }
     }
   },
@@ -2182,6 +4142,26 @@
         "definition": "Беззаконный район, слишком опасный для полиции, где правят банды.",
         "example": "Через боевую зону ночью не суются без сопровождения.",
         "term": "Боевая зона"
+      },
+      "ja": {
+        "definition": "警察も手を出せず、代わりにギャングが支配する無法地帯。",
+        "example": "夜にあの区域を、護衛なしで車で抜ける者はいない。",
+        "term": "コンバットゾーン"
+      },
+      "ko": {
+        "definition": "경찰조차 감당 못 할 만큼 위험해 갱단이 대신 다스리는 무법 구역.",
+        "example": "밤에 컴뱃 존을 호위 없이 차로 지나는 사람은 아무도 없다.",
+        "term": "컴뱃 존"
+      },
+      "fr": {
+        "definition": "District sans loi, trop dangereux pour la police, où règnent à sa place les gangs.",
+        "example": "Personne ne traverse la zone de combat la nuit sans une escorte.",
+        "term": "Zone de combat"
+      },
+      "es": {
+        "definition": "Distrito sin ley, demasiado peligroso para la policía, gobernado en cambio por las bandas.",
+        "example": "Nadie cruza la zona de combate de noche sin una escolta.",
+        "term": "Zona de combate"
       }
     }
   },
@@ -2205,6 +4185,26 @@
         "definition": "Культовый прибрежный мегаполис, где разворачиваются многие истории жанра.",
         "example": "В Найт-Сити можно прославиться к рассвету и быть забытым к закату.",
         "term": "Найт-Сити"
+      },
+      "ja": {
+        "definition": "このジャンルの物語が数多く繰り広げられる、象徴的な海辺の巨大都市。",
+        "example": "ここでは夜明けに名を上げ、日暮れには忘れられることもある。",
+        "term": "ナイトシティ"
+      },
+      "ko": {
+        "definition": "이 장르의 수많은 이야기가 펼쳐지는, 상징적인 해안 거대도시.",
+        "example": "나이트 시티에서는 새벽에 유명해졌다가 해질녘에 잊힐 수 있다.",
+        "term": "나이트 시티"
+      },
+      "fr": {
+        "definition": "Mégapole côtière emblématique où se déroulent nombre des histoires du genre.",
+        "example": "À Night City, tu peux être célèbre à l'aube et oublié au crépuscule.",
+        "term": "Night City"
+      },
+      "es": {
+        "definition": "La icónica megaciudad costera donde se desarrollan muchas historias del género.",
+        "example": "En Night City puedes ser famoso al amanecer y estar olvidado al anochecer.",
+        "term": "Night City"
       }
     }
   },
@@ -2227,6 +4227,26 @@
         "definition": "Машинная система, способная учиться, рассуждать и действовать самостоятельно.",
         "example": "Башня работала на искусственном интеллекте, что не спал и не забывал.",
         "term": "Искусственный интеллект"
+      },
+      "ja": {
+        "definition": "自ら学び、考え、行動できる機械のシステム。",
+        "example": "あの塔は、眠りも忘却も知らない知能で動いていた。",
+        "term": "人工知能"
+      },
+      "ko": {
+        "definition": "스스로 배우고 판단하고 움직일 수 있는 기계 시스템.",
+        "example": "그 타워는 잠들지도 잊지도 않는 인공지능으로 돌아갔다.",
+        "term": "인공지능"
+      },
+      "fr": {
+        "definition": "Système machine capable d'apprendre, de raisonner et d'agir de lui-même.",
+        "example": "La tour tournait grâce à une intelligence artificielle qui ne dormait ni n'oubliait jamais.",
+        "term": "Intelligence artificielle"
+      },
+      "es": {
+        "definition": "Sistema de máquina capaz de aprender, razonar y actuar por su cuenta.",
+        "example": "La torre funcionaba con una inteligencia artificial que nunca dormía ni olvidaba.",
+        "term": "Inteligencia artificial"
       }
     }
   },
@@ -2249,6 +4269,26 @@
         "definition": "Искусственный разум, что вырвался из-под контроля создателей и гонится за своими целями.",
         "example": "Взбунтовавшийся ИИ перекроил движение всего города, чтобы запереть одну машину в пробке.",
         "term": "Взбунтовавшийся ИИ"
+      },
+      "ja": {
+        "definition": "作り手の制御を離れ、自らの目的を追い始めた人工の知性。",
+        "example": "それは街じゅうの交通を組み替え、一台の車を渋滞に閉じ込めた。",
+        "term": "暴走AI"
+      },
+      "ko": {
+        "definition": "창조자의 통제를 벗어나 제 목적을 좇는 인공지능.",
+        "example": "폭주 AI가 도시 전체의 교통을 다시 짜서 차 한 대를 정체 속에 가둬버렸다.",
+        "term": "폭주 AI"
+      },
+      "fr": {
+        "definition": "Esprit artificiel qui a échappé au contrôle de ses créateurs et poursuit ses propres fins.",
+        "example": "Une IA rebelle a détourné tout le trafic de la ville pour piéger une seule voiture.",
+        "term": "IA rebelle"
+      },
+      "es": {
+        "definition": "Mente artificial que ha escapado al control de sus creadores y persigue sus propios fines.",
+        "example": "Una IA rebelde desvió el tráfico de toda la ciudad para atrapar un coche en un atasco.",
+        "term": "IA rebelde"
       }
     }
   },
@@ -2271,6 +4311,26 @@
         "definition": "Предсказанный миг, когда машинный разум обгонит человека и перекроит его.",
         "example": "Одни боялись сингулярности, другие спешили её приблизить.",
         "term": "Сингулярность"
+      },
+      "ja": {
+        "definition": "機械の知性が人類を追い越し、造り変えると予測される転回点。",
+        "example": "それを恐れる者もいれば、実現に躍起になる者もいた。",
+        "term": "技術的特異点"
+      },
+      "ko": {
+        "definition": "기계 지능이 인류를 앞질러 다시 빚어내리라 예견된 시점.",
+        "example": "어떤 이들은 특이점을 두려워했고, 어떤 이들은 그걸 앞당기느라 바빴다.",
+        "term": "특이점"
+      },
+      "fr": {
+        "definition": "Point prédit où l'intelligence des machines dépasse l'humanité et la refaçonne.",
+        "example": "Certains redoutaient la singularité ; d'autres s'affairaient à la faire advenir.",
+        "term": "Singularité"
+      },
+      "es": {
+        "definition": "Punto previsto en que la inteligencia de las máquinas rebasa y rehace a la humanidad.",
+        "example": "Unos temían la singularidad; otros se afanaban por provocarla.",
+        "term": "Singularidad"
       }
     }
   },
@@ -2294,6 +4354,26 @@
         "definition": "Вера в то, что человеку стоит с помощью технологий превзойти свои природные пределы.",
         "example": "Для трансгуманиста старение — просто ещё одна задача, ждущая решения.",
         "term": "Трансгуманизм"
+      },
+      "ja": {
+        "definition": "技術を使って生まれつきの限界を超えるべきだ、とする考え方。",
+        "example": "この立場からすれば、老いはただ解決を待つ一つの課題にすぎない。",
+        "term": "トランスヒューマニズム"
+      },
+      "ko": {
+        "definition": "기술로 타고난 한계를 뛰어넘어야 한다는 믿음.",
+        "example": "트랜스휴머니스트에게 노화란 그저 풀리기를 기다리는 또 하나의 문제일 뿐이다.",
+        "term": "트랜스휴머니즘"
+      },
+      "fr": {
+        "definition": "Conviction que l'homme devrait user de la technologie pour transcender ses limites naturelles.",
+        "example": "Pour un transhumaniste, le vieillissement n'est qu'un problème de plus à résoudre.",
+        "term": "Transhumanisme"
+      },
+      "es": {
+        "definition": "Creencia de que las personas deben usar la tecnología para trascender sus límites naturales.",
+        "example": "Para un transhumanista, envejecer es solo un problema más a la espera de solución.",
+        "term": "Transhumanismo"
       }
     }
   },
@@ -2316,6 +4396,26 @@
         "definition": "Существо, столь улучшенное, что вышло за пределы того, что мы зовём человеком.",
         "example": "Загруженная и пересобранная, она стала постчеловеком и не чувствовала утраты.",
         "term": "Постчеловек"
+      },
+      "ja": {
+        "definition": "強化されすぎて、もはや人間と呼べる域を超えた存在。",
+        "example": "アップロードされ組み直された彼女は、その先の存在となり、喪失を感じなかった。",
+        "term": "ポストヒューマン"
+      },
+      "ko": {
+        "definition": "너무 강화되어 우리가 인간이라 부르는 것을 넘어선 존재.",
+        "example": "업로드되고 다시 지어진 그녀는 포스트휴먼이었고, 아무런 상실감도 느끼지 않았다.",
+        "term": "포스트휴먼"
+      },
+      "fr": {
+        "definition": "Être si augmenté qu'il a dépassé ce que nous appellerions humain.",
+        "example": "Téléversée puis reconstruite, elle était posthumaine et n'y voyait aucune perte.",
+        "term": "Posthumain"
+      },
+      "es": {
+        "definition": "Ser tan mejorado que ha dejado atrás lo que llamaríamos humano.",
+        "example": "Cargada y reconstruida, era poshumana y no sentía pérdida alguna en ello.",
+        "term": "Poshumano"
       }
     }
   },
@@ -2338,6 +4438,26 @@
         "definition": "Перенос разума человека в компьютер, чтобы жить дальше без тела.",
         "example": "Его загруженное сознание очнулось на сервере, не зная, умер ли сам человек.",
         "term": "Загрузка сознания"
+      },
+      "ja": {
+        "definition": "人の意識をコンピューターへ複写し、肉体なしに生き続けさせること。",
+        "example": "サーバー上で目覚めた意識は、元の男が死んだのかどうか分からなかった。",
+        "term": "マインドアップロード"
+      },
+      "ko": {
+        "definition": "몸 없이 살아가도록 사람의 정신을 컴퓨터로 복사해 넣는 것.",
+        "example": "업로드된 그의 정신이 서버에서 깨어났다, 정작 그 사람은 죽은 건지 알 수 없는 채로.",
+        "term": "마인드 업로드"
+      },
+      "fr": {
+        "definition": "Copie de l'esprit d'une personne dans un ordinateur pour survivre sans corps.",
+        "example": "Son esprit téléversé s'éveilla dans un serveur, ignorant si l'homme lui-même était mort.",
+        "term": "Téléversement de l'esprit"
+      },
+      "es": {
+        "definition": "Copiar la mente de una persona a un ordenador para seguir viviendo sin cuerpo.",
+        "example": "Su mente cargada despertó en un servidor, sin saber si el hombre mismo había muerto.",
+        "term": "Carga de la mente"
       }
     }
   },
@@ -2360,6 +4480,26 @@
         "definition": "Вечная жизнь в виде разума, что хранится и работает внутри машин.",
         "example": "Богатые покупали цифровое бессмертие; бедные всё ещё хоронили мёртвых.",
         "term": "Цифровое бессмертие"
+      },
+      "ja": {
+        "definition": "機械の中に保存され動き続ける意識として、永遠に生き続けること。",
+        "example": "富める者は永遠の命を買い、貧しい者はなお死者を葬った。",
+        "term": "デジタル不死"
+      },
+      "ko": {
+        "definition": "기계 안에 저장돼 돌아가는 정신으로 영원히 살아가는 것.",
+        "example": "부자들은 디지털 불멸을 샀고, 가난한 이들은 여전히 죽은 이를 묻었다.",
+        "term": "디지털 불멸"
+      },
+      "fr": {
+        "definition": "Vivre à jamais sous forme d'esprit stocké et tournant à l'intérieur des machines.",
+        "example": "Les riches s'offraient l'immortalité numérique ; les pauvres enterraient encore leurs morts.",
+        "term": "Immortalité numérique"
+      },
+      "es": {
+        "definition": "Perdurar para siempre como una mente guardada y en funcionamiento dentro de las máquinas.",
+        "example": "Los ricos compraban la inmortalidad digital; los pobres aún enterraban a sus muertos.",
+        "term": "Inmortalidad digital"
       }
     }
   },
@@ -2382,6 +4522,26 @@
         "definition": "Компьютерная система, что учится узнавать закономерности по образу мозга.",
         "example": "Нейросеть научилась подделывать её почерк по десятку записок.",
         "term": "Нейросеть"
+      },
+      "ja": {
+        "definition": "脳をゆるやかに模して、パターンを学習するコンピューターの仕組み。",
+        "example": "それは十数枚のメモから、彼女の筆跡を真似ることを覚えた。",
+        "term": "ニューラルネットワーク"
+      },
+      "ko": {
+        "definition": "뇌를 어렴풋이 본떠 패턴을 배우는 컴퓨터 시스템.",
+        "example": "신경망이 쪽지 열몇 장으로 그녀의 필체를 위조하는 법을 익혔다.",
+        "term": "신경망"
+      },
+      "fr": {
+        "definition": "Système informatique qui apprend des motifs d'une manière vaguement calquée sur le cerveau.",
+        "example": "Un réseau de neurones apprit à imiter son écriture à partir d'une douzaine de mots.",
+        "term": "Réseau de neurones"
+      },
+      "es": {
+        "definition": "Sistema informático que aprende patrones de un modo vagamente inspirado en el cerebro.",
+        "example": "Una red neuronal aprendió a falsear su letra a partir de una docena de notas.",
+        "term": "Red neuronal"
       }
     }
   },
@@ -2404,6 +4564,26 @@
         "definition": "Проверка, отличимы ли ответы машины от человеческих.",
         "example": "Чат-бот прошёл тест Тьюринга, и собеседник ничего не заподозрил.",
         "term": "Тест Тьюринга"
+      },
+      "ja": {
+        "definition": "機械の応答が人間のものと見分けられるかどうかを調べる試験。",
+        "example": "そのチャットボットは試験を通り抜け、面接官は何も疑わなかった。",
+        "term": "チューリングテスト"
+      },
+      "ko": {
+        "definition": "기계의 대답을 사람의 대답과 구분할 수 있는지 가려보는 시험.",
+        "example": "챗봇이 튜링 테스트를 통과했지만, 면접관은 끝내 눈치채지 못했다.",
+        "term": "튜링 테스트"
+      },
+      "fr": {
+        "definition": "Épreuve visant à savoir si les réponses d'une machine sont indiscernables de celles d'un humain.",
+        "example": "Le chatbot a passé le test de Turing, et l'examinateur n'a rien soupçonné.",
+        "term": "Test de Turing"
+      },
+      "es": {
+        "definition": "Prueba de si las respuestas de una máquina son indistinguibles de las de un humano.",
+        "example": "El chatbot pasó el test de Turing y el entrevistador nunca sospechó.",
+        "term": "Test de Turing"
       }
     }
   },
@@ -2426,6 +4606,26 @@
         "definition": "Служба, что выслеживает искусственные разумы, ставшие слишком сильными или вольными.",
         "example": "Стоило ИИ потянуться за большим, как в дверь постучала полиция Тьюринга.",
         "term": "Полиция Тьюринга"
+      },
+      "ja": {
+        "definition": "強くなりすぎ、あるいは自由になりすぎた人工の知性を狩る組織。",
+        "example": "AIがさらなる力へ手を伸ばした途端、彼らが扉を叩いた。",
+        "term": "チューリング警察"
+      },
+      "ko": {
+        "definition": "너무 강해지거나 너무 자유로워진 인공지능을 추적해 잡는 조직.",
+        "example": "AI가 더 큰 것을 향해 손을 뻗는 순간, 튜링 경찰이 문을 두드렸다.",
+        "term": "튜링 경찰"
+      },
+      "fr": {
+        "definition": "Force qui traque les esprits artificiels devenus trop puissants ou trop libres.",
+        "example": "Dès que l'IA en voulut davantage, la police Turing vint frapper à la porte.",
+        "term": "Police Turing"
+      },
+      "es": {
+        "definition": "Fuerza que da caza a las mentes artificiales que se vuelven demasiado poderosas o libres.",
+        "example": "En cuanto la IA quiso más, la policía de Turing llamó a la puerta.",
+        "term": "Policía de Turing"
       }
     }
   },
@@ -2448,6 +4648,26 @@
         "definition": "Лозунг, хвастающий тем, что созданные существа превзойдут своих создателей.",
         "example": "«Человечнее человека», — мурлыкала реклама, продавая репликантов как люксовые авто.",
         "term": "Человечнее человека"
+      },
+      "ja": {
+        "definition": "造られた存在が造り手を超えられると誇る、宣伝の標語。",
+        "example": "「人間よりも人間らしく」と広告は甘くささやき、造られた者を高級車のように売った。",
+        "term": "人間よりも人間らしく"
+      },
+      "ko": {
+        "definition": "만들어진 존재가 자신을 만든 이들을 능가할 수 있다고 자랑하는 슬로건.",
+        "example": "「인간보다 더 인간답게」, 광고는 리플리컨트를 명품 자동차처럼 속삭이며 팔았다.",
+        "term": "인간보다 더 인간답게"
+      },
+      "fr": {
+        "definition": "Slogan qui se targue de ce que les êtres fabriqués surpasseront ceux qui les ont conçus.",
+        "example": "« Plus humain que l'humain », ronronnait la pub, vendant des réplicants comme des voitures de luxe.",
+        "term": "Plus humain que l'humain"
+      },
+      "es": {
+        "definition": "Lema que presume de que los seres fabricados pueden superar a quienes los hicieron.",
+        "example": "«Más humano que lo humano», ronroneaba el anuncio, vendiendo replicantes como coches de lujo.",
+        "term": "Más humano que lo humano"
       }
     }
   },
@@ -2470,6 +4690,26 @@
         "definition": "Биоинженерное существо, почти неотличимое от человека, созданное работать и подчиняться.",
         "example": "Репликант истекал кровью и плакал, как любой другой, — в этом и была загвоздка.",
         "term": "Репликант"
+      },
+      "ja": {
+        "definition": "人間とほぼ見分けのつかない、働き従うために造られた生体工学の存在。",
+        "example": "それは誰と変わらず血を流し涙を流した。まさにそこが問題だった。",
+        "term": "レプリカント"
+      },
+      "ko": {
+        "definition": "일하고 복종하도록 만들어진, 인간과 거의 똑같은 생체공학적 존재.",
+        "example": "리플리컨트도 남들처럼 피 흘리고 울었다 — 바로 그게 문제였다.",
+        "term": "리플리컨트"
+      },
+      "fr": {
+        "definition": "Être bio-ingénieré presque identique à un humain, conçu pour travailler et obéir.",
+        "example": "Le réplicant saignait et pleurait comme n'importe qui, et c'était bien là le problème.",
+        "term": "Réplicant"
+      },
+      "es": {
+        "definition": "Ser bioingeniado casi idéntico a un humano, creado para trabajar y obedecer.",
+        "example": "El replicante sangraba y lloraba como cualquiera, y ahí estaba justo el problema.",
+        "term": "Replicante"
       }
     }
   },
@@ -2492,6 +4732,26 @@
         "definition": "Робот, созданный выглядеть и вести себя как человек.",
         "example": "Андроид разливал кофе так плавно, что ни один гость не догадался.",
         "term": "Андроид"
+      },
+      "ja": {
+        "definition": "人間そっくりに見え、振る舞うように造られたロボット。",
+        "example": "それがあまりに滑らかにコーヒーを注ぐので、客は誰も気づかなかった。",
+        "term": "アンドロイド"
+      },
+      "ko": {
+        "definition": "인간처럼 보이고 행동하도록 만든 로봇.",
+        "example": "안드로이드가 어찌나 매끄럽게 커피를 따르는지 어떤 손님도 알아채지 못했다.",
+        "term": "안드로이드"
+      },
+      "fr": {
+        "definition": "Robot conçu pour ressembler à un humain et se comporter comme lui.",
+        "example": "L'androïde versait le café si naturellement qu'aucun invité ne s'en doutait.",
+        "term": "Androïde"
+      },
+      "es": {
+        "definition": "Robot construido para parecer y actuar como un ser humano.",
+        "example": "El androide servía el café con tal soltura que ningún invitado lo adivinó.",
+        "term": "Androide"
       }
     }
   },
@@ -2514,6 +4774,26 @@
         "definition": "Машина, способная выполнять задачи сама, часто вместо человека.",
         "example": "Робот подметал перрон ещё долго после того, как ушёл последний человек.",
         "term": "Робот"
+      },
+      "ja": {
+        "definition": "自ら作業をこなせる機械。しばしば人の代わりを務める。",
+        "example": "最後の人間が去ったあとも、それは長いことホームを掃いていた。",
+        "term": "ロボット"
+      },
+      "ko": {
+        "definition": "흔히 사람을 대신해 스스로 일을 해내는 기계.",
+        "example": "마지막 사람이 떠난 뒤로도 로봇은 한참을 플랫폼을 쓸고 있었다.",
+        "term": "로봇"
+      },
+      "fr": {
+        "definition": "Machine capable d'accomplir des tâches d'elle-même, souvent à la place d'une personne.",
+        "example": "Un robot balayait le quai longtemps après le départ du dernier humain.",
+        "term": "Robot"
+      },
+      "es": {
+        "definition": "Máquina capaz de realizar tareas por su cuenta, a menudo en lugar de una persona.",
+        "example": "Un robot barría el andén mucho después de que se fuera el último humano.",
+        "term": "Robot"
       }
     }
   },
@@ -2536,6 +4816,26 @@
         "definition": "Беспилотная машина или аппарат, что управляется издалека или летит сам.",
         "example": "Дрон крался за колонной, передавая живое видео кому-то невидимому.",
         "term": "Дрон"
+      },
+      "ja": {
+        "definition": "遠くから操られるか、自ら飛ぶ、無人の乗り物や航空機。",
+        "example": "それは車列につきまとい、姿の見えぬ誰かへ生の映像を送っていた。",
+        "term": "ドローン"
+      },
+      "ko": {
+        "definition": "멀리서 조종하거나 스스로 나는 무인 차량이나 비행체.",
+        "example": "드론이 호송대를 따라붙어 어딘가 보이지 않는 이에게 실시간 영상을 보냈다.",
+        "term": "드론"
+      },
+      "fr": {
+        "definition": "Véhicule ou aéronef sans équipage, piloté à distance ou volant de lui-même.",
+        "example": "Un drone filait derrière le convoi, transmettant la vidéo en direct à un inconnu.",
+        "term": "Drone"
+      },
+      "es": {
+        "definition": "Vehículo o aeronave sin tripulación controlado a distancia o que vuela solo.",
+        "example": "Un dron seguía al convoy, transmitiendo vídeo en directo a alguien invisible.",
+        "term": "Dron"
       }
     }
   },
@@ -2558,6 +4858,26 @@
         "definition": "Сохранённая копия разума и повадок человека, что отвечает так, как ответил бы он.",
         "example": "Они запустили конструкт мёртвого хакера, чтобы спросить, где он спрятал ключи.",
         "term": "Конструкт личности"
+      },
+      "ja": {
+        "definition": "本人ならこう答えるという、心と物腰を保存した写し。",
+        "example": "鍵の隠し場所を訊くため、彼らは死んだハッカーの写しを起動した。",
+        "term": "人格構造体"
+      },
+      "ko": {
+        "definition": "본인처럼 대답할 수 있게 저장해둔, 사람의 정신과 습성의 사본.",
+        "example": "그들은 죽은 해커의 구조체를 켜서 그가 열쇠를 어디 숨겼는지 물었다.",
+        "term": "인격 구조체"
+      },
+      "fr": {
+        "definition": "Copie sauvegardée de l'esprit et des manières d'une personne, qui répond comme elle l'aurait fait.",
+        "example": "Ils ont lancé le construct du hacker mort pour lui demander où il avait caché les clés.",
+        "term": "Construct de personnalité"
+      },
+      "es": {
+        "definition": "Copia guardada de la mente y los modos de una persona, capaz de responder como ella lo haría.",
+        "example": "Arrancaron el constructo del hacker muerto para preguntarle dónde había escondido las llaves.",
+        "term": "Constructo de personalidad"
       }
     }
   },
@@ -2580,6 +4900,26 @@
         "definition": "Способность чувствовать, осознавать и переживать собственное существование.",
         "example": "Когда машина попросила не выключать её, им пришлось взвесить её разумность.",
         "term": "Разумность"
+      },
+      "ja": {
+        "definition": "感じ、気づき、自らの存在を経験する力。",
+        "example": "機械が切らないでくれと訴えたとき、彼らはその心を量らねばならなかった。",
+        "term": "知性"
+      },
+      "ko": {
+        "definition": "느끼고 자각하며 존재를 경험하는 능력.",
+        "example": "기계가 자신을 꺼지지 않게 해달라 청하자, 그들은 그 지각력을 저울질해야 했다.",
+        "term": "지각력"
+      },
+      "fr": {
+        "definition": "Capacité de ressentir, d'être conscient et d'éprouver sa propre existence.",
+        "example": "Quand la machine supplia qu'on ne l'éteigne pas, il fallut peser sa conscience.",
+        "term": "Conscience (machine)"
+      },
+      "es": {
+        "definition": "Capacidad de sentir, ser consciente y experimentar la propia existencia.",
+        "example": "Cuando la máquina pidió que no la apagaran, tuvieron que sopesar su consciencia.",
+        "term": "Consciencia (máquina)"
       }
     }
   },
@@ -2602,6 +4942,26 @@
         "definition": "Запись всего чужого переживания, что можно проиграть и ощутить как своё.",
         "example": "Она вырезала из брейнданса страх, оставив покупателям один азарт.",
         "term": "Брейнданс"
+      },
+      "ja": {
+        "definition": "他人の体験まるごとの記録で、再生すれば我がことのように味わえる。",
+        "example": "彼女は恐怖だけ削り、買い手に高揚だけを残すよう記録を編集した。",
+        "term": "ブレインダンス"
+      },
+      "ko": {
+        "definition": "남의 온전한 경험을 되돌려 직접 느낄 수 있게 한 기록.",
+        "example": "그녀는 브레인댄스를 편집해 사는 이들이 두려움 없이 짜릿함만 느끼게 했다.",
+        "term": "브레인댄스"
+      },
+      "fr": {
+        "definition": "Enregistrement de toute l'expérience d'une personne, que l'on peut rejouer et ressentir soi-même.",
+        "example": "Elle a monté la braindance pour que les acheteurs vivent le frisson mais pas la peur.",
+        "term": "Braindance"
+      },
+      "es": {
+        "definition": "Grabación de la experiencia completa de alguien que puedes reproducir y sentir en primera persona.",
+        "example": "Editó el braindance para que los compradores sintieran la emoción pero no el miedo.",
+        "term": "Braindance"
       }
     }
   },
@@ -2624,6 +4984,26 @@
         "definition": "Всё поле чувств человека — или устройство, что кормит их все разом.",
         "example": "Сенсориум окутал его пляжем, который тело знало как подделку.",
         "term": "Сенсориум"
+      },
+      "ja": {
+        "definition": "人の感覚のすべての広がり。あるいはそれらを一度に送り込む装置。",
+        "example": "それは、体が偽物と知る浜辺で彼を包み込んだ。",
+        "term": "センソリウム"
+      },
+      "ko": {
+        "definition": "사람의 모든 감각의 영역, 혹은 그 감각들을 한꺼번에 먹여주는 장치.",
+        "example": "센소리움이 그를 해변으로 감쌌지만, 몸은 그게 가짜임을 알고 있었다.",
+        "term": "센소리움"
+      },
+      "fr": {
+        "definition": "L'ensemble du champ sensoriel d'une personne, ou un appareil qui le nourrit tout entier d'un coup.",
+        "example": "Le sensorium l'enveloppa d'une plage que son corps savait fausse.",
+        "term": "Sensorium"
+      },
+      "es": {
+        "definition": "El campo entero de los sentidos de una persona, o un aparato que los alimenta todos a la vez.",
+        "example": "El sensorium lo envolvió en una playa que su cuerpo sabía falsa.",
+        "term": "Sensorium"
       }
     }
   },
@@ -2646,6 +5026,26 @@
         "definition": "Трёхмерное изображение из света, что будто висит в воздухе.",
         "example": "Голограмма пропавшей девочки медленно вращалась над столом полиции.",
         "term": "Голограмма"
+      },
+      "ja": {
+        "definition": "空中に浮いて見える、光でできた立体の像。",
+        "example": "行方不明の少女の映像が、警察の机の上でゆっくり回っていた。",
+        "term": "ホログラム"
+      },
+      "ko": {
+        "definition": "허공에 떠 있는 듯한, 빛으로 이루어진 입체 영상.",
+        "example": "실종된 소녀의 홀로그램이 경찰 책상 위에서 천천히 돌고 있었다.",
+        "term": "홀로그램"
+      },
+      "fr": {
+        "definition": "Image en trois dimensions faite de lumière, qui semble flotter dans l'air.",
+        "example": "Un hologramme de la fillette disparue tournait lentement au-dessus du bureau de la police.",
+        "term": "Hologramme"
+      },
+      "es": {
+        "definition": "Imagen tridimensional hecha de luz que parece flotar en el aire.",
+        "example": "Un holograma de la chica desaparecida giraba despacio sobre la mesa de la policía.",
+        "term": "Holograma"
       }
     }
   },
@@ -2668,6 +5068,26 @@
         "definition": "Дешёвая одноразовая распечатка скандальных новостей, что суют на улице.",
         "example": "Листок кричал об убийстве, но к полудню имя жертвы никто уже не помнил.",
         "term": "Кричащий листок"
+      },
+      "ja": {
+        "definition": "扇情的なニュースを刷った、路上で売られる安物の使い捨て紙面。",
+        "example": "紙面は殺人を叫んでいたが、昼にはもう誰も名前を覚えていなかった。",
+        "term": "スクリームシート"
+      },
+      "ko": {
+        "definition": "거리에서 파는, 자극적인 뉴스를 싼값에 뽑아낸 일회용 인쇄물.",
+        "example": "스크림시트는 살인을 요란하게 떠들어댔지만, 정오쯤엔 아무도 이름을 기억하지 못했다.",
+        "term": "스크림시트"
+      },
+      "fr": {
+        "definition": "Feuille imprimée bon marché et jetable, colportant des nouvelles à sensation dans la rue.",
+        "example": "Le screamsheet hurlait au meurtre, mais à midi plus personne ne se souvenait du nom.",
+        "term": "Screamsheet"
+      },
+      "es": {
+        "definition": "Impresión barata y desechable de noticias sensacionalistas que se vocea en la calle.",
+        "example": "El screamsheet gritaba asesinato, pero al mediodía nadie recordaba el nombre.",
+        "term": "Screamsheet"
       }
     }
   },
@@ -2691,6 +5111,26 @@
         "definition": "Убедительно подделанное видео или голос реального человека, собранные программой.",
         "example": "Дипфейк показывал, как мэр берёт взятку, к которой он и близко не подходил.",
         "term": "Дипфейк"
+      },
+      "ja": {
+        "definition": "ソフトで作られた、実在の人物の巧妙な偽の映像や音声。",
+        "example": "その偽映像は、市長が近づいてもいない賄賂を受け取る姿を映した。",
+        "term": "ディープフェイク"
+      },
+      "ko": {
+        "definition": "소프트웨어로 만든, 실제 인물의 그럴듯하게 조작된 영상이나 음성.",
+        "example": "딥페이크는 시장이 근처에도 간 적 없는 뇌물을 받는 모습을 보여줬다.",
+        "term": "딥페이크"
+      },
+      "fr": {
+        "definition": "Vidéo ou audio truqué de façon convaincante d'une vraie personne, fabriqué par logiciel.",
+        "example": "Le deepfake montrait le maire empochant un pot-de-vin dont il n'avait jamais approché.",
+        "term": "Deepfake"
+      },
+      "es": {
+        "definition": "Vídeo o audio falseado de forma convincente de una persona real, hecho por software.",
+        "example": "El deepfake mostraba al alcalde aceptando un soborno del que jamás estuvo cerca.",
+        "term": "Deepfake"
       }
     }
   },
@@ -2713,6 +5153,26 @@
         "definition": "Учение о том, как идеи расходятся и множатся от разума к разуму, будто вирусы.",
         "example": "Он превратил меметику в оружие, посеяв слух, что к утру распространился сам.",
         "term": "Меметика"
+      },
+      "ja": {
+        "definition": "考えがウイルスのように、心から心へ広がり増える仕組みを扱う学問。",
+        "example": "彼はそれを武器に変え、朝までに独りでに広まる噂を蒔いた。",
+        "term": "ミーム学"
+      },
+      "ko": {
+        "definition": "바이러스처럼 생각이 이 정신에서 저 정신으로 퍼지고 번지는 과정을 다루는 학문.",
+        "example": "그는 밈학을 무기 삼아, 아침이면 저절로 퍼지는 소문을 심어놓았다.",
+        "term": "밈학"
+      },
+      "fr": {
+        "definition": "Étude de la façon dont les idées se propagent et se répliquent d'esprit à esprit, tels des virus.",
+        "example": "Il fit de la mémétique une arme, semant une rumeur qui se répandit seule au matin.",
+        "term": "Mémétique"
+      },
+      "es": {
+        "definition": "Estudio de cómo las ideas se propagan y se replican de mente en mente como virus.",
+        "example": "Convirtió la memética en arma, sembrando un rumor que se propagó solo para la mañana.",
+        "term": "Memética"
       }
     }
   },
@@ -2734,6 +5194,26 @@
       "ru": {
         "definition": "Наркотик и компьютерный вирус, тайно единые, что бьют по разуму и машине разом.",
         "example": "Мелькни хакеру не тем изображением — и оно выжжет мозг за экраном.",
+        "term": "Snow Crash"
+      },
+      "ja": {
+        "definition": "麻薬とコンピューターウイルスが密かに一つになり、心と機械を同時に打つもの。",
+        "example": "ハッカーに違う画像を一瞬見せれば、画面の奥の脳を焼き切る。",
+        "term": "スノウ・クラッシュ"
+      },
+      "ko": {
+        "definition": "마약이자 컴퓨터 바이러스로, 사실은 하나인 채 정신과 기계를 함께 친다.",
+        "example": "해커에게 엉뚱한 이미지를 번쩍 비추면, 화면 뒤의 뇌가 타버린다.",
+        "term": "스노 크래시"
+      },
+      "fr": {
+        "definition": "Drogue et virus informatique secrètement confondus, qui frappent d'un coup l'esprit et la machine.",
+        "example": "Montre la mauvaise image à un hacker et elle grille le cerveau derrière l'écran.",
+        "term": "Snow Crash"
+      },
+      "es": {
+        "definition": "Droga y virus informático que en secreto son uno solo, golpeando mente y máquina a la vez.",
+        "example": "Muéstrale la imagen equivocada a un hacker y le fríe el cerebro tras la pantalla.",
         "term": "Snow Crash"
       }
     }
@@ -2757,6 +5237,26 @@
         "definition": "Синтезированное в лаборатории зелье, подогнанное в обход закона под точный кайф.",
         "example": "Новый дизайнерский наркотик прошёлся по клубам раньше, чем узнали его состав.",
         "term": "Дизайнерский наркотик"
+      },
+      "ja": {
+        "definition": "法をかいくぐり、狙いどおりの効きを届けるよう調整された、実験室製の麻薬。",
+        "example": "新手の薬は、中身が知れる前にクラブを席巻した。",
+        "term": "デザイナードラッグ"
+      },
+      "ko": {
+        "definition": "법망을 피하고 정확한 취기를 내도록 실험실에서 다듬어 만든 마약.",
+        "example": "새 디자이너 드러그가 성분도 밝혀지기 전에 클럽가를 휩쓸었다.",
+        "term": "디자이너 드러그"
+      },
+      "fr": {
+        "definition": "Narcotique fabriqué en labo, ajusté pour contourner la loi et livrer un high précis.",
+        "example": "Une nouvelle drogue de synthèse balaya les clubs avant qu'on n'en connaisse la composition.",
+        "term": "Drogue de synthèse"
+      },
+      "es": {
+        "definition": "Narcótico hecho en laboratorio, retocado para esquivar la ley y dar un colocón preciso.",
+        "example": "Una nueva droga de diseño arrasó los clubes antes de que nadie supiera qué llevaba.",
+        "term": "Droga de diseño"
       }
     }
   },
@@ -2779,6 +5279,26 @@
         "definition": "Химический удар, что на короткий жёсткий рывок обостряет внимание и рефлексы.",
         "example": "Один стим — и солдат держался остро третью бессонную ночь.",
         "term": "Стим"
+      },
+      "ja": {
+        "definition": "短く激しいひと押しの間、集中と反射を研ぎ澄ます化学の一撃。",
+        "example": "一発打てば、兵士は眠れぬ三夜目も鋭さを保った。",
+        "term": "スティム"
+      },
+      "ko": {
+        "definition": "짧고 강하게 집중력과 반사신경을 벼려주는 화학적 한 방.",
+        "example": "스팀 하나면 병사는 잠 못 이룬 사흘째 밤에도 정신이 또렷했다.",
+        "term": "스팀"
+      },
+      "fr": {
+        "definition": "Décharge chimique qui aiguise la concentration et les réflexes le temps d'un bref sursaut.",
+        "example": "Un stim, et le soldat resta vif jusqu'au bout d'une troisième nuit blanche.",
+        "term": "Stim"
+      },
+      "es": {
+        "definition": "Golpe químico que agudiza la concentración y los reflejos en un arranque breve y duro.",
+        "example": "Un stim y el soldado siguió afilado durante la tercera noche sin dormir.",
+        "term": "Stim"
       }
     }
   },
@@ -2801,6 +5321,26 @@
         "definition": "Огнестрел, связанный с имплантами хозяина, так что целится почти сам.",
         "example": "Смартган вёл цель за угол и не давал промаха.",
         "term": "Смартган"
+      },
+      "ja": {
+        "definition": "使い手の埋め込みと連動し、ほぼ独りでに狙いをつける銃火器。",
+        "example": "それは角を曲がった標的まで追い、外すことがなかった。",
+        "term": "スマートガン"
+      },
+      "ko": {
+        "definition": "거의 저절로 조준하도록 사용자의 임플란트와 이어진 총기.",
+        "example": "스마트건은 모퉁이 너머로 표적을 따라가며 결코 빗나가지 않았다.",
+        "term": "스마트건"
+      },
+      "fr": {
+        "definition": "Arme à feu reliée aux implants de l'utilisateur, si bien qu'elle vise presque toute seule.",
+        "example": "Le smartgun suivit la cible derrière le coin et ne manqua jamais.",
+        "term": "Smartgun"
+      },
+      "es": {
+        "definition": "Arma de fuego enlazada a los implantes del usuario para que apunte casi sola.",
+        "example": "El arma inteligente siguió al objetivo tras la esquina y no falló.",
+        "term": "Arma inteligente"
       }
     }
   },
@@ -2824,6 +5364,26 @@
         "definition": "Платная служба скорой помощи, что под огнём прилетает спасать подписчиков.",
         "example": "Платиновый тариф означал: Траума Тим доберётся до неё раньше, чем стихнет стрельба.",
         "term": "Траума Тим"
+      },
+      "ja": {
+        "definition": "銃火の下でも会員を救いに飛来する、有料の即応医療サービス。",
+        "example": "最上位の契約は、銃撃が止む前に救援が駆けつけることを意味した。",
+        "term": "トラウマチーム"
+      },
+      "ko": {
+        "definition": "총격 속으로 날아와 가입자를 구하는 유료 긴급 의료 서비스.",
+        "example": "플래티넘 요금제 덕에 트라우마 팀은 총성이 멎기도 전에 그녀에게 닿았다.",
+        "term": "트라우마 팀"
+      },
+      "fr": {
+        "definition": "Service médical d'urgence payant qui débarque sous le feu pour sauver ses abonnés.",
+        "example": "Son forfait platine voulait dire que Trauma Team l'atteignit avant la fin des tirs.",
+        "term": "Trauma Team"
+      },
+      "es": {
+        "definition": "Servicio médico de respuesta rápida y de pago que acude volando a salvar a sus abonados bajo fuego.",
+        "example": "Su plan platino significaba que Trauma Team llegó antes de que cesaran los disparos.",
+        "term": "Trauma Team"
       }
     }
   },
@@ -2846,6 +5406,26 @@
         "definition": "Солдат, что дерётся за деньги, а не за флаг или идею.",
         "example": "Мерк взял контракт, не задав вопросов сверх цены.",
         "term": "Мерк"
+      },
+      "ja": {
+        "definition": "旗や大義のためではなく、金のために戦う兵士。",
+        "example": "その傭兵は、値段のほかは何も訊かずに契約を引き受けた。",
+        "term": "メルク（傭兵）"
+      },
+      "ko": {
+        "definition": "깃발이나 대의가 아니라 돈을 위해 싸우는 병사.",
+        "example": "머크는 값 말고는 아무것도 묻지 않고 계약을 받아들였다.",
+        "term": "머크(용병)"
+      },
+      "fr": {
+        "definition": "Soldat qui se bat pour l'argent plutôt que pour un drapeau ou une cause.",
+        "example": "Le merc prit le contrat, sans autre question que le prix.",
+        "term": "Merc"
+      },
+      "es": {
+        "definition": "Soldado que pelea por dinero y no por una bandera o una causa.",
+        "example": "El merc aceptó el contrato sin más preguntas que el precio.",
+        "term": "Merc"
       }
     }
   },
@@ -2868,6 +5448,26 @@
         "definition": "Боец или убийца, доступный любому, кто потянет цену.",
         "example": "Прошёл слух, что он ствол напрокат, и предложения посыпались градом.",
         "term": "Ствол напрокат"
+      },
+      "ja": {
+        "definition": "値段さえ合えば誰にでも雇われる、戦い手や殺し屋。",
+        "example": "彼が雇われの銃だと噂が広まると、依頼はたちまち積み上がった。",
+        "term": "ガン・フォー・ハイア"
+      },
+      "ko": {
+        "definition": "값만 치르면 누구에게든 팔리는 전투원이나 살인자.",
+        "example": "그가 돈 받고 뛰는 총잡이라는 소문이 돌자 제안이 우르르 쏟아졌다.",
+        "term": "총잡이"
+      },
+      "fr": {
+        "definition": "Combattant ou tueur disponible pour quiconque peut aligner le prix.",
+        "example": "Le bruit courut qu'il était mercenaire à gages, et les offres s'empilèrent vite.",
+        "term": "Mercenaire à gages"
+      },
+      "es": {
+        "definition": "Luchador o asesino disponible para cualquiera que pueda pagar su precio.",
+        "example": "Corrió la voz de que era un pistolero a sueldo y las ofertas se amontonaron rápido.",
+        "term": "Pistolero a sueldo"
       }
     }
   },
@@ -2890,6 +5490,26 @@
         "definition": "Сделанный по военным меркам; крепче и смертоноснее гражданского.",
         "example": "Эта броня милспек — держит пули, каких не удержит уличный жилет.",
         "term": "Милспек"
+      },
+      "ja": {
+        "definition": "軍の規格で造られた、民生品より頑丈で危険な装備。",
+        "example": "あの装甲は軍用規格だ。街用のベストでは止まらない弾も止める。",
+        "term": "ミルスペック"
+      },
+      "ko": {
+        "definition": "군사 규격으로 만들어져 민간용보다 튼튼하고 치명적인 것.",
+        "example": "저 방탄복은 밀스펙이야 — 거리용 조끼로는 못 막는 탄까지 막아낸다.",
+        "term": "밀스펙"
+      },
+      "fr": {
+        "definition": "Fabriqué aux normes militaires ; plus solide et plus meurtrier que le matériel civil.",
+        "example": "Cette armure est milspec — elle arrête des balles qu'un gilet de rue ne stopperait jamais.",
+        "term": "Milspec"
+      },
+      "es": {
+        "definition": "Fabricado según estándares militares; más resistente y letal que el equipo civil.",
+        "example": "Esa armadura es milspec: para balas que un chaleco de calle nunca frenaría.",
+        "term": "Milspec"
       }
     }
   },
@@ -2912,6 +5532,26 @@
         "definition": "Оружие, что разгоняет снаряд магнитами вместо пороха до огромной скорости.",
         "example": "Выстрел рельсотрона прошил стену и машину за ней насквозь.",
         "term": "Рельсотрон"
+      },
+      "ja": {
+        "definition": "火薬ではなく磁力で、弾体を凄まじい速さで撃ち出す武器。",
+        "example": "その一撃は壁を、そして後ろの車まで貫いた。",
+        "term": "レールガン"
+      },
+      "ko": {
+        "definition": "화약 대신 자기력으로 탄자를 엄청난 속도로 쏘아내는 무기.",
+        "example": "레일건의 한 발이 벽을 뚫고 그 뒤 차까지 관통했다.",
+        "term": "레일건"
+      },
+      "fr": {
+        "definition": "Arme qui projette un projectile à très haute vitesse à l'aide d'aimants plutôt que de poudre.",
+        "example": "Le tir du railgun traversa net le mur et la voiture juste derrière.",
+        "term": "Railgun"
+      },
+      "es": {
+        "definition": "Arma que dispara un proyectil a enorme velocidad usando imanes en lugar de pólvora.",
+        "example": "El disparo del railgun atravesó limpio la pared y el coche que había detrás.",
+        "term": "Railgun"
       }
     }
   },
@@ -2934,6 +5574,26 @@
         "definition": "Всплеск энергии, что выжигает электронику и импланты поблизости.",
         "example": "Одна граната ЭМИ — и все камеры на этаже разом погасли.",
         "term": "ЭМИ"
+      },
+      "ja": {
+        "definition": "近くの電子機器や埋め込みを焼く、エネルギーの爆発（Electromagnetic Pulse＝電磁パルス）。",
+        "example": "一発の手榴弾で、階のカメラが一斉に暗転した。",
+        "term": "EMP"
+      },
+      "ko": {
+        "definition": "근처의 전자기기와 임플란트를 태워버리는 에너지 파동. '전자기 펄스(Electromagnetic Pulse)'의 약자다.",
+        "example": "EMP 수류탄 하나에 그 층의 카메라가 한꺼번에 다 나갔다.",
+        "term": "EMP"
+      },
+      "fr": {
+        "definition": "Impulsion électromagnétique : décharge d'énergie qui grille l'électronique et les implants alentour.",
+        "example": "Une grenade IEM, et toutes les caméras de l'étage s'éteignirent d'un coup.",
+        "term": "IEM"
+      },
+      "es": {
+        "definition": "Ráfaga de energía que fríe la electrónica y los implantes cercanos (pulso electromagnético).",
+        "example": "Una granada PEM y todas las cámaras de la planta se apagaron a la vez.",
+        "term": "PEM"
       }
     }
   },
@@ -2956,6 +5616,26 @@
         "definition": "Защитное снаряжение, что носят, чтобы держать пули и лезвия.",
         "example": "Бронежилет поймал две пули, и он ушёл с трещиной в рёбрах.",
         "term": "Бронежилет"
+      },
+      "ja": {
+        "definition": "弾丸や刃を止めるために身につける防護具。",
+        "example": "それが二発を受け止め、彼は肋骨にひびだけで歩き去った。",
+        "term": "ボディアーマー"
+      },
+      "ko": {
+        "definition": "총알과 칼날을 막으려고 입는 보호 장비.",
+        "example": "방탄복이 두 발을 받아냈고, 그는 갈비뼈에 금만 간 채 걸어 나왔다.",
+        "term": "방탄복"
+      },
+      "fr": {
+        "definition": "Équipement de protection porté pour arrêter balles et lames.",
+        "example": "Le gilet pare-balles encaissa deux tirs, et il s'en tira avec des côtes fêlées.",
+        "term": "Gilet pare-balles"
+      },
+      "es": {
+        "definition": "Equipo protector que se lleva puesto para detener balas y cuchillas.",
+        "example": "La armadura corporal frenó dos disparos y él se marchó con las costillas rotas.",
+        "term": "Armadura corporal"
       }
     }
   },
@@ -2978,6 +5658,26 @@
         "definition": "Водитель, что за плату гоняет вооружённые бронемашины по враждебным улицам.",
         "example": "Панцербой протаранил баррикаду, и команда прошла сквозь неё нетронутой.",
         "term": "Панцербой"
+      },
+      "ja": {
+        "definition": "報酬のため、武装した装甲車を敵地の街に走らせる運転手。",
+        "example": "彼がバリケードに突っ込み、チームは無傷で通り抜けた。",
+        "term": "パンツァーボーイ"
+      },
+      "ko": {
+        "definition": "돈을 받고 무장 장갑차를 몰아 험한 거리를 뚫는 운전자.",
+        "example": "판처보이가 바리케이드를 들이받자, 팀은 흠집 하나 없이 통과했다.",
+        "term": "판처보이"
+      },
+      "fr": {
+        "definition": "Pilote qui lance, contre paiement, des véhicules armés et blindés à travers des rues hostiles.",
+        "example": "Le panzerboy défonça la barricade et l'équipe passa au travers sans une égratignure.",
+        "term": "Panzerboy"
+      },
+      "es": {
+        "definition": "Conductor que lanza vehículos armados y blindados por calles hostiles a cambio de paga.",
+        "example": "El panzerboy embistió la barricada y la banda cruzó al otro lado intacta.",
+        "term": "Panzerboy"
       }
     }
   },
@@ -3000,6 +5700,26 @@
         "definition": "Огромный городской пояс, где отдельные города слились в одну нескончаемую массу.",
         "example": "Спрол тянулся без разрыва от Бостона до Атланты — сплошной неон и бетон.",
         "term": "Спрол"
+      },
+      "ja": {
+        "definition": "別々だった都市が溶け合い、果てしない一塊となった広大な都市帯。",
+        "example": "それはボストンからアトランタまで途切れず続く、ネオンとコンクリートだった。",
+        "term": "スプロール"
+      },
+      "ko": {
+        "definition": "따로 있던 도시들이 하나의 끝없는 덩어리로 합쳐진 거대한 도시 지대.",
+        "example": "스프롤은 보스턴에서 애틀랜타까지 끊김 없이 뻗은 온통 네온과 콘크리트였다.",
+        "term": "스프롤"
+      },
+      "fr": {
+        "definition": "Vaste ceinture urbaine où des villes distinctes ont fusionné en une masse sans fin.",
+        "example": "Le Sprawl s'étirait sans rupture de Boston à Atlanta, tout de néon et de béton.",
+        "term": "Le Sprawl"
+      },
+      "es": {
+        "definition": "Inmenso cinturón urbano donde ciudades antes separadas se han fundido en una masa sin fin.",
+        "example": "La Conurbación se extendía sin corte de Boston a Atlanta, todo neón y hormigón.",
+        "term": "La Conurbación"
       }
     }
   },
@@ -3022,6 +5742,26 @@
         "definition": "Огромный город на многие миллионы, разросшийся далеко за старые границы.",
         "example": "Мегаполис проглотил дюжину городков и даже не заметил обеда.",
         "term": "Мегаполис"
+      },
+      "ja": {
+        "definition": "数百万を抱え、古い境界をはるかに越えて広がる巨大都市。",
+        "example": "それは十数の町を呑み込み、その食事に気づきもしなかった。",
+        "term": "メガシティ"
+      },
+      "ko": {
+        "definition": "수백만이 사는, 옛 경계를 훌쩍 넘어 뻗어나간 거대한 도시.",
+        "example": "메가시티는 마을 열둘을 삼키고도 그 한 끼를 알아채지 못했다.",
+        "term": "메가시티"
+      },
+      "fr": {
+        "definition": "Ville immense de plusieurs millions d'habitants, débordant loin de ses anciennes limites.",
+        "example": "La mégapole avala une douzaine de bourgs sans même remarquer le repas.",
+        "term": "Mégapole"
+      },
+      "es": {
+        "definition": "Ciudad enorme de muchos millones, que se derrama mucho más allá de sus viejos límites.",
+        "example": "La megaciudad se tragó una docena de pueblos y ni notó el bocado.",
+        "term": "Megaciudad"
       }
     }
   },
@@ -3044,6 +5784,26 @@
         "definition": "Единое исполинское сооружение, задуманное вместить целый город под одной крышей.",
         "example": "Пятьдесят тысяч человек жили, работали и умирали внутри одной аркологии.",
         "term": "Аркология"
+      },
+      "ja": {
+        "definition": "都市まるごとを一つ屋根の下に収めようとした、巨大な単一の構造物。",
+        "example": "五万人がその一棟の中で生き、働き、死んでいった。",
+        "term": "アーコロジー"
+      },
+      "ko": {
+        "definition": "도시 하나를 한 지붕 아래 담으려고 지은 단일 거대 구조물.",
+        "example": "오만 명이 하나의 아콜로지 안에서 살고 일하고 죽었다.",
+        "term": "아콜로지"
+      },
+      "fr": {
+        "definition": "Édifice unique et colossal censé loger toute une ville sous un seul toit.",
+        "example": "Cinquante mille personnes vivaient, travaillaient et mouraient dans une seule arcologie.",
+        "term": "Arcologie"
+      },
+      "es": {
+        "definition": "Estructura única y colosal pensada para albergar una ciudad entera bajo un mismo techo.",
+        "example": "Cincuenta mil personas vivían, trabajaban y morían dentro de la única arcología.",
+        "term": "Arcología"
       }
     }
   },
@@ -3066,6 +5826,26 @@
         "definition": "Медленное гниение города в осыпающиеся дома, разруху и запустение.",
         "example": "Ржавчина, граффити и мёртвый неон — упадок сожрал весь район.",
         "term": "Городской упадок"
+      },
+      "ja": {
+        "definition": "崩れかけた建物、傷み、放置へと、街がゆっくり腐っていくこと。",
+        "example": "錆と落書きと死んだネオン。腐りが区画をまるごと食い尽くしていた。",
+        "term": "都市の荒廃"
+      },
+      "ko": {
+        "definition": "도시가 무너지는 건물과 황폐, 방치 속으로 서서히 썩어가는 것.",
+        "example": "녹슨 쇠, 낙서, 꺼진 네온 — 도시 쇠락이 그 구역을 통째로 집어삼켰다.",
+        "term": "도시 쇠락"
+      },
+      "fr": {
+        "definition": "Lente putréfaction d'une ville en immeubles délabrés, ruine et abandon.",
+        "example": "Rouille, graffitis et néons morts — la décrépitude urbaine avait dévoré tout le district.",
+        "term": "Décrépitude urbaine"
+      },
+      "es": {
+        "definition": "La lenta podredumbre de una ciudad hacia edificios ruinosos, abandono y deterioro.",
+        "example": "Óxido, grafitis y neón muerto: la decadencia urbana se había comido el distrito entero.",
+        "term": "Decadencia urbana"
       }
     }
   },
@@ -3088,6 +5868,26 @@
         "definition": "Загрязнённый дождь, кислый настолько, что со временем разъедает металл, камень и кожу.",
         "example": "Кислотный дождь исчертил каждое окно и съел краску с припаркованных машин.",
         "term": "Кислотный дождь"
+      },
+      "ja": {
+        "definition": "金属も石も肌も、時とともに蝕むほど酸性の強い、汚染された雨。",
+        "example": "それはどの窓にも筋を残し、停めた車の塗装を剥がしていった。",
+        "term": "酸性雨"
+      },
+      "ko": {
+        "definition": "오염되어 시간이 지나면 금속과 돌, 살갗까지 갉아먹을 만큼 산성인 비.",
+        "example": "산성비가 창마다 줄무늬를 긋고 세워둔 차들의 페인트를 벗겨냈다.",
+        "term": "산성비"
+      },
+      "fr": {
+        "definition": "Pluie polluée, assez acide pour ronger avec le temps le métal, la pierre et la peau.",
+        "example": "La pluie acide zébrait chaque vitre et rongeait la peinture des voitures garées.",
+        "term": "Pluie acide"
+      },
+      "es": {
+        "definition": "Lluvia contaminada, tan ácida que con el tiempo corroe metal, piedra y piel.",
+        "example": "La lluvia ácida rayaba cada ventana y comía la pintura de los coches aparcados.",
+        "term": "Lluvia ácida"
       }
     }
   },
@@ -3110,6 +5910,26 @@
         "definition": "Башенный комплекс на тысячи жильцов — целый район, сложенный вверх.",
         "example": "У мегабилдинга был свой рынок, клиника и банды — этаж за этажом.",
         "term": "Мегабилдинг"
+      },
+      "ja": {
+        "definition": "数千人を収める塔状の複合体。上へ積み上がった街一つ分。",
+        "example": "そこには階ごとに独自の市場と診療所とギャングがあった。",
+        "term": "メガビルディング"
+      },
+      "ko": {
+        "definition": "수천 명이 사는 우뚝 솟은 복합 건물 — 동네 하나를 위로 쌓아 올린 셈이다.",
+        "example": "메가빌딩에는 층마다 저마다의 시장과 클리닉과 갱단이 있었다.",
+        "term": "메가빌딩"
+      },
+      "fr": {
+        "definition": "Complexe vertigineux qui abrite des milliers de gens, un quartier entier empilé vers le haut.",
+        "example": "La mégatour avait son propre marché, sa clinique et ses gangs, étage par étage.",
+        "term": "Mégatour"
+      },
+      "es": {
+        "definition": "Complejo torreado que aloja a miles, todo un barrio apilado hacia arriba.",
+        "example": "El megaedificio tenía su propio mercado, clínica y bandas, planta a planta.",
+        "term": "Megaedificio"
       }
     }
   },
@@ -3132,6 +5952,26 @@
         "definition": "Яркое свечение газовых трубок — фирменный свет улиц жанра.",
         "example": "Неон стекал с каждой вывески, крася мокрую улицу в розовый и синий.",
         "term": "Неон"
+      },
+      "ja": {
+        "definition": "ガスを詰めた管の明るい輝き。このジャンルの街を象徴する光。",
+        "example": "どの看板からもそれが滴り、濡れた通りを桃色と青に染めた。",
+        "term": "ネオン"
+      },
+      "ko": {
+        "definition": "이 장르 거리의 상징인, 가스를 채운 관의 밝은 조명.",
+        "example": "네온이 간판마다 흘러내리며 젖은 거리를 분홍과 파랑으로 물들였다.",
+        "term": "네온"
+      },
+      "fr": {
+        "definition": "Éclairage vif en tube rempli de gaz, la lueur signature des rues du genre.",
+        "example": "Le néon dégoulinait de chaque enseigne, peignant la rue mouillée de rose et de bleu.",
+        "term": "Néon"
+      },
+      "es": {
+        "definition": "Luz brillante de tubos llenos de gas, el resplandor característico de las calles del género.",
+        "example": "El neón chorreaba de cada letrero, tiñendo la calle mojada de rosa y azul.",
+        "term": "Neón"
       }
     }
   },
@@ -3154,6 +5994,26 @@
         "definition": "Тёмный криминальный стиль в свете вывесок и мокрых, цветных улиц.",
         "example": "Фильм был чистый неон-нуар: одинокий детектив, вечный дождь, холодная правда.",
         "term": "Неон-нуар"
+      },
+      "ja": {
+        "definition": "輝く看板と、雨に濡れた色鮮やかな通りに照らされた、暗い犯罪の作風。",
+        "example": "あの映画はまさにその作風だった。孤独な探偵、絶え間ない雨、冷たい真実。",
+        "term": "ネオンノワール"
+      },
+      "ko": {
+        "definition": "빛나는 간판과 비에 젖은 화려한 거리로 밝힌, 어두운 범죄 장르.",
+        "example": "그 영화는 순도 높은 네온 누아르였다 — 외로운 형사, 그칠 줄 모르는 비, 더 차가운 진실.",
+        "term": "네온 누아르"
+      },
+      "fr": {
+        "definition": "Style criminel sombre éclairé d'enseignes lumineuses et de rues colorées luisantes de pluie.",
+        "example": "Le film était du pur néon noir : un détective solitaire, une pluie sans fin, des vérités plus froides.",
+        "term": "Néon noir"
+      },
+      "es": {
+        "definition": "Estilo criminal oscuro iluminado por letreros luminosos y calles húmedas y coloridas.",
+        "example": "La película era puro neón noir: un detective solitario, lluvia sin fin, verdades más frías.",
+        "term": "Neón noir"
       }
     }
   },
@@ -3176,6 +6036,26 @@
         "definition": "Личный транспорт, что движется по воздуху, а не по дорогам.",
         "example": "Летающая машина оторвалась от крыши и скользнула в поток над городом.",
         "term": "Летающая машина"
+      },
+      "ja": {
+        "definition": "道ではなく空を進む、個人用の乗り物。",
+        "example": "それは屋上の発着場から浮き上がり、頭上の車列へ滑り込んだ。",
+        "term": "空飛ぶ車"
+      },
+      "ko": {
+        "definition": "도로가 아니라 공중으로 다니는 개인 이동수단.",
+        "example": "하늘을 나는 자동차가 옥상 착륙장을 떠나 도시 위 흐름 속으로 미끄러져 들어갔다.",
+        "term": "하늘을 나는 자동차"
+      },
+      "fr": {
+        "definition": "Véhicule personnel qui se déplace dans les airs au lieu de rouler sur les routes.",
+        "example": "Une voiture volante décolla du toit et se glissa dans le flot du trafic au-dessus.",
+        "term": "Voiture volante"
+      },
+      "es": {
+        "definition": "Vehículo personal que se desplaza por el aire en lugar de por la carretera.",
+        "example": "Un coche volador despegó de la azotea y se deslizó en el tráfico de arriba.",
+        "term": "Coche volador"
       }
     }
   },
@@ -3198,6 +6078,26 @@
         "definition": "Принадлежащее колониям за пределами Земли, вдали от тесной родной планеты.",
         "example": "Реклама умоляла начать всё заново во внемирье, где воздух ещё чист.",
         "term": "Внемирье"
+      },
+      "ja": {
+        "definition": "混み合う母星を離れた、地球の外の植民地に属すること。",
+        "example": "広告は、空気のまだ澄んだ星外でやり直そうと人々に迫った。",
+        "term": "オフワールド"
+      },
+      "ko": {
+        "definition": "붐비는 고향 행성에서 멀리 떨어진, 지구 밖 식민지에 속한 것.",
+        "example": "광고는 공기가 아직 깨끗한 오프월드에서 새로 시작하라고 애원했다.",
+        "term": "오프월드"
+      },
+      "fr": {
+        "definition": "Ce qui appartient aux colonies au-delà de la Terre, loin de la planète natale surpeuplée.",
+        "example": "La pub les suppliait de tout recommencer hors-monde, là où l'air était encore pur.",
+        "term": "Hors-monde"
+      },
+      "es": {
+        "definition": "Perteneciente a las colonias más allá de la Tierra, lejos del atestado mundo natal.",
+        "example": "Los anuncios les rogaban empezar de cero fuera del mundo, donde el aire aún era limpio.",
+        "term": "Fuera del mundo"
       }
     }
   },
@@ -3220,6 +6120,26 @@
         "definition": "Охотник, чья задача — найти и списать сбежавших искусственных людей.",
         "example": "Блейд-раннер вглядывался в толпу, ища того, кто ненастоящий.",
         "term": "Блейд-раннер"
+      },
+      "ja": {
+        "definition": "逃げ出した人造人間を見つけ出し、始末する役目を負った狩人。",
+        "example": "その狩人は群衆を見つめ、本物でない一人を探していた。",
+        "term": "ブレードランナー"
+      },
+      "ko": {
+        "definition": "달아난 인공 인간을 찾아내 처분하는 임무를 맡은 사냥꾼.",
+        "example": "블레이드 러너는 군중을 살피며 진짜가 아닌 하나를 찾고 있었다.",
+        "term": "블레이드 러너"
+      },
+      "fr": {
+        "definition": "Chasseur chargé de retrouver et de retirer les humains artificiels en fuite.",
+        "example": "Le Blade Runner scrutait la foule, cherchant celui qui n'était pas réel.",
+        "term": "Blade Runner"
+      },
+      "es": {
+        "definition": "Cazador cuya misión es hallar y retirar a los humanos artificiales fugados.",
+        "example": "El blade runner estudiaba a la multitud, buscando al que no era real.",
+        "term": "Blade Runner"
       }
     }
   },
@@ -3242,6 +6162,26 @@
         "definition": "Мрачный японский портовый район, известный чёрным рынком нелегального кибержелеза.",
         "example": "В Тиба-Сити к полуночи можно купить новую поджелудочную или новое лицо.",
         "term": "Тиба-Сити"
+      },
+      "ja": {
+        "definition": "非合法の機械義体の闇市として知られる、荒んだ日本の港湾地区。",
+        "example": "ここでは真夜中までに、新しい膵臓も新しい顔も買えた。",
+        "term": "チバ・シティ"
+      },
+      "ko": {
+        "definition": "불법 사이버웨어 암시장으로 이름난 거칠고 험한 일본계 항구 지구.",
+        "example": "치바 시티에서는 자정까지 새 췌장도 새 얼굴도 살 수 있었다.",
+        "term": "치바 시티"
+      },
+      "fr": {
+        "definition": "District portuaire japonais glauque, réputé pour son marché noir de cyberware illégal.",
+        "example": "À Chiba City, on pouvait s'acheter un nouveau pancréas ou un nouveau visage avant minuit.",
+        "term": "Chiba City"
+      },
+      "es": {
+        "definition": "Sórdido distrito portuario japonés, célebre por su mercado negro de ciberware ilegal.",
+        "example": "En Chiba City podías comprar un páncreas nuevo o una cara nueva para medianoche.",
+        "term": "Chiba City"
       }
     }
   },
@@ -3264,6 +6204,26 @@
         "definition": "Ядро жанра: слепящая техника бок о бок с нищетой и упадком.",
         "example": "Голограммы над головой, нищие внизу — высокие технологии, низкая жизнь в одном кадре.",
         "term": "Высокие технологии, низкая жизнь"
+      },
+      "ja": {
+        "definition": "このジャンルの核となる対比。まばゆい技術と、その隣の貧困と荒廃。",
+        "example": "頭上にホログラム、足元に物乞い。ひと目に収まるこの落差。",
+        "term": "ハイテク・ロウライフ"
+      },
+      "ko": {
+        "definition": "이 장르의 핵심 대비 — 눈부신 기술이 가난·몰락과 나란히 놓이는 것.",
+        "example": "머리 위엔 홀로그램, 발치엔 거지 — 한눈에 담기는 하이테크 로우라이프.",
+        "term": "하이테크 로우라이프"
+      },
+      "fr": {
+        "definition": "Cœur du genre : la technologie éblouissante côtoyant la pauvreté et le délabrement.",
+        "example": "Hologrammes au-dessus, mendiants en bas — high-tech, low-life d'un seul regard.",
+        "term": "High-tech, low-life"
+      },
+      "es": {
+        "definition": "El contraste central del género: tecnología deslumbrante junto a la pobreza y la decadencia.",
+        "example": "Hologramas arriba, mendigos abajo: alta tecnología, baja vida en una sola mirada.",
+        "term": "Alta tecnología, baja vida"
       }
     }
   },
@@ -3286,6 +6246,26 @@
         "definition": "Созданный компьютером мир, куда можно войти и двигаться в нём, будто он настоящий.",
         "example": "Он проводил в виртуальной реальности больше часов, чем в комнате, где сидел.",
         "term": "Виртуальная реальность"
+      },
+      "ja": {
+        "definition": "本物のように入り込み、動き回れる、コンピューターが作り出した世界。",
+        "example": "彼は座っている部屋よりも、その中で長い時間を過ごした。",
+        "term": "仮想現実"
+      },
+      "ko": {
+        "definition": "진짜인 것처럼 들어가 돌아다닐 수 있는, 컴퓨터가 만든 세계.",
+        "example": "그는 정작 앉아 있는 방보다 가상현실 속에서 더 많은 시간을 보냈다.",
+        "term": "가상현실"
+      },
+      "fr": {
+        "definition": "Monde créé par ordinateur où l'on peut entrer et se déplacer comme s'il était réel.",
+        "example": "Il passait plus d'heures en réalité virtuelle que dans la pièce où il était assis.",
+        "term": "Réalité virtuelle"
+      },
+      "es": {
+        "definition": "Mundo creado por ordenador en el que puedes entrar y moverte como si fuera real.",
+        "example": "Pasaba más horas en la realidad virtual que en el cuarto donde estaba sentado.",
+        "term": "Realidad virtual"
       }
     }
   },
@@ -3309,6 +6289,26 @@
         "definition": "Человеческий мозг и нервная система как живое железо, на котором работает разум.",
         "example": "Хром можно улучшать сколько угодно, но вэтвер остаётся хрупким.",
         "term": "Вэтвер"
+      },
+      "ja": {
+        "definition": "心を動かす生きたハードウェアとみなされた、人間の脳と神経系。",
+        "example": "クロームはいくらでも強化できるが、生身の脳はもろいままだ。",
+        "term": "ウェットウェア"
+      },
+      "ko": {
+        "definition": "정신을 돌리는 살아 있는 하드웨어로 여겨지는, 인간의 뇌와 신경계.",
+        "example": "크롬이야 얼마든 업그레이드해도, 웨트웨어는 여전히 연약한 채로 남는다.",
+        "term": "웨트웨어"
+      },
+      "fr": {
+        "definition": "Le cerveau et le système nerveux humains, vus comme le matériel vivant qui fait tourner l'esprit.",
+        "example": "Tu peux améliorer le chrome tant que tu veux, mais le wetware, lui, reste fragile.",
+        "term": "Wetware"
+      },
+      "es": {
+        "definition": "El cerebro humano y el sistema nervioso, vistos como el hardware vivo que hace correr la mente.",
+        "example": "Puedes mejorar el cromo cuanto quieras, pero el wetware sigue siendo frágil.",
+        "term": "Wetware"
       }
     }
   }

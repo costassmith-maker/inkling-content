@@ -2122,5 +2122,2123 @@
         "term": "SERP (página de resultados del buscador)"
       }
     }
+  },
+  {
+    "id": "digital-marketing-051",
+    "deck": "digital-marketing",
+    "term": "Backlink",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "seo",
+      "links"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A link from another website to yours, which search engines read as a vote of trust.",
+        "example": "One link from a major news site did more than fifty small ones."
+      },
+      "ru": {
+        "definition": "Ссылка с чужого сайта на ваш; поисковик читает её как голос доверия.",
+        "example": "Одна ссылка с крупного издания дала больше, чем полсотни мелких.",
+        "term": "Обратная ссылка (бэклинк)"
+      },
+      "ja": {
+        "definition": "他サイトから自分のサイトへ向けられたリンク。検索エンジンが信頼票と読み取る手がかりのこと。",
+        "example": "大手ニュース1本の被リンクが、小さな50本より順位を動かした。",
+        "term": "バックリンク"
+      },
+      "ko": {
+        "definition": "다른 사이트가 우리 페이지로 걸어준 링크로, 검색 엔진은 이를 신뢰의 한 표로 읽는 것.",
+        "example": "대형 언론사에서 받은 링크 하나가 자잘한 링크 쉰 개보다 나았다.",
+        "term": "백링크"
+      },
+      "fr": {
+        "definition": "Un lien posé depuis un autre site vers le vôtre, que les moteurs lisent comme un gage de confiance.",
+        "example": "Un seul lien d'un grand site de presse a pesé plus que cinquante petits.",
+        "term": "Backlink (lien retour)"
+      },
+      "es": {
+        "definition": "Enlace desde otra web hacia la tuya, que los buscadores leen como un voto de confianza.",
+        "example": "Un enlace de un gran medio pesó más que cincuenta de sitios pequeños.",
+        "term": "Backlink (enlace entrante)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-052",
+    "deck": "digital-marketing",
+    "term": "Anchor text",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "links"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The visible, clickable words that carry a link, hinting to readers and search engines where it leads.",
+        "example": "Every link just said 'click here', so the anchor text told Google nothing."
+      },
+      "ru": {
+        "definition": "Видимые кликабельные слова ссылки — подсказка читателю и поисковику, куда она ведёт.",
+        "example": "Все ссылки были просто «тут», и анкорный текст ничего не говорил Google.",
+        "term": "Анкорный текст"
+      },
+      "ja": {
+        "definition": "リンクに乗った、読者に見えてクリックできる文字列。リンク先の内容を示す手がかりのこと。",
+        "example": "どのリンクも「こちら」ばかりで、Googleに中身が何も伝わっていなかった。",
+        "term": "アンカーテキスト"
+      },
+      "ko": {
+        "definition": "링크에 걸린, 눈에 보이고 누를 수 있는 문구로 독자와 검색 엔진에 그 링크가 어디로 향하는지 귀띔하는 것.",
+        "example": "링크마다 '여기 클릭'만 적혀 있어 구글이 앵커 텍스트로 얻을 단서가 없었다.",
+        "term": "앵커 텍스트"
+      },
+      "fr": {
+        "definition": "Les mots cliquables qui portent un lien et signalent aux lecteurs et aux moteurs où il mène.",
+        "example": "Tous les liens disaient « cliquez ici », l'ancre n'apprenait rien à Google.",
+        "term": "Texte d'ancrage"
+      },
+      "es": {
+        "definition": "Las palabras visibles y clicables que sostienen un enlace y anticipan adónde lleva.",
+        "example": "Todos los enlaces decían 'haz clic aquí' y el ancla no le dijo nada a Google.",
+        "term": "Texto ancla"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-053",
+    "deck": "digital-marketing",
+    "term": "Keyword",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "seo",
+      "keywords"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A word or phrase people type into search that you want your page to show up for.",
+        "example": "The post ranked for a keyword nobody on the team had thought to target."
+      },
+      "ru": {
+        "definition": "Слово или фраза, которую люди вводят в поиск и по которой вы хотите показываться.",
+        "example": "Статья вышла в топ по запросу, о котором в команде даже не думали.",
+        "term": "Ключевое слово"
+      },
+      "ja": {
+        "definition": "ユーザーが検索窓に打ち込む語句で、自分のページを表示させたい対象のこと。",
+        "example": "チームの誰も狙っていなかった語句で、その記事が上位に付いていた。",
+        "term": "キーワード"
+      },
+      "ko": {
+        "definition": "사람들이 검색창에 치는 단어나 문구로, 우리 페이지가 그것으로 노출되길 바라는 것.",
+        "example": "팀에서 아무도 노려본 적 없는 키워드로 그 글이 상위에 올랐다.",
+        "term": "키워드"
+      },
+      "fr": {
+        "definition": "Un mot ou une expression tapé en recherche sur lequel vous voulez que votre page apparaisse.",
+        "example": "L'article s'est classé sur un mot-clé auquel personne dans l'équipe n'avait pensé.",
+        "term": "Mot-clé"
+      },
+      "es": {
+        "definition": "Palabra o frase que la gente teclea al buscar y por la que quieres aparecer.",
+        "example": "El artículo posicionó por un término que nadie del equipo había previsto.",
+        "term": "Palabra clave"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-054",
+    "deck": "digital-marketing",
+    "term": "Long-tail keyword",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "keywords"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A longer, more specific search phrase with lower volume but clearer intent.",
+        "example": "'Running shoes' was hopeless, so we chased 'trail shoes for flat feet'."
+      },
+      "ru": {
+        "definition": "Длинный конкретный запрос с малым спросом, но ясным намерением.",
+        "example": "По «кроссовкам» ловить было нечего — взяли «кроссовки для плоскостопия».",
+        "term": "Низкочастотный запрос (long-tail)"
+      },
+      "ja": {
+        "definition": "検索数は少ないが目的がはっきりした、長く具体的な検索フレーズのこと。",
+        "example": "「ランニングシューズ」は無理筋なので「扁平足向けトレイルシューズ」を狙った。",
+        "term": "ロングテールキーワード"
+      },
+      "ko": {
+        "definition": "더 길고 구체적인 검색 문구로 검색량은 적지만 의도가 훨씬 또렷한 것.",
+        "example": "'러닝화'로는 가망이 없어 '평발용 트레일화'를 노렸다.",
+        "term": "롱테일 키워드"
+      },
+      "fr": {
+        "definition": "Une requête plus longue et précise, à faible volume mais à intention beaucoup plus nette.",
+        "example": "« Chaussures de running » était perdu d'avance, on a visé « trail pour pieds plats ».",
+        "term": "Mot-clé de longue traîne"
+      },
+      "es": {
+        "definition": "Frase de búsqueda más larga y específica, con menos volumen pero intención más clara.",
+        "example": "'Zapatillas' era imposible, así que fuimos a por 'zapatillas de trail para pie plano'.",
+        "term": "Palabra clave de cola larga"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-055",
+    "deck": "digital-marketing",
+    "term": "Search intent",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "keywords",
+      "content"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The goal behind a query — to learn, compare, buy, or find a specific site.",
+        "example": "The page sold hard, but the intent was to research, so visitors bounced."
+      },
+      "ru": {
+        "definition": "Цель за запросом: узнать, сравнить, купить или найти конкретный сайт.",
+        "example": "Страница продавала в лоб, а интент был изучить — люди уходили.",
+        "term": "Поисковый интент"
+      },
+      "ja": {
+        "definition": "検索の裏にある目的。知りたい・比べたい・買いたい・特定サイトに行きたい、のこと。",
+        "example": "下調べが目的の語句に売り込みページを当てて、みんな離脱した。",
+        "term": "検索意図"
+      },
+      "ko": {
+        "definition": "질의 뒤에 깔린 목적으로, 배우려는지 비교하려는지 사려는지 특정 사이트를 찾는지를 뜻하는 것.",
+        "example": "페이지는 팔려고만 드는데 의도는 알아보기여서 방문자가 곧장 나갔다.",
+        "term": "검색 의도"
+      },
+      "fr": {
+        "definition": "Le but derrière une requête : apprendre, comparer, acheter ou retrouver un site précis.",
+        "example": "La page vendait fort, mais l'intention était de se renseigner, alors les gens fuyaient.",
+        "term": "Intention de recherche"
+      },
+      "es": {
+        "definition": "El objetivo tras una consulta: aprender, comparar, comprar o encontrar un sitio concreto.",
+        "example": "La página vendía mucho, pero la intención era informarse y la gente se iba.",
+        "term": "Intención de búsqueda"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-056",
+    "deck": "digital-marketing",
+    "term": "On-page SEO",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "technical-seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Tuning a page's own content, headings, and tags so search engines understand and rank it.",
+        "example": "On-page SEO started with fixing the title and the thin copy."
+      },
+      "ru": {
+        "definition": "Настройка самого текста, заголовков и тегов страницы, чтобы поисковик её понял.",
+        "example": "Внутреннюю оптимизацию начали с заголовка и жидкого текста.",
+        "term": "Внутренняя оптимизация (on-page)"
+      },
+      "ja": {
+        "definition": "ページ自身の本文・見出し・タグを整え、検索エンジンに内容を正しく伝える施策のこと。",
+        "example": "オンページSEOは、まず薄い本文とタイトルの手直しから始めた。",
+        "term": "オンページSEO"
+      },
+      "ko": {
+        "definition": "페이지 자체의 콘텐츠·제목·태그를 다듬어 검색 엔진이 이해하고 상위에 올리게 하는 것.",
+        "example": "온페이지 SEO는 타이틀과 빈약한 본문을 손보는 데서 시작했다.",
+        "term": "온페이지 SEO"
+      },
+      "fr": {
+        "definition": "Régler le contenu, les titres et les balises d'une page pour que les moteurs la comprennent.",
+        "example": "Le SEO on-page a commencé par corriger le titre et un texte trop maigre.",
+        "term": "SEO on-page"
+      },
+      "es": {
+        "definition": "Ajustar contenido, encabezados y etiquetas de una página para que el buscador la entienda y posicione.",
+        "example": "El SEO on-page arrancó arreglando el título y un texto demasiado flojo.",
+        "term": "SEO on-page"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-057",
+    "deck": "digital-marketing",
+    "term": "Off-page SEO",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "links"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Signals from outside your site — mainly backlinks and mentions — that build its authority.",
+        "example": "The content was solid; off-page SEO was the missing piece."
+      },
+      "ru": {
+        "definition": "Сигналы извне — ссылки и упоминания, — которые растят авторитет сайта.",
+        "example": "Контент был крепкий, не хватало внешней оптимизации.",
+        "term": "Внешняя оптимизация (off-page)"
+      },
+      "ja": {
+        "definition": "被リンクや言及など、サイトの外から届く信頼の後押しを積み上げる施策のこと。",
+        "example": "中身は良いのに、抜けていたのはオフページSEOだった。",
+        "term": "オフページSEO"
+      },
+      "ko": {
+        "definition": "사이트 바깥에서 오는 신호로 주로 백링크와 언급을 통해 사이트의 권위를 쌓는 것.",
+        "example": "콘텐츠는 탄탄했고, 빠진 조각은 오프페이지 SEO였다.",
+        "term": "오프페이지 SEO"
+      },
+      "fr": {
+        "definition": "Les signaux venus d'ailleurs — surtout liens et mentions — qui bâtissent l'autorité du site.",
+        "example": "Le contenu tenait la route ; c'est le SEO off-page qui manquait à l'appel.",
+        "term": "SEO off-page"
+      },
+      "es": {
+        "definition": "Señales externas al sitio —sobre todo enlaces y menciones— que construyen su autoridad.",
+        "example": "El contenido era sólido; faltaba el SEO off-page para despegar.",
+        "term": "SEO off-page"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-058",
+    "deck": "digital-marketing",
+    "term": "Technical SEO",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "technical-seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Site plumbing — speed, crawlability, structure — that lets search engines reach and read your pages.",
+        "example": "Traffic climbed once technical SEO fixed the broken sitemap."
+      },
+      "ru": {
+        "definition": "Технический фундамент сайта — скорость, доступность для робота, структура.",
+        "example": "Трафик пошёл вверх, когда техническое SEO починило карту сайта.",
+        "term": "Техническое SEO"
+      },
+      "ja": {
+        "definition": "表示速度やクロール性、構造など、検索エンジンがページを読める土台を整える施策のこと。",
+        "example": "壊れたサイトマップをテクニカルSEOで直したら、流入が戻った。",
+        "term": "テクニカルSEO"
+      },
+      "ko": {
+        "definition": "속도·크롤 가능성·구조 같은 사이트의 뼈대를 손봐 검색 엔진이 페이지에 닿아 읽게 하는 것.",
+        "example": "테크니컬 SEO로 깨진 사이트맵을 고치자 트래픽이 올라갔다.",
+        "term": "테크니컬 SEO"
+      },
+      "fr": {
+        "definition": "La tuyauterie du site — vitesse, exploration, structure — qui laisse les moteurs lire vos pages.",
+        "example": "Le trafic est reparti dès que le SEO technique a réparé le sitemap cassé.",
+        "term": "SEO technique"
+      },
+      "es": {
+        "definition": "La fontanería del sitio —velocidad, rastreo, estructura— que deja al buscador llegar y leer.",
+        "example": "El tráfico subió cuando el SEO técnico arregló el sitemap roto.",
+        "term": "SEO técnico"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-059",
+    "deck": "digital-marketing",
+    "term": "Domain Authority (DA)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "links",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A third-party score (from Moz) predicting how well a domain might rank — not an official Google metric.",
+        "example": "Their DA looked high, but the pages we cared about still ranked poorly."
+      },
+      "ru": {
+        "definition": "Сторонняя оценка (от Moz) вероятного ранжирования домена, не официальная метрика Google.",
+        "example": "DA у них высокий, но нужные страницы всё равно стояли низко.",
+        "term": "Авторитетность домена (DA)"
+      },
+      "ja": {
+        "definition": "Mozが出す、ドメインの上位表示のしやすさを予測する第三者の指標。Google公式ではないもののこと。",
+        "example": "DAは高く見えたのに、肝心のページはなかなか上がらなかった。",
+        "term": "ドメインオーソリティ"
+      },
+      "ko": {
+        "definition": "Moz가 매기는 제삼자 점수로 도메인이 얼마나 잘 오를지 가늠할 뿐, 구글 공식 지표는 아닌 것.",
+        "example": "DA는 높아 보였지만 우리가 신경 쓰던 페이지는 여전히 순위가 나빴다.",
+        "term": "도메인 오소리티"
+      },
+      "fr": {
+        "definition": "Un score tiers, signé Moz, qui prédit le potentiel de classement d'un domaine, sans lien avec Google.",
+        "example": "Leur DA paraissait élevé, mais les pages qui comptaient se classaient toujours mal.",
+        "term": "Autorité de domaine (DA)"
+      },
+      "es": {
+        "definition": "Puntuación de terceros (de Moz) que predice el posible posicionamiento; no es métrica oficial de Google.",
+        "example": "Su DA parecía alto, pero las páginas que nos importaban seguían mal.",
+        "term": "Autoridad de dominio (DA)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-060",
+    "deck": "digital-marketing",
+    "term": "E-E-A-T (Experience, Expertise, Authoritativeness, Trust)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "seo",
+      "content"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Google's shorthand for the quality signals it weighs: experience, expertise, authoritativeness, and trust.",
+        "example": "For health topics, thin E-E-A-T sinks a page no matter the keywords."
+      },
+      "ru": {
+        "definition": "Ярлык Google для сигналов качества: опыт, экспертность, авторитет и доверие.",
+        "example": "В медицине слабый E-E-A-T топит страницу при любых ключах.",
+        "term": "E-E-A-T (опыт, экспертность, авторитет, доверие)"
+      },
+      "ja": {
+        "definition": "経験・専門性・権威性・信頼性という、Googleが重く見る品質の目安をまとめた略語のこと。",
+        "example": "健康の話題では、E-E-A-Tが薄いと語句を揃えても沈む。",
+        "term": "E-E-A-T"
+      },
+      "ko": {
+        "definition": "구글이 저울질하는 품질 신호를 줄인 말로 경험·전문성·권위·신뢰를 뜻하는 것.",
+        "example": "건강 주제에서는 E-E-A-T가 부실하면 키워드가 좋아도 페이지가 가라앉는다.",
+        "term": "E-E-A-T"
+      },
+      "fr": {
+        "definition": "Le raccourci de Google pour ses signaux de qualité : expérience, expertise, autorité et confiance.",
+        "example": "Sur la santé, un E-E-A-T trop mince coule une page, quels que soient les mots-clés.",
+        "term": "E-E-A-T"
+      },
+      "es": {
+        "definition": "Atajo de Google para las señales de calidad que pondera: experiencia, pericia, autoridad y confianza.",
+        "example": "En temas de salud, un E-E-A-T flojo hunde la página por buenas que sean las palabras clave.",
+        "term": "E-E-A-T"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-061",
+    "deck": "digital-marketing",
+    "term": "Meta description",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "seo",
+      "technical-seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The short summary under a search result that tells searchers what the page offers.",
+        "example": "A sharper meta description lifted clicks without changing the ranking."
+      },
+      "ru": {
+        "definition": "Короткая сводка под ссылкой в выдаче — говорит, что найдётся на странице.",
+        "example": "Точное метаописание подняло клики, не сдвинув позицию.",
+        "term": "Метаописание"
+      },
+      "ja": {
+        "definition": "検索結果でタイトルの下に出る短い要約。ページの中身を検索者に伝える一文のこと。",
+        "example": "要約を練り直したら、順位はそのままでクリックが増えた。",
+        "term": "メタディスクリプション"
+      },
+      "ko": {
+        "definition": "검색 결과 아래에 붙는 짧은 요약으로 검색한 사람에게 그 페이지가 무엇을 주는지 알려주는 것.",
+        "example": "메타 설명을 더 날카롭게 다듬자 순위는 그대로인데 클릭이 늘었다.",
+        "term": "메타 설명"
+      },
+      "fr": {
+        "definition": "Le court résumé sous un résultat de recherche qui dit au visiteur ce que la page propose.",
+        "example": "Une méta-description plus nette a gonflé les clics sans toucher au classement.",
+        "term": "Méta-description"
+      },
+      "es": {
+        "definition": "El breve resumen bajo un resultado de búsqueda que anticipa qué ofrece la página.",
+        "example": "Una metadescripción más afilada subió los clics sin tocar la posición.",
+        "term": "Metadescripción"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-062",
+    "deck": "digital-marketing",
+    "term": "Title tag",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "technical-seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The clickable headline of a page as it appears in search results and browser tabs.",
+        "example": "We front-loaded the title tag with the keyword and clicks ticked up."
+      },
+      "ru": {
+        "definition": "Кликабельный заголовок страницы, каким он виден в выдаче и во вкладке браузера.",
+        "example": "Вынесли ключ в начало тега title — и клики подросли.",
+        "term": "Тег title"
+      },
+      "ja": {
+        "definition": "検索結果やブラウザのタブに出る、ページの見出しにあたる文字列のこと。",
+        "example": "タイトルの頭に狙う語を置いたら、クリックが少し伸びた。",
+        "term": "タイトルタグ"
+      },
+      "ko": {
+        "definition": "검색 결과와 브라우저 탭에 뜨는, 누를 수 있는 페이지의 제목.",
+        "example": "타이틀 태그 앞머리에 키워드를 배치하자 클릭이 조금 늘었다.",
+        "term": "타이틀 태그"
+      },
+      "fr": {
+        "definition": "Le titre cliquable d'une page tel qu'il s'affiche dans les résultats et l'onglet du navigateur.",
+        "example": "On a placé le mot-clé en tête de la balise title et les clics ont monté.",
+        "term": "Balise title"
+      },
+      "es": {
+        "definition": "El titular clicable de una página tal como sale en resultados y en la pestaña del navegador.",
+        "example": "Pusimos la palabra clave al inicio del title y los clics repuntaron.",
+        "term": "Etiqueta title"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-063",
+    "deck": "digital-marketing",
+    "term": "Alt text",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "seo",
+      "technical-seo",
+      "ux"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A written description of an image that screen readers speak and search engines read.",
+        "example": "Empty alt text left blind users and Google guessing what the photo showed."
+      },
+      "ru": {
+        "definition": "Текстовое описание картинки: его читают скринридеры и поисковики.",
+        "example": "Пустой альт-текст оставил незрячих и Google гадать, что на фото.",
+        "term": "Альт-текст"
+      },
+      "ja": {
+        "definition": "画像の内容を書き起こした説明文。読み上げソフトや検索エンジンが読み取るもののこと。",
+        "example": "altが空で、目の見えない利用者もGoogleも写真の中身が分からなかった。",
+        "term": "代替テキスト（alt）"
+      },
+      "ko": {
+        "definition": "이미지를 글로 풀어쓴 설명으로 스크린 리더가 읽어주고 검색 엔진이 읽어들이는 것.",
+        "example": "alt를 비워두니 시각장애 사용자도 구글도 사진이 뭔지 짐작만 해야 했다.",
+        "term": "대체 텍스트(alt)"
+      },
+      "fr": {
+        "definition": "Une description écrite d'une image, lue à voix haute par les lecteurs d'écran et par les moteurs.",
+        "example": "Un texte alt vide laissait les non-voyants et Google deviner ce que montrait la photo.",
+        "term": "Texte alternatif (alt)"
+      },
+      "es": {
+        "definition": "Descripción escrita de una imagen que leen los lectores de pantalla y los buscadores.",
+        "example": "El alt vacío dejó a ciegas a Google y a quien usaba lector de pantalla.",
+        "term": "Texto alternativo (alt)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-064",
+    "deck": "digital-marketing",
+    "term": "Crawling",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "technical-seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How search engines send bots across the web to discover and revisit pages.",
+        "example": "A stray robots.txt rule blocked crawling of the whole blog."
+      },
+      "ru": {
+        "definition": "Обход сайта роботами поисковика, чтобы находить и переобходить страницы.",
+        "example": "Случайное правило в robots.txt закрыло краулинг всего блога.",
+        "term": "Краулинг (сканирование)"
+      },
+      "ja": {
+        "definition": "検索エンジンがボットを巡回させ、ページを見つけたり見直したりする動きのこと。",
+        "example": "robots.txtの余計な一行で、ブログ全体の巡回が止まっていた。",
+        "term": "クロール"
+      },
+      "ko": {
+        "definition": "검색 엔진이 봇을 웹 곳곳으로 보내 페이지를 찾아내고 다시 살펴보게 하는 것.",
+        "example": "robots.txt에 잘못 들어간 규칙 하나가 블로그 전체 크롤링을 막았다.",
+        "term": "크롤링"
+      },
+      "fr": {
+        "definition": "La façon dont les moteurs lâchent des robots sur le web pour découvrir et revisiter les pages.",
+        "example": "Une règle égarée dans le robots.txt bloquait l'exploration de tout le blog.",
+        "term": "Crawl (exploration)"
+      },
+      "es": {
+        "definition": "Cómo los buscadores envían bots por la web para descubrir y revisitar páginas.",
+        "example": "Una regla suelta en robots.txt bloqueó el rastreo de todo el blog.",
+        "term": "Rastreo (crawling)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-065",
+    "deck": "digital-marketing",
+    "term": "Indexing",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "technical-seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Storing a crawled page in the search engine's database so it can appear in results.",
+        "example": "The page was live for weeks but never got indexed."
+      },
+      "ru": {
+        "definition": "Занесение обойдённой страницы в базу поисковика, чтобы она попадала в выдачу.",
+        "example": "Страница висела неделями, но в индекс так и не попала.",
+        "term": "Индексация"
+      },
+      "ja": {
+        "definition": "巡回したページを検索エンジンのデータベースに収め、結果に出せる状態にすることのこと。",
+        "example": "公開して何週間も経つのに、そのページは登録されないままだった。",
+        "term": "インデックス登録"
+      },
+      "ko": {
+        "definition": "크롤한 페이지를 검색 엔진 데이터베이스에 담아 결과에 나올 수 있게 하는 것.",
+        "example": "페이지가 몇 주째 살아 있었는데도 끝내 색인되지 않았다.",
+        "term": "인덱싱(색인)"
+      },
+      "fr": {
+        "definition": "Ranger une page explorée dans la base du moteur pour qu'elle puisse sortir dans les résultats.",
+        "example": "La page était en ligne depuis des semaines mais n'avait jamais été indexée.",
+        "term": "Indexation"
+      },
+      "es": {
+        "definition": "Guardar una página rastreada en la base del buscador para que pueda salir en resultados.",
+        "example": "La página llevaba semanas publicada, pero nunca llegó a indexarse.",
+        "term": "Indexación"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-066",
+    "deck": "digital-marketing",
+    "term": "Canonical tag",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "seo",
+      "technical-seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A tag naming the preferred version of a page when several URLs show near-identical content.",
+        "example": "A canonical tag pointed the duplicate print pages back to the original."
+      },
+      "ru": {
+        "definition": "Тег, указывающий главную версию страницы, когда один текст живёт на нескольких URL.",
+        "example": "Канонический тег свёл дубли для печати к оригиналу.",
+        "term": "Канонический тег (canonical)"
+      },
+      "ja": {
+        "definition": "中身がほぼ同じURLが複数あるとき、正規とみなすページを検索エンジンに伝えるタグのこと。",
+        "example": "印刷用の重複ページから、canonicalで元ページを指し示した。",
+        "term": "canonicalタグ"
+      },
+      "ko": {
+        "definition": "여러 URL이 거의 같은 내용을 보일 때 어느 쪽이 대표 페이지인지 지정하는 태그.",
+        "example": "캐노니컬 태그가 인쇄용 중복 페이지를 원본으로 되돌려 가리켰다.",
+        "term": "캐노니컬 태그"
+      },
+      "fr": {
+        "definition": "Une balise qui désigne la version à retenir quand plusieurs URL montrent un contenu quasi identique.",
+        "example": "La balise canonique a renvoyé les pages « imprimer » en double vers l'originale.",
+        "term": "Balise canonique"
+      },
+      "es": {
+        "definition": "Etiqueta que señala la versión preferida cuando varias URLs muestran contenido casi idéntico.",
+        "example": "La canónica apuntó las páginas de impresión duplicadas a la original.",
+        "term": "Etiqueta canónica"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-067",
+    "deck": "digital-marketing",
+    "term": "Sitemap",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "seo",
+      "technical-seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A file listing a site's important pages so search engines can find them all.",
+        "example": "Submitting the sitemap got the new section indexed within days."
+      },
+      "ru": {
+        "definition": "Файл со списком важных страниц сайта, чтобы поисковик нашёл их все.",
+        "example": "Отправили карту сайта — и новый раздел попал в индекс за пару дней.",
+        "term": "Карта сайта (sitemap)"
+      },
+      "ja": {
+        "definition": "サイトの重要なページを列挙し、検索エンジンがまとめて見つけられるようにするファイルのこと。",
+        "example": "サイトマップを送ったら、新設のコーナーが数日で登録された。",
+        "term": "サイトマップ"
+      },
+      "ko": {
+        "definition": "사이트의 중요한 페이지를 죽 적어둔 파일로 검색 엔진이 그것들을 다 찾게 돕는 것.",
+        "example": "사이트맵을 제출하자 새 섹션이 며칠 만에 색인됐다.",
+        "term": "사이트맵"
+      },
+      "fr": {
+        "definition": "Un fichier qui liste les pages importantes d'un site pour que les moteurs les trouvent toutes.",
+        "example": "Envoyer le sitemap a fait indexer la nouvelle rubrique en quelques jours.",
+        "term": "Sitemap (plan de site)"
+      },
+      "es": {
+        "definition": "Archivo que lista las páginas importantes de un sitio para que el buscador las encuentre.",
+        "example": "Enviar el sitemap indexó la nueva sección en pocos días.",
+        "term": "Sitemap (mapa del sitio)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-068",
+    "deck": "digital-marketing",
+    "term": "Schema markup",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "seo",
+      "technical-seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Code that labels page content so search engines can show rich results like ratings or prices.",
+        "example": "Schema markup earned the recipe its star rating in search."
+      },
+      "ru": {
+        "definition": "Код, размечающий содержимое, чтобы в выдаче показывались рейтинги, цены и прочее.",
+        "example": "Микроразметка вывела у рецепта звёзды рейтинга прямо в поиске.",
+        "term": "Микроразметка (schema)"
+      },
+      "ja": {
+        "definition": "ページ内容に印を付け、評価や価格などをリッチな検索結果として出せるようにするコードのこと。",
+        "example": "schemaを入れたら、レシピに星評価が検索結果へ付いた。",
+        "term": "構造化データ（schema）"
+      },
+      "ko": {
+        "definition": "페이지 내용에 꼬리표를 붙이는 코드로 검색 엔진이 별점이나 가격 같은 리치 결과를 보이게 하는 것.",
+        "example": "스키마 마크업 덕에 그 레시피가 검색에서 별점을 달고 나왔다.",
+        "term": "스키마 마크업"
+      },
+      "fr": {
+        "definition": "Du code qui étiquette le contenu pour que les moteurs affichent notes ou prix en résultats enrichis.",
+        "example": "Le balisage schema a valu à la recette ses étoiles dans les résultats.",
+        "term": "Balisage schema"
+      },
+      "es": {
+        "definition": "Código que etiqueta el contenido para que el buscador muestre resultados enriquecidos como notas o precios.",
+        "example": "El marcado schema le ganó a la receta su valoración con estrellas en búsqueda.",
+        "term": "Marcado schema"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-069",
+    "deck": "digital-marketing",
+    "term": "Featured snippet",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "organic"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A boxed answer pulled to the top of results, above the regular links.",
+        "example": "Rewriting the intro as a clear answer won the featured snippet."
+      },
+      "ru": {
+        "definition": "Ответ в рамке над обычными ссылками, вытянутый поисковиком на самый верх.",
+        "example": "Переписали вступление под чёткий ответ — и забрали избранный сниппет.",
+        "term": "Избранный сниппет"
+      },
+      "ja": {
+        "definition": "通常のリンクより上、結果の先頭に枠付きで抜き出される答えのこと。",
+        "example": "冒頭を端的な答えに書き直して、強調スニペットを取れた。",
+        "term": "強調スニペット"
+      },
+      "ko": {
+        "definition": "일반 링크보다 위, 결과 맨 위에 상자로 끌어올려 보여주는 답변.",
+        "example": "도입부를 명확한 답변으로 고쳐 쓰자 추천 스니펫을 차지했다.",
+        "term": "추천 스니펫"
+      },
+      "fr": {
+        "definition": "Une réponse encadrée hissée tout en haut des résultats, au-dessus des liens habituels.",
+        "example": "Réécrire l'intro en réponse claire nous a décroché l'extrait optimisé.",
+        "term": "Featured snippet (extrait optimisé)"
+      },
+      "es": {
+        "definition": "Respuesta recuadrada que el buscador sube arriba del todo, por encima de los enlaces normales.",
+        "example": "Reescribir la intro como respuesta clara ganó el fragmento destacado.",
+        "term": "Fragmento destacado"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-070",
+    "deck": "digital-marketing",
+    "term": "Core Web Vitals",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "seo",
+      "technical-seo",
+      "performance"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Google's set of speed and stability metrics measuring how a page feels while it loads.",
+        "example": "Poor Core Web Vitals meant the layout jumped as buttons finished loading."
+      },
+      "ru": {
+        "definition": "Набор метрик Google о скорости и стабильности: как страница ощущается при загрузке.",
+        "example": "Из-за плохих Core Web Vitals вёрстка прыгала, пока грузились кнопки.",
+        "term": "Core Web Vitals"
+      },
+      "ja": {
+        "definition": "読み込み中の体感を測る、速度と安定性についてのGoogleの指標一式のこと。",
+        "example": "Core Web Vitalsが悪く、ボタンが出そろう前にレイアウトがずれた。",
+        "term": "Core Web Vitals"
+      },
+      "ko": {
+        "definition": "페이지가 뜨는 동안 어떻게 느껴지는지를 재는 구글의 속도·안정성 지표 묶음.",
+        "example": "Core Web Vitals가 나빠 버튼이 뒤늦게 뜨면서 화면이 덜컹거렸다.",
+        "term": "Core Web Vitals"
+      },
+      "fr": {
+        "definition": "La série de mesures de Google sur la vitesse et la stabilité ressenties pendant le chargement.",
+        "example": "De mauvais Core Web Vitals faisaient sauter la mise en page à l'apparition des boutons.",
+        "term": "Core Web Vitals"
+      },
+      "es": {
+        "definition": "Conjunto de métricas de Google sobre velocidad y estabilidad que miden cómo se siente una página al cargar.",
+        "example": "Unos Core Web Vitals pobres hacían saltar el diseño al cargar los botones.",
+        "term": "Core Web Vitals"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-071",
+    "deck": "digital-marketing",
+    "term": "Link building",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "seo",
+      "links"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The work of earning links from other sites to raise your authority and rankings.",
+        "example": "Their link building leaned on guest posts and original research."
+      },
+      "ru": {
+        "definition": "Работа по добыче ссылок с чужих сайтов ради авторитета и позиций.",
+        "example": "Линкбилдинг у них держался на гостевых статьях и своих исследованиях.",
+        "term": "Линкбилдинг"
+      },
+      "ja": {
+        "definition": "他サイトからのリンクを得て、権威と順位を押し上げていく取り組みのこと。",
+        "example": "先方の施策は、寄稿記事と独自調査を軸に組まれていた。",
+        "term": "リンクビルディング"
+      },
+      "ko": {
+        "definition": "다른 사이트에서 링크를 얻어내 우리 사이트의 권위와 순위를 끌어올리는 작업.",
+        "example": "그들의 링크 빌딩은 게스트 글과 자체 조사에 기댔다.",
+        "term": "링크 빌딩"
+      },
+      "fr": {
+        "definition": "Le travail pour gagner des liens depuis d'autres sites afin de doper autorité et classement.",
+        "example": "Leur netlinking reposait sur des articles invités et des études inédites.",
+        "term": "Netlinking"
+      },
+      "es": {
+        "definition": "El trabajo de ganar enlaces de otros sitios para elevar la autoridad y el posicionamiento.",
+        "example": "Su link building se apoyaba en artículos invitados y estudios propios.",
+        "term": "Link building (construcción de enlaces)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-072",
+    "deck": "digital-marketing",
+    "term": "Keyword cannibalization",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "seo",
+      "keywords"
+    ],
+    "locales": {
+      "en": {
+        "definition": "When several of your own pages compete for the same query and split its ranking.",
+        "example": "Three blog posts targeted one term — classic keyword cannibalization."
+      },
+      "ru": {
+        "definition": "Когда несколько ваших страниц борются за один запрос и делят позиции.",
+        "example": "Три статьи под один запрос — классическая каннибализация.",
+        "term": "Каннибализация запросов"
+      },
+      "ja": {
+        "definition": "自社の複数ページが同じ検索語で競合し、順位の力を食い合ってしまう状態のこと。",
+        "example": "1つの語を3本のブログ記事が狙う、典型的な共食いだった。",
+        "term": "キーワードカニバリゼーション"
+      },
+      "ko": {
+        "definition": "우리 페이지 여럿이 같은 질의를 두고 다투며 그 순위를 서로 갉아먹는 상황.",
+        "example": "블로그 글 세 개가 한 단어를 노렸으니 전형적인 키워드 카니발라이제이션이었다.",
+        "term": "키워드 카니발라이제이션"
+      },
+      "fr": {
+        "definition": "Quand plusieurs de vos pages se disputent la même requête et se partagent son classement.",
+        "example": "Trois articles visaient le même terme : de la cannibalisation en règle.",
+        "term": "Cannibalisation de mots-clés"
+      },
+      "es": {
+        "definition": "Cuando varias páginas propias compiten por la misma consulta y se reparten su posición.",
+        "example": "Tres artículos apuntaban al mismo término: canibalización de manual.",
+        "term": "Canibalización de palabras clave"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-073",
+    "deck": "digital-marketing",
+    "term": "Organic traffic",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "seo",
+      "organic",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Visitors who reach your site through unpaid search results.",
+        "example": "Half our organic traffic came from a single evergreen guide."
+      },
+      "ru": {
+        "definition": "Посетители, приходящие из бесплатной поисковой выдачи.",
+        "example": "Половину органического трафика давал один вечнозелёный гайд.",
+        "term": "Органический трафик"
+      },
+      "ja": {
+        "definition": "広告を介さず、自然検索の結果からサイトに来る訪問者のこと。",
+        "example": "自然流入の半分は、たった1本の定番ガイドから来ていた。",
+        "term": "オーガニックトラフィック"
+      },
+      "ko": {
+        "definition": "돈을 들이지 않은 검색 결과를 거쳐 사이트에 들어온 방문자.",
+        "example": "오가닉 트래픽의 절반이 오래가는 가이드 글 하나에서 나왔다.",
+        "term": "오가닉 트래픽"
+      },
+      "fr": {
+        "definition": "Les visiteurs qui arrivent sur votre site par les résultats de recherche non payants.",
+        "example": "La moitié de notre trafic organique venait d'un seul guide intemporel.",
+        "term": "Trafic organique"
+      },
+      "es": {
+        "definition": "Visitantes que llegan al sitio a través de resultados de búsqueda no pagados.",
+        "example": "La mitad del tráfico orgánico venía de una sola guía atemporal.",
+        "term": "Tráfico orgánico"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-074",
+    "deck": "digital-marketing",
+    "term": "SEO audit",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "seo",
+      "technical-seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A structured review of a site to find what's holding back its search performance.",
+        "example": "The SEO audit flagged hundreds of pages with no internal links."
+      },
+      "ru": {
+        "definition": "Разбор сайта по пунктам: что мешает ему в поиске.",
+        "example": "SEO-аудит вскрыл сотни страниц без единой внутренней ссылки.",
+        "term": "SEO-аудит"
+      },
+      "ja": {
+        "definition": "サイトを体系的に点検し、検索での成果を妨げている要因を洗い出す作業のこと。",
+        "example": "監査で、内部リンクが1本もないページが数百件見つかった。",
+        "term": "SEO監査"
+      },
+      "ko": {
+        "definition": "사이트를 짜임새 있게 훑어 검색 성과의 발목을 잡는 문제를 찾아내는 것.",
+        "example": "SEO 감사에서 내부 링크가 하나도 없는 페이지 수백 개가 걸렸다.",
+        "term": "SEO 감사(진단)"
+      },
+      "fr": {
+        "definition": "Une revue structurée d'un site pour repérer ce qui freine ses performances en recherche.",
+        "example": "L'audit SEO a pointé des centaines de pages sans aucun lien interne.",
+        "term": "Audit SEO"
+      },
+      "es": {
+        "definition": "Revisión estructurada de un sitio para hallar qué frena su rendimiento en búsqueda.",
+        "example": "La auditoría SEO marcó cientos de páginas sin ningún enlace interno.",
+        "term": "Auditoría SEO"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-075",
+    "deck": "digital-marketing",
+    "term": "PPC (Pay-Per-Click)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "ppc",
+      "paid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A paid model where advertisers pay only when someone clicks their ad.",
+        "example": "The launch ran on PPC until organic rankings caught up."
+      },
+      "ru": {
+        "definition": "Платная модель, где рекламодатель платит только за клик по объявлению.",
+        "example": "Запуск держался на PPC, пока не подтянулась органика.",
+        "term": "PPC (оплата за клик)"
+      },
+      "ja": {
+        "definition": "広告がクリックされたときだけ広告主が費用を払う、有料広告の課金方式のこと。",
+        "example": "自然検索が育つまで、立ち上げはPPCで回した。",
+        "term": "PPC（クリック課金）"
+      },
+      "ko": {
+        "definition": "누군가 광고를 클릭할 때만 광고주가 비용을 내는 유료 방식.",
+        "example": "오가닉 순위가 따라올 때까지 출시 초반은 PPC로 굴렸다.",
+        "term": "PPC(클릭당 지불)"
+      },
+      "fr": {
+        "definition": "Un modèle payant où l'annonceur ne débourse que lorsqu'une personne clique sur son annonce.",
+        "example": "Le lancement a tourné au PPC le temps que le classement naturel rattrape.",
+        "term": "PPC (paiement par clic)"
+      },
+      "es": {
+        "definition": "Modelo de pago en el que el anunciante paga solo cuando alguien hace clic en su anuncio.",
+        "example": "El lanzamiento se sostuvo con PPC hasta que el orgánico despegó.",
+        "term": "PPC (pago por clic)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-076",
+    "deck": "digital-marketing",
+    "term": "Google Ads",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "ppc",
+      "paid",
+      "search-ads"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Google's platform for running paid ads across search, display, YouTube, and more.",
+        "example": "Most of the search budget lived in one Google Ads account."
+      },
+      "ru": {
+        "definition": "Платформа Google для платных объявлений в поиске, сетях, на YouTube и не только.",
+        "example": "Почти весь бюджет на поиск жил в одном аккаунте Google Ads.",
+        "term": "Google Ads"
+      },
+      "ja": {
+        "definition": "検索・ディスプレイ・YouTubeなどに有料広告を出せる、Googleの広告基盤のこと。",
+        "example": "検索予算の大半は、1つのGoogle Adsアカウントに集めていた。",
+        "term": "Google Ads"
+      },
+      "ko": {
+        "definition": "검색·디스플레이·유튜브 등 곳곳에 유료 광고를 돌리게 해주는 구글의 플랫폼.",
+        "example": "검색 예산 대부분이 Google Ads 계정 하나에 들어 있었다.",
+        "term": "Google Ads"
+      },
+      "fr": {
+        "definition": "La plateforme de Google pour diffuser des annonces payantes en recherche, display, YouTube et plus.",
+        "example": "L'essentiel du budget recherche vivait dans un seul compte Google Ads.",
+        "term": "Google Ads"
+      },
+      "es": {
+        "definition": "Plataforma de Google para lanzar anuncios pagados en búsqueda, display, YouTube y más.",
+        "example": "Casi todo el presupuesto de búsqueda vivía en una sola cuenta de Google Ads.",
+        "term": "Google Ads"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-077",
+    "deck": "digital-marketing",
+    "term": "Quality Score",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ppc",
+      "bidding",
+      "search-ads"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Google's rating of how relevant your keywords, ads, and landing page are, which affects cost and rank.",
+        "example": "Lifting Quality Score cut the cost per click without a bigger bid."
+      },
+      "ru": {
+        "definition": "Оценка Google, насколько связаны ключ, объявление и посадочная; влияет на цену и позицию.",
+        "example": "Подняли показатель качества — и цена клика упала без роста ставки.",
+        "term": "Показатель качества (Quality Score)"
+      },
+      "ja": {
+        "definition": "キーワード・広告・遷移先の関連性についてのGoogleの評価で、費用や掲載順位に効くもののこと。",
+        "example": "品質スコアを上げたら、入札を積まずにクリック単価が下がった。",
+        "term": "品質スコア"
+      },
+      "ko": {
+        "definition": "키워드·광고·랜딩페이지가 얼마나 잘 맞물리는지 구글이 매긴 점수로 비용과 순위를 좌우하는 것.",
+        "example": "품질 평가점수를 끌어올리자 입찰가를 안 올리고도 클릭당 비용이 내려갔다.",
+        "term": "품질 평가점수"
+      },
+      "fr": {
+        "definition": "La note de Google sur la pertinence de vos mots-clés, annonces et page, qui pèse sur coût et rang.",
+        "example": "Remonter le Quality Score a baissé le coût par clic sans hausser l'enchère.",
+        "term": "Niveau de qualité (Quality Score)"
+      },
+      "es": {
+        "definition": "Nota de Google sobre lo relevantes que son tus palabras, anuncios y landing; afecta a coste y posición.",
+        "example": "Subir el Quality Score bajó el coste por clic sin pujar más.",
+        "term": "Nivel de calidad (Quality Score)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-078",
+    "deck": "digital-marketing",
+    "term": "Ad Rank",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ppc",
+      "bidding",
+      "search-ads"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The value that decides an ad's position on the page, combining bid and quality.",
+        "example": "A rival outbid us, yet better quality kept our Ad Rank on top."
+      },
+      "ru": {
+        "definition": "Величина, определяющая позицию объявления; складывается из ставки и качества.",
+        "example": "Конкурент перебил ставку, но за счёт качества мы держали первую позицию.",
+        "term": "Рейтинг объявления (Ad Rank)"
+      },
+      "ja": {
+        "definition": "入札額と品質を掛け合わせ、広告がページのどこに出るかを決める値のこと。",
+        "example": "入札で競合に負けても、品質の高さで広告ランクは上を保てた。",
+        "term": "広告ランク"
+      },
+      "ko": {
+        "definition": "입찰가와 품질을 함께 셈해 광고가 페이지 어디에 놓일지 정하는 값.",
+        "example": "경쟁사가 입찰가를 더 질렀지만 품질이 좋아 우리 Ad Rank가 위를 지켰다.",
+        "term": "광고 순위(Ad Rank)"
+      },
+      "fr": {
+        "definition": "La valeur qui décide de la position d'une annonce, en croisant l'enchère et la qualité.",
+        "example": "Un rival a surenchéri, mais notre meilleure qualité a gardé l'Ad Rank en tête.",
+        "term": "Classement de l'annonce (Ad Rank)"
+      },
+      "es": {
+        "definition": "El valor que decide la posición de un anuncio, combinando puja y calidad.",
+        "example": "Un rival pujó más, pero mejor calidad mantuvo nuestro Ad Rank arriba.",
+        "term": "Ranking del anuncio (Ad Rank)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-079",
+    "deck": "digital-marketing",
+    "term": "Bid",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "ppc",
+      "bidding"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The most an advertiser is willing to pay for a click, view, or action in an ad auction.",
+        "example": "We raised the bid on brand terms to stop rivals poaching them."
+      },
+      "ru": {
+        "definition": "Максимум, который рекламодатель готов заплатить за клик, показ или действие на аукционе.",
+        "example": "Подняли ставку по брендовым запросам, чтобы их не уводили конкуренты.",
+        "term": "Ставка"
+      },
+      "ja": {
+        "definition": "広告オークションで、クリックや表示や成果1件に広告主が払える上限額のこと。",
+        "example": "指名ワードを横取りされないよう、そこの入札額を引き上げた。",
+        "term": "入札"
+      },
+      "ko": {
+        "definition": "광고 경매에서 클릭·조회·액션 하나에 광고주가 낼 용의가 있는 최대 금액.",
+        "example": "경쟁사가 가로채지 못하도록 브랜드 단어에 입찰가를 올렸다.",
+        "term": "입찰가"
+      },
+      "fr": {
+        "definition": "Le maximum qu'un annonceur accepte de payer pour un clic, une vue ou une action mise aux enchères.",
+        "example": "On a relevé l'enchère sur les termes de marque pour couper l'herbe aux rivaux.",
+        "term": "Enchère"
+      },
+      "es": {
+        "definition": "Lo máximo que un anunciante paga por un clic, una vista o una acción en una subasta.",
+        "example": "Subimos la puja en términos de marca para frenar a los rivales.",
+        "term": "Puja"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-080",
+    "deck": "digital-marketing",
+    "term": "Smart bidding",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ppc",
+      "bidding"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Automated bidding where the platform sets each bid from live signals to hit a target.",
+        "example": "Smart bidding chased conversions we couldn't have priced by hand."
+      },
+      "ru": {
+        "definition": "Автоматические ставки, где платформа сама назначает каждую под заданную цель.",
+        "example": "Умные ставки ловили конверсии, которые вручную не оценить.",
+        "term": "Умные ставки (Smart Bidding)"
+      },
+      "ja": {
+        "definition": "目標に合わせ、その場の各種シグナルをもとに媒体が入札額を自動で決める仕組みのこと。",
+        "example": "人手では値付けできなかった成果を、自動入札が拾ってくれた。",
+        "term": "スマート自動入札"
+      },
+      "ko": {
+        "definition": "목표를 맞추도록 플랫폼이 실시간 신호를 읽어 클릭마다 입찰가를 알아서 정하는 방식.",
+        "example": "스마트 자동 입찰이 사람 손으로는 값 매기기 어려운 전환까지 좇았다.",
+        "term": "스마트 자동 입찰"
+      },
+      "fr": {
+        "definition": "Des enchères automatisées où la plateforme fixe chaque montant selon des signaux en direct.",
+        "example": "Le Smart Bidding a chassé des conversions qu'on n'aurait jamais su tarifer à la main.",
+        "term": "Smart Bidding (enchères intelligentes)"
+      },
+      "es": {
+        "definition": "Puja automática en la que la plataforma fija cada oferta con señales en vivo para llegar a un objetivo.",
+        "example": "El smart bidding cazó conversiones que a mano no habríamos sabido valorar.",
+        "term": "Smart Bidding (pujas inteligentes)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-081",
+    "deck": "digital-marketing",
+    "term": "Negative keyword",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ppc",
+      "keywords",
+      "search-ads"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A term you exclude so your ad won't show for irrelevant searches.",
+        "example": "Adding 'free' as a negative keyword stopped burning budget on freebie hunters."
+      },
+      "ru": {
+        "definition": "Слово, которое вы исключаете, чтобы объявление не показывалось по нерелевантным запросам.",
+        "example": "Добавили «бесплатно» в минус-слова — и перестали кормить халявщиков.",
+        "term": "Минус-слово"
+      },
+      "ja": {
+        "definition": "無関係な検索で広告が出ないよう、あらかじめ対象から外しておく語のこと。",
+        "example": "「無料」を除外に足したら、タダ目当ての検索への無駄打ちが止まった。",
+        "term": "除外キーワード"
+      },
+      "ko": {
+        "definition": "엉뚱한 검색에 광고가 뜨지 않도록 일부러 빼두는 단어.",
+        "example": "'무료'를 제외 키워드로 넣자 공짜만 찾는 사람들에게 새던 예산이 멎었다.",
+        "term": "제외 키워드"
+      },
+      "fr": {
+        "definition": "Un terme que vous écartez pour que votre annonce ne sorte pas sur des recherches hors sujet.",
+        "example": "Exclure « gratuit » a stoppé le budget englouti par les chasseurs de bons plans.",
+        "term": "Mot-clé à exclure"
+      },
+      "es": {
+        "definition": "Término que excluyes para que tu anuncio no salga en búsquedas irrelevantes.",
+        "example": "Añadir 'gratis' como negativa dejó de quemar presupuesto en cazachollos.",
+        "term": "Palabra clave negativa"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-082",
+    "deck": "digital-marketing",
+    "term": "Match type",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ppc",
+      "keywords",
+      "search-ads"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A setting that controls how closely a search must match your keyword to trigger the ad.",
+        "example": "Loose match types dragged in queries we never meant to bid on."
+      },
+      "ru": {
+        "definition": "Настройка, насколько точно запрос должен совпасть с ключом, чтобы показать объявление.",
+        "example": "Широкие типы соответствия тянули запросы, на которые мы не целились.",
+        "term": "Тип соответствия"
+      },
+      "ja": {
+        "definition": "検索語がキーワードにどれだけ近ければ広告を出すかを決める設定のこと。",
+        "example": "マッチが緩すぎて、狙っていない検索まで広告が出てしまった。",
+        "term": "マッチタイプ"
+      },
+      "ko": {
+        "definition": "검색어가 키워드와 얼마나 가깝게 맞아야 광고가 뜨는지를 정하는 설정.",
+        "example": "일치 유형을 느슨하게 두니 애초에 노리지도 않은 질의까지 끌려왔다.",
+        "term": "일치 유형(매치 타입)"
+      },
+      "fr": {
+        "definition": "Un réglage qui fixe à quel point une recherche doit coller au mot-clé pour déclencher l'annonce.",
+        "example": "Des correspondances trop larges attiraient des requêtes qu'on ne visait pas.",
+        "term": "Type de correspondance"
+      },
+      "es": {
+        "definition": "Ajuste que controla cuánto debe parecerse una búsqueda a tu palabra clave para activar el anuncio.",
+        "example": "Concordancias amplias arrastraron consultas por las que nunca quisimos pujar.",
+        "term": "Tipo de concordancia"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-083",
+    "deck": "digital-marketing",
+    "term": "Ad group",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ppc",
+      "search-ads"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A bucket inside a campaign holding related keywords and the ads that serve them.",
+        "example": "Splitting the ad group by theme let each ad speak to its query."
+      },
+      "ru": {
+        "definition": "Ячейка внутри кампании с близкими ключами и обслуживающими их объявлениями.",
+        "example": "Разбили группу объявлений по темам — и каждое заговорило под свой запрос.",
+        "term": "Группа объявлений"
+      },
+      "ja": {
+        "definition": "キャンペーンの中で、関連するキーワードとその広告をまとめて入れる箱のこと。",
+        "example": "広告グループをテーマ別に割ると、各広告が検索語に噛み合った。",
+        "term": "広告グループ"
+      },
+      "ko": {
+        "definition": "캠페인 안에서 관련된 키워드와 그에 맞는 광고를 함께 담아두는 그릇.",
+        "example": "광고 그룹을 주제별로 쪼개니 광고마다 제 질의에 맞춰 말을 걸 수 있었다.",
+        "term": "광고 그룹"
+      },
+      "fr": {
+        "definition": "Un compartiment d'une campagne réunissant des mots-clés proches et les annonces qui les servent.",
+        "example": "Découper le groupe d'annonces par thème a permis à chaque annonce de coller à sa requête.",
+        "term": "Groupe d'annonces"
+      },
+      "es": {
+        "definition": "Bloque dentro de una campaña que reúne palabras clave afines y los anuncios que las sirven.",
+        "example": "Partir el grupo por tema dejó que cada anuncio hablara a su consulta.",
+        "term": "Grupo de anuncios"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-084",
+    "deck": "digital-marketing",
+    "term": "Search ad",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "ppc",
+      "search-ads"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A text ad shown among search results when someone queries a matching term.",
+        "example": "The search ad sat right above the map pack for local queries."
+      },
+      "ru": {
+        "definition": "Текстовое объявление среди результатов поиска по подходящему запросу.",
+        "example": "Поисковое объявление встало прямо над картами по локальным запросам.",
+        "term": "Поисковое объявление"
+      },
+      "ja": {
+        "definition": "検索語に合致したとき、検索結果の中に表示されるテキスト広告のこと。",
+        "example": "地域の検索では、地図枠のすぐ上に検索広告が出ていた。",
+        "term": "検索広告"
+      },
+      "ko": {
+        "definition": "누군가 맞는 단어로 검색할 때 검색 결과 사이에 뜨는 텍스트 광고.",
+        "example": "지역 질의에서는 검색 광고가 지도 결과 바로 위에 자리 잡았다.",
+        "term": "검색 광고"
+      },
+      "fr": {
+        "definition": "Une annonce textuelle affichée parmi les résultats quand quelqu'un tape un terme correspondant.",
+        "example": "L'annonce de recherche trônait juste au-dessus du bloc carte sur les requêtes locales.",
+        "term": "Annonce de recherche"
+      },
+      "es": {
+        "definition": "Anuncio de texto que aparece entre los resultados cuando alguien busca un término afín.",
+        "example": "El anuncio de búsqueda quedó justo encima del mapa en consultas locales.",
+        "term": "Anuncio de búsqueda"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-085",
+    "deck": "digital-marketing",
+    "term": "Display advertising",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "display",
+      "paid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Visual banner ads shown on websites and apps across ad networks.",
+        "example": "Display advertising kept the brand in view long after the click."
+      },
+      "ru": {
+        "definition": "Визуальные баннеры на сайтах и в приложениях через рекламные сети.",
+        "example": "Медийная реклама держала бренд на виду и после клика.",
+        "term": "Медийная реклама"
+      },
+      "ja": {
+        "definition": "広告ネットワーク経由で、サイトやアプリに出る画像バナーの広告のこと。",
+        "example": "ディスプレイ広告が、クリック後もブランドを目に残し続けた。",
+        "term": "ディスプレイ広告"
+      },
+      "ko": {
+        "definition": "광고 네트워크를 거쳐 여러 사이트와 앱에 노출되는 시각적 배너 광고.",
+        "example": "디스플레이 광고가 클릭이 끝난 뒤에도 브랜드를 오래 눈앞에 남겼다.",
+        "term": "디스플레이 광고"
+      },
+      "fr": {
+        "definition": "Des annonces visuelles en bannière diffusées sur sites et applis via les régies publicitaires.",
+        "example": "La publicité display a gardé la marque en vue bien après le premier clic.",
+        "term": "Publicité display"
+      },
+      "es": {
+        "definition": "Anuncios visuales tipo banner mostrados en webs y apps a través de redes publicitarias.",
+        "example": "La publicidad display mantuvo la marca a la vista mucho después del clic.",
+        "term": "Publicidad display"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-086",
+    "deck": "digital-marketing",
+    "term": "Shopping ads",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ppc",
+      "ecommerce",
+      "search-ads"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Product ads showing an image, price, and store name right in search results.",
+        "example": "Shopping ads outsold text ads once the product feed was clean."
+      },
+      "ru": {
+        "definition": "Объявления с картинкой, ценой и магазином прямо в поисковой выдаче.",
+        "example": "Товарные объявления обошли текстовые, как только вычистили фид.",
+        "term": "Товарные объявления (Shopping)"
+      },
+      "ja": {
+        "definition": "検索結果の中に、商品の画像・価格・店名を並べて出す広告のこと。",
+        "example": "商品フィードを整えたら、ショッピング広告がテキスト広告を上回った。",
+        "term": "ショッピング広告"
+      },
+      "ko": {
+        "definition": "검색 결과 안에 이미지·가격·상점 이름을 곧바로 보여주는 상품 광고.",
+        "example": "상품 피드를 깔끔하게 정리하자 쇼핑 광고가 텍스트 광고보다 잘 팔렸다.",
+        "term": "쇼핑 광고"
+      },
+      "fr": {
+        "definition": "Des annonces produit qui montrent image, prix et boutique directement dans les résultats.",
+        "example": "Les annonces Shopping ont surpassé le texte dès que le flux produit fut propre.",
+        "term": "Annonces Shopping"
+      },
+      "es": {
+        "definition": "Anuncios de producto con imagen, precio y nombre de la tienda dentro de los resultados de búsqueda.",
+        "example": "Los anuncios de Shopping vendieron más que los de texto tras limpiar el feed.",
+        "term": "Anuncios de Shopping"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-087",
+    "deck": "digital-marketing",
+    "term": "Performance Max (PMax)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ppc",
+      "paid",
+      "bidding"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A Google campaign type that serves across all its channels using automation and one goal.",
+        "example": "Performance Max spent everywhere at once, making channel reads hard."
+      },
+      "ru": {
+        "definition": "Тип кампании Google, крутящий рекламу по всем каналам на автоматике под одну цель.",
+        "example": "Performance Max тратил везде разом — читать каналы по отдельности было трудно.",
+        "term": "Performance Max (PMax)"
+      },
+      "ja": {
+        "definition": "1つの目標のもと、自動でGoogleの全チャネルに配信するキャンペーン種別のこと。",
+        "example": "Performance Maxが一斉に配信し、チャネル別の読み解きが難しくなった。",
+        "term": "Performance Max"
+      },
+      "ko": {
+        "definition": "자동화와 하나의 목표로 구글의 모든 채널에 광고를 내보내는 캠페인 유형.",
+        "example": "Performance Max가 사방에 한꺼번에 뿌려대 채널별로 읽어내기가 어려웠다.",
+        "term": "Performance Max"
+      },
+      "fr": {
+        "definition": "Un type de campagne Google qui diffuse sur tous ses canaux via l'automatisation et un seul objectif.",
+        "example": "Performance Max dépensait partout à la fois, brouillant la lecture par canal.",
+        "term": "Performance Max (PMax)"
+      },
+      "es": {
+        "definition": "Tipo de campaña de Google que sirve en todos sus canales con automatización y un solo objetivo.",
+        "example": "Performance Max gastaba en todo a la vez y costaba leer cada canal.",
+        "term": "Performance Max (PMax)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-088",
+    "deck": "digital-marketing",
+    "term": "Retargeting",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "paid",
+      "targeting",
+      "retention"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Showing ads to people who already visited your site or app, matched by a pixel or audience list.",
+        "example": "Retargeting followed cart abandoners with the exact item they left."
+      },
+      "ru": {
+        "definition": "Показ рекламы тем, кто уже был на сайте или в приложении, по пикселю или списку аудитории.",
+        "example": "Ретаргетинг догонял бросивших корзину тем самым товаром.",
+        "term": "Ретаргетинг"
+      },
+      "ja": {
+        "definition": "ピクセルやリストで捉えた、以前サイトやアプリを訪れた人に広告を出すことのこと。",
+        "example": "カゴ落ちした人に、置いていった商品そのままの広告を追わせた。",
+        "term": "リターゲティング"
+      },
+      "ko": {
+        "definition": "이미 사이트나 앱에 다녀간 사람을 픽셀이나 오디언스 목록으로 잡아 광고를 다시 보여주는 것.",
+        "example": "리타게팅이 장바구니를 버린 사람에게 두고 간 바로 그 상품을 따라다니며 보여줬다.",
+        "term": "리타게팅"
+      },
+      "fr": {
+        "definition": "Montrer des annonces aux visiteurs déjà passés sur votre site, repérés par un pixel ou une audience.",
+        "example": "Le retargeting relançait les paniers abandonnés avec l'article exact laissé de côté.",
+        "term": "Retargeting (reciblage)"
+      },
+      "es": {
+        "definition": "Mostrar anuncios a quienes ya visitaron tu sitio o app, identificados por píxel o lista de audiencia.",
+        "example": "El retargeting siguió a quien dejó el carrito con el mismo artículo abandonado.",
+        "term": "Retargeting"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-089",
+    "deck": "digital-marketing",
+    "term": "Remarketing",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "paid",
+      "targeting",
+      "email"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Winning back past visitors or customers through follow-up email and CRM touches.",
+        "example": "A remarketing email nudged lapsed buyers with a since-you-left offer."
+      },
+      "ru": {
+        "definition": "Возврат прежних клиентов и посетителей через письма и касания в CRM.",
+        "example": "Письмо-ремаркетинг напомнило уснувшим покупателям предложением «вы забыли».",
+        "term": "Ремаркетинг"
+      },
+      "ja": {
+        "definition": "過去の訪問者や顧客を、メールやCRMのフォローで呼び戻す取り組みのこと。",
+        "example": "離れた買い手に、久しぶり向けの特典メールでそっと声をかけた。",
+        "term": "リマーケティング"
+      },
+      "ko": {
+        "definition": "예전 방문자나 고객을 후속 이메일과 CRM 접촉으로 다시 불러오는 것.",
+        "example": "리마케팅 이메일이 떠나간 지 오래된 구매자에게 복귀 혜택을 슬쩍 내밀었다.",
+        "term": "리마케팅"
+      },
+      "fr": {
+        "definition": "Reconquérir d'anciens visiteurs ou clients par des relances e-mail et des actions dans le CRM.",
+        "example": "Un e-mail de remarketing a réveillé les acheteurs perdus avec une offre de retour.",
+        "term": "Remarketing"
+      },
+      "es": {
+        "definition": "Recuperar a visitantes o clientes previos con correos de seguimiento y acciones desde el CRM.",
+        "example": "Un correo de remarketing tentó a compradores dormidos con una oferta de vuelta.",
+        "term": "Remarketing"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-090",
+    "deck": "digital-marketing",
+    "term": "Lookalike audience",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "targeting",
+      "paid",
+      "social"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A new audience the platform builds to resemble your existing customers.",
+        "example": "A lookalike audience off top spenders found buyers we'd have missed."
+      },
+      "ru": {
+        "definition": "Новая аудитория, которую платформа собирает по сходству с вашими клиентами.",
+        "example": "Похожая аудитория по топ-плательщикам нашла покупателей, которых мы упустили бы.",
+        "term": "Похожая аудитория (lookalike)"
+      },
+      "ja": {
+        "definition": "既存顧客に似た特徴を持つ人を、媒体が探し出して作る新しい配信対象のこと。",
+        "example": "上得意をもとにした類似で、見逃していた層の買い手が見つかった。",
+        "term": "類似オーディエンス"
+      },
+      "ko": {
+        "definition": "기존 고객을 닮도록 플랫폼이 새로 만들어주는 오디언스.",
+        "example": "우수 고객을 씨앗 삼은 유사 타겟이 놓칠 뻔한 구매자를 찾아냈다.",
+        "term": "유사 타겟(lookalike)"
+      },
+      "fr": {
+        "definition": "Une audience neuve que la plateforme bâtit pour ressembler à vos clients existants.",
+        "example": "Une audience similaire calquée sur les gros acheteurs a trouvé des clients invisibles jusqu'ici.",
+        "term": "Audience similaire (lookalike)"
+      },
+      "es": {
+        "definition": "Audiencia nueva que la plataforma construye para parecerse a tus clientes actuales.",
+        "example": "Una audiencia similar a los que más gastan halló compradores que se nos escapaban.",
+        "term": "Audiencia similar (lookalike)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-091",
+    "deck": "digital-marketing",
+    "term": "Landing page",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "cro",
+      "conversion",
+      "paid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The standalone page a visitor lands on after clicking an ad or link, built for one action.",
+        "example": "A focused landing page converted far better than the homepage."
+      },
+      "ru": {
+        "definition": "Отдельная страница, куда ведёт объявление или ссылка, заточенная под одно действие.",
+        "example": "Сфокусированный лендинг конвертил заметно лучше главной.",
+        "term": "Посадочная страница (лендинг)"
+      },
+      "ja": {
+        "definition": "広告やリンクから訪れた人が最初に着く、1つの行動に絞って作った独立ページのこと。",
+        "example": "目的を絞ったページのほうが、トップページよりずっとよく決まった。",
+        "term": "ランディングページ"
+      },
+      "ko": {
+        "definition": "광고나 링크를 누른 방문자가 닿는 독립된 페이지로 액션 하나에 맞춰 짠 것.",
+        "example": "목적을 한 곳에 모은 랜딩 페이지가 메인보다 훨씬 잘 전환됐다.",
+        "term": "랜딩 페이지"
+      },
+      "fr": {
+        "definition": "La page autonome où l'on atterrit après un clic sur une annonce, conçue pour une seule action.",
+        "example": "Une page de destination bien ciblée a converti bien mieux que la page d'accueil.",
+        "term": "Page de destination (landing)"
+      },
+      "es": {
+        "definition": "Página autónoma a la que llega el visitante tras un clic, pensada para una sola acción.",
+        "example": "Una landing enfocada convirtió mucho mejor que la página de inicio.",
+        "term": "Página de destino (landing)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-092",
+    "deck": "digital-marketing",
+    "term": "Ad extensions (assets)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ppc",
+      "search-ads"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Extra bits on a search ad — links, phone, prices — that give it more room and reasons to click.",
+        "example": "Sitelink assets sent shoppers straight to the sale page."
+      },
+      "ru": {
+        "definition": "Добавки к поисковому объявлению — ссылки, телефон, цены, — дающие место и повод кликнуть.",
+        "example": "Быстрые ссылки уводили покупателей прямо на страницу распродажи.",
+        "term": "Расширения объявлений (assets)"
+      },
+      "ja": {
+        "definition": "検索広告に足すリンク・電話・価格などで、面積とクリックの理由を増やすもののこと。",
+        "example": "サイトリンクを足したら、買い手をそのままセールページへ送れた。",
+        "term": "広告表示オプション（アセット）"
+      },
+      "ko": {
+        "definition": "링크·전화·가격처럼 검색 광고에 더 붙이는 요소로 자리도 넓혀주고 클릭할 이유도 더해주는 것.",
+        "example": "사이트링크 애셋이 쇼핑객을 곧장 세일 페이지로 보냈다.",
+        "term": "광고 확장(애셋)"
+      },
+      "fr": {
+        "definition": "Des ajouts sur une annonce — liens, téléphone, prix — qui lui donnent plus de place et d'accroches.",
+        "example": "Les liens annexes envoyaient les acheteurs droit sur la page des soldes.",
+        "term": "Extensions d'annonces (assets)"
+      },
+      "es": {
+        "definition": "Añadidos a un anuncio de búsqueda —enlaces, teléfono, precios— que le dan espacio y motivos de clic.",
+        "example": "Los enlaces de sitio llevaron a la gente directa a la página de ofertas.",
+        "term": "Extensiones de anuncio (assets)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-093",
+    "deck": "digital-marketing",
+    "term": "Banner ad",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "display",
+      "paid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A rectangular image ad placed in a fixed slot on a web page.",
+        "example": "The banner ad ran atop every article on the partner site."
+      },
+      "ru": {
+        "definition": "Прямоугольное объявление-картинка в фиксированном месте на странице.",
+        "example": "Баннерная реклама шла над каждой статьёй на сайте-партнёре.",
+        "term": "Баннерная реклама"
+      },
+      "ja": {
+        "definition": "ウェブページの決まった枠に置く、四角い画像の広告のこと。",
+        "example": "提携先の記事すべての先頭に、そのバナー広告が回っていた。",
+        "term": "バナー広告"
+      },
+      "ko": {
+        "definition": "웹 페이지의 고정된 자리에 놓이는 직사각형 이미지 광고.",
+        "example": "제휴 사이트에서는 배너 광고가 기사마다 맨 위에 걸렸다.",
+        "term": "배너 광고"
+      },
+      "fr": {
+        "definition": "Une annonce image rectangulaire posée dans un emplacement fixe d'une page web.",
+        "example": "La bannière publicitaire coiffait chaque article du site partenaire.",
+        "term": "Bannière publicitaire"
+      },
+      "es": {
+        "definition": "Anuncio en imagen rectangular colocado en un hueco fijo de una página web.",
+        "example": "El banner corría en lo alto de cada artículo del sitio socio.",
+        "term": "Banner publicitario"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-094",
+    "deck": "digital-marketing",
+    "term": "Dayparting",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ppc",
+      "targeting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Scheduling ads to run only at the hours or days that perform best.",
+        "example": "Dayparting paused ads overnight, when clicks rarely converted."
+      },
+      "ru": {
+        "definition": "Показ рекламы только в те часы и дни, что дают лучший результат.",
+        "example": "Таргетинг по времени гасил рекламу ночью, когда клики не конвертили.",
+        "term": "Таргетинг по времени (dayparting)"
+      },
+      "ja": {
+        "definition": "成果の出やすい時間や曜日だけに絞って広告を配信する設定のこと。",
+        "example": "クリックがほぼ決まらない深夜は、時間帯設定で配信を止めた。",
+        "term": "時間帯ターゲティング"
+      },
+      "ko": {
+        "definition": "성과가 가장 좋은 시간대나 요일에만 광고가 돌도록 시간을 짜는 것.",
+        "example": "데이파팅으로 클릭이 좀처럼 전환되지 않는 밤 시간에는 광고를 멈췄다.",
+        "term": "시간대 타게팅(데이파팅)"
+      },
+      "fr": {
+        "definition": "Programmer les annonces pour qu'elles ne tournent qu'aux heures ou jours les plus performants.",
+        "example": "Le ciblage horaire coupait les annonces la nuit, quand les clics ne convertissaient plus.",
+        "term": "Ciblage horaire (dayparting)"
+      },
+      "es": {
+        "definition": "Programar los anuncios para que se muestren solo en las horas o días que mejor rinden.",
+        "example": "La segmentación horaria pausó los anuncios de madrugada, cuando casi no convertían.",
+        "term": "Segmentación horaria (dayparting)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-095",
+    "deck": "digital-marketing",
+    "term": "Ad auction",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ppc",
+      "bidding",
+      "adtech"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The real-time process that decides which ads show and in what order for each query.",
+        "example": "Every search fires an ad auction before the page even loads."
+      },
+      "ru": {
+        "definition": "Процесс в реальном времени, решающий, какие объявления показать и в каком порядке.",
+        "example": "Каждый запрос запускает рекламный аукцион ещё до отрисовки страницы.",
+        "term": "Рекламный аукцион"
+      },
+      "ja": {
+        "definition": "検索ごとに、どの広告をどの順で出すかをその場で決める仕組みのこと。",
+        "example": "検索するたび、ページが開く前に広告オークションが走っている。",
+        "term": "広告オークション"
+      },
+      "ko": {
+        "definition": "질의마다 어느 광고가 어떤 순서로 뜰지 그 자리에서 정하는 실시간 과정.",
+        "example": "검색 하나하나가 페이지가 뜨기도 전에 광고 경매를 돌린다.",
+        "term": "광고 경매"
+      },
+      "fr": {
+        "definition": "Le processus en temps réel qui décide quelles annonces sortent, et dans quel ordre, pour chaque requête.",
+        "example": "Chaque recherche lance une enchère publicitaire avant même l'affichage de la page.",
+        "term": "Enchère publicitaire"
+      },
+      "es": {
+        "definition": "Proceso en tiempo real que decide qué anuncios salen y en qué orden para cada consulta.",
+        "example": "Cada búsqueda dispara una subasta antes de que la página siquiera cargue.",
+        "term": "Subasta publicitaria"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-096",
+    "deck": "digital-marketing",
+    "term": "Bidding strategy",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ppc",
+      "bidding"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The rule set guiding how you bid — by clicks, conversions, or a target return.",
+        "example": "We switched the bidding strategy from clicks to target ROAS."
+      },
+      "ru": {
+        "definition": "Набор правил, как назначать ставки — по кликам, конверсиям или целевой отдаче.",
+        "example": "Сменили стратегию ставок с кликов на целевой ROAS.",
+        "term": "Стратегия ставок"
+      },
+      "ja": {
+        "definition": "クリック・成果・目標収益率など、何を基準に入札するかを定めた方針のこと。",
+        "example": "入札戦略を、クリック重視から目標ROASへ切り替えた。",
+        "term": "入札戦略"
+      },
+      "ko": {
+        "definition": "클릭·전환·목표 수익률 중 무엇을 기준으로 입찰할지 이끄는 규칙 묶음.",
+        "example": "입찰 전략을 클릭에서 목표 ROAS로 바꿨다.",
+        "term": "입찰 전략"
+      },
+      "fr": {
+        "definition": "L'ensemble de règles qui guide vos enchères : au clic, à la conversion ou à un retour visé.",
+        "example": "On a fait passer la stratégie d'enchères du clic à un ROAS cible.",
+        "term": "Stratégie d'enchères"
+      },
+      "es": {
+        "definition": "El conjunto de reglas que guía cómo pujas: por clics, conversiones o un retorno objetivo.",
+        "example": "Cambiamos la estrategia de pujas de clics a un ROAS objetivo.",
+        "term": "Estrategia de pujas"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-097",
+    "deck": "digital-marketing",
+    "term": "Programmatic advertising",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "adtech",
+      "programmatic",
+      "paid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Buying and placing ads automatically through software and real-time auctions instead of manual deals.",
+        "example": "Programmatic advertising bought the same viewer across a dozen sites."
+      },
+      "ru": {
+        "definition": "Покупка и размещение рекламы автоматически через софт и аукционы вместо ручных сделок.",
+        "example": "Программатик покупал одного и того же зрителя на десятке площадок.",
+        "term": "Программатик"
+      },
+      "ja": {
+        "definition": "手作業の交渉ではなく、ソフトと即時オークションで広告枠を自動で買い付ける方式のこと。",
+        "example": "プログラマティックで、同じ視聴者を十数サイトにまたいで買えた。",
+        "term": "プログラマティック広告"
+      },
+      "ko": {
+        "definition": "사람이 흥정하는 대신 소프트웨어와 실시간 경매로 광고를 자동으로 사고 거는 것.",
+        "example": "프로그래매틱 광고가 사이트 열두 곳에 걸쳐 같은 시청자를 사들였다.",
+        "term": "프로그래매틱 광고"
+      },
+      "fr": {
+        "definition": "Acheter et placer des annonces par logiciel et enchères en direct, sans négociation manuelle.",
+        "example": "La publicité programmatique a suivi le même spectateur sur une douzaine de sites.",
+        "term": "Publicité programmatique"
+      },
+      "es": {
+        "definition": "Comprar y colocar anuncios de forma automática por software y subastas en vivo, sin tratos manuales.",
+        "example": "La programática compró al mismo espectador en una docena de sitios.",
+        "term": "Publicidad programática"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-098",
+    "deck": "digital-marketing",
+    "term": "RTB (Real-Time Bidding)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "adtech",
+      "programmatic"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An auction that prices and sells a single ad impression in the moment a page loads.",
+        "example": "RTB settled the whole auction before the article finished rendering."
+      },
+      "ru": {
+        "definition": "Аукцион, продающий один показ в тот миг, когда грузится страница.",
+        "example": "RTB закрывал весь аукцион раньше, чем дорисовывалась статья.",
+        "term": "RTB (аукцион в реальном времени)"
+      },
+      "ja": {
+        "definition": "ページが開くその瞬間に、1回の広告表示の値付けと売買を済ませるオークションのこと。",
+        "example": "記事が描画し切る前に、RTBがオークションを終えていた。",
+        "term": "RTB（リアルタイム入札）"
+      },
+      "ko": {
+        "definition": "페이지가 뜨는 그 순간에 광고 노출 한 건에 값을 매기고 파는 경매.",
+        "example": "RTB가 기사가 다 그려지기도 전에 경매를 통째로 마무리했다.",
+        "term": "RTB(실시간 입찰)"
+      },
+      "fr": {
+        "definition": "Une enchère qui tarife et vend une seule impression à l'instant même où la page se charge.",
+        "example": "Le RTB avait bouclé toute l'enchère avant que l'article finisse de s'afficher.",
+        "term": "RTB (enchères en temps réel)"
+      },
+      "es": {
+        "definition": "Subasta que tasa y vende una sola impresión en el momento en que carga la página.",
+        "example": "El RTB cerró toda la subasta antes de que el artículo terminara de pintarse.",
+        "term": "RTB (puja en tiempo real)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-099",
+    "deck": "digital-marketing",
+    "term": "DSP (Demand-Side Platform)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "adtech",
+      "programmatic"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Software advertisers use to buy ad impressions across many exchanges from one place.",
+        "example": "The DSP let one team buy inventory on sites it never contacted."
+      },
+      "ru": {
+        "definition": "Софт, которым рекламодатели скупают показы сразу на многих биржах из одного места.",
+        "example": "DSP позволил закупать инвентарь на сайтах, с которыми никто не связывался.",
+        "term": "DSP (платформа спроса)"
+      },
+      "ja": {
+        "definition": "広告主が多数の取引所をまたいで、1か所から広告枠を買い付けるためのソフトのこと。",
+        "example": "DSPのおかげで、一度も接点のないサイトの枠を1チームで買えた。",
+        "term": "DSP"
+      },
+      "ko": {
+        "definition": "광고주가 여러 거래소에 걸친 광고 노출을 한자리에서 사들이는 데 쓰는 소프트웨어.",
+        "example": "DSP 덕에 한 팀이 한 번도 연락한 적 없는 사이트의 지면까지 샀다.",
+        "term": "DSP"
+      },
+      "fr": {
+        "definition": "Un logiciel qui laisse les annonceurs acheter des impressions sur de nombreuses places, d'un seul endroit.",
+        "example": "Le DSP laissait une équipe acheter de l'inventaire sur des sites jamais contactés.",
+        "term": "DSP (plateforme côté demande)"
+      },
+      "es": {
+        "definition": "Software con el que los anunciantes compran impresiones en muchos exchanges desde un solo lugar.",
+        "example": "El DSP dejó a un equipo comprar espacio en sitios que nunca contactó.",
+        "term": "DSP (plataforma de demanda)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-100",
+    "deck": "digital-marketing",
+    "term": "SSP (Supply-Side Platform)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "adtech",
+      "programmatic"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Software publishers use to sell their ad space into automated auctions.",
+        "example": "The publisher's SSP filled unsold slots without a single sales call."
+      },
+      "ru": {
+        "definition": "Софт, которым площадки продают свои рекламные места в автоматические аукционы.",
+        "example": "SSP заполнял непроданные места без единого звонка отдела продаж.",
+        "term": "SSP (платформа предложения)"
+      },
+      "ja": {
+        "definition": "媒体側が自社の広告枠を、自動オークションに出して売るためのソフトのこと。",
+        "example": "媒体のSSPが、営業なしで売れ残りの枠を埋めていった。",
+        "term": "SSP"
+      },
+      "ko": {
+        "definition": "매체사가 자기 광고 지면을 자동 경매에 내다 파는 데 쓰는 소프트웨어.",
+        "example": "매체사의 SSP가 영업 한 번 없이 안 팔리던 지면을 채웠다.",
+        "term": "SSP"
+      },
+      "fr": {
+        "definition": "Un logiciel qui laisse les éditeurs vendre leur espace publicitaire dans des enchères automatisées.",
+        "example": "Le SSP de l'éditeur remplissait les emplacements invendus sans le moindre appel commercial.",
+        "term": "SSP (plateforme côté offre)"
+      },
+      "es": {
+        "definition": "Software con el que los editores venden su espacio publicitario en subastas automatizadas.",
+        "example": "El SSP del editor llenó huecos sin vender sin una sola llamada comercial.",
+        "term": "SSP (plataforma de oferta)"
+      }
+    }
   }
 ]
