@@ -2185,5 +2185,1100 @@
         "term": "Уставка"
       }
     }
+  },
+  {
+    "id": "robots-101",
+    "deck": "robots",
+    "term": "Actuation",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "control",
+      "actuation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The act of turning a control signal into physical movement or force in a machine.",
+        "example": "One command triggers actuation, and the valve swings open under compressed air."
+      },
+      "ru": {
+        "definition": "Превращение управляющего сигнала в физическое движение или усилие механизма.",
+        "example": "Одна команда — и приведение в действие открывает клапан под сжатым воздухом.",
+        "term": "Приведение в действие"
+      }
+    }
+  },
+  {
+    "id": "robots-102",
+    "deck": "robots",
+    "term": "Real-time control",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "control",
+      "software"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Control that must respond within a strict time limit, or the result is wrong or unsafe.",
+        "example": "Balance needs real-time control: miss the deadline by milliseconds and the biped topples."
+      },
+      "ru": {
+        "definition": "Управление, где система обязана ответить в жёсткий срок, иначе результат неверен или опасен.",
+        "example": "Балансу нужно управление в реальном времени: опоздал на миллисекунды — и двуногий падает.",
+        "term": "Управление в реальном времени"
+      }
+    }
+  },
+  {
+    "id": "robots-103",
+    "deck": "robots",
+    "term": "Work envelope",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kinematics",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The full region of space a robot arm can physically reach and work within.",
+        "example": "The cell is fenced to the arm's work envelope so no one stands where it can swing."
+      },
+      "ru": {
+        "definition": "Вся область пространства, до которой рука робота может физически дотянуться и работать.",
+        "example": "Ячейку огородили по рабочей зоне руки, чтобы никто не стоял на пути её взмаха.",
+        "term": "Рабочая зона"
+      }
+    }
+  },
+  {
+    "id": "robots-104",
+    "deck": "robots",
+    "term": "Repeatability",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "industrial",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How closely a robot returns to the same point each time it repeats a move.",
+        "example": "With 0.02 mm repeatability the arm drops every screw into the same hole all shift."
+      },
+      "ru": {
+        "definition": "Насколько точно робот возвращается в одну и ту же точку при повторении движения.",
+        "example": "При повторяемости 0,02 мм рука кладёт каждый винт в одно отверстие всю смену.",
+        "term": "Повторяемость"
+      }
+    }
+  },
+  {
+    "id": "robots-105",
+    "deck": "robots",
+    "term": "Accuracy",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "control",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How close a robot's actual position comes to the exact target it was told to reach.",
+        "example": "Calibration improved accuracy, so the drill hits the marked spot, not two millimetres off."
+      },
+      "ru": {
+        "definition": "Насколько близко реальное положение робота к точной заданной цели.",
+        "example": "После калибровки точность выросла: сверло бьёт в размеченную точку, а не мимо на два миллиметра.",
+        "term": "Точность"
+      }
+    }
+  },
+  {
+    "id": "robots-106",
+    "deck": "robots",
+    "term": "Calibration",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "control",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Adjusting a robot's measurements against a known reference so its readings match reality.",
+        "example": "After a crash the tech runs calibration so the arm's zero matches the real table again."
+      },
+      "ru": {
+        "definition": "Настройка измерений робота по известному эталону, чтобы показания совпадали с реальностью.",
+        "example": "После удара техник делает калибровку, чтобы нуль руки снова совпал с реальным столом.",
+        "term": "Калибровка"
+      }
+    }
+  },
+  {
+    "id": "robots-107",
+    "deck": "robots",
+    "term": "Homing",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "control",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A startup routine where a robot moves to a known reference position to fix its zero point.",
+        "example": "On power-up each axis runs homing, creeping to its limit switch before any job starts."
+      },
+      "ru": {
+        "definition": "Пусковая процедура: робот идёт в известную опорную точку, чтобы задать свой нуль.",
+        "example": "При включении каждая ось выходит в исходное положение, доползая до концевика перед работой.",
+        "term": "Выход в исходное положение"
+      }
+    }
+  },
+  {
+    "id": "robots-108",
+    "deck": "robots",
+    "term": "Model predictive control (MPC)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "control",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Control that predicts a system's near future with a model and picks actions that keep it on target.",
+        "example": "MPC lets the drone lean into a gust it sees coming instead of correcting after it drifts."
+      },
+      "ru": {
+        "definition": "Управление, которое моделью предсказывает ближайшее будущее и выбирает действия под цель.",
+        "example": "MPC даёт дрону заранее наклониться к порыву ветра, а не выправляться после сноса.",
+        "term": "Управление с прогнозирующей моделью (MPC)"
+      }
+    }
+  },
+  {
+    "id": "robots-109",
+    "deck": "robots",
+    "term": "Programmable logic controller (PLC)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "industrial",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A rugged industrial computer that runs machines by reading inputs and switching outputs on set logic.",
+        "example": "The PLC watches the sensors and fires the press only when the guard is fully closed."
+      },
+      "ru": {
+        "definition": "Промышленный компьютер, который управляет машинами: читает входы и переключает выходы по логике.",
+        "example": "PLC следит за датчиками и запускает пресс, только когда ограждение полностью закрыто.",
+        "term": "Программируемый логический контроллер (PLC)"
+      }
+    }
+  },
+  {
+    "id": "robots-110",
+    "deck": "robots",
+    "term": "SCADA",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "industrial",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A system that monitors and controls plant equipment across a whole site from one central place.",
+        "example": "From the SCADA screen the operator sees every pump in the plant and stops one across town."
+      },
+      "ru": {
+        "definition": "Система, которая с одного центра следит за оборудованием предприятия и управляет им.",
+        "example": "С экрана SCADA оператор видит все насосы завода и останавливает один на другом конце города.",
+        "term": "SCADA"
+      }
+    }
+  },
+  {
+    "id": "robots-111",
+    "deck": "robots",
+    "term": "Human-machine interface (HMI)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "industrial",
+      "hri"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The screen or panel where a person reads a machine's state and sends it commands.",
+        "example": "The operator taps the HMI to switch the line to the next recipe between batches."
+      },
+      "ru": {
+        "definition": "Экран или панель, где человек видит состояние машины и подаёт ей команды.",
+        "example": "Оператор касается HMI, чтобы между партиями перевести линию на следующий рецепт.",
+        "term": "Человеко-машинный интерфейс (HMI)"
+      }
+    }
+  },
+  {
+    "id": "robots-112",
+    "deck": "robots",
+    "term": "Distributed control system (DCS)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "industrial",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Plant-wide control spread across many linked controllers instead of one central unit.",
+        "example": "A refinery runs on a DCS: each unit has its own controller, all tied into one control room."
+      },
+      "ru": {
+        "definition": "Управление заводом, распределённое по многим связанным контроллерам, а не по одному центру.",
+        "example": "НПЗ работает на DCS: у каждой установки свой контроллер, и все сведены в одну операторную.",
+        "term": "Распределённая система управления (DCS)"
+      }
+    }
+  },
+  {
+    "id": "robots-113",
+    "deck": "robots",
+    "term": "Industrial IoT (IIoT)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "industrial",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Factory machines fitted with sensors and network links so their data flows to software for analysis.",
+        "example": "IIoT sensors stream motor vibration to the cloud, and a dashboard flags a bearing wearing out."
+      },
+      "ru": {
+        "definition": "Заводские машины с датчиками и связью: их данные идут в софт для анализа.",
+        "example": "Датчики IIoT шлют вибрацию мотора в облако, и панель отмечает изнашивающийся подшипник.",
+        "term": "Промышленный интернет вещей (IIoT)"
+      }
+    }
+  },
+  {
+    "id": "robots-114",
+    "deck": "robots",
+    "term": "Assembly line",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A production setup where a product moves station to station and each adds one step.",
+        "example": "On the assembly line one station bolts the door while the next drops in the window."
+      },
+      "ru": {
+        "definition": "Производство, где изделие идёт от станции к станции, и каждая добавляет один шаг.",
+        "example": "На сборочной линии одна станция прикручивает дверь, а следующая ставит стекло.",
+        "term": "Сборочная линия"
+      }
+    }
+  },
+  {
+    "id": "robots-115",
+    "deck": "robots",
+    "term": "Conveyor",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "industrial",
+      "mobility"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A powered belt or roller line that carries parts steadily from one point to another.",
+        "example": "Boxes ride the conveyor to the far end, where a robot lifts each onto the pallet."
+      },
+      "ru": {
+        "definition": "Приводная лента или роликовая дорожка, что мерно везёт детали из одной точки в другую.",
+        "example": "Коробки едут по конвейеру в дальний конец, где робот перекладывает каждую на паллету.",
+        "term": "Конвейер"
+      }
+    }
+  },
+  {
+    "id": "robots-116",
+    "deck": "robots",
+    "term": "Welding robot",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "industrial",
+      "manipulation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An industrial arm that joins metal parts by welding along a set path again and again.",
+        "example": "The welding robot lays the same seam on every car body, sparks flying at each pass."
+      },
+      "ru": {
+        "definition": "Промышленная рука, которая соединяет металл сваркой по заданному пути раз за разом.",
+        "example": "Сварочный робот кладёт один и тот же шов на каждый кузов, искры летят с каждым проходом.",
+        "term": "Сварочный робот"
+      }
+    }
+  },
+  {
+    "id": "robots-117",
+    "deck": "robots",
+    "term": "Robotic process automation (RPA)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "industrial",
+      "ai",
+      "software"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Software bots that mimic a person's clicks and keystrokes to run routine computer tasks.",
+        "example": "An RPA bot copies invoice numbers from email into the ledger, a job that ate an hour a day."
+      },
+      "ru": {
+        "definition": "Программные боты, что повторяют клики и ввод человека, выполняя рутинные задачи на компьютере.",
+        "example": "Бот RPA переносит номера счетов из почты в реестр — работа, что съедала час в день.",
+        "term": "Роботизированная автоматизация процессов (RPA)"
+      }
+    }
+  },
+  {
+    "id": "robots-118",
+    "deck": "robots",
+    "term": "Digital twin",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "industrial",
+      "software",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A live virtual copy of a real machine or plant, fed by its sensor data in step with it.",
+        "example": "Engineers test a new cycle on the digital twin before touching the running line."
+      },
+      "ru": {
+        "definition": "Живая виртуальная копия реальной машины или завода, что питается их данными синхронно с ними.",
+        "example": "Инженеры обкатывают новый цикл на цифровом двойнике, не трогая работающую линию.",
+        "term": "Цифровой двойник"
+      }
+    }
+  },
+  {
+    "id": "robots-119",
+    "deck": "robots",
+    "term": "Industry 4.0",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The shift to factories where machines, sensors, and data link up to run and optimise themselves.",
+        "example": "Under Industry 4.0 the machines reorder their own parts when stock on the line runs low."
+      },
+      "ru": {
+        "definition": "Переход к заводам, где машины, датчики и данные связаны и сами ведут и улучшают работу.",
+        "example": "В Индустрии 4.0 станки сами дозаказывают детали, когда запас на линии подходит к концу.",
+        "term": "Индустрия 4.0"
+      }
+    }
+  },
+  {
+    "id": "robots-120",
+    "deck": "robots",
+    "term": "Work cell",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A self-contained group of machines and a robot arranged to finish one production task.",
+        "example": "The welding work cell holds the arm, a turntable, and a fence in one roped-off square."
+      },
+      "ru": {
+        "definition": "Замкнутая группа машин и робота, собранная под одну производственную задачу.",
+        "example": "Сварочная рабочая ячейка держит руку, поворотный стол и ограждение в одном огороженном квадрате.",
+        "term": "Рабочая ячейка"
+      }
+    }
+  },
+  {
+    "id": "robots-121",
+    "deck": "robots",
+    "term": "Throughput",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "How many units a line or machine finishes in a given time, such as parts per hour.",
+        "example": "Adding a second gripper lifted throughput from 300 to 500 packed boxes an hour."
+      },
+      "ru": {
+        "definition": "Сколько единиц линия или машина выпускает за отрезок времени — например, деталей в час.",
+        "example": "Второй захват поднял пропускную способность с 300 до 500 упакованных коробок в час.",
+        "term": "Пропускная способность"
+      }
+    }
+  },
+  {
+    "id": "robots-122",
+    "deck": "robots",
+    "term": "Lights-out manufacturing",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Production that runs fully automated with no people present, so the lights can stay off.",
+        "example": "The shop switches to lights-out at night, and the machines cut parts alone until dawn."
+      },
+      "ru": {
+        "definition": "Полностью автоматическое производство без людей в цеху — свет можно и не включать.",
+        "example": "Ночью цех переходит на безлюдное производство, и станки точат детали одни до рассвета.",
+        "term": "Безлюдное производство"
+      }
+    }
+  },
+  {
+    "id": "robots-123",
+    "deck": "robots",
+    "term": "Fieldbus",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "industrial",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An industrial network that links controllers, sensors, and drives on one shared digital line.",
+        "example": "One fieldbus cable ties forty sensors to the controller instead of forty separate wires."
+      },
+      "ru": {
+        "definition": "Промышленная сеть, что связывает контроллеры, датчики и приводы одной общей цифровой линией.",
+        "example": "Один кабель полевой шины связывает сорок датчиков с контроллером вместо сорока проводов.",
+        "term": "Полевая шина"
+      }
+    }
+  },
+  {
+    "id": "robots-124",
+    "deck": "robots",
+    "term": "Six-axis robot",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "industrial",
+      "manipulation",
+      "kinematics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An arm with six rotating joints, giving it the freedom to reach a point from almost any angle.",
+        "example": "The six-axis robot tilts its wrist to spray inside the bumper where a flat one can't reach."
+      },
+      "ru": {
+        "definition": "Рука с шестью вращающимися сочленениями — она достаёт точку почти с любого угла.",
+        "example": "Шестиосевой робот наклоняет запястье и красит нутро бампера, куда плоский не влезет.",
+        "term": "Шестиосевой робот"
+      }
+    }
+  },
+  {
+    "id": "robots-125",
+    "deck": "robots",
+    "term": "SCARA robot",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "industrial",
+      "manipulation",
+      "types"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A fast arm rigid up and down but flexible sideways, suited to flat assembly work.",
+        "example": "The SCARA robot snaps chips onto the board, quick across the plane, firm on the press-down."
+      },
+      "ru": {
+        "definition": "Быстрая рука, жёсткая вверх-вниз и подвижная в стороны, — под плоскую сборку.",
+        "example": "SCARA-робот сажает чипы на плату: шустрый в плоскости, твёрдый на прижиме вниз.",
+        "term": "SCARA-робот"
+      }
+    }
+  },
+  {
+    "id": "robots-126",
+    "deck": "robots",
+    "term": "Delta robot",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "industrial",
+      "manipulation",
+      "types"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A ceiling-mounted spider of three arms that moves a light gripper at very high speed.",
+        "example": "The delta robot flicks candies into trays dozens a second, its arms a blur overhead."
+      },
+      "ru": {
+        "definition": "Подвешенный к потолку «паук» из трёх рук, что гоняет лёгкий захват на большой скорости.",
+        "example": "Дельта-робот раскидывает конфеты по лоткам десятками в секунду, руки — сплошное мельтешение.",
+        "term": "Дельта-робот"
+      }
+    }
+  },
+  {
+    "id": "robots-127",
+    "deck": "robots",
+    "term": "Cartesian robot",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "industrial",
+      "manipulation",
+      "types"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot that moves along three straight axes at right angles, like an overhead crane.",
+        "example": "The cartesian robot slides across a gantry to lower parts straight into each bin below."
+      },
+      "ru": {
+        "definition": "Робот, что движется по трём прямым осям под прямым углом, словно мостовой кран.",
+        "example": "Декартов робот скользит по порталу и опускает детали прямо в каждый лоток внизу.",
+        "term": "Декартов робот (портальный)"
+      }
+    }
+  },
+  {
+    "id": "robots-128",
+    "deck": "robots",
+    "term": "Artificial intelligence",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "ai",
+      "fundamentals"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Software that performs tasks we link to human thinking, such as recognising things or deciding.",
+        "example": "The sorter's AI tells a ripe tomato from a bruised one and flicks the bad ones aside."
+      },
+      "ru": {
+        "definition": "Программы, что решают задачи, связанные с человеческим мышлением: распознают, выбирают.",
+        "example": "ИИ сортировщика отличает спелый помидор от битого и сбрасывает негодные в сторону.",
+        "term": "Искусственный интеллект (ИИ)"
+      }
+    }
+  },
+  {
+    "id": "robots-129",
+    "deck": "robots",
+    "term": "Machine learning",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Building software that learns patterns from examples instead of being coded rule by rule.",
+        "example": "Fed thousands of photos, machine learning taught the arm to spot a scratched part."
+      },
+      "ru": {
+        "definition": "Способ создавать программы, что выучивают закономерности из примеров, а не из правил вручную.",
+        "example": "Скормили тысячи снимков — и машинное обучение научило руку замечать царапину на детали.",
+        "term": "Машинное обучение"
+      }
+    }
+  },
+  {
+    "id": "robots-130",
+    "deck": "robots",
+    "term": "Reinforcement learning",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ai",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Training where an agent learns by trying actions and getting rewards or penalties for results.",
+        "example": "Through reinforcement learning the robot dog fell a thousand times, then climbed stairs alone."
+      },
+      "ru": {
+        "definition": "Обучение, где агент пробует действия и получает награду или штраф за результат.",
+        "example": "Обучением с подкреплением робопёс упал тысячу раз, а потом сам пошёл по лестнице.",
+        "term": "Обучение с подкреплением"
+      }
+    }
+  },
+  {
+    "id": "robots-131",
+    "deck": "robots",
+    "term": "Embodied AI",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ai",
+      "humanoid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "AI that learns and acts through a physical body, tying perception to real-world movement.",
+        "example": "Embodied AI lets the robot learn a doorknob by turning real ones, not just reading about them."
+      },
+      "ru": {
+        "definition": "ИИ, что учится и действует через физическое тело, связывая восприятие с движением в мире.",
+        "example": "Воплощённый ИИ осваивает дверные ручки, крутя настоящие, а не читая про них.",
+        "term": "Воплощённый ИИ"
+      }
+    }
+  },
+  {
+    "id": "robots-132",
+    "deck": "robots",
+    "term": "Physical AI",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A term for AI built to sense and act in the physical world, not just process text or images.",
+        "example": "Backers call the humanoid push physical AI: models that move real limbs, not just chat."
+      },
+      "ru": {
+        "definition": "Понятие для ИИ, созданного воспринимать и действовать в физическом мире, а не только в тексте.",
+        "example": "Ставку на гуманоидов зовут физическим ИИ: модели двигают реальными конечностями, а не болтают.",
+        "term": "Физический ИИ"
+      }
+    }
+  },
+  {
+    "id": "robots-133",
+    "deck": "robots",
+    "term": "Vision-language-action model (VLA)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ai",
+      "humanoid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A model that takes in camera images and a spoken instruction and outputs robot movements.",
+        "example": "Told to put the mug in the sink, the VLA looks, finds the mug, and drives the arm to do it."
+      },
+      "ru": {
+        "definition": "Модель, что берёт изображения с камеры и команду словами и выдаёт движения робота.",
+        "example": "На «поставь кружку в раковину» VLA смотрит, находит кружку и ведёт руку к цели.",
+        "term": "VLA"
+      }
+    }
+  },
+  {
+    "id": "robots-134",
+    "deck": "robots",
+    "term": "Foundation model",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A large model trained on broad data that many narrower tasks are later adapted from.",
+        "example": "One foundation model, fine-tuned per site, now drives arms in a dozen different plants."
+      },
+      "ru": {
+        "definition": "Крупная модель, обученная на широких данных, под которую затем подгоняют узкие задачи.",
+        "example": "Одна базовая модель, дообученная под каждый объект, ведёт руки на десятке разных заводов.",
+        "term": "Базовая модель"
+      }
+    }
+  },
+  {
+    "id": "robots-135",
+    "deck": "robots",
+    "term": "Neural network",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A computing model of layered connected units that learns from data to map inputs to outputs.",
+        "example": "A neural network reads the camera feed and names each part sliding past on the belt."
+      },
+      "ru": {
+        "definition": "Вычислительная модель из слоёв связанных узлов, что учится по данным связывать вход с выходом.",
+        "example": "Нейронная сеть читает поток с камеры и называет каждую деталь, что едет по ленте.",
+        "term": "Нейронная сеть"
+      }
+    }
+  },
+  {
+    "id": "robots-136",
+    "deck": "robots",
+    "term": "Imitation learning",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ai",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Teaching a robot a skill by having it copy demonstrations from a person or another system.",
+        "example": "An operator guided the arm through the fold a few times, and imitation learning did the rest."
+      },
+      "ru": {
+        "definition": "Обучение навыку тем, что робот копирует показ человека или другой системы.",
+        "example": "Оператор несколько раз провёл руку через сгиб, а обучение по демонстрациям сделало остальное.",
+        "term": "Обучение по демонстрациям"
+      }
+    }
+  },
+  {
+    "id": "robots-137",
+    "deck": "robots",
+    "term": "Sim-to-real",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ai",
+      "software"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Training a robot's skill in simulation, then transferring it to run on real hardware.",
+        "example": "The gait was learned in sim overnight; sim-to-real put it on the real legs by morning."
+      },
+      "ru": {
+        "definition": "Обучение навыка робота в симуляции с последующим переносом на реальное железо.",
+        "example": "Походку выучили в симуляции за ночь; Sim-to-real к утру перенёс её на настоящие ноги.",
+        "term": "Sim-to-real"
+      }
+    }
+  },
+  {
+    "id": "robots-138",
+    "deck": "robots",
+    "term": "Robot Operating System (ROS)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "software"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An open framework of tools and messaging that ties a robot's software parts together.",
+        "example": "Built on ROS, the team swapped in a new lidar driver without touching the navigation code."
+      },
+      "ru": {
+        "definition": "Открытый фреймворк из инструментов и обмена сообщениями, что связывает части ПО робота.",
+        "example": "На ROS команда подменила драйвер лидара, не трогая код навигации.",
+        "term": "ROS"
+      }
+    }
+  },
+  {
+    "id": "robots-139",
+    "deck": "robots",
+    "term": "Middleware",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "software"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Software that sits between programs and passes data among them so they act as one.",
+        "example": "Middleware routes the camera's frames to both the mapper and the logger at once."
+      },
+      "ru": {
+        "definition": "ПО, что стоит между программами и передаёт данные между ними, сводя их в одно целое.",
+        "example": "Промежуточное ПО раздаёт кадры камеры сразу и картографу, и журналу.",
+        "term": "Промежуточное ПО"
+      }
+    }
+  },
+  {
+    "id": "robots-140",
+    "deck": "robots",
+    "term": "Simulation",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "software",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Running a virtual model of a robot and its world to test behaviour before building it.",
+        "example": "In simulation the arm dropped the part a hundred ways, so the real one never did."
+      },
+      "ru": {
+        "definition": "Прогон виртуальной модели робота и его среды, чтобы проверить поведение до сборки.",
+        "example": "В симуляции рука уронила деталь сотней способов, чтобы настоящая не роняла ни разу.",
+        "term": "Симуляция"
+      }
+    }
+  },
+  {
+    "id": "robots-141",
+    "deck": "robots",
+    "term": "Firmware",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "software",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The low-level code stored on a device that runs its hardware directly.",
+        "example": "A firmware update taught the motor driver a smoother start, cutting the jolt at power-on."
+      },
+      "ru": {
+        "definition": "Низкоуровневый код на устройстве, что напрямую управляет его аппаратной частью.",
+        "example": "Обновление прошивки научило драйвер мотора плавному старту и убрало рывок при включении.",
+        "term": "Прошивка"
+      }
+    }
+  },
+  {
+    "id": "robots-142",
+    "deck": "robots",
+    "term": "Edge computing",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "ai",
+      "software"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Processing data on or near the device itself instead of sending it to a distant server.",
+        "example": "Edge computing lets the robot spot an obstacle on board, without waiting on the network."
+      },
+      "ru": {
+        "definition": "Обработка данных на самом устройстве или рядом, а не отправкой на далёкий сервер.",
+        "example": "Периферийные вычисления дают роботу заметить препятствие на борту, не ожидая сети.",
+        "term": "Периферийные вычисления"
+      }
+    }
+  },
+  {
+    "id": "robots-143",
+    "deck": "robots",
+    "term": "World model",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An internal model a system builds to predict how its surroundings will change and respond.",
+        "example": "Its world model lets the robot guess a rolling ball's path and reach for where it will be."
+      },
+      "ru": {
+        "definition": "Внутренняя модель, что система строит, чтобы предсказать, как изменится и ответит среда.",
+        "example": "Модель мира даёт роботу угадать путь катящегося мяча и потянуться туда, где тот окажется.",
+        "term": "Модель мира"
+      }
+    }
+  },
+  {
+    "id": "robots-144",
+    "deck": "robots",
+    "term": "Emergency stop (E-stop)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "safety",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A large manual button that instantly cuts a machine's power or motion in a crisis.",
+        "example": "She slapped the emergency stop the second a glove snagged, and the line froze at once."
+      },
+      "ru": {
+        "definition": "Большая ручная кнопка, что мгновенно снимает питание или движение машины при опасности.",
+        "example": "Она хлопнула по аварийному останову, едва зацепилась перчатка, и линия замерла разом.",
+        "term": "Аварийный останов"
+      }
+    }
+  },
+  {
+    "id": "robots-145",
+    "deck": "robots",
+    "term": "Safety cage",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "safety",
+      "industrial"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A physical barrier around a robot that keeps people out of its moving range while it runs.",
+        "example": "Open the safety cage door and an interlock halts the arm before you can step inside."
+      },
+      "ru": {
+        "definition": "Физический барьер вокруг робота, что не пускает людей в зону движения на ходу.",
+        "example": "Откроешь дверь защитного ограждения — и блокировка остановит руку раньше, чем шагнёшь внутрь.",
+        "term": "Защитное ограждение"
+      }
+    }
+  },
+  {
+    "id": "robots-146",
+    "deck": "robots",
+    "term": "Collision detection",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "safety",
+      "sensing"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A robot sensing an unexpected contact and reacting, usually by stopping, to limit harm.",
+        "example": "Collision detection felt the arm bump a stray box and stopped it before anything bent."
+      },
+      "ru": {
+        "definition": "Робот чувствует нежданный контакт и реагирует — обычно остановкой, — чтобы снизить вред.",
+        "example": "Обнаружение столкновений уловило, что рука задела коробку, и остановило её без поломок.",
+        "term": "Обнаружение столкновений"
+      }
+    }
+  },
+  {
+    "id": "robots-147",
+    "deck": "robots",
+    "term": "Fail-safe",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "safety",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Designed so that if it breaks, it settles into a safe state rather than a dangerous one.",
+        "example": "The brake is fail-safe: lose power and a spring clamps it, so the load can't fall."
+      },
+      "ru": {
+        "definition": "Устроено так, что при поломке оно переходит в безопасное состояние, а не в опасное.",
+        "example": "Тормоз отказобезопасен: пропадёт питание — пружина зажмёт его, и груз не сорвётся.",
+        "term": "Отказобезопасность"
+      }
+    }
+  },
+  {
+    "id": "robots-148",
+    "deck": "robots",
+    "term": "Human-robot interaction (HRI)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "hri",
+      "ai"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The study and design of how people and robots communicate and work together safely.",
+        "example": "Good HRI has the cobot slow and nod when a worker steps in, so the handoff feels natural."
+      },
+      "ru": {
+        "definition": "Изучение и проектирование того, как люди и роботы общаются и безопасно работают вместе.",
+        "example": "Хорошее HRI велит коботу замедлиться и кивнуть при подходе рабочего — передача выходит естественной.",
+        "term": "Взаимодействие человека и робота (HRI)"
+      }
+    }
+  },
+  {
+    "id": "robots-149",
+    "deck": "robots",
+    "term": "Redundancy",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "safety",
+      "control"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Extra backup parts or paths so the system keeps working if one of them fails.",
+        "example": "Two motors drive the joint for redundancy; if one dies, the other still holds the arm up."
+      },
+      "ru": {
+        "definition": "Запасные части или пути, чтобы система работала дальше при отказе одного из них.",
+        "example": "Сустав тянут два мотора для резервирования: откажет один — другой удержит руку.",
+        "term": "Резервирование"
+      }
+    }
+  },
+  {
+    "id": "robots-150",
+    "deck": "robots",
+    "term": "Predictive maintenance",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "industrial",
+      "ai",
+      "safety"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Using sensor data to predict when a part will fail and service it just before it does.",
+        "example": "Predictive maintenance heard the fan bearing whine and booked a swap before it seized."
+      },
+      "ru": {
+        "definition": "Использование данных датчиков, чтобы предсказать отказ детали и заменить её незадолго до него.",
+        "example": "Предиктивное обслуживание расслышало вой подшипника вентилятора и назначило замену до заклинивания.",
+        "term": "Предиктивное обслуживание"
+      }
+    }
   }
 ]

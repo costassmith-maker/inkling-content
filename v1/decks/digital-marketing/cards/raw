@@ -4240,5 +4240,2131 @@
         "term": "SSP (plataforma de oferta)"
       }
     }
+  },
+  {
+    "id": "digital-marketing-101",
+    "deck": "digital-marketing",
+    "term": "Ad exchange",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "adtech",
+      "programmatic"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A digital marketplace that matches ad buyers and sellers and auctions each impression automatically.",
+        "example": "The ad exchange paired our bid with a slot on a site we'd never heard of."
+      },
+      "ru": {
+        "definition": "Цифровая площадка: автоматически сводит покупателей и продавцов рекламы и разыгрывает каждый показ на аукционе.",
+        "example": "Биржа свела нашу ставку с местом на сайте, о котором мы и не слышали.",
+        "term": "Рекламная биржа (ad exchange)"
+      },
+      "ja": {
+        "definition": "広告の買い手と売り手を自動でつなぎ、表示1回ごとにオークションで取引するデジタル市場のこと。",
+        "example": "アドエクスチェンジが、聞いたこともないサイトの枠と私たちの入札を結び付けた。",
+        "term": "アドエクスチェンジ"
+      },
+      "ko": {
+        "definition": "광고 구매자와 판매자를 자동으로 연결하고 노출 하나하나를 경매에 부치는 디지털 장터.",
+        "example": "애드 익스체인지가 우리 입찰을 처음 들어보는 사이트의 지면과 맺어 줬다.",
+        "term": "애드 익스체인지"
+      },
+      "fr": {
+        "definition": "Une place numérique qui met en relation acheteurs et vendeurs d'espace et met chaque impression aux enchères, en automatique.",
+        "example": "L'ad exchange a marié notre offre à un emplacement sur un site inconnu de nous.",
+        "term": "Ad exchange (place de marché)"
+      },
+      "es": {
+        "definition": "Mercado digital que cruza a compradores y vendedores de anuncios y subasta cada impresión de forma automática.",
+        "example": "El ad exchange emparejó nuestra puja con un hueco en un sitio que ni conocíamos.",
+        "term": "Ad exchange"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-102",
+    "deck": "digital-marketing",
+    "term": "First-party data",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "privacy",
+      "adtech",
+      "data"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Customer data a company collects directly from its own audience, site, or app.",
+        "example": "With cookies fading, the team leaned on first-party data from signups."
+      },
+      "ru": {
+        "definition": "Данные о клиентах, которые компания собирает напрямую — со своего сайта, приложения, из своей аудитории.",
+        "example": "Cookie уходят, и команда сделала ставку на данные первой стороны из регистраций.",
+        "term": "Данные первой стороны (first-party)"
+      },
+      "ja": {
+        "definition": "企業が自社のサイトやアプリ、自前の顧客層から直接集めた顧客データのこと。",
+        "example": "Cookieが消えていく中、チームは登録で得たファーストパーティデータに頼った。",
+        "term": "ファーストパーティデータ"
+      },
+      "ko": {
+        "definition": "기업이 자기 사이트나 앱, 자기 고객에게서 직접 모은 고객 데이터.",
+        "example": "쿠키가 저무는 흐름에 팀은 가입에서 모은 퍼스트파티 데이터에 기댔다.",
+        "term": "퍼스트파티 데이터"
+      },
+      "fr": {
+        "definition": "Données clients qu'une entreprise recueille directement, auprès de son audience, de son site ou de son appli.",
+        "example": "Les cookies s'effaçant, l'équipe a misé sur les données first-party issues des inscriptions.",
+        "term": "Données first-party"
+      },
+      "es": {
+        "definition": "Datos de clientes que una empresa recoge por sí misma, desde su propia audiencia, web o app.",
+        "example": "Con las cookies en retirada, el equipo se apoyó en datos propios de los registros.",
+        "term": "Datos propios (first-party)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-103",
+    "deck": "digital-marketing",
+    "term": "Third-party cookie",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "privacy",
+      "adtech",
+      "tracking"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A tracking file set by a domain other than the site you're on, used to follow users across sites.",
+        "example": "Chrome's plan to drop the third-party cookie forced a rethink of tracking."
+      },
+      "ru": {
+        "definition": "Файл-трекер, который ставит не тот сайт, что вы открыли, а чужой домен — чтобы следить за вами по разным сайтам.",
+        "example": "План Chrome убрать сторонние cookie заставил переосмыслить всё отслеживание.",
+        "term": "Сторонние cookie"
+      },
+      "ja": {
+        "definition": "開いているサイトではなく別のドメインが仕込む追跡ファイルで、サイトをまたいで人を追うために使われる。",
+        "example": "ChromeがサードパーティCookie廃止を打ち出し、追跡の仕組みを見直すことになった。",
+        "term": "サードパーティCookie"
+      },
+      "ko": {
+        "definition": "지금 보는 사이트가 아니라 다른 도메인이 심어, 여러 사이트를 넘나들며 사용자를 쫓는 추적 파일.",
+        "example": "Chrome이 서드파티 쿠키를 없애겠다 하자 추적 방식을 다시 짜야 했다.",
+        "term": "서드파티 쿠키"
+      },
+      "fr": {
+        "definition": "Fichier de suivi déposé par un domaine autre que le site consulté, pour suivre les gens d'un site à l'autre.",
+        "example": "Le projet de Chrome de retirer le cookie tiers a forcé à repenser tout le suivi.",
+        "term": "Cookie tiers"
+      },
+      "es": {
+        "definition": "Archivo de rastreo que coloca un dominio distinto del sitio que visitas, para seguirte entre webs.",
+        "example": "El plan de Chrome de eliminar la cookie de terceros obligó a repensar el rastreo.",
+        "term": "Cookie de terceros"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-104",
+    "deck": "digital-marketing",
+    "term": "Cookieless",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "privacy",
+      "adtech"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Tracking and targeting that work without third-party cookies, relying on other signals or first-party data.",
+        "example": "The vendor pitched a cookieless setup built on email logins instead."
+      },
+      "ru": {
+        "definition": "Отслеживание и таргетинг, которые работают без сторонних cookie — на других сигналах или данных первой стороны.",
+        "example": "Вендор предложил схему без cookie, построенную на входах по email.",
+        "term": "Мир без cookie (cookieless)"
+      },
+      "ja": {
+        "definition": "サードパーティCookieに頼らず、別のシグナルやファーストパーティデータで働く追跡・ターゲティングのこと。",
+        "example": "業者は、代わりにemailログインを土台にしたクッキーレスの仕組みを提案してきた。",
+        "term": "クッキーレス"
+      },
+      "ko": {
+        "definition": "서드파티 쿠키 없이 다른 신호나 퍼스트파티 데이터로 돌아가는 추적·타게팅.",
+        "example": "업체는 email 로그인에 기댄 쿠키리스 방식을 대안으로 내놨다.",
+        "term": "쿠키리스"
+      },
+      "fr": {
+        "definition": "Suivi et ciblage qui fonctionnent sans cookies tiers, en s'appuyant sur d'autres signaux ou les données first-party.",
+        "example": "Le prestataire proposait un dispositif sans cookie, bâti sur les connexions par email.",
+        "term": "Cookieless (sans cookie)"
+      },
+      "es": {
+        "definition": "Rastreo y segmentación que funcionan sin cookies de terceros, apoyados en otras señales o datos propios.",
+        "example": "El proveedor propuso un montaje sin cookies basado en inicios de sesión por email.",
+        "term": "Cookieless (sin cookies)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-105",
+    "deck": "digital-marketing",
+    "term": "CDP (Customer Data Platform)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "adtech",
+      "data",
+      "crm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Software that unifies customer data from many sources into one profile marketing can act on.",
+        "example": "The CDP stitched app, web, and email history into a single customer view."
+      },
+      "ru": {
+        "definition": "Софт, который сводит клиентские данные из разных источников в единый профиль, готовый к работе маркетинга.",
+        "example": "CDP собрал историю из приложения, сайта и почты в один профиль клиента.",
+        "term": "CDP (платформа клиентских данных)"
+      },
+      "ja": {
+        "definition": "多くの情報源にある顧客データをひとつのプロフィールにまとめ、マーケが使える形にするソフトのこと。",
+        "example": "CDPが、アプリ・ウェブ・メールの履歴を1つの顧客像につなぎ合わせた。",
+        "term": "CDP"
+      },
+      "ko": {
+        "definition": "여러 출처에 흩어진 고객 데이터를 하나의 프로필로 묶어 마케팅이 바로 쓰게 해 주는 소프트웨어. (Customer Data Platform)",
+        "example": "CDP가 앱·웹·메일 이력을 한 명의 고객 프로필로 이어 붙였다.",
+        "term": "CDP"
+      },
+      "fr": {
+        "definition": "Logiciel qui réunit les données clients de nombreuses sources en un profil unique, exploitable par le marketing.",
+        "example": "La CDP a rassemblé l'historique appli, web et email en une seule vue du client.",
+        "term": "CDP (plateforme de données clients)"
+      },
+      "es": {
+        "definition": "Software que unifica los datos de cada cliente desde muchas fuentes en un perfil listo para usar.",
+        "example": "El CDP juntó el historial de app, web y email en una sola vista del cliente.",
+        "term": "CDP (plataforma de datos de clientes)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-106",
+    "deck": "digital-marketing",
+    "term": "DMP (Data Management Platform)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "adtech",
+      "data"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Software that collects and organizes mostly anonymous audience data to build ad-targeting segments.",
+        "example": "The DMP grouped anonymous visitors into segments the ad team could target."
+      },
+      "ru": {
+        "definition": "Софт, который собирает и упорядочивает в основном анонимные данные аудитории, чтобы строить сегменты для таргетинга.",
+        "example": "DMP разложил анонимных посетителей по сегментам, на которые целилась команда.",
+        "term": "DMP (платформа управления данными)"
+      },
+      "ja": {
+        "definition": "主に匿名の閲覧者データを集めて整理し、広告のターゲティング用セグメントを作るソフトのこと。",
+        "example": "DMPが匿名の訪問者を、広告チームが狙えるセグメントへ振り分けた。",
+        "term": "DMP"
+      },
+      "ko": {
+        "definition": "주로 익명인 오디언스 데이터를 모아 정리해 광고 타게팅용 세그먼트를 만드는 소프트웨어. (Data Management Platform)",
+        "example": "DMP가 익명 방문자를 광고팀이 겨냥할 세그먼트로 갈라 줬다.",
+        "term": "DMP"
+      },
+      "fr": {
+        "definition": "Logiciel qui collecte et organise des données d'audience surtout anonymes, pour bâtir des segments de ciblage.",
+        "example": "La DMP a rangé les visiteurs anonymes en segments que l'équipe pub pouvait viser.",
+        "term": "DMP (plateforme de gestion de données)"
+      },
+      "es": {
+        "definition": "Software que reúne y ordena datos de audiencia, casi siempre anónimos, para armar segmentos de anuncios.",
+        "example": "El DMP agrupó a los visitantes anónimos en los segmentos que buscaba el equipo.",
+        "term": "DMP (plataforma de gestión de datos)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-107",
+    "deck": "digital-marketing",
+    "term": "Viewability",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "adtech",
+      "display",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A measure of whether an ad actually appeared on screen where a person could see it.",
+        "example": "Half the impressions billed, but low viewability meant few were ever seen."
+      },
+      "ru": {
+        "definition": "Мера того, действительно ли объявление появилось на экране там, где человек мог его увидеть.",
+        "example": "Показы списали наполовину, но низкая видимость значила: их почти никто не видел.",
+        "term": "Видимость показа (viewability)"
+      },
+      "ja": {
+        "definition": "広告が本当に画面に表示され、人が見られる位置に出ていたかを測る指標のこと。",
+        "example": "表示の半分は課金されたが、ビューアビリティが低く、実際に見られたのはわずかだった。",
+        "term": "ビューアビリティ"
+      },
+      "ko": {
+        "definition": "광고가 정말 사람이 볼 수 있는 자리에 화면에 떴는지를 재는 지표.",
+        "example": "노출은 절반이 과금됐지만 낮은 뷰어빌리티는 실제로 본 사람이 적었다는 뜻이었다.",
+        "term": "뷰어빌리티(가시성)"
+      },
+      "fr": {
+        "definition": "Mesure du fait qu'une publicité soit vraiment apparue à l'écran, là où une personne pouvait la voir.",
+        "example": "On a facturé la moitié des impressions, mais une faible visibilité signifiait peu de vues réelles.",
+        "term": "Visibilité (viewability)"
+      },
+      "es": {
+        "definition": "Medida de si un anuncio de verdad apareció en pantalla donde una persona pudo verlo.",
+        "example": "Se cobró la mitad de las impresiones, pero la baja visibilidad las dejó casi sin ver.",
+        "term": "Visibilidad (viewability)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-108",
+    "deck": "digital-marketing",
+    "term": "Brand safety",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "adtech",
+      "brand",
+      "display"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Keeping ads away from content that could damage a brand by association.",
+        "example": "A brand-safety filter blocked the ads from running next to war footage."
+      },
+      "ru": {
+        "definition": "Забота о том, чтобы реклама не оказывалась рядом с контентом, который вредит бренду соседством.",
+        "example": "Фильтр безопасности бренда не пустил рекламу рядом с кадрами войны.",
+        "term": "Безопасность бренда"
+      },
+      "ja": {
+        "definition": "隣り合わせることでブランドを傷つけかねない内容の近くに、広告を出さないよう守ること。",
+        "example": "ブランドセーフティのフィルタが、戦争の映像の隣に広告が出るのを止めた。",
+        "term": "ブランドセーフティ"
+      },
+      "ko": {
+        "definition": "엮이기만 해도 브랜드에 해가 될 콘텐츠 곁에 광고가 뜨지 않게 지키는 것.",
+        "example": "브랜드 세이프티 필터가 전쟁 영상 옆에 광고가 붙는 걸 막았다.",
+        "term": "브랜드 세이프티"
+      },
+      "fr": {
+        "definition": "Veiller à ce que les pubs ne côtoient pas de contenus qui, par simple voisinage, nuiraient à la marque.",
+        "example": "Un filtre de brand safety a empêché les pubs de s'afficher près d'images de guerre.",
+        "term": "Brand safety (sécurité de marque)"
+      },
+      "es": {
+        "definition": "Mantener los anuncios lejos de contenido que podría dañar a la marca por simple cercanía.",
+        "example": "Un filtro de brand safety impidió que los anuncios salieran junto a imágenes de guerra.",
+        "term": "Brand safety (seguridad de marca)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-109",
+    "deck": "digital-marketing",
+    "term": "Frequency capping",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "adtech",
+      "display",
+      "paid"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A limit on how many times the same person sees a given ad over a period.",
+        "example": "Frequency capping stopped one user from seeing the same banner twenty times."
+      },
+      "ru": {
+        "definition": "Лимит на то, сколько раз один человек увидит одно и то же объявление за период.",
+        "example": "Ограничение частоты не дало одному пользователю увидеть баннер двадцать раз.",
+        "term": "Ограничение частоты"
+      },
+      "ja": {
+        "definition": "同じ人が一定期間に同じ広告を目にする回数の上限を決めること。",
+        "example": "フリークエンシーキャップが、1人に同じバナーを20回見せてしまう事態を防いだ。",
+        "term": "フリークエンシーキャップ"
+      },
+      "ko": {
+        "definition": "한 사람이 같은 광고를 일정 기간에 몇 번까지 볼지 정한 한도.",
+        "example": "프리퀀시 캡이 한 사용자가 같은 배너를 스무 번씩 보는 걸 막았다.",
+        "term": "프리퀀시 캡(노출 제한)"
+      },
+      "fr": {
+        "definition": "Plafond sur le nombre de fois qu'une même personne voit une publicité donnée sur une période.",
+        "example": "La limitation de fréquence a évité qu'un même internaute voie la bannière vingt fois.",
+        "term": "Limitation de fréquence"
+      },
+      "es": {
+        "definition": "Tope de cuántas veces una misma persona ve un anuncio dado en un período.",
+        "example": "El límite de frecuencia evitó que un usuario viera el banner veinte veces.",
+        "term": "Límite de frecuencia"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-110",
+    "deck": "digital-marketing",
+    "term": "Contextual targeting",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "targeting",
+      "adtech",
+      "privacy"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Placing ads by the content of a page rather than by data about the individual viewer.",
+        "example": "Contextual targeting put the running-shoe ad on a marathon-training article."
+      },
+      "ru": {
+        "definition": "Показ рекламы по содержанию страницы, а не по данным о самом человеке.",
+        "example": "Контекстный таргетинг поставил рекламу кроссовок в статью о подготовке к марафону.",
+        "term": "Контекстный таргетинг"
+      },
+      "ja": {
+        "definition": "見ている人の個人データではなく、ページの内容に合わせて広告を出す手法のこと。",
+        "example": "コンテキストターゲティングが、マラソン練習の記事にランニングシューズの広告を載せた。",
+        "term": "コンテキストターゲティング"
+      },
+      "ko": {
+        "definition": "보는 사람에 관한 데이터가 아니라 페이지 내용에 맞춰 광고를 붙이는 방식.",
+        "example": "문맥 타게팅이 마라톤 훈련 기사에 러닝화 광고를 얹었다.",
+        "term": "문맥 타게팅(컨텍스추얼)"
+      },
+      "fr": {
+        "definition": "Placer les pubs selon le contenu d'une page plutôt que selon les données de la personne qui la lit.",
+        "example": "Le ciblage contextuel a posé la pub de baskets sur un article de préparation au marathon.",
+        "term": "Ciblage contextuel"
+      },
+      "es": {
+        "definition": "Colocar anuncios según el contenido de la página, no según datos sobre quien la ve.",
+        "example": "La segmentación contextual puso el anuncio de zapatillas en un artículo sobre maratón.",
+        "term": "Segmentación contextual"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-111",
+    "deck": "digital-marketing",
+    "term": "Influencer marketing",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "influencer"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Paying or partnering with people who have an engaged following to promote a product.",
+        "example": "One influencer's honest review drove more signups than a month of ads."
+      },
+      "ru": {
+        "definition": "Продвижение продукта через людей с вовлечённой аудиторией — за плату или по партнёрству.",
+        "example": "Один честный обзор у инфлюенсера дал больше регистраций, чем месяц рекламы.",
+        "term": "Инфлюенсер-маркетинг"
+      },
+      "ja": {
+        "definition": "熱心なフォロワーを持つ人に報酬や提携を通じて、商品を広めてもらう手法のこと。",
+        "example": "あるインフルエンサーの正直なレビューが、1か月分の広告より多くの登録を生んだ。",
+        "term": "インフルエンサーマーケティング"
+      },
+      "ko": {
+        "definition": "팬층이 탄탄한 사람에게 값을 치르거나 손잡고 제품을 알리는 방식.",
+        "example": "인플루언서 한 명의 솔직한 후기가 한 달 광고보다 많은 가입을 불렀다.",
+        "term": "인플루언서 마케팅"
+      },
+      "fr": {
+        "definition": "Payer des personnes à l'audience engagée, ou s'associer à elles, pour promouvoir un produit.",
+        "example": "Un avis sincère d'un influenceur a rapporté plus d'inscrits qu'un mois de publicité.",
+        "term": "Marketing d'influence"
+      },
+      "es": {
+        "definition": "Pagar o aliarse con personas de audiencia comprometida para promocionar un producto.",
+        "example": "Una reseña honesta de un influencer trajo más registros que un mes de anuncios.",
+        "term": "Marketing de influencers"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-112",
+    "deck": "digital-marketing",
+    "term": "UGC (User-Generated Content)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "ugc",
+      "content"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Content about a brand made by its customers or fans rather than the brand itself.",
+        "example": "The brand reposted customer UGC instead of shooting a polished studio ad."
+      },
+      "ru": {
+        "definition": "Контент о бренде, который делают его клиенты и фанаты, а не сам бренд.",
+        "example": "Бренд репостил UGC от клиентов вместо вылизанного студийного ролика.",
+        "term": "UGC (пользовательский контент)"
+      },
+      "ja": {
+        "definition": "ブランド自身ではなく、その顧客やファンが作るブランドに関するコンテンツのこと。",
+        "example": "ブランドは、作り込んだスタジオ広告の代わりに顧客のUGCを再投稿した。",
+        "term": "UGC（ユーザー生成コンテンツ）"
+      },
+      "ko": {
+        "definition": "브랜드가 아니라 그 고객이나 팬이 만든, 브랜드에 관한 콘텐츠. (User-Generated Content)",
+        "example": "브랜드는 매끈한 스튜디오 광고 대신 고객이 만든 UGC를 다시 올렸다.",
+        "term": "UGC(사용자 제작 콘텐츠)"
+      },
+      "fr": {
+        "definition": "Contenu sur une marque produit par ses clients ou ses fans, et non par la marque elle-même.",
+        "example": "La marque a republié l'UGC de clients au lieu de tourner un spot studio léché.",
+        "term": "UGC (contenu généré par les utilisateurs)"
+      },
+      "es": {
+        "definition": "Contenido sobre una marca creado por sus clientes o seguidores, no por la marca misma.",
+        "example": "La marca republicó UGC de clientes en vez de grabar un anuncio pulido de estudio.",
+        "term": "UGC (contenido generado por usuarios)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-113",
+    "deck": "digital-marketing",
+    "term": "Social proof",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "cro",
+      "brand"
+    ],
+    "locales": {
+      "en": {
+        "definition": "People's tendency to trust something more when they see others already using or endorsing it.",
+        "example": "\"12,000 teams use this\" is social proof that nudges the hesitant to sign up."
+      },
+      "ru": {
+        "definition": "Склонность людей больше доверять тому, чем уже пользуются или что советуют другие.",
+        "example": "«12 000 команд уже с нами» — социальное доказательство, которое подталкивает сомневающихся.",
+        "term": "Социальное доказательство"
+      },
+      "ja": {
+        "definition": "他の人が既に使ったり勧めたりしているのを見ると、人はそれをより信じやすくなる性質のこと。",
+        "example": "「1万2千チームが利用」という社会的証明が、迷う人の背中を登録へと押した。",
+        "term": "社会的証明"
+      },
+      "ko": {
+        "definition": "남들이 이미 쓰거나 추천하는 걸 보면 더 믿게 되는 사람의 성향.",
+        "example": "「이미 12,000팀이 씁니다」는 망설이는 이를 미는 사회적 증거였다.",
+        "term": "사회적 증거"
+      },
+      "fr": {
+        "definition": "Tendance des gens à faire davantage confiance à ce que d'autres utilisent ou recommandent déjà.",
+        "example": "« 12 000 équipes l'utilisent » : une preuve sociale qui pousse les hésitants à s'inscrire.",
+        "term": "Preuve sociale"
+      },
+      "es": {
+        "definition": "Tendencia a confiar más en algo cuando se ve que otros ya lo usan o lo recomiendan.",
+        "example": "\"12 000 equipos lo usan\" es prueba social que anima a registrarse a los dudosos.",
+        "term": "Prueba social"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-114",
+    "deck": "digital-marketing",
+    "term": "Hashtag",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "community"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A keyword marked with # that groups posts on a topic so people can find them.",
+        "example": "The campaign hashtag let the team track every post fans shared."
+      },
+      "ru": {
+        "definition": "Ключевое слово с решёткой #, которое собирает посты по теме, чтобы их было легче найти.",
+        "example": "Хештег кампании позволил отследить каждый пост, которым делились фанаты.",
+        "term": "Хештег"
+      },
+      "ja": {
+        "definition": "#を付けたキーワードで、同じ話題の投稿をまとめて見つけやすくするもののこと。",
+        "example": "キャンペーンのハッシュタグで、ファンが共有した投稿を1つ残らず追えた。",
+        "term": "ハッシュタグ"
+      },
+      "ko": {
+        "definition": "# 을 붙인 키워드로, 같은 주제의 글을 묶어 찾기 쉽게 하는 것.",
+        "example": "캠페인 해시태그 덕에 팀은 팬이 올린 글을 하나하나 따라갈 수 있었다.",
+        "term": "해시태그"
+      },
+      "fr": {
+        "definition": "Mot-clé précédé d'un # qui regroupe les publications sur un thème pour qu'on les retrouve.",
+        "example": "Le hashtag de campagne a permis de suivre chaque post partagé par les fans.",
+        "term": "Hashtag"
+      },
+      "es": {
+        "definition": "Palabra clave marcada con # que agrupa las publicaciones de un tema para poder encontrarlas.",
+        "example": "El hashtag de la campaña dejó al equipo seguir cada post que compartían los fans.",
+        "term": "Hashtag"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-115",
+    "deck": "digital-marketing",
+    "term": "Viral",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "growth"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Content that spreads fast on its own as people keep sharing it with others.",
+        "example": "The clip went viral overnight and pulled in views no ad budget could buy."
+      },
+      "ru": {
+        "definition": "Свойство контента расходиться самому, когда люди без остановки делятся им друг с другом.",
+        "example": "Ролик стал виральным за ночь и собрал охваты, которых не купить рекламой.",
+        "term": "Виральность"
+      },
+      "ja": {
+        "definition": "人が次々と他人へ共有していくことで、自然に速く広がっていくコンテンツのこと。",
+        "example": "その短い動画は一晩でバズり、広告費では買えない再生数を集めた。",
+        "term": "バイラル（バズ）"
+      },
+      "ko": {
+        "definition": "사람들이 서로 계속 퍼뜨리며 저절로 빠르게 번지는 콘텐츠의 성질.",
+        "example": "그 영상은 하룻밤에 바이럴이 나 광고비로도 못 살 조회수를 끌어모았다.",
+        "term": "바이럴"
+      },
+      "fr": {
+        "definition": "Propriété d'un contenu à se diffuser tout seul, à mesure que les gens le partagent entre eux.",
+        "example": "La vidéo est devenue virale en une nuit et a attiré des vues qu'aucun budget n'achète.",
+        "term": "Viralité"
+      },
+      "es": {
+        "definition": "Cualidad del contenido que se difunde solo cuando la gente lo comparte una y otra vez.",
+        "example": "El clip se volvió viral de la noche a la mañana y logró vistas que ningún anuncio compra.",
+        "term": "Viralidad"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-116",
+    "deck": "digital-marketing",
+    "term": "Community management",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "social",
+      "community"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Building and tending a brand's audience by replying, moderating, and sparking conversation.",
+        "example": "Good community management turned angry comments into loyal regulars."
+      },
+      "ru": {
+        "definition": "Выращивание аудитории бренда: ответы, модерация и живой разговор с людьми.",
+        "example": "Хороший комьюнити-менеджмент превратил злые комментарии в верных завсегдатаев.",
+        "term": "Комьюнити-менеджмент"
+      },
+      "ja": {
+        "definition": "返信や管理、会話のきっかけづくりを通じて、ブランドの読者層を育て世話をすること。",
+        "example": "丁寧なコミュニティマネジメントが、怒りのコメントを常連の味方へ変えた。",
+        "term": "コミュニティマネジメント"
+      },
+      "ko": {
+        "definition": "댓글에 답하고 걸러 내며 대화를 살려, 브랜드의 오디언스를 키우고 돌보는 일.",
+        "example": "꾸준한 커뮤니티 관리가 성난 댓글을 단골 팬으로 바꿔 놨다.",
+        "term": "커뮤니티 관리"
+      },
+      "fr": {
+        "definition": "Faire vivre l'audience d'une marque en répondant, en modérant et en lançant la conversation.",
+        "example": "Un bon community management a transformé des commentaires hargneux en habitués fidèles.",
+        "term": "Community management"
+      },
+      "es": {
+        "definition": "Cultivar la audiencia de una marca respondiendo, moderando y avivando la conversación.",
+        "example": "Una buena gestión de comunidad convirtió comentarios furiosos en seguidores fieles.",
+        "term": "Gestión de comunidad"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-117",
+    "deck": "digital-marketing",
+    "term": "Social listening",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "social",
+      "analytics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Tracking online mentions and conversations to learn what people say about a brand or topic.",
+        "example": "Social listening caught the complaint trend before it reached support."
+      },
+      "ru": {
+        "definition": "Отслеживание упоминаний и разговоров в сети, чтобы понять, что говорят о бренде или теме.",
+        "example": "Мониторинг соцсетей поймал волну жалоб раньше, чем она дошла до поддержки.",
+        "term": "Мониторинг соцсетей (social listening)"
+      },
+      "ja": {
+        "definition": "ネット上の言及や会話を追い、ブランドや話題について何が語られているかをつかむこと。",
+        "example": "ソーシャルリスニングが、苦情の増加をサポートに届く前に捉えた。",
+        "term": "ソーシャルリスニング"
+      },
+      "ko": {
+        "definition": "온라인의 언급과 대화를 좇아 브랜드나 주제를 두고 사람들이 뭐라 하는지 알아내는 것.",
+        "example": "소셜 리스닝이 불만이 번지는 낌새를 지원팀에 닿기 전에 잡아냈다.",
+        "term": "소셜 리스닝"
+      },
+      "fr": {
+        "definition": "Suivre les mentions et les échanges en ligne pour savoir ce qu'on dit d'une marque ou d'un sujet.",
+        "example": "Le social listening a repéré la vague de plaintes avant qu'elle n'atteigne le support.",
+        "term": "Social listening (écoute sociale)"
+      },
+      "es": {
+        "definition": "Rastrear menciones y conversaciones en línea para saber qué se dice de una marca o un tema.",
+        "example": "El social listening detectó la ola de quejas antes de que llegara a soporte.",
+        "term": "Social listening (escucha social)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-118",
+    "deck": "digital-marketing",
+    "term": "Organic reach",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "social",
+      "organic",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The number of people who see a post without paid promotion behind it.",
+        "example": "Organic reach slipped after the algorithm change, so the team started boosting."
+      },
+      "ru": {
+        "definition": "Число людей, которые увидели пост без платного продвижения за ним.",
+        "example": "Органический охват просел после смены алгоритма, и команда начала продвигать платно.",
+        "term": "Органический охват"
+      },
+      "ja": {
+        "definition": "裏に有料の後押しなしで、投稿を目にした人の数のこと。",
+        "example": "アルゴリズム変更でオーガニックリーチが落ち、チームは投稿の有料ブーストを始めた。",
+        "term": "オーガニックリーチ"
+      },
+      "ko": {
+        "definition": "뒤에 붙은 유료 홍보 없이 게시물을 본 사람의 수.",
+        "example": "알고리즘이 바뀌자 오가닉 도달이 꺾여 팀은 유료 부스팅을 시작했다.",
+        "term": "오가닉 도달"
+      },
+      "fr": {
+        "definition": "Nombre de personnes qui voient une publication sans promotion payante derrière elle.",
+        "example": "La portée organique a chuté après le changement d'algorithme, l'équipe s'est mise à booster.",
+        "term": "Portée organique"
+      },
+      "es": {
+        "definition": "Número de personas que ven una publicación sin promoción pagada detrás.",
+        "example": "El alcance orgánico cayó tras el cambio de algoritmo y el equipo empezó a pagar.",
+        "term": "Alcance orgánico"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-119",
+    "deck": "digital-marketing",
+    "term": "Content marketing",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "content",
+      "organic"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Attracting an audience by publishing useful content instead of pitching directly.",
+        "example": "Their blog quietly did the content marketing that ads never could."
+      },
+      "ru": {
+        "definition": "Привлечение аудитории полезным контентом вместо прямой продажи в лоб.",
+        "example": "Их блог тихо делал тот контент-маркетинг, что рекламе был не по силам.",
+        "term": "Контент-маркетинг"
+      },
+      "ja": {
+        "definition": "直接売り込む代わりに、役立つコンテンツを出して読者を引き寄せる手法のこと。",
+        "example": "彼らのブログは、広告には無理だったコンテンツマーケティングを静かにこなした。",
+        "term": "コンテンツマーケティング"
+      },
+      "ko": {
+        "definition": "대놓고 팔기보다 쓸모 있는 콘텐츠를 내놓아 오디언스를 끌어당기는 방식.",
+        "example": "그들의 블로그가 광고로는 못 하던 콘텐츠 마케팅을 조용히 해냈다.",
+        "term": "콘텐츠 마케팅"
+      },
+      "fr": {
+        "definition": "Attirer une audience en publiant du contenu utile plutôt qu'en vendant directement.",
+        "example": "Leur blog faisait discrètement le marketing de contenu dont la pub était incapable.",
+        "term": "Marketing de contenu"
+      },
+      "es": {
+        "definition": "Atraer a una audiencia publicando contenido útil en vez de vender de forma directa.",
+        "example": "Su blog hacía en silencio el marketing de contenidos que los anuncios nunca lograron.",
+        "term": "Marketing de contenidos"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-120",
+    "deck": "digital-marketing",
+    "term": "Inbound marketing",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "content",
+      "growth"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Drawing customers in with helpful content and search so they come to you.",
+        "example": "Inbound marketing filled the pipeline with people who found the guides first."
+      },
+      "ru": {
+        "definition": "Притягивание клиентов полезным контентом и поиском — чтобы они сами приходили к вам.",
+        "example": "Входящий маркетинг наполнил воронку теми, кто сперва нашёл гайды.",
+        "term": "Входящий маркетинг (inbound)"
+      },
+      "ja": {
+        "definition": "役立つコンテンツと検索で客を引き寄せ、向こうから来てもらう考え方のこと。",
+        "example": "インバウンドマーケティングが、先にガイドを見つけた人でパイプラインを満たした。",
+        "term": "インバウンドマーケティング"
+      },
+      "ko": {
+        "definition": "쓸모 있는 콘텐츠와 검색으로 고객을 끌어당겨 스스로 찾아오게 하는 방식.",
+        "example": "인바운드 마케팅이 가이드부터 찾아본 사람들로 파이프라인을 채웠다.",
+        "term": "인바운드 마케팅"
+      },
+      "fr": {
+        "definition": "Faire venir les clients grâce à du contenu utile et au référencement, pour qu'ils viennent d'eux-mêmes.",
+        "example": "L'inbound marketing a rempli le pipeline de gens venus d'abord pour les guides.",
+        "term": "Inbound marketing"
+      },
+      "es": {
+        "definition": "Atraer clientes con contenido útil y búsqueda para que sean ellos quienes vengan a ti.",
+        "example": "El inbound marketing llenó el embudo de gente que primero encontró las guías.",
+        "term": "Inbound marketing"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-121",
+    "deck": "digital-marketing",
+    "term": "Lead magnet",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "content",
+      "acquisition",
+      "funnel"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A free resource offered in exchange for a visitor's contact details.",
+        "example": "The checklist worked as a lead magnet, trading a PDF for an email."
+      },
+      "ru": {
+        "definition": "Бесплатный материал в обмен на контакты посетителя.",
+        "example": "Чек-лист сработал как лид-магнит: PDF в обмен на email.",
+        "term": "Лид-магнит"
+      },
+      "ja": {
+        "definition": "訪問者の連絡先と引き換えに差し出す、無料の資料や特典のこと。",
+        "example": "そのチェックリストはリードマグネットとして働き、PDFとemailを交換した。",
+        "term": "リードマグネット"
+      },
+      "ko": {
+        "definition": "방문자의 연락처를 받는 대가로 내주는 무료 자료.",
+        "example": "그 체크리스트는 PDF를 email과 맞바꾸는 리드 마그넷 노릇을 했다.",
+        "term": "리드 마그넷"
+      },
+      "fr": {
+        "definition": "Ressource gratuite offerte en échange des coordonnées d'un visiteur.",
+        "example": "La checklist a servi de lead magnet : un PDF contre une adresse email.",
+        "term": "Lead magnet (aimant à prospects)"
+      },
+      "es": {
+        "definition": "Recurso gratuito que se ofrece a cambio de los datos de contacto de un visitante.",
+        "example": "La checklist funcionó como lead magnet: un PDF a cambio de un email.",
+        "term": "Lead magnet (imán de prospectos)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-122",
+    "deck": "digital-marketing",
+    "term": "Evergreen content",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "content",
+      "seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Content that stays useful and keeps drawing traffic long after it's published.",
+        "example": "That how-to guide is evergreen — it still pulls readers three years on."
+      },
+      "ru": {
+        "definition": "Контент, который остаётся полезным и тянет трафик ещё долго после публикации.",
+        "example": "Тот гайд — вечнозелёный: приводит читателей и три года спустя.",
+        "term": "Вечнозелёный контент (evergreen)"
+      },
+      "ja": {
+        "definition": "公開後もずっと役立ち続け、長く流入を集めるコンテンツのこと。",
+        "example": "あの手引きはエバーグリーンで、3年たった今も読者を連れてくる。",
+        "term": "エバーグリーンコンテンツ"
+      },
+      "ko": {
+        "definition": "올린 뒤로도 오래도록 쓸모를 잃지 않고 트래픽을 계속 끌어오는 콘텐츠.",
+        "example": "그 사용법 가이드는 에버그린이라 삼 년이 지나도 독자를 끌어온다.",
+        "term": "에버그린 콘텐츠"
+      },
+      "fr": {
+        "definition": "Contenu qui reste utile et continue d'attirer du trafic longtemps après sa publication.",
+        "example": "Ce guide pratique est evergreen : il attire encore des lecteurs trois ans après.",
+        "term": "Contenu evergreen"
+      },
+      "es": {
+        "definition": "Contenido que sigue siendo útil y atrae tráfico mucho después de publicarse.",
+        "example": "Esa guía es evergreen: aún trae lectores tres años después.",
+        "term": "Contenido evergreen"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-123",
+    "deck": "digital-marketing",
+    "term": "Pillar page",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "content",
+      "seo"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A broad page covering a core topic that links out to related, deeper articles.",
+        "example": "The pillar page on SEO tied a dozen smaller posts into one hub."
+      },
+      "ru": {
+        "definition": "Широкая страница по ключевой теме, которая ссылается на более узкие статьи по ней.",
+        "example": "Опорная страница по SEO связала десяток мелких постов в один узел.",
+        "term": "Опорная страница (pillar)"
+      },
+      "ja": {
+        "definition": "中心となる話題を広く扱い、関連する掘り下げ記事へリンクを張る土台のページのこと。",
+        "example": "SEOのピラーページが、細かな記事を十数本まとめて1つの拠点にした。",
+        "term": "ピラーページ"
+      },
+      "ko": {
+        "definition": "핵심 주제를 넓게 다루며, 더 깊은 관련 글로 링크를 뻗는 페이지.",
+        "example": "SEO 필러 페이지가 잔글 열두 개를 하나의 허브로 엮었다.",
+        "term": "필러 페이지"
+      },
+      "fr": {
+        "definition": "Page large qui couvre un sujet central et renvoie vers des articles connexes plus détaillés.",
+        "example": "La page pilier sur le SEO a relié une douzaine d'articles en un seul point d'entrée.",
+        "term": "Page pilier"
+      },
+      "es": {
+        "definition": "Página amplia que cubre un tema central y enlaza a artículos relacionados más profundos.",
+        "example": "La página pilar sobre SEO enlazó una docena de posts pequeños en un solo nodo.",
+        "term": "Página pilar"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-124",
+    "deck": "digital-marketing",
+    "term": "Call to action (CTA)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "cro",
+      "copywriting",
+      "conversion"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A prompt telling the reader exactly what to do next, like \"Sign up\" or \"Buy now.\"",
+        "example": "Changing the CTA from \"Submit\" to \"Get my quote\" lifted clicks."
+      },
+      "ru": {
+        "definition": "Подсказка, что именно сделать дальше, — «Зарегистрироваться» или «Купить».",
+        "example": "Замена CTA с «Отправить» на «Получить расчёт» подняла клики.",
+        "term": "Призыв к действию (CTA)"
+      },
+      "ja": {
+        "definition": "「登録する」「今すぐ買う」のように、読者が次に何をすべきかを示す一言のこと。",
+        "example": "CTAを「送信」から「見積もりを受け取る」に変えたら、クリックが伸びた。",
+        "term": "CTA（行動喚起）"
+      },
+      "ko": {
+        "definition": "「가입하기」나 「지금 구매」처럼 다음에 뭘 할지 콕 짚어 주는 문구. (Call to Action)",
+        "example": "CTA를 「제출」에서 「견적 받기」로 바꾸자 클릭이 늘었다.",
+        "term": "CTA(행동 유도)"
+      },
+      "fr": {
+        "definition": "Invitation qui dit au lecteur quoi faire ensuite, comme « S'inscrire » ou « Acheter ».",
+        "example": "Passer le CTA de « Envoyer » à « Obtenir mon devis » a fait grimper les clics.",
+        "term": "Appel à l'action (CTA)"
+      },
+      "es": {
+        "definition": "Indicación que le dice al lector qué hacer justo después, como \"Regístrate\" o \"Compra ya\".",
+        "example": "Cambiar el CTA de \"Enviar\" a \"Quiero mi presupuesto\" subió los clics.",
+        "term": "Llamada a la acción (CTA)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-125",
+    "deck": "digital-marketing",
+    "term": "Copywriting",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "content",
+      "copywriting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Writing text meant to persuade the reader to take an action.",
+        "example": "Tighter copywriting on the landing page did more than any design tweak."
+      },
+      "ru": {
+        "definition": "Написание текста, задача которого — убедить читателя совершить действие.",
+        "example": "Более плотный копирайтинг на лендинге дал больше, чем любая правка дизайна.",
+        "term": "Копирайтинг"
+      },
+      "ja": {
+        "definition": "読者に行動を起こさせるために書く、説得のための文章のこと。",
+        "example": "ランディングページのコピーライティングを引き締めたら、どんなデザイン修正より効いた。",
+        "term": "コピーライティング"
+      },
+      "ko": {
+        "definition": "독자가 어떤 행동을 하도록 설득하려 쓰는 글쓰기.",
+        "example": "랜딩 페이지의 다부진 카피라이팅이 어떤 디자인 손질보다 큰 몫을 했다.",
+        "term": "카피라이팅"
+      },
+      "fr": {
+        "definition": "Écriture d'un texte destiné à convaincre le lecteur de passer à l'action.",
+        "example": "Un copywriting plus resserré sur la page a fait plus que n'importe quel ajustement de design.",
+        "term": "Copywriting (rédaction publicitaire)"
+      },
+      "es": {
+        "definition": "Escribir textos pensados para convencer al lector de que haga una acción.",
+        "example": "Un copywriting más afilado en la landing rindió más que cualquier retoque de diseño.",
+        "term": "Copywriting (redacción publicitaria)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-126",
+    "deck": "digital-marketing",
+    "term": "Gated content",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "content",
+      "acquisition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Content locked behind a form that asks for details before granting access.",
+        "example": "The report was gated content — no email, no download."
+      },
+      "ru": {
+        "definition": "Контент за формой, которая просит данные, прежде чем дать доступ.",
+        "example": "Отчёт был закрытым контентом: нет email — нет скачивания.",
+        "term": "Закрытый контент (gated)"
+      },
+      "ja": {
+        "definition": "見せる前に情報を求めるフォームの後ろに、閉じ込めておくコンテンツのこと。",
+        "example": "そのレポートはゲーテッドコンテンツで、emailを入れないと落とせなかった。",
+        "term": "ゲーテッドコンテンツ"
+      },
+      "ko": {
+        "definition": "접근을 내주기 전에 정보를 묻는 폼 뒤에 잠가 둔 콘텐츠.",
+        "example": "그 리포트는 email이 없으면 못 받는 게이티드 콘텐츠였다.",
+        "term": "게이티드 콘텐츠"
+      },
+      "fr": {
+        "definition": "Contenu verrouillé derrière un formulaire qui réclame des informations avant d'y donner accès.",
+        "example": "Le rapport était un contenu gated : pas d'email, pas de téléchargement.",
+        "term": "Contenu premium (gated)"
+      },
+      "es": {
+        "definition": "Contenido tras un formulario que pide datos antes de conceder el acceso.",
+        "example": "El informe era contenido cerrado: sin email, no había descarga.",
+        "term": "Contenido cerrado (gated)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-127",
+    "deck": "digital-marketing",
+    "term": "Thought leadership",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "content",
+      "brand"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Publishing expert views to become a trusted voice people turn to in a field.",
+        "example": "The founder's essays built thought leadership that pulled in inbound deals."
+      },
+      "ru": {
+        "definition": "Публикация экспертного взгляда, чтобы стать голосом, к которому в теме прислушиваются.",
+        "example": "Эссе основателя выстроили экспертное лидерство, что притянуло входящие сделки.",
+        "term": "Экспертное лидерство"
+      },
+      "ja": {
+        "definition": "専門的な見解を発信し、その分野で人が頼る信頼される声になること。",
+        "example": "創業者の記事がソートリーダーシップを築き、向こうから来る商談を引き寄せた。",
+        "term": "ソートリーダーシップ"
+      },
+      "ko": {
+        "definition": "전문가의 관점을 꾸준히 내놓아, 그 분야에서 사람들이 믿고 찾는 목소리가 되는 것.",
+        "example": "창업자의 에세이가 인바운드 거래를 부르는 소트 리더십을 쌓았다.",
+        "term": "소트 리더십"
+      },
+      "fr": {
+        "definition": "Publier un regard d'expert pour devenir une voix de référence vers qui l'on se tourne dans un domaine.",
+        "example": "Les essais du fondateur ont bâti un leadership éclairé qui a attiré des demandes entrantes.",
+        "term": "Leadership éclairé"
+      },
+      "es": {
+        "definition": "Publicar una visión experta para volverse una voz de confianza a la que se recurre en un campo.",
+        "example": "Los ensayos del fundador crearon un liderazgo de pensamiento que atrajo tratos entrantes.",
+        "term": "Liderazgo de pensamiento"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-128",
+    "deck": "digital-marketing",
+    "term": "Native advertising",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "content",
+      "paid",
+      "display"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Paid content styled to match the look and feel of the platform it runs on.",
+        "example": "The native ad read like an article, marked only by a small \"sponsored\" tag."
+      },
+      "ru": {
+        "definition": "Платный контент, оформленный под вид площадки, где он выходит.",
+        "example": "Нативная реклама читалась как статья — лишь мелкая пометка «партнёрский материал».",
+        "term": "Нативная реклама"
+      },
+      "ja": {
+        "definition": "掲載先の媒体の見た目や雰囲気に合わせて作られた、有料のコンテンツのこと。",
+        "example": "そのネイティブ広告は記事のように読め、小さな「PR」表示だけが目印だった。",
+        "term": "ネイティブ広告"
+      },
+      "ko": {
+        "definition": "실린 매체의 겉모습과 결에 맞춰 꾸민 유료 콘텐츠.",
+        "example": "그 네이티브 광고는 작은 「광고」 표시만 빼면 기사처럼 읽혔다.",
+        "term": "네이티브 광고"
+      },
+      "fr": {
+        "definition": "Contenu payant habillé pour épouser l'aspect et le ton de la plateforme qui le diffuse.",
+        "example": "La publicité native se lisait comme un article, signalée par une petite mention « sponsorisé ».",
+        "term": "Publicité native"
+      },
+      "es": {
+        "definition": "Contenido pagado con el estilo y el aspecto de la plataforma donde aparece.",
+        "example": "El anuncio nativo se leía como un artículo, marcado solo por una pequeña etiqueta \"patrocinado\".",
+        "term": "Publicidad nativa"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-129",
+    "deck": "digital-marketing",
+    "term": "Email marketing",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "email",
+      "lifecycle"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Reaching and nurturing an audience through email messages you send over time.",
+        "example": "Email marketing brought back more repeat buyers than any paid channel."
+      },
+      "ru": {
+        "definition": "Работа с аудиторией через письма, которые вы шлёте раз за разом.",
+        "example": "Email-маркетинг вернул больше повторных покупателей, чем любой платный канал.",
+        "term": "Email-маркетинг"
+      },
+      "ja": {
+        "definition": "時間をかけて送るメールを通じて、読者に届き関係を育てていく手法のこと。",
+        "example": "メールマーケティングは、どの有料チャネルより多くのリピーターを呼び戻した。",
+        "term": "メールマーケティング"
+      },
+      "ko": {
+        "definition": "때마다 보내는 email로 오디언스에 닿고 관계를 키워 가는 것.",
+        "example": "이메일 마케팅이 어떤 유료 채널보다 많은 재구매 고객을 다시 불러왔다.",
+        "term": "이메일 마케팅"
+      },
+      "fr": {
+        "definition": "Toucher et fidéliser une audience via des messages email envoyés au fil du temps.",
+        "example": "L'email marketing a ramené plus d'acheteurs récurrents que n'importe quel canal payant.",
+        "term": "Email marketing"
+      },
+      "es": {
+        "definition": "Alcanzar y cultivar a una audiencia con correos que le envías a lo largo del tiempo.",
+        "example": "El email marketing recuperó más compradores repetidos que cualquier canal pagado.",
+        "term": "Email marketing"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-130",
+    "deck": "digital-marketing",
+    "term": "Open rate",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "email",
+      "metrics"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The share of delivered emails that recipients opened.",
+        "example": "A sharper subject line pushed the open rate up several points."
+      },
+      "ru": {
+        "definition": "Доля доставленных писем, которые получатели открыли.",
+        "example": "Точнее тема — и открываемость поднялась на несколько пунктов.",
+        "term": "Открываемость (open rate)"
+      },
+      "ja": {
+        "definition": "届いたメールのうち、受け取った人が実際に開いた割合のこと。",
+        "example": "件名を鋭くしたら、開封率が数ポイント上がった。",
+        "term": "開封率"
+      },
+      "ko": {
+        "definition": "도달한 email 중 수신자가 실제로 연 비율.",
+        "example": "제목을 날카롭게 다듬자 오픈율이 몇 포인트 올랐다.",
+        "term": "오픈율"
+      },
+      "fr": {
+        "definition": "Part des emails délivrés que les destinataires ont ouverts.",
+        "example": "Un objet plus percutant a fait monter le taux d'ouverture de plusieurs points.",
+        "term": "Taux d'ouverture"
+      },
+      "es": {
+        "definition": "Proporción de los correos entregados que los destinatarios abrieron.",
+        "example": "Un asunto más afinado subió la tasa de apertura varios puntos.",
+        "term": "Tasa de apertura"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-131",
+    "deck": "digital-marketing",
+    "term": "Drip campaign",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "email",
+      "automation",
+      "lifecycle"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A preset series of emails sent automatically on a schedule or by trigger.",
+        "example": "New signups dropped into a drip campaign that taught the product over a week."
+      },
+      "ru": {
+        "definition": "Заранее заданная серия писем, которые уходят автоматически по расписанию или триггеру.",
+        "example": "Новичков подхватывала цепочка писем, которая за неделю знакомила с продуктом.",
+        "term": "Цепочка писем (drip)"
+      },
+      "ja": {
+        "definition": "あらかじめ決めた順に、予定や引き金に応じて自動で送られる一連のメールのこと。",
+        "example": "新規登録者はステップメールに乗り、1週間かけて製品を学んでいった。",
+        "term": "ステップメール（ドリップ）"
+      },
+      "ko": {
+        "definition": "일정이나 트리거에 맞춰 자동으로 나가는, 미리 짜 둔 email 묶음.",
+        "example": "새 가입자는 한 주에 걸쳐 제품을 가르치는 드립 캠페인으로 흘러들었다.",
+        "term": "드립 캠페인"
+      },
+      "fr": {
+        "definition": "Suite d'emails prédéfinie, envoyée en automatique selon un calendrier ou un déclencheur.",
+        "example": "Les nouveaux inscrits tombaient dans une campagne drip qui présentait le produit sur une semaine.",
+        "term": "Campagne drip (goutte-à-goutte)"
+      },
+      "es": {
+        "definition": "Serie fija de correos que se envían de forma automática por calendario o por disparador.",
+        "example": "Los nuevos registros caían en una campaña drip que enseñaba el producto en una semana.",
+        "term": "Campaña drip"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-132",
+    "deck": "digital-marketing",
+    "term": "Lead nurturing",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "email",
+      "lifecycle",
+      "funnel"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Building a relationship with prospects over time until they're ready to buy.",
+        "example": "Lead nurturing kept the brand in mind until the budget finally opened up."
+      },
+      "ru": {
+        "definition": "Выстраивание отношений с потенциальными клиентами, пока они не созреют до покупки.",
+        "example": "Прогрев лидов держал бренд в уме, пока наконец не открылся бюджет.",
+        "term": "Прогрев лидов"
+      },
+      "ja": {
+        "definition": "見込み客が買う気になるまで、時間をかけて関係を育てていくこと。",
+        "example": "リードナーチャリングが、予算がようやく付くまでブランドを頭の片隅に残した。",
+        "term": "リードナーチャリング"
+      },
+      "ko": {
+        "definition": "살 마음이 찰 때까지 시간을 들여 잠재 고객과 관계를 쌓아 가는 것.",
+        "example": "리드 너처링이 예산이 열릴 때까지 브랜드를 머릿속에 남겨 뒀다.",
+        "term": "리드 너처링"
+      },
+      "fr": {
+        "definition": "Nouer une relation avec les prospects dans la durée, jusqu'à ce qu'ils soient prêts à acheter.",
+        "example": "Le lead nurturing a gardé la marque en tête jusqu'à ce que le budget se libère enfin.",
+        "term": "Lead nurturing"
+      },
+      "es": {
+        "definition": "Construir una relación con los prospectos con el tiempo hasta que estén listos para comprar.",
+        "example": "La nutrición de leads mantuvo viva la marca hasta que al fin se liberó el presupuesto.",
+        "term": "Nutrición de leads"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-133",
+    "deck": "digital-marketing",
+    "term": "Segmentation",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "crm",
+      "email",
+      "targeting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Splitting an audience into groups so messages fit each one better.",
+        "example": "Segmentation let the team email lapsed buyers a different offer than regulars."
+      },
+      "ru": {
+        "definition": "Разбивка аудитории на группы, чтобы сообщение точнее ложилось на каждую.",
+        "example": "Сегментация дала слать ушедшим покупателям не то предложение, что завсегдатаям.",
+        "term": "Сегментация"
+      },
+      "ja": {
+        "definition": "メッセージがそれぞれによく合うよう、読者層をいくつかのグループに分けること。",
+        "example": "セグメンテーションで、離れた客と常連に別々の提案を送り分けられた。",
+        "term": "セグメンテーション"
+      },
+      "ko": {
+        "definition": "메시지가 더 잘 들어맞도록 오디언스를 여러 무리로 가르는 것.",
+        "example": "세그먼테이션 덕에 떠난 구매자에게 단골과는 다른 제안을 보낼 수 있었다.",
+        "term": "세그먼테이션(세분화)"
+      },
+      "fr": {
+        "definition": "Découper une audience en groupes pour que les messages collent mieux à chacun.",
+        "example": "La segmentation a permis d'envoyer aux clients perdus une autre offre qu'aux habitués.",
+        "term": "Segmentation"
+      },
+      "es": {
+        "definition": "Dividir una audiencia en grupos para que los mensajes encajen mejor con cada uno.",
+        "example": "La segmentación permitió enviar a los inactivos una oferta distinta que a los habituales.",
+        "term": "Segmentación"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-134",
+    "deck": "digital-marketing",
+    "term": "Personalization",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "crm",
+      "email",
+      "lifecycle"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Tailoring content or offers to a specific person's data or behavior.",
+        "example": "Personalization dropped each customer's name and last order into the email."
+      },
+      "ru": {
+        "definition": "Подгонка контента или предложений под данные и поведение конкретного человека.",
+        "example": "Персонализация подставила в письмо имя клиента и его последний заказ.",
+        "term": "Персонализация"
+      },
+      "ja": {
+        "definition": "特定の人のデータや行動に合わせて、コンテンツや提案を仕立てること。",
+        "example": "パーソナライゼーションが、各客の名前と直近の注文をメールに差し込んだ。",
+        "term": "パーソナライゼーション"
+      },
+      "ko": {
+        "definition": "한 사람의 데이터나 행동에 맞춰 콘텐츠나 제안을 매만지는 것.",
+        "example": "개인화가 email에 고객 이름과 마지막 주문을 끼워 넣었다.",
+        "term": "개인화"
+      },
+      "fr": {
+        "definition": "Adapter le contenu ou les offres aux données ou au comportement d'une personne précise.",
+        "example": "La personnalisation a glissé dans l'email le prénom du client et sa dernière commande.",
+        "term": "Personnalisation"
+      },
+      "es": {
+        "definition": "Ajustar contenido u ofertas a los datos o al comportamiento de una persona concreta.",
+        "example": "La personalización metió en el correo el nombre de cada cliente y su último pedido.",
+        "term": "Personalización"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-135",
+    "deck": "digital-marketing",
+    "term": "Marketing automation",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "automation",
+      "crm",
+      "email"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Software that runs marketing tasks and messages automatically based on rules.",
+        "example": "Marketing automation sent the follow-ups so no lead slipped through."
+      },
+      "ru": {
+        "definition": "Софт, который сам выполняет маркетинговые задачи и рассылки по заданным правилам.",
+        "example": "Автоматизация маркетинга слала догоняющие письма, и ни один лид не терялся.",
+        "term": "Автоматизация маркетинга"
+      },
+      "ja": {
+        "definition": "ルールに基づき、マーケの作業やメッセージ送信を自動でこなすソフトのこと。",
+        "example": "マーケティングオートメーションが追いかけメールを送り、リードを1件も取りこぼさなかった。",
+        "term": "マーケティングオートメーション"
+      },
+      "ko": {
+        "definition": "정해 둔 규칙에 따라 마케팅 작업과 메시지를 알아서 돌리는 소프트웨어.",
+        "example": "마케팅 자동화가 후속 메일을 보내 새는 리드가 하나도 없었다.",
+        "term": "마케팅 자동화"
+      },
+      "fr": {
+        "definition": "Logiciel qui exécute tâches et messages marketing en automatique, selon des règles fixées.",
+        "example": "Le marketing automation envoyait les relances, si bien qu'aucun lead ne passait à travers.",
+        "term": "Marketing automation"
+      },
+      "es": {
+        "definition": "Software que ejecuta tareas y mensajes de marketing de forma automática según reglas.",
+        "example": "La automatización del marketing enviaba los seguimientos y ningún lead se escapaba.",
+        "term": "Automatización del marketing"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-136",
+    "deck": "digital-marketing",
+    "term": "Deliverability",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "email",
+      "deliverability",
+      "technical"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Whether your emails actually land in the inbox rather than spam or nowhere.",
+        "example": "Poor deliverability meant half the newsletter never left the spam folder."
+      },
+      "ru": {
+        "definition": "То, попадают ли письма во «Входящие», а не в спам и не в никуда.",
+        "example": "Слабая доставляемость — и половина рассылки осела в спаме.",
+        "term": "Доставляемость"
+      },
+      "ja": {
+        "definition": "送ったメールが迷惑メールや行方不明にならず、受信トレイに届くかどうかのこと。",
+        "example": "到達率が悪く、ニュースレターの半分は迷惑メールから出られなかった。",
+        "term": "到達率（デリバラビリティ）"
+      },
+      "ko": {
+        "definition": "보낸 email이 스팸이나 허공이 아니라 정말 받은편지함에 닿는지.",
+        "example": "도달률이 나빠 뉴스레터 절반이 스팸함을 못 벗어났다.",
+        "term": "도달률(딜리버빌리티)"
+      },
+      "fr": {
+        "definition": "Le fait que vos emails atterrissent bien dans la boîte de réception, et non en spam ni nulle part.",
+        "example": "Une piètre délivrabilité a laissé la moitié de la newsletter coincée dans les spams.",
+        "term": "Délivrabilité"
+      },
+      "es": {
+        "definition": "Si tus correos de verdad llegan a la bandeja de entrada y no a spam o a ningún sitio.",
+        "example": "Una entregabilidad floja dejó media newsletter atrapada en la carpeta de spam.",
+        "term": "Entregabilidad"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-137",
+    "deck": "digital-marketing",
+    "term": "Subject line",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "email",
+      "copywriting"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The short headline of an email that decides whether it gets opened.",
+        "example": "They A/B tested two subject lines before sending to the full list."
+      },
+      "ru": {
+        "definition": "Короткий заголовок письма, от которого зависит, откроют ли его.",
+        "example": "Перед общей рассылкой они A/B-тестировали две темы письма.",
+        "term": "Тема письма"
+      },
+      "ja": {
+        "definition": "メールを開いてもらえるかを左右する、短い見出しのこと。",
+        "example": "全リストへ送る前に、彼らは2つの件名をA/Bテストした。",
+        "term": "件名"
+      },
+      "ko": {
+        "definition": "열지 말지를 가르는, email의 짧은 머리글.",
+        "example": "전체 발송에 앞서 그들은 제목 두 개를 A/B로 견줘 봤다.",
+        "term": "제목(메일)"
+      },
+      "fr": {
+        "definition": "Court intitulé d'un email dont dépend le fait qu'on l'ouvre ou non.",
+        "example": "Ils ont testé deux objets en A/B avant d'envoyer à toute la liste.",
+        "term": "Objet (de l'email)"
+      },
+      "es": {
+        "definition": "Título breve de un correo que decide si se llega a abrir.",
+        "example": "Probaron en A/B dos asuntos antes de enviar a la lista completa.",
+        "term": "Asunto (del email)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-138",
+    "deck": "digital-marketing",
+    "term": "Lead scoring",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "crm",
+      "funnel",
+      "automation"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Ranking leads by fit and behavior to show which ones are worth sales' time.",
+        "example": "Lead scoring pushed the hottest signups to sales the same day."
+      },
+      "ru": {
+        "definition": "Ранжирование лидов по соответствию и поведению — чтобы видеть, на кого продажам стоит тратить время.",
+        "example": "Скоринг лидов в тот же день выталкивал самых горячих новичков в продажи.",
+        "term": "Скоринг лидов"
+      },
+      "ja": {
+        "definition": "合致度と行動でリードに順位を付け、営業が時間を割く価値のある相手を見せること。",
+        "example": "リードスコアリングが、最も脈のある登録者を同じ日のうちに営業へ回した。",
+        "term": "リードスコアリング"
+      },
+      "ko": {
+        "definition": "영업이 시간을 들일 만한 리드가 누구인지 보이도록 적합도와 행동으로 순위를 매기는 것.",
+        "example": "리드 스코어링이 가장 뜨거운 가입자를 같은 날 영업으로 밀어 올렸다.",
+        "term": "리드 스코어링"
+      },
+      "fr": {
+        "definition": "Classer les leads selon leur adéquation et leur comportement, pour voir lesquels valent le temps des ventes.",
+        "example": "Le lead scoring poussait les inscrits les plus chauds vers les ventes le jour même.",
+        "term": "Lead scoring"
+      },
+      "es": {
+        "definition": "Ordenar leads por encaje y comportamiento para ver cuáles merecen el tiempo de ventas.",
+        "example": "El lead scoring pasó a ventas los registros más calientes el mismo día.",
+        "term": "Lead scoring (puntuación de leads)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-139",
+    "deck": "digital-marketing",
+    "term": "MQL (Marketing Qualified Lead)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "crm",
+      "funnel",
+      "lead"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A lead marketing judges ready to hand to sales based on interest and fit.",
+        "example": "Once someone downloads two guides, they become an MQL."
+      },
+      "ru": {
+        "definition": "Лид, которого маркетинг считает готовым передать в продажи по интересу и соответствию.",
+        "example": "Скачал два гайда — и человек становится MQL.",
+        "term": "MQL (маркетинговый лид)"
+      },
+      "ja": {
+        "definition": "関心と合致度から見て、マーケが営業へ渡せると判断したリードのこと。",
+        "example": "ガイドを2本ダウンロードした時点で、その人はMQLになる。",
+        "term": "MQL"
+      },
+      "ko": {
+        "definition": "관심과 적합도로 보아 영업에 넘길 만하다고 마케팅이 판단한 리드. (Marketing Qualified Lead)",
+        "example": "가이드를 두 편 내려받으면 그 사람은 MQL이 된다.",
+        "term": "MQL"
+      },
+      "fr": {
+        "definition": "Lead que le marketing juge prêt à passer aux ventes, d'après son intérêt et son adéquation.",
+        "example": "Dès qu'une personne télécharge deux guides, elle devient un MQL.",
+        "term": "MQL (lead qualifié marketing)"
+      },
+      "es": {
+        "definition": "Lead que marketing juzga listo para pasar a ventas según su interés y su encaje.",
+        "example": "En cuanto alguien descarga dos guías, se convierte en MQL.",
+        "term": "MQL (lead calificado por marketing)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-140",
+    "deck": "digital-marketing",
+    "term": "SQL (Sales Qualified Lead)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "crm",
+      "funnel",
+      "lead"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A lead that sales has vetted and accepted as worth actively pursuing.",
+        "example": "Sales confirmed the budget and marked the MQL an SQL."
+      },
+      "ru": {
+        "definition": "Лид, которого продажи проверили и приняли как достойный активной работы.",
+        "example": "Продажи подтвердили бюджет и пометили MQL как SQL.",
+        "term": "SQL (лид, готовый к продаже)"
+      },
+      "ja": {
+        "definition": "営業が精査し、積極的に追う価値があると受け入れたリードのこと。",
+        "example": "営業が予算を確かめ、そのMQLをSQLとして印を付けた。",
+        "term": "SQL（営業有望リード）"
+      },
+      "ko": {
+        "definition": "영업이 직접 살펴보고 적극 쫓을 값어치가 있다고 받아들인 리드. (Sales Qualified Lead)",
+        "example": "영업이 예산을 확인하고 그 MQL을 SQL로 표시했다.",
+        "term": "SQL(영업 적격 리드)"
+      },
+      "fr": {
+        "definition": "Lead que les ventes ont examiné et retenu comme méritant d'être activement travaillé.",
+        "example": "Les ventes ont confirmé le budget et fait passer le MQL au statut de SQL.",
+        "term": "SQL (lead qualifié pour la vente)"
+      },
+      "es": {
+        "definition": "Lead que ventas ya revisó y aceptó como digno de perseguir de forma activa.",
+        "example": "Ventas confirmó el presupuesto y marcó el MQL como SQL.",
+        "term": "SQL (lead calificado por ventas)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-141",
+    "deck": "digital-marketing",
+    "term": "CRM (Customer Relationship Management)",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "crm",
+      "lifecycle"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Software that stores customer contacts and history so teams can manage relationships.",
+        "example": "Every call and email lived in the CRM, so anyone could pick up the thread."
+      },
+      "ru": {
+        "definition": "Софт, который хранит контакты и историю клиентов, чтобы вести с ними отношения.",
+        "example": "Каждый звонок и письмо лежали в CRM — любой мог подхватить нить.",
+        "term": "CRM"
+      },
+      "ja": {
+        "definition": "顧客の連絡先とやり取りの履歴を保管し、関係を管理できるようにするソフトのこと。",
+        "example": "あらゆる電話とメールがCRMに残り、誰でも話の続きを引き継げた。",
+        "term": "CRM"
+      },
+      "ko": {
+        "definition": "팀이 관계를 이어 가도록 고객 연락처와 이력을 담아 두는 소프트웨어. (Customer Relationship Management)",
+        "example": "통화와 메일이 모두 CRM에 쌓여 누구든 대화의 실마리를 이어받았다.",
+        "term": "CRM"
+      },
+      "fr": {
+        "definition": "Logiciel qui stocke contacts et historique des clients pour que les équipes gèrent la relation.",
+        "example": "Chaque appel et chaque email vivaient dans le CRM, si bien que chacun pouvait reprendre le fil.",
+        "term": "CRM"
+      },
+      "es": {
+        "definition": "Software que guarda los contactos e historial de clientes para que los equipos gestionen la relación.",
+        "example": "Cada llamada y correo vivían en el CRM, así cualquiera retomaba el hilo.",
+        "term": "CRM"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-142",
+    "deck": "digital-marketing",
+    "term": "Lifecycle marketing",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "lifecycle",
+      "crm",
+      "retention"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Tailoring messages to each stage of a customer's journey, from first touch to loyalty.",
+        "example": "Lifecycle marketing sent a welcome, then nudges, then a winback in turn."
+      },
+      "ru": {
+        "definition": "Подгонка сообщений под каждый этап пути клиента — от первого касания до лояльности.",
+        "example": "Маркетинг жизненного цикла слал по очереди приветствие, подсказки и возврат.",
+        "term": "Маркетинг жизненного цикла"
+      },
+      "ja": {
+        "definition": "初接触からロイヤル化まで、顧客の道のりの各段階に合わせてメッセージを仕立てること。",
+        "example": "ライフサイクルマーケティングが、歓迎・後押し・呼び戻しを順に送っていった。",
+        "term": "ライフサイクルマーケティング"
+      },
+      "ko": {
+        "definition": "첫 접점부터 충성까지, 고객 여정의 단계마다 메시지를 맞춰 보내는 것.",
+        "example": "라이프사이클 마케팅이 환영, 넛지, 되돌리기를 차례로 보냈다.",
+        "term": "라이프사이클 마케팅"
+      },
+      "fr": {
+        "definition": "Adapter les messages à chaque étape du parcours client, du premier contact jusqu'à la fidélité.",
+        "example": "Le marketing du cycle de vie a envoyé tour à tour un accueil, des relances, puis une reconquête.",
+        "term": "Marketing du cycle de vie"
+      },
+      "es": {
+        "definition": "Ajustar los mensajes a cada etapa del recorrido del cliente, del primer contacto a la lealtad.",
+        "example": "El marketing de ciclo de vida envió por turno una bienvenida, avisos y un rescate.",
+        "term": "Marketing de ciclo de vida"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-143",
+    "deck": "digital-marketing",
+    "term": "Double opt-in",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "email",
+      "deliverability",
+      "privacy"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Requiring a new subscriber to confirm by clicking a link before they're added.",
+        "example": "Double opt-in cut fake signups by making people confirm the email."
+      },
+      "ru": {
+        "definition": "Требование к новому подписчику подтвердить согласие кликом по ссылке, прежде чем его добавят.",
+        "example": "Двойное подтверждение срезало фейковые записи: подтверди email — и только тогда.",
+        "term": "Двойное подтверждение (double opt-in)"
+      },
+      "ja": {
+        "definition": "新しい購読者を加える前に、リンクをクリックして意思を確認させる仕組みのこと。",
+        "example": "ダブルオプトインが、emailの確認を挟むことで偽の登録を減らした。",
+        "term": "ダブルオプトイン"
+      },
+      "ko": {
+        "definition": "새 구독자를 넣기 전에 링크를 눌러 동의를 확인하게 하는 것.",
+        "example": "더블 옵트인이 email 확인을 시켜 가짜 가입을 걸러 냈다.",
+        "term": "더블 옵트인"
+      },
+      "fr": {
+        "definition": "Exiger d'un nouvel abonné qu'il confirme par un clic sur un lien avant d'être ajouté.",
+        "example": "Le double opt-in a réduit les fausses inscriptions en imposant de confirmer l'email.",
+        "term": "Double opt-in"
+      },
+      "es": {
+        "definition": "Exigir a un suscriptor nuevo que confirme con un clic en un enlace antes de darlo de alta.",
+        "example": "El doble opt-in cortó registros falsos al obligar a la gente a confirmar el email.",
+        "term": "Doble opt-in"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-144",
+    "deck": "digital-marketing",
+    "term": "Sales funnel",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "funnel",
+      "crm"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The path prospects follow from first awareness down to purchase.",
+        "example": "Most leads entered the sales funnel but dropped off before checkout."
+      },
+      "ru": {
+        "definition": "Путь, которым потенциальный клиент идёт от первого узнавания до покупки.",
+        "example": "Большинство лидов входили в воронку продаж, но отваливались до оплаты.",
+        "term": "Воронка продаж"
+      },
+      "ja": {
+        "definition": "見込み客が最初の認知から購入まで、たどっていく道筋のこと。",
+        "example": "多くのリードがセールスファネルに入ったが、決済の前で抜け落ちた。",
+        "term": "セールスファネル"
+      },
+      "ko": {
+        "definition": "잠재 고객이 처음 알게 된 뒤 구매까지 밟아 가는 길.",
+        "example": "리드 대부분이 세일즈 퍼널에 들어섰지만 결제 전에 빠져나갔다.",
+        "term": "세일즈 퍼널(판매 깔때기)"
+      },
+      "fr": {
+        "definition": "Chemin que suivent les prospects, de la première prise de conscience jusqu'à l'achat.",
+        "example": "La plupart des leads entraient dans l'entonnoir de vente mais lâchaient avant le paiement.",
+        "term": "Entonnoir de vente"
+      },
+      "es": {
+        "definition": "Camino que siguen los prospectos desde el primer conocimiento hasta la compra.",
+        "example": "La mayoría de leads entraban al embudo de ventas pero se caían antes de pagar.",
+        "term": "Embudo de ventas"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-145",
+    "deck": "digital-marketing",
+    "term": "Growth hacking",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "growth",
+      "acquisition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Chasing fast growth with cheap, unconventional experiments instead of standard marketing.",
+        "example": "A growth-hacking referral loop got users inviting each other for free."
+      },
+      "ru": {
+        "definition": "Погоня за быстрым ростом через дешёвые нестандартные эксперименты вместо обычного маркетинга.",
+        "example": "Реферальная петля в духе гроус-хакинга заставила пользователей звать друг друга даром.",
+        "term": "Гроус-хакинг"
+      },
+      "ja": {
+        "definition": "型どおりのマーケの代わりに、安く型破りな実験で速い成長を狙う手法のこと。",
+        "example": "グロースハック的な紹介の仕掛けが、ユーザーを無料で互いに招き合わせた。",
+        "term": "グロースハック"
+      },
+      "ko": {
+        "definition": "틀에 박힌 마케팅 대신 값싸고 별난 실험으로 빠른 성장을 좇는 것.",
+        "example": "그로스 해킹식 추천 고리가 사용자끼리 공짜로 서로 부르게 했다.",
+        "term": "그로스 해킹"
+      },
+      "fr": {
+        "definition": "Viser une croissance rapide par des expériences peu coûteuses et non conventionnelles, hors marketing classique.",
+        "example": "Une boucle de parrainage façon growth hacking a poussé les utilisateurs à s'inviter gratuitement.",
+        "term": "Growth hacking"
+      },
+      "es": {
+        "definition": "Perseguir un crecimiento rápido con experimentos baratos y poco ortodoxos, no con marketing clásico.",
+        "example": "Un bucle de referidos al estilo growth hacking hizo que los usuarios se invitaran gratis.",
+        "term": "Growth hacking"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-146",
+    "deck": "digital-marketing",
+    "term": "Product-led growth (PLG)",
+    "origin": null,
+    "difficulty": 3,
+    "tags": [
+      "growth",
+      "product"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Letting the product itself drive signups and expansion, often through a free tier.",
+        "example": "PLG let people try the tool free, and teams upgraded once they were hooked."
+      },
+      "ru": {
+        "definition": "Ставка на то, что сам продукт двигает регистрации и рост — часто через бесплатный тариф.",
+        "example": "PLG дал пробовать инструмент даром, а подсевшие команды переходили на платный.",
+        "term": "PLG (рост через продукт)"
+      },
+      "ja": {
+        "definition": "多くは無料プランを通じ、製品そのものに登録と拡大を引っ張らせる考え方のこと。",
+        "example": "PLGで無料で試せるようにし、はまったチームが有料へ切り替えていった。",
+        "term": "PLG（プロダクト主導成長）"
+      },
+      "ko": {
+        "definition": "흔히 무료 요금제를 통해 제품 자체가 가입과 확장을 이끌게 하는 방식. (Product-Led Growth)",
+        "example": "PLG가 도구를 공짜로 써 보게 했고, 빠져든 팀은 유료로 올라갔다.",
+        "term": "PLG(제품 주도 성장)"
+      },
+      "fr": {
+        "definition": "Laisser le produit lui-même porter les inscriptions et l'expansion, souvent via une offre gratuite.",
+        "example": "Le PLG laissait essayer l'outil gratuitement, et les équipes conquises passaient au payant.",
+        "term": "PLG (croissance portée par le produit)"
+      },
+      "es": {
+        "definition": "Dejar que el propio producto impulse los registros y la expansión, a menudo con un plan gratuito.",
+        "example": "El PLG dejó probar la herramienta gratis, y los equipos pasaban al pago al engancharse.",
+        "term": "PLG (crecimiento impulsado por el producto)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-147",
+    "deck": "digital-marketing",
+    "term": "Buyer persona",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "strategy",
+      "positioning"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A profile of a typical target customer used to guide marketing choices.",
+        "example": "The buyer persona reminded the team they wrote for busy founders, not students."
+      },
+      "ru": {
+        "definition": "Профиль типичного целевого клиента, по которому сверяют маркетинговые решения.",
+        "example": "Портрет покупателя напоминал: пишем для занятых основателей, а не для студентов.",
+        "term": "Портрет покупателя (persona)"
+      },
+      "ja": {
+        "definition": "マーケの判断の指針にする、典型的な狙いの顧客像を描いたプロフィールのこと。",
+        "example": "バイヤーペルソナが、学生ではなく多忙な創業者に向けて書くのだと思い出させた。",
+        "term": "バイヤーペルソナ"
+      },
+      "ko": {
+        "definition": "마케팅 결정을 이끄는 잣대로 삼는, 전형적인 타깃 고객의 프로필.",
+        "example": "바이어 페르소나가 학생이 아니라 바쁜 창업자에게 쓴다는 걸 일깨웠다.",
+        "term": "바이어 페르소나"
+      },
+      "fr": {
+        "definition": "Profil d'un client cible type, servant à guider les choix marketing.",
+        "example": "Le persona rappelait à l'équipe qu'elle écrivait pour des fondateurs pressés, pas des étudiants.",
+        "term": "Persona (buyer persona)"
+      },
+      "es": {
+        "definition": "Perfil de un cliente objetivo típico que sirve para guiar las decisiones de marketing.",
+        "example": "El buyer persona recordó al equipo que escribía para fundadores ocupados, no estudiantes.",
+        "term": "Buyer persona"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-148",
+    "deck": "digital-marketing",
+    "term": "Customer journey",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "strategy",
+      "funnel",
+      "cro"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The full path a person takes from first hearing of a brand to buying and beyond.",
+        "example": "Mapping the customer journey exposed where people quietly gave up."
+      },
+      "ru": {
+        "definition": "Весь путь человека — от первого знакомства с брендом до покупки и дальше.",
+        "example": "Карта пути клиента вскрыла, где люди тихо сдавались.",
+        "term": "Путь клиента"
+      },
+      "ja": {
+        "definition": "ブランドを初めて知ってから購入し、その先へ至るまでの一連の道のりのこと。",
+        "example": "カスタマージャーニーを図にすると、人が静かに諦める箇所が浮かび上がった。",
+        "term": "カスタマージャーニー"
+      },
+      "ko": {
+        "definition": "브랜드를 처음 들은 순간부터 구매와 그 이후까지, 한 사람이 밟는 온 길.",
+        "example": "커스터머 저니를 그려 보니 사람들이 조용히 포기하는 지점이 드러났다.",
+        "term": "커스터머 저니(고객 여정)"
+      },
+      "fr": {
+        "definition": "Chemin complet d'une personne, du premier contact avec une marque jusqu'à l'achat et au-delà.",
+        "example": "Cartographier le parcours client a révélé où les gens abandonnaient en silence.",
+        "term": "Parcours client"
+      },
+      "es": {
+        "definition": "Todo el camino que recorre una persona desde que conoce una marca hasta que compra y más allá.",
+        "example": "Mapear el customer journey reveló dónde la gente se rendía en silencio.",
+        "term": "Customer journey (recorrido del cliente)"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-149",
+    "deck": "digital-marketing",
+    "term": "Value proposition",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "positioning",
+      "brand",
+      "strategy"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The clear promise of why a product is worth choosing over the alternatives.",
+        "example": "The value proposition — \"invoices in one click\" — fit on the homepage."
+      },
+      "ru": {
+        "definition": "Ясное обещание, почему продукт стоит выбрать среди прочих.",
+        "example": "Ценностное предложение — «счета в один клик» — уместилось на главной.",
+        "term": "Ценностное предложение"
+      },
+      "ja": {
+        "definition": "なぜ他の選択肢よりこの製品を選ぶ価値があるのかを、はっきり示す約束のこと。",
+        "example": "「1クリックで請求書」というバリュープロポジションが、トップページに収まった。",
+        "term": "バリュープロポジション"
+      },
+      "ko": {
+        "definition": "다른 선택지 대신 이 제품을 골라야 하는 이유를 또렷이 내건 약속.",
+        "example": "「클릭 한 번에 청구서」라는 가치 제안이 첫 화면에 딱 들어맞았다.",
+        "term": "가치 제안"
+      },
+      "fr": {
+        "definition": "Promesse claire des raisons pour lesquelles un produit vaut d'être choisi plutôt qu'un autre.",
+        "example": "La proposition de valeur — « des factures en un clic » — tenait sur la page d'accueil.",
+        "term": "Proposition de valeur"
+      },
+      "es": {
+        "definition": "Promesa clara de por qué vale la pena elegir un producto frente a las alternativas.",
+        "example": "La propuesta de valor —\"facturas en un clic\"— cabía en la página principal.",
+        "term": "Propuesta de valor"
+      }
+    }
+  },
+  {
+    "id": "digital-marketing-150",
+    "deck": "digital-marketing",
+    "term": "ASO (App Store Optimization)",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "aso",
+      "mobile"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Tuning an app's store listing so it ranks higher and gets more downloads.",
+        "example": "ASO on the title and screenshots doubled installs without extra ad spend."
+      },
+      "ru": {
+        "definition": "Настройка страницы приложения, чтобы оно росло в выдаче и собирало больше загрузок в сторах.",
+        "example": "ASO в названии и скриншотах удвоил установки без лишних трат на рекламу.",
+        "term": "ASO (оптимизация в App Store)"
+      },
+      "ja": {
+        "definition": "検索順位が上がり、より多く落とされるよう、アプリのストア掲載ページを整えること。",
+        "example": "タイトルとスクリーンショットのASOで、広告費を増やさずにインストールが倍になった。",
+        "term": "ASO（アプリストア最適化）"
+      },
+      "ko": {
+        "definition": "앱이 스토어에서 더 위로 오르고 더 많이 내려받히도록 스토어 페이지를 다듬는 것. (App Store Optimization)",
+        "example": "제목과 스크린샷의 ASO가 광고비 없이 설치를 두 배로 늘렸다.",
+        "term": "ASO(앱스토어 최적화)"
+      },
+      "fr": {
+        "definition": "Régler la fiche d'une appli sur les stores pour qu'elle grimpe dans le classement et récolte plus de téléchargements.",
+        "example": "L'ASO sur le titre et les captures a doublé les installations sans dépense pub en plus.",
+        "term": "ASO (App Store Optimization)"
+      },
+      "es": {
+        "definition": "Afinar la ficha de una app en la tienda para que suba en la clasificación y sume descargas.",
+        "example": "El ASO en el título y las capturas duplicó las instalaciones sin gasto extra en anuncios.",
+        "term": "ASO (optimización en la App Store)"
+      }
+    }
   }
 ]

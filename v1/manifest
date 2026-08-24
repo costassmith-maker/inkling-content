@@ -31,7 +31,7 @@
         "fr": "Marketing digital",
         "es": "Marketing digital"
       },
-      "count": 100
+      "count": 150
     },
     {
       "id": "space",
@@ -55,7 +55,7 @@
         "fr": "Robots et automatisation",
         "es": "Robots y automatización"
       },
-      "count": 100
+      "count": 150
     },
     {
       "id": "cyberpunk",
@@ -104,113 +104,9 @@
         "es": "Longevidad"
       },
       "count": 150
-    },
-    {
-      "id": "ai-ml",
-      "title": {
-        "en": "Tech & AI",
-        "ru": "Технологии и ИИ",
-        "ja": "テックとAI",
-        "ko": "테크와 AI",
-        "fr": "Tech et IA",
-        "es": "Tech e IA"
-      },
-      "count": 101,
-      "hidden": true
-    },
-    {
-      "id": "tech-jargon",
-      "title": {
-        "en": "Tech & AI",
-        "ru": "Технологии и ИИ",
-        "ja": "テックとAI",
-        "ko": "테크와 AI",
-        "fr": "Tech et IA",
-        "es": "Tech e IA"
-      },
-      "count": 100,
-      "hidden": true
-    },
-    {
-      "id": "internet-slang",
-      "title": {
-        "en": "Internet & Modern Slang",
-        "ru": "Интернет- и современный сленг",
-        "ja": "ネット・現代スラング",
-        "ko": "인터넷·신조어 슬랭",
-        "fr": "Argot d’Internet et moderne",
-        "es": "Argot de internet y moderno"
-      },
-      "count": 100,
-      "hidden": true
-    },
-    {
-      "id": "untranslatable",
-      "title": {
-        "en": "Untranslatable Words",
-        "ru": "Непереводимые слова",
-        "ja": "翻訳できない言葉",
-        "ko": "번역할 수 없는 단어",
-        "fr": "Mots intraduisibles",
-        "es": "Palabras intraducibles"
-      },
-      "count": 199,
-      "hidden": true
-    },
-    {
-      "id": "loanwords",
-      "title": {
-        "en": "Everyday Loanwords",
-        "ru": "Прижившиеся заимствования",
-        "ja": "日常の外来語",
-        "ko": "일상 외래어",
-        "fr": "Emprunts du quotidien",
-        "es": "Préstamos cotidianos"
-      },
-      "count": 101,
-      "hidden": true
-    },
-    {
-      "id": "linguistics",
-      "title": {
-        "en": "Language & Linguistics",
-        "ru": "Язык и лингвистика",
-        "ja": "言語と言語学",
-        "ko": "언어와 언어학",
-        "fr": "Langue et linguistique",
-        "es": "Lengua y lingüística"
-      },
-      "count": 100,
-      "hidden": true
-    },
-    {
-      "id": "idioms",
-      "title": {
-        "en": "Idioms & Expressions",
-        "ru": "Идиомы и выражения",
-        "ja": "イディオムと表現",
-        "ko": "관용구와 표현",
-        "fr": "Idiomes et expressions",
-        "es": "Modismos y expresiones"
-      },
-      "count": 100,
-      "hidden": true
-    },
-    {
-      "id": "everyday-vocab",
-      "title": {
-        "en": "Word of the Day",
-        "ru": "Слово дня",
-        "ja": "今日の単語",
-        "ko": "오늘의 단어",
-        "fr": "Mot du jour",
-        "es": "Palabra del día"
-      },
-      "count": 312,
-      "hidden": true
     }
   ],
-  "total_cards": 2213,
-  "content_version": "582f38b4edd8ff4b",
-  "generated_at": "2026-07-11T05:30:19.224159+00:00"
+  "total_cards": 2313,
+  "content_version": "6b3e32bb8291d0f5",
+  "generated_at": "2026-08-24T14:52:11.251427+00:00"
 }
