@@ -104,9 +104,33 @@
         "es": "Longevidad"
       },
       "count": 150
+    },
+    {
+      "id": "startup-venture",
+      "title": {
+        "en": "Startups & Venture",
+        "ru": "Стартапы и венчур",
+        "ja": "スタートアップとベンチャー",
+        "ko": "스타트업과 벤처",
+        "fr": "Startups et capital-risque",
+        "es": "Startups y capital riesgo"
+      },
+      "count": 150
+    },
+    {
+      "id": "product-ux",
+      "title": {
+        "en": "Product & UX",
+        "ru": "Продукт и UX",
+        "ja": "プロダクトとUX",
+        "ko": "프로덕트와 UX",
+        "fr": "Produit et UX",
+        "es": "Producto y UX"
+      },
+      "count": 150
     }
   ],
-  "total_cards": 2313,
-  "content_version": "52418cddcac48b29",
-  "generated_at": "2026-09-02T17:47:50.792599+00:00"
+  "total_cards": 2613,
+  "content_version": "1507ea8b9be583d4",
+  "generated_at": "2026-09-10T08:34:33.717442+00:00"
 }
