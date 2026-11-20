@@ -128,9 +128,17 @@
         "es": "Producto y UX"
       },
       "count": 150
+    },
+    {
+      "id": "curious-english",
+      "title": {
+        "en": "What If? English for Curious Kids",
+        "ru": "Английский для любопытных: а что, если?"
+      },
+      "count": 150
     }
   ],
-  "total_cards": 2613,
-  "content_version": "1507ea8b9be583d4",
-  "generated_at": "2026-09-10T08:34:33.717442+00:00"
+  "total_cards": 2763,
+  "content_version": "aa5f089d68227cd7",
+  "generated_at": "2026-11-20T12:05:58.301020+00:00"
 }

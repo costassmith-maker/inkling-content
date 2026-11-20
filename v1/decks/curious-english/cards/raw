@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "curious-english-001",
+    "deck": "curious-english",
+    "term": "Why",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "questions",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use it to ask for a reason.",
+        "example": "Why does my shadow move?"
+      },
+      "ru": {
+        "definition": "Так спрашивают, когда хотят узнать причину.",
+        "example": "Почему моя тень двигается?",
+        "term": "Почему"
+      }
+    }
+  },
+  {
+    "id": "curious-english-002",
+    "deck": "curious-english",
+    "term": "which",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "questions",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use it when you choose from a small group of things.",
+        "example": "Which cup is mine?"
+      },
+      "ru": {
+        "definition": "Спрашивают, когда выбирают один предмет из нескольких.",
+        "example": "Какая чашка моя?",
+        "term": "Какой"
+      }
+    }
+  },
+  {
+    "id": "curious-english-003",
+    "deck": "curious-english",
+    "term": "how come",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "questions",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An everyday way to ask why something happened.",
+        "example": "How come your shoes are wet?"
+      },
+      "ru": {
+        "definition": "Разговорный вопрос, когда хочется узнать причину.",
+        "example": "Почему так вышло, что твои ботинки мокрые?",
+        "term": "Почему так вышло"
+      }
+    }
+  },
+  {
+    "id": "curious-english-004",
+    "deck": "curious-english",
+    "term": "what if",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "questions",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use it to ask about something that could happen next.",
+        "example": "What if it rains on our picnic?"
+      },
+      "ru": {
+        "definition": "Так спрашивают о том, что может случиться дальше.",
+        "example": "А что, если на нашем пикнике пойдёт дождь?",
+        "term": "А что, если"
+      }
+    }
+  },
+  {
+    "id": "curious-english-005",
+    "deck": "curious-english",
+    "term": "guess",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "questions",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Give an answer when you are not sure.",
+        "example": "Guess what is inside my pocket!"
+      },
+      "ru": {
+        "definition": "Назвать ответ, когда точно не знаешь.",
+        "example": "Угадай, что у меня в кармане!",
+        "term": "Угадать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-006",
+    "deck": "curious-english",
+    "term": "wonder",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "questions",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Think about something you want to know.",
+        "example": "I wonder where the cat hides during storms."
+      },
+      "ru": {
+        "definition": "Думать о чём-то и хотеть это узнать.",
+        "example": "Интересно, где прячется кот во время грозы.",
+        "term": "Интересно"
+      }
+    }
+  },
+  {
+    "id": "curious-english-007",
+    "deck": "curious-english",
+    "term": "notice",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "questions",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "See or hear something and pay attention to it.",
+        "example": "Did you notice the new bird feeder in the yard?"
+      },
+      "ru": {
+        "definition": "Увидеть или услышать что-то и обратить на это внимание.",
+        "example": "Ты заметил новую кормушку для птиц во дворе?",
+        "term": "Заметить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-008",
+    "deck": "curious-english",
+    "term": "expect",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "questions",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Think something will probably happen.",
+        "example": "I expect Grandma will arrive before dinner."
+      },
+      "ru": {
+        "definition": "Думать, что что-то, скорее всего, произойдёт.",
+        "example": "Я ожидаю, что бабушка приедет до ужина.",
+        "term": "Ожидать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-009",
+    "deck": "curious-english",
+    "term": "likely",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "questions",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Having a good chance of happening.",
+        "example": "Dark clouds mean rain is likely today."
+      },
+      "ru": {
+        "definition": "Очень может случиться.",
+        "example": "Тёмные тучи значат, что сегодня, вероятно, пойдёт дождь.",
+        "term": "Вероятно"
+      }
+    }
+  },
+  {
+    "id": "curious-english-010",
+    "deck": "curious-english",
+    "term": "perhaps",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "questions",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Maybe; it could be true, but you are not sure.",
+        "example": "Perhaps we left the keys on the kitchen table."
+      },
+      "ru": {
+        "definition": "Может быть так, но уверенности нет.",
+        "example": "Возможно, мы оставили ключи на кухонном столе.",
+        "term": "Возможно"
+      }
+    }
+  },
+  {
+    "id": "curious-english-011",
+    "deck": "curious-english",
+    "term": "certain",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "questions",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Completely sure about something.",
+        "example": "Are you certain we locked the front door?"
+      },
+      "ru": {
+        "definition": "Знающий точно, без сомнений.",
+        "example": "Ты уверен, что мы заперли входную дверь?",
+        "term": "Уверенный"
+      }
+    }
+  },
+  {
+    "id": "curious-english-012",
+    "deck": "curious-english",
+    "term": "suppose",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "questions",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Think something is true without full proof.",
+        "example": "I suppose the bus is late because of traffic."
+      },
+      "ru": {
+        "definition": "Думать, что это так, хотя точных доказательств нет.",
+        "example": "Полагаю, автобус опаздывает из-за пробок.",
+        "term": "Полагать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-013",
+    "deck": "curious-english",
+    "term": "whether",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "questions",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Used when there are two possibilities to check.",
+        "example": "Let’s check whether the library is open today."
+      },
+      "ru": {
+        "definition": "Показывает выбор между двумя вариантами: да или нет.",
+        "example": "Давай проверим, открыта ли сегодня библиотека.",
+        "term": "Ли"
+      }
+    }
+  },
+  {
+    "id": "curious-english-014",
+    "deck": "curious-english",
+    "term": "possible",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "questions",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Able to happen or be done.",
+        "example": "Is it possible to build a bridge out of paper?"
+      },
+      "ru": {
+        "definition": "Такой, который может случиться или получиться.",
+        "example": "Возможно ли построить мост из бумаги?",
+        "term": "Возможный"
+      }
+    }
+  },
+  {
+    "id": "curious-english-015",
+    "deck": "curious-english",
+    "term": "find out",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "questions",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Learn a fact you did not know before.",
+        "example": "Let’s look inside the box to find out what is there."
+      },
+      "ru": {
+        "definition": "Выяснить то, чего раньше не знал.",
+        "example": "Давай заглянем в коробку, чтобы узнать, что там.",
+        "term": "Узнать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-016",
+    "deck": "curious-english",
+    "term": "Can",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "requests",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use “Can I…?” to ask if you’re allowed to do something.",
+        "example": "Can I hold the magnet?"
+      },
+      "ru": {
+        "definition": "Так спрашивают разрешения.",
+        "example": "Можно я подержу магнит?",
+        "term": "Можно"
+      }
+    }
+  },
+  {
+    "id": "curious-english-017",
+    "deck": "curious-english",
+    "term": "could",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "requests",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use it to ask for something in a polite way.",
+        "example": "Could you pass me the blue pencil, please?"
+      },
+      "ru": {
+        "definition": "Вежливая просьба помочь или что-то сделать.",
+        "example": "Не мог бы ты передать мне синий карандаш, пожалуйста?",
+        "term": "Не мог бы ты"
+      }
+    }
+  },
+  {
+    "id": "curious-english-018",
+    "deck": "curious-english",
+    "term": "might",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "requests",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use it to make a guess about what is true or could happen.",
+        "example": "The key might be in my jacket pocket."
+      },
+      "ru": {
+        "definition": "Слово для осторожной догадки.",
+        "example": "Ключ, может быть, лежит в кармане моей куртки.",
+        "term": "Может быть"
+      }
+    }
+  },
+  {
+    "id": "curious-english-019",
+    "deck": "curious-english",
+    "term": "should",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "requests",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use it to give good advice about what is best to do.",
+        "example": "You should wear a coat because it is windy."
+      },
+      "ru": {
+        "definition": "Так дают добрый совет, как лучше поступить.",
+        "example": "Тебе стоит надеть куртку, потому что на улице ветер.",
+        "term": "Стоит"
+      }
+    }
+  },
+  {
+    "id": "curious-english-020",
+    "deck": "curious-english",
+    "term": "must",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "requests",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use it when something is very important to do.",
+        "example": "We must wash our hands before we eat."
+      },
+      "ru": {
+        "definition": "Говорят о том, что очень важно сделать.",
+        "example": "Мы должны помыть руки перед едой.",
+        "term": "Должен"
+      }
+    }
+  },
+  {
+    "id": "curious-english-021",
+    "deck": "curious-english",
+    "term": "have to",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "requests",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use it when a rule or situation makes you do something.",
+        "example": "I missed the bus, so I have to walk."
+      },
+      "ru": {
+        "definition": "Нужно сделать из-за правила или ситуации.",
+        "example": "Я пропустил автобус, поэтому мне приходится идти пешком.",
+        "term": "Приходится"
+      }
+    }
+  },
+  {
+    "id": "curious-english-022",
+    "deck": "curious-english",
+    "term": "need to",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "requests",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use it when something is necessary for a goal.",
+        "example": "I need to sharpen my pencil before drawing."
+      },
+      "ru": {
+        "definition": "Необходимо сделать для какого-то дела.",
+        "example": "Мне нужно поточить карандаш перед рисованием.",
+        "term": "Нужно"
+      }
+    }
+  },
+  {
+    "id": "curious-english-023",
+    "deck": "curious-english",
+    "term": "be allowed to",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "requests",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Have permission to do something.",
+        "example": "We are allowed to stay up late on Fridays."
+      },
+      "ru": {
+        "definition": "Получить право что-то делать.",
+        "example": "Нам разрешают ложиться поздно по пятницам.",
+        "term": "Разрешают"
+      }
+    }
+  },
+  {
+    "id": "curious-english-024",
+    "deck": "curious-english",
+    "term": "borrow",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "requests",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Take something from someone and give it back later.",
+        "example": "Can I borrow your eraser for a minute?"
+      },
+      "ru": {
+        "definition": "Взять вещь на время, а потом вернуть.",
+        "example": "Можно я возьму у тебя ластик на минутку?",
+        "term": "Взять на время"
+      }
+    }
+  },
+  {
+    "id": "curious-english-025",
+    "deck": "curious-english",
+    "term": "lend",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "requests",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Give someone your thing to use for a short time.",
+        "example": "I can lend you my extra ruler today."
+      },
+      "ru": {
+        "definition": "Дать свою вещь попользоваться на время.",
+        "example": "Я могу одолжить тебе свою запасную линейку сегодня.",
+        "term": "Одолжить кому-то"
+      }
+    }
+  },
+  {
+    "id": "curious-english-026",
+    "deck": "curious-english",
+    "term": "offer",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "requests",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Ask if someone wants your help or something you have.",
+        "example": "Dad offered to help me fix my bike chain."
+      },
+      "ru": {
+        "definition": "Сказать, что готов помочь или поделиться.",
+        "example": "Папа предложил помочь мне починить цепь на велосипеде.",
+        "term": "Предложить помощь"
+      }
+    }
+  },
+  {
+    "id": "curious-english-027",
+    "deck": "curious-english",
+    "term": "suggest",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "requests",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Share an idea for others to think about.",
+        "example": "I suggest we build the fort near the window."
+      },
+      "ru": {
+        "definition": "Поделиться мыслью, что можно сделать.",
+        "example": "Я предлагаю построить крепость возле окна.",
+        "term": "Предложить идею"
+      }
+    }
+  },
+  {
+    "id": "curious-english-028",
+    "deck": "curious-english",
+    "term": "promise",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "requests",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Say you will certainly do what you said.",
+        "example": "I promise to feed the fish every morning."
+      },
+      "ru": {
+        "definition": "Твёрдо сказать, что обязательно сделаешь это.",
+        "example": "Я обещаю кормить рыбок каждое утро.",
+        "term": "Обещать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-029",
+    "deck": "curious-english",
+    "term": "refuse",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "requests",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Say no when someone asks you to do something.",
+        "example": "My little brother refused to eat his peas."
+      },
+      "ru": {
+        "definition": "Сказать «нет» в ответ на просьбу или предложение.",
+        "example": "Мой младший брат отказался есть горошек.",
+        "term": "Отказаться"
+      }
+    }
+  },
+  {
+    "id": "curious-english-030",
+    "deck": "curious-english",
+    "term": "permission",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "requests",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The yes you get from someone in charge before acting.",
+        "example": "Ask Mom for permission before going outside."
+      },
+      "ru": {
+        "definition": "Согласие на то, чтобы ты что-то сделал или взял.",
+        "example": "Спроси у мамы разрешения, прежде чем идти на улицу.",
+        "term": "Разрешение"
+      }
+    }
+  },
+  {
+    "id": "curious-english-031",
+    "deck": "curious-english",
+    "term": "Under",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "treasure",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Below something.",
+        "example": "My marble rolled under the sofa."
+      },
+      "ru": {
+        "definition": "Ниже чего-то: например, под столом, а не на нём.",
+        "example": "Мой шарик закатился под диван.",
+        "term": "Под"
+      }
+    }
+  },
+  {
+    "id": "curious-english-032",
+    "deck": "curious-english",
+    "term": "behind",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "treasure",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "At the back of something.",
+        "example": "The coin fell behind the bookshelf."
+      },
+      "ru": {
+        "definition": "Позади какого-то предмета.",
+        "example": "Монетка упала за книжный шкаф.",
+        "term": "За"
+      }
+    }
+  },
+  {
+    "id": "curious-english-033",
+    "deck": "curious-english",
+    "term": "between",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "treasure",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "In the space separating two things.",
+        "example": "The key is hidden between the two cushions."
+      },
+      "ru": {
+        "definition": "В пространстве посередине двух предметов.",
+        "example": "Ключ спрятан между двумя подушками.",
+        "term": "Между"
+      }
+    }
+  },
+  {
+    "id": "curious-english-034",
+    "deck": "curious-english",
+    "term": "beyond",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "treasure",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Further away than something else.",
+        "example": "The old well stands beyond the garden fence."
+      },
+      "ru": {
+        "definition": "Дальше, чем какой-то предмет или граница.",
+        "example": "Старый колодец находится за садовым забором.",
+        "term": "За"
+      }
+    }
+  },
+  {
+    "id": "curious-english-035",
+    "deck": "curious-english",
+    "term": "opposite",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "treasure",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "On the other side, facing something.",
+        "example": "Our bench is opposite the big fountain."
+      },
+      "ru": {
+        "definition": "С другой стороны, лицом к чему-то.",
+        "example": "Наша скамейка стоит напротив большого фонтана.",
+        "term": "Напротив"
+      }
+    }
+  },
+  {
+    "id": "curious-english-036",
+    "deck": "curious-english",
+    "term": "across",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "treasure",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "From one side to the other side.",
+        "example": "Walk across the grass to reach the oak tree."
+      },
+      "ru": {
+        "definition": "С одной стороны на другую.",
+        "example": "Пройди через траву, чтобы дойти до дуба.",
+        "term": "Через"
+      }
+    }
+  },
+  {
+    "id": "curious-english-037",
+    "deck": "curious-english",
+    "term": "toward",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "treasure",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "In the direction of something.",
+        "example": "The compass needle points toward the north."
+      },
+      "ru": {
+        "definition": "В сторону какого-то места или предмета.",
+        "example": "Стрелка компаса показывает в сторону севера.",
+        "term": "В сторону"
+      }
+    }
+  },
+  {
+    "id": "curious-english-038",
+    "deck": "curious-english",
+    "term": "corner",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "treasure",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The place where two walls or edges meet.",
+        "example": "Check the dark corner behind the door."
+      },
+      "ru": {
+        "definition": "Место, где сходятся две стены или два края.",
+        "example": "Проверь тёмный угол за дверью.",
+        "term": "Угол"
+      }
+    }
+  },
+  {
+    "id": "curious-english-039",
+    "deck": "curious-english",
+    "term": "edge",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "treasure",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The outer border where a surface ends.",
+        "example": "Do not put your glass near the edge of the table."
+      },
+      "ru": {
+        "definition": "Самая граница поверхности, где она заканчивается.",
+        "example": "Не ставь стакан близко к краю стола.",
+        "term": "Край"
+      }
+    }
+  },
+  {
+    "id": "curious-english-040",
+    "deck": "curious-english",
+    "term": "clue",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "treasure",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hint that helps you solve a mystery.",
+        "example": "This folded note is our first treasure clue."
+      },
+      "ru": {
+        "definition": "Знак или слово, помогающее разгадать загадку.",
+        "example": "Эта сложенная записка — наша первая подсказка к кладу.",
+        "term": "Подсказка"
+      }
+    }
+  },
+  {
+    "id": "curious-english-041",
+    "deck": "curious-english",
+    "term": "track",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "treasure",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A line of marks left by someone or something moving.",
+        "example": "We followed the muddy bicycle track down the hill."
+      },
+      "ru": {
+        "definition": "Полоса или цепочка знаков, оставленная при движении.",
+        "example": "Мы пошли по грязному следу от велосипеда вниз с холма.",
+        "term": "След от движения"
+      }
+    }
+  },
+  {
+    "id": "curious-english-042",
+    "deck": "curious-english",
+    "term": "follow",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "treasure",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Go behind someone or along a path.",
+        "example": "Follow the chalk arrows to find the prize."
+      },
+      "ru": {
+        "definition": "Идти следом за кем-то или по указанному пути.",
+        "example": "Иди по стрелкам, нарисованным мелом, чтобы найти приз.",
+        "term": "Идти по"
+      }
+    }
+  },
+  {
+    "id": "curious-english-043",
+    "deck": "curious-english",
+    "term": "hidden",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "treasure",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Put out of sight so others cannot see it.",
+        "example": "A small box was hidden under the bed."
+      },
+      "ru": {
+        "definition": "Убранный так, чтобы никто не увидел.",
+        "example": "Маленькая коробка была спрятана под кроватью.",
+        "term": "Спрятанный"
+      }
+    }
+  },
+  {
+    "id": "curious-english-044",
+    "deck": "curious-english",
+    "term": "nearby",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "treasure",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Not far away; close to where you are.",
+        "example": "The next note must be hidden somewhere nearby."
+      },
+      "ru": {
+        "definition": "Совсем рядом, недалеко от этого места.",
+        "example": "Следующая записка должна быть спрятана где-то поблизости.",
+        "term": "Поблизости"
+      }
+    }
+  },
+  {
+    "id": "curious-english-045",
+    "deck": "curious-english",
+    "term": "footprint",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "treasure",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The single mark a foot or shoe makes on the ground.",
+        "example": "I spotted one wet footprint on the porch."
+      },
+      "ru": {
+        "definition": "Одиночный след от ботинка или босой ступни на земле.",
+        "example": "Я заметил один мокрый отпечаток ноги на крыльце.",
+        "term": "Отпечаток ноги"
+      }
+    }
+  },
+  {
+    "id": "curious-english-046",
+    "deck": "curious-english",
+    "term": "Try",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "building",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Do something to see if it works.",
+        "example": "The tower keeps falling. Let’s try a bigger block at the bottom."
+      },
+      "ru": {
+        "definition": "Сделать что-то и посмотреть, получится ли.",
+        "example": "Башня всё время падает. Давай попробуем поставить вниз кубик побольше.",
+        "term": "Попробовать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-047",
+    "deck": "curious-english",
+    "term": "attach",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "building",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Join one thing to another so they stay together.",
+        "example": "Attach the paper sail to the wooden stick with tape."
+      },
+      "ru": {
+        "definition": "Соединить одну деталь с другой, чтобы они держались вместе.",
+        "example": "Прикрепи бумажный парус к деревянной палочке скотчем.",
+        "term": "Прикрепить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-048",
+    "deck": "curious-english",
+    "term": "fasten",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "building",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Close or fix something firmly in place.",
+        "example": "Fasten the lid tightly so the beads do not spill."
+      },
+      "ru": {
+        "definition": "Надёжно закрыть или зафиксировать деталь на месте.",
+        "example": "Плотно закрепи крышку, чтобы бусины не рассыпались.",
+        "term": "Закрепить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-049",
+    "deck": "curious-english",
+    "term": "tighten",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "building",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Turn a screw so it holds more firmly.",
+        "example": "Please tighten the loose screw on my scooter handle."
+      },
+      "ru": {
+        "definition": "Повернуть винт так, чтобы он держался крепче.",
+        "example": "Пожалуйста, затяни разболтавшийся винт на руле моего самоката.",
+        "term": "Затянуть"
+      }
+    }
+  },
+  {
+    "id": "curious-english-050",
+    "deck": "curious-english",
+    "term": "loosen",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "building",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Make something less tight so it is easier to move or open.",
+        "example": "Loosen the jar lid a bit so I can open it."
+      },
+      "ru": {
+        "definition": "Сделать так, чтобы что-то держалось не так туго и легче поддавалось.",
+        "example": "Ослабь немного крышку банки, чтобы я смог её открыть.",
+        "term": "Ослабить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-051",
+    "deck": "curious-english",
+    "term": "fit",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "building",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Be the right size and shape for a space.",
+        "example": "This square peg does not fit into the round hole."
+      },
+      "ru": {
+        "definition": "Быть нужной формы и величины для своего места.",
+        "example": "Этот квадратный колышек не подходит для круглого отверстия.",
+        "term": "Подходить по размеру"
+      }
+    }
+  },
+  {
+    "id": "curious-english-052",
+    "deck": "curious-english",
+    "term": "fold",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "building",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Bend paper or cloth so one part lies over another.",
+        "example": "Fold the paper in half to make a greeting card."
+      },
+      "ru": {
+        "definition": "Согнуть бумагу или ткань так, чтобы одна часть легла на другую.",
+        "example": "Сложи лист бумаги пополам, чтобы сделать открытку.",
+        "term": "Сложить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-053",
+    "deck": "curious-english",
+    "term": "bend",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "building",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Shape something straight into a curve.",
+        "example": "Bend the wire into a circle."
+      },
+      "ru": {
+        "definition": "Придать прямому предмету изогнутую форму.",
+        "example": "Согни проволоку в кольцо.",
+        "term": "Согнуть"
+      }
+    }
+  },
+  {
+    "id": "curious-english-054",
+    "deck": "curious-english",
+    "term": "hinge",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "building",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The metal joint that lets a door or lid swing open.",
+        "example": "Oil the squeaky hinge on the garden gate."
+      },
+      "ru": {
+        "definition": "Подвижное крепление, на котором открывается дверь или крышка.",
+        "example": "Смажь скрипящую петлю на садовой калитке.",
+        "term": "Петля"
+      }
+    }
+  },
+  {
+    "id": "curious-english-055",
+    "deck": "curious-english",
+    "term": "handle",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "building",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The part of an object made for your hand to hold.",
+        "example": "Hold the hammer firmly by its wooden handle."
+      },
+      "ru": {
+        "definition": "Часть предмета, за которую удобно браться рукой.",
+        "example": "Крепко держи молоток за деревянную ручку.",
+        "term": "Ручка"
+      }
+    }
+  },
+  {
+    "id": "curious-english-056",
+    "deck": "curious-english",
+    "term": "steady",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "building",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Firm and balanced, not shaking or tipping.",
+        "example": "Hold the table steady while I draw."
+      },
+      "ru": {
+        "definition": "Крепко стоящий, не шатающийся и не падающий.",
+        "example": "Придержи стол, чтобы он не шатался, пока я рисую.",
+        "term": "Устойчивый"
+      }
+    }
+  },
+  {
+    "id": "curious-english-057",
+    "deck": "curious-english",
+    "term": "wobbly",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "building",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Moving from side to side and likely to tip over.",
+        "example": "One leg on this old chair feels wobbly."
+      },
+      "ru": {
+        "definition": "Качающийся из стороны в сторону и готовый упасть.",
+        "example": "Одна ножка у этого старого стула кажется шаткой.",
+        "term": "Шаткий"
+      }
+    }
+  },
+  {
+    "id": "curious-english-058",
+    "deck": "curious-english",
+    "term": "repair",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "building",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Fix something that is broken or damaged.",
+        "example": "We used strong glue to repair the broken mug."
+      },
+      "ru": {
+        "definition": "Исправить сломанную или повреждённую вещь.",
+        "example": "Мы использовали крепкий клей, чтобы починить разбитую кружку.",
+        "term": "Починить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-059",
+    "deck": "curious-english",
+    "term": "snap",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "building",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Break suddenly with a sharp cracking sound.",
+        "example": "The dry twig snapped when I stepped on it."
+      },
+      "ru": {
+        "definition": "Внезапно переломиться с резким звуком.",
+        "example": "Сухая ветка с треском сломалась, когда я на неё наступил.",
+        "term": "Сломаться с треском"
+      }
+    }
+  },
+  {
+    "id": "curious-english-060",
+    "deck": "curious-english",
+    "term": "support",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "building",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Hold something up so it does not fall down.",
+        "example": "Four thick pillars support the wooden roof."
+      },
+      "ru": {
+        "definition": "Удерживать сверху или снизу, чтобы не упало.",
+        "example": "Четыре толстых столба поддерживают деревянную крышу.",
+        "term": "Поддерживать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-061",
+    "deck": "curious-english",
+    "term": "float",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "experiments",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Stay on top of water instead of sinking.",
+        "example": "A cork will float in a bowl of water."
+      },
+      "ru": {
+        "definition": "Держаться наверху воды и не тонуть.",
+        "example": "Пробка будет плавать на поверхности воды в миске.",
+        "term": "Плавать на поверхности"
+      }
+    }
+  },
+  {
+    "id": "curious-english-062",
+    "deck": "curious-english",
+    "term": "sink",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "experiments",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Go down to the bottom of water.",
+        "example": "A heavy metal spoon will sink right away."
+      },
+      "ru": {
+        "definition": "Опускаться на самое дно воды.",
+        "example": "Тяжёлая металлическая ложка сразу утонет.",
+        "term": "Тонуть"
+      }
+    }
+  },
+  {
+    "id": "curious-english-063",
+    "deck": "curious-english",
+    "term": "heavy",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "experiments",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Having a lot of weight; hard to lift.",
+        "example": "This box of books is too heavy for me to lift."
+      },
+      "ru": {
+        "definition": "Имеющий большой вес; его трудно поднять.",
+        "example": "Эта коробка с книгами слишком тяжёлая, я не могу её поднять.",
+        "term": "Тяжёлый"
+      }
+    }
+  },
+  {
+    "id": "curious-english-064",
+    "deck": "curious-english",
+    "term": "measure",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "experiments",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Find out the exact size, weight, or amount of something.",
+        "example": "Let’s measure how tall the sunflower grew this week."
+      },
+      "ru": {
+        "definition": "Узнать точную длину, вес или объём предмета.",
+        "example": "Давай измерим, насколько вырос подсолнух за эту неделю.",
+        "term": "Измерить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-065",
+    "deck": "curious-english",
+    "term": "compare",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "experiments",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Look at two things to see how they are alike or different.",
+        "example": "Compare the two leaves to see which one is wider."
+      },
+      "ru": {
+        "definition": "Посмотреть на два предмета, чтобы найти сходства и отличия.",
+        "example": "Сравни два листа, чтобы увидеть, какой из них шире.",
+        "term": "Сравнить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-066",
+    "deck": "curious-english",
+    "term": "solid",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "experiments",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Firm and keeping its own shape, not liquid or gas.",
+        "example": "Water turns into solid ice when it freezes."
+      },
+      "ru": {
+        "definition": "Плотный и сохраняющий свою форму, не жидкий.",
+        "example": "Вода превращается в твёрдый лёд, когда замерзает.",
+        "term": "Твёрдый"
+      }
+    }
+  },
+  {
+    "id": "curious-english-067",
+    "deck": "curious-english",
+    "term": "test",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "experiments",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Try something carefully to see what happens.",
+        "example": "Let’s test which paper airplane flies the furthest."
+      },
+      "ru": {
+        "definition": "Испытать что-то, чтобы увидеть результат.",
+        "example": "Давай проверим, какой бумажный самолётик улетит дальше всех.",
+        "term": "Проверить на опыте"
+      }
+    }
+  },
+  {
+    "id": "curious-english-068",
+    "deck": "curious-english",
+    "term": "observe",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "experiments",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Watch something closely to learn about it.",
+        "example": "We observed the ants carrying crumbs back to their nest."
+      },
+      "ru": {
+        "definition": "Внимательно следить за чем-то, чтобы изучить.",
+        "example": "Мы наблюдали, как муравьи несут крошки в свой муравейник.",
+        "term": "Наблюдать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-069",
+    "deck": "curious-english",
+    "term": "surface",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "experiments",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The outside or top layer of something.",
+        "example": "Raindrops made tiny rings on the surface of the puddle."
+      },
+      "ru": {
+        "definition": "Верхний или наружный слой какого-либо предмета.",
+        "example": "Капли дождя оставляли крошечные круги на поверхности лужи.",
+        "term": "Поверхность"
+      }
+    }
+  },
+  {
+    "id": "curious-english-070",
+    "deck": "curious-english",
+    "term": "soak",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "experiments",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Leave something in liquid until it becomes very wet.",
+        "example": "Soak the dry sponge in warm water before wiping the desk."
+      },
+      "ru": {
+        "definition": "Подержать в жидкости, чтобы предмет стал совсем мокрым.",
+        "example": "Замочи сухую губку в тёплой воде, прежде чем вытирать стол.",
+        "term": "Замочить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-071",
+    "deck": "curious-english",
+    "term": "stretch",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "experiments",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Pull something so it becomes longer or wider.",
+        "example": "Stretch the rubber band a little."
+      },
+      "ru": {
+        "definition": "Потянуть предмет так, чтобы он стал длиннее или шире.",
+        "example": "Немного растяни резинку.",
+        "term": "Растянуть"
+      }
+    }
+  },
+  {
+    "id": "curious-english-072",
+    "deck": "curious-english",
+    "term": "magnet",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "experiments",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An object that pulls iron or steel toward itself.",
+        "example": "Use a magnet to pick up the spilled paper clips."
+      },
+      "ru": {
+        "definition": "Предмет, который притягивает к себе железо и сталь.",
+        "example": "Используй магнит, чтобы собрать рассыпанные скрепки.",
+        "term": "Магнит"
+      }
+    }
+  },
+  {
+    "id": "curious-english-073",
+    "deck": "curious-english",
+    "term": "mixture",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "experiments",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Two or more things stirred or put together.",
+        "example": "Salt and water make a clear liquid mixture."
+      },
+      "ru": {
+        "definition": "Несколько веществ, соединённых или перемешанных вместе.",
+        "example": "Соль и вода образуют прозрачную жидкую смесь.",
+        "term": "Смесь"
+      }
+    }
+  },
+  {
+    "id": "curious-english-074",
+    "deck": "curious-english",
+    "term": "result",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "experiments",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "What happens at the end of a test or action.",
+        "example": "Write down the result of each coin toss in your notebook."
+      },
+      "ru": {
+        "definition": "То, что получилось в конце опыта или действия.",
+        "example": "Запиши результат каждого броска монеты в свою тетрадь.",
+        "term": "Результат"
+      }
+    }
+  },
+  {
+    "id": "curious-english-075",
+    "deck": "curious-english",
+    "term": "repeat",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "experiments",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Do the exact same thing again.",
+        "example": "Repeat the test three times to be sure of the answer."
+      },
+      "ru": {
+        "definition": "Сделать точно такое же действие ещё раз.",
+        "example": "Повтори опыт три раза, чтобы быть уверенным в ответе.",
+        "term": "Повторить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-076",
+    "deck": "curious-english",
+    "term": "burrow",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "wildlife",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A hole or tunnel dug in the ground by an animal.",
+        "example": "The rabbit hopped quickly into its underground burrow."
+      },
+      "ru": {
+        "definition": "Подземный ход или ямка, вырытая животным для жилья.",
+        "example": "Кролик быстро юркнул в свою подземную нору.",
+        "term": "Нора"
+      }
+    }
+  },
+  {
+    "id": "curious-english-077",
+    "deck": "curious-english",
+    "term": "shelter",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "wildlife",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A safe place that protects from rain, wind, or danger.",
+        "example": "We found shelter from the rain under this pine tree."
+      },
+      "ru": {
+        "definition": "Безопасное место, защищающее от непогоды или опасности.",
+        "example": "Под этой сосной мы нашли укрытие от дождя.",
+        "term": "Укрытие"
+      }
+    }
+  },
+  {
+    "id": "curious-english-078",
+    "deck": "curious-english",
+    "term": "twig",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "wildlife",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A very thin, small branch from a tree or bush.",
+        "example": "The bird carried a dry twig to build its nest."
+      },
+      "ru": {
+        "definition": "Тонкий маленький побег дерева или куста.",
+        "example": "Птица несла сухую веточку для строительства гнезда.",
+        "term": "Веточка"
+      }
+    }
+  },
+  {
+    "id": "curious-english-079",
+    "deck": "curious-english",
+    "term": "bark",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "wildlife",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The outer skin covering a tree trunk.",
+        "example": "A beetle was crawling up the rough oak bark."
+      },
+      "ru": {
+        "definition": "Верхний покров ствола дерева.",
+        "example": "Жук полз вверх по шершавой дубовой коре.",
+        "term": "Кора"
+      }
+    }
+  },
+  {
+    "id": "curious-english-080",
+    "deck": "curious-english",
+    "term": "prey",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "wildlife",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An animal that is hunted and eaten by another animal.",
+        "example": "Owls hunt at night to catch small prey like mice."
+      },
+      "ru": {
+        "definition": "Животное, на которое охотится хищник.",
+        "example": "Совы охотятся ночью, чтобы поймать мелкую добычу вроде мышей.",
+        "term": "Добыча"
+      }
+    }
+  },
+  {
+    "id": "curious-english-081",
+    "deck": "curious-english",
+    "term": "flock",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "wildlife",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A large group of birds flying or feeding together.",
+        "example": "A flock of geese flew across the evening sky."
+      },
+      "ru": {
+        "definition": "Большая группа птиц, которые летят или кормятся вместе.",
+        "example": "Стая гусей пролетела по вечернему небу.",
+        "term": "Стая"
+      }
+    }
+  },
+  {
+    "id": "curious-english-082",
+    "deck": "curious-english",
+    "term": "hatch",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "wildlife",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Come out of an egg when it breaks open.",
+        "example": "Five tiny chicks hatched from the speckled eggs."
+      },
+      "ru": {
+        "definition": "Выйти из яйца, разбив скорлупу.",
+        "example": "Пять крошечных птенцов вылупились из пятнистых яиц.",
+        "term": "Вылупиться"
+      }
+    }
+  },
+  {
+    "id": "curious-english-083",
+    "deck": "curious-english",
+    "term": "crawl",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "wildlife",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Move slowly close to the ground on hands and knees or many legs.",
+        "example": "Look at that green caterpillar crawl across the leaf."
+      },
+      "ru": {
+        "definition": "Медленно двигаться, прижимаясь к земле или на лапках.",
+        "example": "Посмотри, как эта зелёная гусеница ползёт по листу.",
+        "term": "Ползать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-084",
+    "deck": "curious-english",
+    "term": "glide",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "wildlife",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Move smoothly through the air without flapping wings.",
+        "example": "The eagle can glide high above the valley for minutes."
+      },
+      "ru": {
+        "definition": "Плавно лететь в воздухе, почти не взмахивая крыльями.",
+        "example": "Орёл может подолгу парить высоко над долиной.",
+        "term": "Парить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-085",
+    "deck": "curious-english",
+    "term": "chase",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "wildlife",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Run fast after someone or something to catch it.",
+        "example": "Our puppy loves to chase butterflies in the yard."
+      },
+      "ru": {
+        "definition": "Быстро бежать за кем-то, чтобы догнать или поймать.",
+        "example": "Наш щенок любит гоняться за бабочками во дворе.",
+        "term": "Гнаться"
+      }
+    }
+  },
+  {
+    "id": "curious-english-086",
+    "deck": "curious-english",
+    "term": "blend in",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "wildlife",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Look like the things around you so you are hard to spot.",
+        "example": "Green frogs blend in well among the pond weeds."
+      },
+      "ru": {
+        "definition": "Быть похожим по цвету на окружение, чтобы стать незаметным.",
+        "example": "Зелёные лягушки хорошо сливаются с травой у пруда.",
+        "term": "Сливаться с фоном"
+      }
+    }
+  },
+  {
+    "id": "curious-english-087",
+    "deck": "curious-english",
+    "term": "thorn",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "wildlife",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A sharp point growing on the stem of a plant.",
+        "example": "Watch out for the sharp thorns on that rose bush."
+      },
+      "ru": {
+        "definition": "Острая колючка на стебле или ветке растения.",
+        "example": "Осторожно, на этом розовом кусте острые шипы.",
+        "term": "Шип"
+      }
+    }
+  },
+  {
+    "id": "curious-english-088",
+    "deck": "curious-english",
+    "term": "shallow",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "wildlife",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Not deep; the bottom is close to the top.",
+        "example": "The water is shallow here."
+      },
+      "ru": {
+        "definition": "Неглубокий, где дно находится совсем близко.",
+        "example": "Здесь мелко.",
+        "term": "Мелкий"
+      }
+    }
+  },
+  {
+    "id": "curious-english-089",
+    "deck": "curious-english",
+    "term": "damp",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "wildlife",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Slightly wet, not completely dry.",
+        "example": "The forest floor stays damp after morning dew."
+      },
+      "ru": {
+        "definition": "Слегка влажный, не совсем сухой.",
+        "example": "Земля в лесу остаётся сырой после утренней росы.",
+        "term": "Сырой"
+      }
+    }
+  },
+  {
+    "id": "curious-english-090",
+    "deck": "curious-english",
+    "term": "trail",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "wildlife",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A narrow path through woods or fields made by walking.",
+        "example": "Stay on the marked trail so we do not get lost."
+      },
+      "ru": {
+        "definition": "Узкая дорожка в лесу или поле, протоптанная людьми или зверями.",
+        "example": "Держись размеченной тропинки, чтобы мы не заблудились.",
+        "term": "Тропинка"
+      }
+    }
+  },
+  {
+    "id": "curious-english-091",
+    "deck": "curious-english",
+    "term": "stir",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kitchen",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Move a spoon around in a bowl or pot to mix things.",
+        "example": "Stir the cocoa powder into the warm milk."
+      },
+      "ru": {
+        "definition": "Поводить ложкой в чашке или кастрюле, чтобы соединить продукты.",
+        "example": "Размешай порошок какао в тёплом молоке.",
+        "term": "Размешать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-092",
+    "deck": "curious-english",
+    "term": "pour",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "kitchen",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Make a liquid flow from a container into a cup or bowl.",
+        "example": "Pour the orange juice slowly so it does not splash."
+      },
+      "ru": {
+        "definition": "Переместить жидкость из кувшина или бутылки в стакан.",
+        "example": "Наливай апельсиновый сок медленно, чтобы не расплескать.",
+        "term": "Налить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-093",
+    "deck": "curious-english",
+    "term": "peel",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kitchen",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Take the outer skin off a fruit or vegetable.",
+        "example": "Help me peel the bananas for our fruit salad."
+      },
+      "ru": {
+        "definition": "Снять верхнюю шкурку с фрукта или овоща.",
+        "example": "Помоги мне очистить бананы для нашего фруктового салата.",
+        "term": "Очистить от кожуры"
+      }
+    }
+  },
+  {
+    "id": "curious-english-094",
+    "deck": "curious-english",
+    "term": "slice",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kitchen",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Cut food into thin, flat pieces.",
+        "example": "Mom sliced the bread for our lunch sandwiches."
+      },
+      "ru": {
+        "definition": "Разрезать еду на тонкие плоские кусочки.",
+        "example": "Мама нарезала хлеб ломтиками для наших бутербродов.",
+        "term": "Нарезать ломтиками"
+      }
+    }
+  },
+  {
+    "id": "curious-english-095",
+    "deck": "curious-english",
+    "term": "spread",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kitchen",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Put a soft layer of food smoothly over bread.",
+        "example": "Spread some strawberry jam on your warm toast."
+      },
+      "ru": {
+        "definition": "Ровно распределить мягкий продукт по куску хлеба.",
+        "example": "Намажь немного клубничного варенья на тёплый тост.",
+        "term": "Намазать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-096",
+    "deck": "curious-english",
+    "term": "sprinkle",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kitchen",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Drop tiny bits or powder lightly over food.",
+        "example": "Sprinkle grated cheese on top of the hot pasta."
+      },
+      "ru": {
+        "definition": "Рассыпать мелкие крошки или порошок поверх еды.",
+        "example": "Посыпь тёртым сыром горячие макароны.",
+        "term": "Посыпать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-097",
+    "deck": "curious-english",
+    "term": "squeeze",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "kitchen",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Press something hard to get juice or paste out.",
+        "example": "Squeeze half a lemon into the glass of cold water."
+      },
+      "ru": {
+        "definition": "Сильно сжать плод или тюбик, чтобы получить сок или пасту.",
+        "example": "Выжми половинку лимона в стакан с холодной водой.",
+        "term": "Выжать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-098",
+    "deck": "curious-english",
+    "term": "melt",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kitchen",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Turn from solid into liquid when heated.",
+        "example": "Watch the butter melt in the warm frying pan."
+      },
+      "ru": {
+        "definition": "Стать жидким от тепла.",
+        "example": "Посмотри, как масло тает на тёплой сковороде.",
+        "term": "Растаять"
+      }
+    }
+  },
+  {
+    "id": "curious-english-099",
+    "deck": "curious-english",
+    "term": "sticky",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "kitchen",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Tending to cling to fingers or other things when touched.",
+        "example": "My fingers are sticky from eating honey on toast."
+      },
+      "ru": {
+        "definition": "Такой, который легко пристаёт к пальцам или другим предметам.",
+        "example": "Мои пальцы стали липкими после тоста с мёдом.",
+        "term": "Липкий"
+      }
+    }
+  },
+  {
+    "id": "curious-english-100",
+    "deck": "curious-english",
+    "term": "crunchy",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kitchen",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Firm and making a loud crisp sound when chewed.",
+        "example": "Fresh carrots are sweet and crunchy."
+      },
+      "ru": {
+        "definition": "Твёрдый и издающий звонкий хруст, когда его ешь.",
+        "example": "Свежая морковка сладкая и хрустящая.",
+        "term": "Хрустящий"
+      }
+    }
+  },
+  {
+    "id": "curious-english-101",
+    "deck": "curious-english",
+    "term": "ripe",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kitchen",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Fully grown and ready to pick and eat.",
+        "example": "This soft yellow mango is sweet and ripe."
+      },
+      "ru": {
+        "definition": "Созревший и готовый к тому, чтобы его съели.",
+        "example": "Этот мягкий жёлтый манго сладкий и спелый.",
+        "term": "Спелый"
+      }
+    }
+  },
+  {
+    "id": "curious-english-102",
+    "deck": "curious-english",
+    "term": "sour",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "kitchen",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Having a sharp, tart taste like a lemon.",
+        "example": "This green apple is too sour for me."
+      },
+      "ru": {
+        "definition": "Имеющий резкий вкус, как у лимона.",
+        "example": "Это зелёное яблоко слишком кислое для меня.",
+        "term": "Кислый"
+      }
+    }
+  },
+  {
+    "id": "curious-english-103",
+    "deck": "curious-english",
+    "term": "pinch",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kitchen",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The tiny amount of salt or spice you hold between two fingers.",
+        "example": "Add a pinch of salt to the soup pot."
+      },
+      "ru": {
+        "definition": "Совсем немного соли или специй, сколько помещается между пальцами.",
+        "example": "Добавь щепотку соли в кастрюлю с супом.",
+        "term": "Щепотка"
+      }
+    }
+  },
+  {
+    "id": "curious-english-104",
+    "deck": "curious-english",
+    "term": "spill",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "kitchen",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Accidentally let liquid fall out of a cup or bowl.",
+        "example": "Be careful not to spill milk on the tablecloth."
+      },
+      "ru": {
+        "definition": "Случайно выплеснуть жидкость из стакана или тарелки.",
+        "example": "Осторожно, не пролей молоко на скатерть.",
+        "term": "Пролить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-105",
+    "deck": "curious-english",
+    "term": "leftovers",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "kitchen",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Food that remains uneaten after a meal.",
+        "example": "We packed the pasta leftovers into a box for tomorrow."
+      },
+      "ru": {
+        "definition": "Еда, которая осталась после обеда или ужина на потом.",
+        "example": "Мы убрали оставшиеся макароны в контейнер на завтра.",
+        "term": "Остатки еды"
+      }
+    }
+  },
+  {
+    "id": "curious-english-106",
+    "deck": "curious-english",
+    "term": "take turns",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "games",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Do something one person after another in order.",
+        "example": "Let’s take turns rolling the dice."
+      },
+      "ru": {
+        "definition": "Выполнять действие друг за другом по порядку.",
+        "example": "Давай бросать кубик по очереди.",
+        "term": "Делать по очереди"
+      }
+    }
+  },
+  {
+    "id": "curious-english-107",
+    "deck": "curious-english",
+    "term": "join in",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "games",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Become part of a game or activity with others.",
+        "example": "Can I join in your hide-and-seek game?"
+      },
+      "ru": {
+        "definition": "Войти в игру или общее занятие вместе с другими.",
+        "example": "Можно мне присоединиться к вашей игре в прятки?",
+        "term": "Присоединиться"
+      }
+    }
+  },
+  {
+    "id": "curious-english-108",
+    "deck": "curious-english",
+    "term": "teammate",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "games",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Someone who plays on the same side as you.",
+        "example": "Pass the ball to your teammate near the goal."
+      },
+      "ru": {
+        "definition": "Игрок, который выступает на одной стороне с тобой.",
+        "example": "Передай мяч товарищу по команде возле ворот.",
+        "term": "Товарищ по команде"
+      }
+    }
+  },
+  {
+    "id": "curious-english-109",
+    "deck": "curious-english",
+    "term": "opponent",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "games",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The person or team you play against.",
+        "example": "Shake hands with your opponent after the chess match."
+      },
+      "ru": {
+        "definition": "Игрок или команда, против которой ты соревнуешься.",
+        "example": "Пожми руку сопернику после шахматной партии.",
+        "term": "Соперник"
+      }
+    }
+  },
+  {
+    "id": "curious-english-110",
+    "deck": "curious-english",
+    "term": "tie",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "games",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A game ending where both sides have the exact same score.",
+        "example": "The soccer match ended in a 2-to-2 tie."
+      },
+      "ru": {
+        "definition": "Итог игры, когда обе стороны набрали равное число очков.",
+        "example": "Футбольный матч закончился вничью со счётом 2:2.",
+        "term": "Ничья"
+      }
+    }
+  },
+  {
+    "id": "curious-english-111",
+    "deck": "curious-english",
+    "term": "score",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "games",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The number of points each player or team has.",
+        "example": "What is the score at the end of the first half?"
+      },
+      "ru": {
+        "definition": "Количество очков, которое набрал каждый игрок или команда.",
+        "example": "Какой счёт в конце первого тайма?",
+        "term": "Счёт"
+      }
+    }
+  },
+  {
+    "id": "curious-english-112",
+    "deck": "curious-english",
+    "term": "fair",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "games",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Following the rules so everyone has an equal chance.",
+        "example": "It is only fair if everyone gets three tries."
+      },
+      "ru": {
+        "definition": "По правилам, когда у всех игроков равные условия.",
+        "example": "Будет честно, если каждый получит по три попытки.",
+        "term": "Честный"
+      }
+    }
+  },
+  {
+    "id": "curious-english-113",
+    "deck": "curious-english",
+    "term": "swap",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "games",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Trade one thing for another with someone.",
+        "example": "Do you want to swap your red card for my blue one?"
+      },
+      "ru": {
+        "definition": "Отдать свою вещь другому взамен на его вещь.",
+        "example": "Хочешь поменяться карточками? Я тебе синюю, а ты мне красную.",
+        "term": "Поменяться"
+      }
+    }
+  },
+  {
+    "id": "curious-english-114",
+    "deck": "curious-english",
+    "term": "choose",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "games",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Pick the one you want from several options.",
+        "example": "You get to choose which board game we play first."
+      },
+      "ru": {
+        "definition": "Взять то, что хочется, из нескольких вариантов.",
+        "example": "Ты можешь выбрать, в какую настольную игру мы сыграем сначала.",
+        "term": "Выбрать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-115",
+    "deck": "curious-english",
+    "term": "agree",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "games",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Have the same opinion or say yes to a plan.",
+        "example": "We all agreed to start the race at the big oak tree."
+      },
+      "ru": {
+        "definition": "Прийти к общему решению или согласиться с предложением.",
+        "example": "Мы все договорились начать забег от большого дуба.",
+        "term": "Договориться"
+      }
+    }
+  },
+  {
+    "id": "curious-english-116",
+    "deck": "curious-english",
+    "term": "interrupt",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "games",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Speak or act before someone else finishes.",
+        "example": "Please do not interrupt while I am explaining the rules."
+      },
+      "ru": {
+        "definition": "Начать говорить или вмешиваться, пока другой не закончил.",
+        "example": "Пожалуйста, не перебивай, пока я объясняю правила.",
+        "term": "Перебивать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-117",
+    "deck": "curious-english",
+    "term": "cheer",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "games",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Shout happily to encourage players on your side.",
+        "example": "We cheered for our runner as she neared the finish line."
+      },
+      "ru": {
+        "definition": "Радостно кричать, поддерживая игроков своей команды.",
+        "example": "Мы подбадривали нашу бегунью, когда она приближалась к финишу.",
+        "term": "Подбадривать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-118",
+    "deck": "curious-english",
+    "term": "shuffle",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "games",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Mix playing cards so their order is random.",
+        "example": "Shuffle the deck well before dealing five cards each."
+      },
+      "ru": {
+        "definition": "Перемешать игровые карты, чтобы их порядок стал случайным.",
+        "example": "Хорошо перетасуй колоду, прежде чем раздать каждому по пять карт.",
+        "term": "Перетасовать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-119",
+    "deck": "curious-english",
+    "term": "skip",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "games",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Miss a turn or jump over one step in order.",
+        "example": "This card means the next player must skip a turn."
+      },
+      "ru": {
+        "definition": "Не делать свой ход или перепрыгнуть через шаг.",
+        "example": "Эта карта означает, что следующий игрок должен пропустить ход.",
+        "term": "Пропустить"
+      }
+    }
+  },
+  {
+    "id": "curious-english-120",
+    "deck": "curious-english",
+    "term": "count on",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "games",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Trust someone to help or do what they promised.",
+        "example": "You can count on me to guard the base."
+      },
+      "ru": {
+        "definition": "Быть уверенным, что человек поможет и не подведёт.",
+        "example": "Можешь рассчитывать на меня, я буду охранять базу.",
+        "term": "Рассчитывать на кого-то"
+      }
+    }
+  },
+  {
+    "id": "curious-english-121",
+    "deck": "curious-english",
+    "term": "crossing",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A marked place where people walk safely across a street.",
+        "example": "Wait for the green light at the pedestrian crossing."
+      },
+      "ru": {
+        "definition": "Размеченное место на дороге, где можно безопасно перейти улицу.",
+        "example": "Дождись зелёного сигнала на пешеходном переходе.",
+        "term": "Пешеходный переход"
+      }
+    }
+  },
+  {
+    "id": "curious-english-122",
+    "deck": "curious-english",
+    "term": "block",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The space along a street from one corner to the next.",
+        "example": "The bakery is just two blocks down this street."
+      },
+      "ru": {
+        "definition": "Участок улицы от одного перекрёстка до следующего.",
+        "example": "Булочная находится всего в двух кварталах вниз по этой улице.",
+        "term": "Квартал"
+      }
+    }
+  },
+  {
+    "id": "curious-english-123",
+    "deck": "curious-english",
+    "term": "entrance",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "city",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The door or gate where you go inside a building.",
+        "example": "Meet me by the main entrance of the museum."
+      },
+      "ru": {
+        "definition": "Дверь или ворота, через которые заходят внутрь.",
+        "example": "Встретимся у главного входа в музей.",
+        "term": "Вход"
+      }
+    }
+  },
+  {
+    "id": "curious-english-124",
+    "deck": "curious-english",
+    "term": "pavement",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The paved path beside a road where people walk (called a sidewalk in the US).",
+        "example": "Keep your scooter on the pavement, away from cars."
+      },
+      "ru": {
+        "definition": "Дорожка для пешеходов вдоль проезжей части.",
+        "example": "Езжай на самокате по тротуару, подальше от машин.",
+        "term": "Тротуар"
+      }
+    }
+  },
+  {
+    "id": "curious-english-125",
+    "deck": "curious-english",
+    "term": "shortcut",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "city",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A quicker, shorter way to get somewhere.",
+        "example": "Walking through the park is a great shortcut to school."
+      },
+      "ru": {
+        "definition": "Более быстрая дорога, позволяющая срезать расстояние.",
+        "example": "Дорога через парк — отличный короткий путь в школу.",
+        "term": "Короткий путь"
+      }
+    }
+  },
+  {
+    "id": "curious-english-126",
+    "deck": "curious-english",
+    "term": "detour",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A longer path taken when the usual road is closed.",
+        "example": "The bus took a detour because workers were fixing the road."
+      },
+      "ru": {
+        "definition": "Другой, более длинный маршрут, когда обычная дорога закрыта.",
+        "example": "Автобус поехал в объезд, потому что рабочие чинили дорогу.",
+        "term": "Объезд"
+      }
+    }
+  },
+  {
+    "id": "curious-english-127",
+    "deck": "curious-english",
+    "term": "route",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The path or roads you follow to go from one place to another.",
+        "example": "Bus number 12 takes the fastest route to the zoo."
+      },
+      "ru": {
+        "definition": "Заранее выбранный путь от одного места до другого.",
+        "example": "Автобус номер 12 идёт самым быстрым маршрутом до зоопарка.",
+        "term": "Маршрут"
+      }
+    }
+  },
+  {
+    "id": "curious-english-128",
+    "deck": "curious-english",
+    "term": "direction",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The way you need to go, such as left, right, or straight.",
+        "example": "Which direction do we turn after the post office?"
+      },
+      "ru": {
+        "definition": "Сторона, куда нужно двигаться: налево, направо или прямо.",
+        "example": "В каком направлении нам поворачивать после почты?",
+        "term": "Направление"
+      }
+    }
+  },
+  {
+    "id": "curious-english-129",
+    "deck": "curious-english",
+    "term": "landmark",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "An easy-to-see object or place that helps you know where you are.",
+        "example": "The tall clock tower is a good landmark in the city center."
+      },
+      "ru": {
+        "definition": "Заметный предмет или место, по которому легко понять, где ты находишься.",
+        "example": "Высокая башня с часами — хороший ориентир в центре города.",
+        "term": "Ориентир"
+      }
+    }
+  },
+  {
+    "id": "curious-english-130",
+    "deck": "curious-english",
+    "term": "platform",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The raised floor next to the tracks where you wait for a train.",
+        "example": "Our train leaves from platform three in five minutes."
+      },
+      "ru": {
+        "definition": "Возвышение вдоль рельсов, где пассажиры ждут поезд.",
+        "example": "Наш поезд отправляется с третьей платформы через пять минут.",
+        "term": "Платформа"
+      }
+    }
+  },
+  {
+    "id": "curious-english-131",
+    "deck": "curious-english",
+    "term": "fare",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The money you pay to ride a bus, train, or taxi.",
+        "example": "Children under seven do not pay a bus fare here."
+      },
+      "ru": {
+        "definition": "Деньги, которые платят за поездку на автобусе или поезде.",
+        "example": "Дети до семи лет здесь не платят за проезд в автобусе.",
+        "term": "Плата за проезд"
+      }
+    }
+  },
+  {
+    "id": "curious-english-132",
+    "deck": "curious-english",
+    "term": "queue",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "city",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "A line of people waiting their turn for something.",
+        "example": "We stood in a long queue to buy ice cream."
+      },
+      "ru": {
+        "definition": "Ряд людей, которые спокойно ждут друг за другом.",
+        "example": "Мы стояли в длинной очереди, чтобы купить мороженое.",
+        "term": "Очередь"
+      }
+    }
+  },
+  {
+    "id": "curious-english-133",
+    "deck": "curious-english",
+    "term": "miss",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "city",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Arrive too late to catch a bus, train, or event.",
+        "example": "Hurry up or we will miss the morning train!"
+      },
+      "ru": {
+        "definition": "Прийти слишком поздно, когда автобус или поезд уже ушёл.",
+        "example": "Поторопись, иначе мы опоздаем на утренний поезд!",
+        "term": "Опоздать на транспорт"
+      }
+    }
+  },
+  {
+    "id": "curious-english-134",
+    "deck": "curious-english",
+    "term": "board",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "city",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Get onto a bus, train, plane, or boat.",
+        "example": "Passengers can board the ferry now."
+      },
+      "ru": {
+        "definition": "Зайти внутрь автобуса, поезда, самолёта или корабля.",
+        "example": "Пассажиры уже могут садиться на паром.",
+        "term": "Сесть в транспорт"
+      }
+    }
+  },
+  {
+    "id": "curious-english-135",
+    "deck": "curious-english",
+    "term": "get off",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "city",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Leave a bus, train, or bike when you reach your stop.",
+        "example": "We get off the bus right outside the library."
+      },
+      "ru": {
+        "definition": "Покинуть автобус или поезд на нужной остановке.",
+        "example": "Мы выходим из автобуса прямо возле библиотеки.",
+        "term": "Выйти из транспорта"
+      }
+    }
+  },
+  {
+    "id": "curious-english-136",
+    "deck": "curious-english",
+    "term": "Because",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "stories",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use it to give a reason.",
+        "example": "I picked this box because it has a lid."
+      },
+      "ru": {
+        "definition": "С этих слов можно начать ответ на вопрос «почему?».",
+        "example": "Я выбрал эту коробку, потому что у неё есть крышка.",
+        "term": "Потому что"
+      }
+    }
+  },
+  {
+    "id": "curious-english-137",
+    "deck": "curious-english",
+    "term": "although",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "stories",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Even though something is true, another thing still happens.",
+        "example": "Although it was cold, we had fun sledding on the hill."
+      },
+      "ru": {
+        "definition": "Связывает две мысли, когда вторая происходит вопреки первой.",
+        "example": "Хотя было холодно, мы весело катались на санках с горки.",
+        "term": "Хотя"
+      }
+    }
+  },
+  {
+    "id": "curious-english-138",
+    "deck": "curious-english",
+    "term": "instead",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "stories",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "In place of another choice.",
+        "example": "The pool was closed, so we went to the park instead."
+      },
+      "ru": {
+        "definition": "Выбрать одно действие взамен другого.",
+        "example": "Бассейн был закрыт, поэтому вместо этого мы пошли в парк.",
+        "term": "Вместо этого"
+      }
+    }
+  },
+  {
+    "id": "curious-english-139",
+    "deck": "curious-english",
+    "term": "otherwise",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "stories",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Shows the bad result if you do not do something.",
+        "example": "Water the plant today. Otherwise, it will dry out."
+      },
+      "ru": {
+        "definition": "Показывает, что случится, если не сделать нужное дело.",
+        "example": "Полей цветок сегодня, иначе он засохнет.",
+        "term": "Иначе"
+      }
+    }
+  },
+  {
+    "id": "curious-english-140",
+    "deck": "curious-english",
+    "term": "unless",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "stories",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "It means if something does not happen.",
+        "example": "We cannot bake cookies unless we buy more flour."
+      },
+      "ru": {
+        "definition": "Означает «если только что-то не произойдёт».",
+        "example": "Мы не сможем испечь печенье, если не купим ещё муки.",
+        "term": "Если не"
+      }
+    }
+  },
+  {
+    "id": "curious-english-141",
+    "deck": "curious-english",
+    "term": "meanwhile",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "stories",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "At the very same time.",
+        "example": "I set the table; meanwhile, Dad warmed up the soup."
+      },
+      "ru": {
+        "definition": "В то же самое время, пока происходит другое дело.",
+        "example": "Я накрывал на стол; тем временем папа разогревал суп.",
+        "term": "Тем временем"
+      }
+    }
+  },
+  {
+    "id": "curious-english-142",
+    "deck": "curious-english",
+    "term": "finally",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "stories",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "At the end, after a long wait or many tries.",
+        "example": "After three tries, I finally learned to ride without training wheels."
+      },
+      "ru": {
+        "definition": "В самом конце, после долгого ожидания или многих попыток.",
+        "example": "После трёх попыток я наконец научился кататься без боковых колёсиков.",
+        "term": "Наконец"
+      }
+    }
+  },
+  {
+    "id": "curious-english-143",
+    "deck": "curious-english",
+    "term": "suddenly",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "stories",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Happening very quickly when nobody expects it.",
+        "example": "We were walking quietly when a squirrel suddenly jumped out."
+      },
+      "ru": {
+        "definition": "Неожиданно и очень быстро, когда никто не ждал.",
+        "example": "Мы тихо шли, как вдруг из кустов выпрыгнула белка.",
+        "term": "Вдруг"
+      }
+    }
+  },
+  {
+    "id": "curious-english-144",
+    "deck": "curious-english",
+    "term": "at first",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "stories",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "In the beginning, before things changed.",
+        "example": "At first the puzzle looked hard, but soon I found the corners."
+      },
+      "ru": {
+        "definition": "В самом начале, до того как всё изменилось.",
+        "example": "Сначала пазл казался сложным, но вскоре я нашёл угловые детали.",
+        "term": "Сначала"
+      }
+    }
+  },
+  {
+    "id": "curious-english-145",
+    "deck": "curious-english",
+    "term": "even if",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "stories",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Shows that something stays true no matter what happens.",
+        "example": "We will play board games tomorrow even if it rains."
+      },
+      "ru": {
+        "definition": "Показывает, что план не изменится при любом условии.",
+        "example": "Мы будем играть в настольные игры завтра, даже если пойдёт дождь.",
+        "term": "Даже если"
+      }
+    }
+  },
+  {
+    "id": "curious-english-146",
+    "deck": "curious-english",
+    "term": "as soon as",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "stories",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Right after something happens, with no delay.",
+        "example": "Call me as soon as you get home from practice."
+      },
+      "ru": {
+        "definition": "Сразу же после какого-то события, без задержки.",
+        "example": "Позвони мне, как только вернёшься домой с тренировки.",
+        "term": "Как только"
+      }
+    }
+  },
+  {
+    "id": "curious-english-147",
+    "deck": "curious-english",
+    "term": "realize",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "stories",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Understand something you did not see before.",
+        "example": "I looked in my bag and realized I forgot my lunchbox."
+      },
+      "ru": {
+        "definition": "Сообразить то, чего раньше не замечал.",
+        "example": "Я заглянул в рюкзак и понял, что забыл свой ланчбокс.",
+        "term": "Понять"
+      }
+    }
+  },
+  {
+    "id": "curious-english-148",
+    "deck": "curious-english",
+    "term": "pretend",
+    "origin": null,
+    "difficulty": 1,
+    "tags": [
+      "stories",
+      "active"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Act as if something is real when you are just playing.",
+        "example": "Let’s pretend this cardboard box is a spaceship."
+      },
+      "ru": {
+        "definition": "Представлять в игре, будто что-то происходит на самом деле.",
+        "example": "Давай притворимся, что эта картонная коробка — космический корабль.",
+        "term": "Притворяться"
+      }
+    }
+  },
+  {
+    "id": "curious-english-149",
+    "deck": "curious-english",
+    "term": "describe",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "stories",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "Use words to tell what someone or something is like.",
+        "example": "Can you describe the lost puppy so we can help look?"
+      },
+      "ru": {
+        "definition": "Рассказать словами, как выглядит предмет или человек.",
+        "example": "Можешь описать потерявшегося щенка, чтобы мы помогли его искать?",
+        "term": "Описать"
+      }
+    }
+  },
+  {
+    "id": "curious-english-150",
+    "deck": "curious-english",
+    "term": "ending",
+    "origin": null,
+    "difficulty": 2,
+    "tags": [
+      "stories",
+      "recognition"
+    ],
+    "locales": {
+      "en": {
+        "definition": "The final part of a story, movie, or game.",
+        "example": "My favorite book has a very happy ending."
+      },
+      "ru": {
+        "definition": "Самая последняя часть сказки, фильма или игры.",
+        "example": "У моей любимой книги очень счастливая концовка.",
+        "term": "Концовка"
+      }
+    }
+  }
+]
